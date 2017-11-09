@@ -1,6 +1,8 @@
+const container = document.getElementById('map_container');
+
 const trademap = new Datamap(
     {
-        element: document.getElementById('map_container'),
+        element: container,
         projection: 'mercator',
     }
 );
@@ -20,10 +22,16 @@ function createMap(data) {
     data.forEach(function(trade) {
         partnerISO = getCoordinates(trade.PartnerISO);
 
+        const valueMagic = Math.log(trade.Value) / 20;
+
         if(typeof partnerISO !== 'undefined') {
             arcs.push({
                 origin: getCoordinates(BEL_ISO),
                 destination: partnerISO,
+                options: {
+                    strokeWidth: valueMagic,
+                    strokeColor: 'rgba(50, 0, 200, 0.3)'
+                }
             });
         } else {
             console.log("Undefined " + trade.PartnerISO);
