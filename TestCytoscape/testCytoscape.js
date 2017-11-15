@@ -55,25 +55,5 @@ var cy = cytoscape({
       }
     });
 
-let iso_geo_coord;
-d3.csv('datasets/countries_codes_and_coordinates.csv', loadIsoCoord);
 
-const BEL_ISO = 'BEL';
-
-function loadIsoCoord(CSV) {
-    iso_geo_coord = CSV;
-}
-
-function getCoordinates(ISO) {
-    const country = iso_geo_coord.filter(x => x.ISO3 == ISO)[0];
-
-    if(typeof country !== "undefined") {
-
-        const obj = {
-            latitude: parseFloat(country.Latitude),
-            longitude: parseFloat(country.Longitude),
-        };
-
-        return obj;
-    }
-}
+cy.nodes().ungrabify()
