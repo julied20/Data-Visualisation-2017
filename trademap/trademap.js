@@ -29,18 +29,55 @@ const color = d3.scaleLog()
 	.range(["hsl(62,100%,90%)", "hsl(228,30%,20%)"])
 	.interpolate(d3.interpolateHcl);
 
-d3.json("world.geo.json", function(json) {
-    const features = json.features;
+// Artificially fix a Year
+let year = 2015;
 
-    svg.selectAll("path")
-        .data(features)
-        .enter()
-        .append("path")
-        .attr('d', path)
-        .style("fill", (d) => {
-            const mapcolor = d.properties.mapcolor7;
-            return color(mapcolor);
-        });
+// Color each country
+d3.csv("datasets/belgium_beers_all_clean.csv", function(data) {
+    d3.json("world.geo.json", function(json) {
+        const features = json.features;
+
+        data = data.filter(x => x.Year == "2015")
+
+        // Find threshold for values, so that cumulative values cover a given
+        // percentage of the data
+        const value_coverage = 0.8
+        const total_value = data.filter(x => x.PartnerISO == "WLD")[0].Value
+
+        // Remove World
+        data = data.filter(x => x.PartnerISO != "WLD")
+
+        // Descending sorted values
+        let values = data.map(x => parseInt(x.Value)).sort((a, b) => b - a);
+        let value_threshold;
+
+        // Find threshold
+        cum_value = 0
+        for (let i = 0; i < values.length; i++) {
+            cum_value += values[i];
+
+            if (cum_value >= total_value * value_coverage) {
+                value_threshold = values[i];
+                break;
+            }
+        }
+
+        svg.selectAll("path")
+            .data(features)
+            .enter()
+            .append("path")
+            .attr('d', path)
+            .style("fill", feat => {
+                let corresponding_data = data.filter(x => x.PartnerISO == feat.properties.iso_a3);
+
+                // Corresponding data is found and value is bigger than threshold
+                if (corresponding_data.length == 1 && corresponding_data[0].Value >= value_threshold) {
+                    return d3.color("steelblue");
+                } else {
+                    return d3.color("lightgrey");
+                }
+            });
+    });
 });
 
 function mouseover(d){
@@ -48,6 +85,7 @@ function mouseover(d){
   d3.select(this).style('fill', 'orange');
 }
 
+// Get coordinate of country given ISO3 code
 function getCoordinates(ISO) {
     const country = iso_geo_coord.filter(x => x.ISO3 == ISO)[0];
 
