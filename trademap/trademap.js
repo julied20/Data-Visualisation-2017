@@ -1,51 +1,51 @@
-const container = document.getElementById('map_container');
+const width = 900
+const height = 600
 
-const trademap = new Datamap(
-    {
-        element: container,
-        projection: 'mercator',
-    }
-);
+const svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
 
-let iso_geo_coord;
 d3.csv('datasets/countries_codes_and_coordinates.csv', loadIsoCoord);
 
-d3.csv('datasets/belgium_beers_all_clean.csv', createMap);
-
-
-const BEL_ISO = 'BEL';
-
-function createMap(data) {
-    data = data.filter(x => x.Year == "2015")
-    const arcs = [];
-
-    data.forEach(function(trade) {
-        partnerISO = getCoordinates(trade.PartnerISO);
-
-        const valueMagic = Math.log(trade.Value) / 20;
-
-        if(typeof partnerISO !== 'undefined') {
-            arcs.push({
-                origin: getCoordinates(BEL_ISO),
-                destination: partnerISO,
-                options: {
-                    strokeWidth: valueMagic,
-                    strokeColor: 'rgba(50, 0, 200, 0.3)'
-                }
-            });
-        } else {
-            console.log("Undefined " + trade.PartnerISO);
-        }
-    });
-
-    trademap.arc(
-    arcs,
-    {strokeWidth: 1, arcSharpness: 1.4});
-}
-
+let iso_geo_coord;
 
 function loadIsoCoord(CSV) {
     iso_geo_coord = CSV;
+}
+
+// D3 Projection
+const projection = d3.geoNaturalEarth1()
+    .rotate([0, 0])
+    .translate([width / 2, height / 2]);
+
+
+// Path generator to convert JSON to SVG paths
+const path = d3.geoPath()
+    .projection(projection);
+
+
+// Colormap
+const color = d3.scaleLog()
+	.range(["hsl(62,100%,90%)", "hsl(228,30%,20%)"])
+	.interpolate(d3.interpolateHcl);
+
+d3.json("world.geo.json", function(json) {
+    const features = json.features;
+
+    svg.selectAll("path")
+        .data(features)
+        .enter()
+        .append("path")
+        .attr('d', path)
+        .style("fill", (d) => {
+            const mapcolor = d.properties.mapcolor7;
+            return color(mapcolor);
+        });
+});
+
+function mouseover(d){
+  // Highlight hovered country
+  d3.select(this).style('fill', 'orange');
 }
 
 function getCoordinates(ISO) {
