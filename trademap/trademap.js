@@ -1,21 +1,22 @@
-const width = 900
-const height = 600
+let map_container = d3.select("#map_container");
 
-const svg = d3.select("body").append("svg")
+const width = 900;
+const height = 600;
+
+const svg = map_container.append("svg")
     .attr("width", width)
     .attr("height", height);
 
 const map_group = svg.append("g");
 
 const tooltip = svg.append("g")
-    .attr("class", "tooltip")
     .style("display", "none");
 
 tooltip.append("rect")
     .attr("width", 100)
     .attr("height", 50)
     .attr("fill", "white")
-    .style("opacity", 0.5);
+    .style("opacity", 0.7);
 
 tooltip.append("text")
     .attr("x", 30)
