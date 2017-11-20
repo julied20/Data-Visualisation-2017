@@ -1,6 +1,6 @@
 let map_container = d3.select("#map_container");
 
-const width = 900;
+const width = map_container.node().getBoundingClientRect().width;
 const height = 600;
 
 const svg = map_container.append("svg")
