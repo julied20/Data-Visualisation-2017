@@ -1,7 +1,9 @@
-const width = 900
-const height = 600
+let map_container = d3.select("#map_container");
 
-const svg = d3.select("body").append("svg")
+const width = 900;
+const height = 600;
+
+const svg = map_container.append("svg")
     .attr("width", width)
     .attr("height", height);
 
