@@ -8,14 +8,13 @@ const svg = d3.select("body").append("svg")
 const map_group = svg.append("g");
 
 const tooltip = svg.append("g")
-    .attr("class", "tooltip")
     .style("display", "none");
 
 tooltip.append("rect")
     .attr("width", 100)
     .attr("height", 50)
     .attr("fill", "white")
-    .style("opacity", 0.5);
+    .style("opacity", 0.7);
 
 tooltip.append("text")
     .attr("x", 30)
