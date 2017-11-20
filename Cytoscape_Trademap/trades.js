@@ -1,43 +1,69 @@
+let nodes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+function defineWeight(nodes, edge_index){
+  return nodes[edge_index];
+}
+
 var cy = cytoscape({
     container: document.getElementById('cy'),
     style: [ // the stylesheet for the graph
       {
         selector: 'node',
         style: {
-          'background-color': '#666',
-          'label': 'data(id)'
+          //'background-color': ,
+          //'visibility': 'hidden',
+          'width': 0.1,
+          'height':0.1
         }
       },
+
       {
         selector: 'edge',
         style: {
-          'width': 3,
-          'line-color': '#ccc',
-          'curve-style': 'unbundled-bezier'
+          'line-color': '#FF0000',
+          'width':  function( ele ){ return ele.data('weight') },
+          'curve-style': 'unbundled-bezier',
+          'edge-distances': 'node-position'
+
+        }
+      },
+      {
+        selector: 'edge:selected',
+        style: {
+          'line-color': '#0000ff',
+          'opacity': 1,
+          // We can display here info on the trade
+          'target-label': 'data(id)'
         }
       }
     ]
 
 });
 
+
 cy.add({
     data: { id: 'origin', position: {x:0, y:0}}
-  });
+});
 
-for (var i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
     cy.add({
-        data: { id: 'node' + i }
+        data: {
+          id: 'node' + i
         }
-    );
-    var source = 'node' + i;
+    });
+
+    let target = 'node' + i;
     cy.add({
         data: {
             id: 'edge' + i,
-            source: source,
-            target: 'origin'
+            source: 'origin',
+            target: target,
+            weight: i
         }
     });
 }
+
+
 
 cy.layout({
     name: 'circle'
