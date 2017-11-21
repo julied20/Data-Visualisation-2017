@@ -28,7 +28,7 @@ function findByISO(country, ISO){
 }
 
 var cy = cytoscape({
-      container: document.getElementById('cy'),
+      container: document.getElementById('map_container'),
       style: [ // the stylesheet for the graph,
         {
           selector: 'node',
@@ -70,7 +70,7 @@ var cy = cytoscape({
 
         // Manually tweaked value to align the points on the countries
         zoom: 1,
-        pan: { x: 7, y: 7 },
+        pan: { x: 0, y: 0 },
 
         // interaction options:
         zoomingEnabled: true,
