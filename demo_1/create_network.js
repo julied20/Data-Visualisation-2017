@@ -75,7 +75,7 @@ var cy = cytoscape({
         // interaction options:
         zoomingEnabled: true,
         userZoomingEnabled: false,
-        panningEnabled: false,
+        panningEnabled: true,
         userPanningEnabled: false,
 
   });
@@ -111,4 +111,28 @@ function create_graph() {
       }
     });
   }
+}
+
+
+// Zoom
+let zoom_level = 1;
+
+let zoom = d3.zoom()
+    //.scaleExtent([1, 8])
+    .on("zoom", zoomed);
+
+svg.call(zoom);
+
+function zoomed() {
+  zoom_level = d3.event.transform.k;
+  console.log(d3.event.transform);
+  map_group.attr("transform", d3.event.transform);
+
+  cy.viewport({
+      zoom: zoom_level,
+      pan: {
+          x: d3.event.transform.x,
+          y: d3.event.transform.y,
+      }
+  });
 }

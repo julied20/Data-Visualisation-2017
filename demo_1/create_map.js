@@ -12,7 +12,7 @@ const svg = map_container.append("svg")
 const map_group = svg.append("g");
 
 // D3 Projection
-const projection = d3.geoNaturalEarth1()
+const projection = d3.geoMercator()
     .rotate([0, 0])
     .translate([width / 2, height / 2]);
 
@@ -21,13 +21,15 @@ const projection = d3.geoNaturalEarth1()
 const path = d3.geoPath()
     .projection(projection);
 
+
+// Tooltip
 const tooltip = svg.append("g")
     .style("display", "none");
 
 tooltip.append("rect")
     .attr("width", 100)
     .attr("height", 50)
-    .attr("fill", "black")
+    .attr("fill", "white")
     .style("opacity", 0.7);
 
 tooltip.append("text")

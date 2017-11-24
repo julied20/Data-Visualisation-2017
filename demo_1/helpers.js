@@ -1,4 +1,3 @@
-
 const ISO = 'BEL'
 
 let iso_geo_coord;
