@@ -1,0 +1,405 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1035991300,,1172834473,,931309219,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,28344,,32087,,25480,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,836492,,946984,,751969,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,39306,,44497,,35334,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,945907,,1070851,,850328,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,126799,,143548,,113987,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,160052,,181193,,143879,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3855230,,4364464,,3465677,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5113175,,5788570,,4596513,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,90881,,102885,,81698,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,143942,,162956,,129398,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,24319,,27531,,21862,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,57944,,65597,,52089,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,689511,,780588,,619839,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,24650,,27906,,22159,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,14245,,16127,,12806,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,114710,,129862,,103119,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3758,,4255,,3378,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,122620,,138816,,110230,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,67816,,76774,,60964,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,25913648,,29336559,,23295195,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,32428,,36711,,29151,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,83535,,94570,,75095,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,121811,,137901,,109503,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,54692,,61916,,49166,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,6871,,7779,,6177,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,196249,,222171,,176419,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2408112,,2726197,,2164783,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,166,Cocos Isds,CCK,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4937,,5589,,4438,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,54198,,61357,,48721,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,52068,,58945,,46806,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,578810,,655265,,520324,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,114274,,129368,,102727,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,179007,,202652,,160919,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,917741,,1038964,,825007,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4724485,,5348538,,4247098,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,775921,,878412,,697518,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,89850,,101718,,80771,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2846111,,3222051,,2558524,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,88480,,100168,,79540,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2873,,3252,,2583,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,816,,923,,733,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,95152,,107721,,85537,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1553688,,1758913,,1396695,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,358300077,,405627616,,322095528,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,47051,,53266,,42297,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,91810,,103937,,82533,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,32480,,36770,,29198,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,13852,,15682,,12452,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,42827,,48484,,38500,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,82734223,,93662513,,74374316,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,26030,,29468,,23400,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,124768,,141249,,112161,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1718363,,1945341,,1544731,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,84714,,95904,,76154,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,10803,,12230,,9712,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,336,Holy See (Vatican City State),VAT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,13315,,15074,,11970,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,36883,,41755,,33156,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1440711,,1631013,,1295134,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1400110,,1585049,,1258635,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,782565,,885933,,703490,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,364,Iran,IRN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4801,,5435,,4316,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3341333,,3782687,,3003707,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5365001,,6073659,,4822893,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,35345237,,40013958,,31773766,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,579038,,655523,,520529,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,54325,,61501,,48836,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,6550548,,7415805,,5888646,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1942279,,2198833,,1746021,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,27180,,30770,,24434,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,803380,,909498,,722202,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2479629,,2807161,,2229074,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,44366,,50226,,39883,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1307360,,1480048,,1175257,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,355,,401,,319,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,246220,,278743,,221341,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,16191128,,18329800,,14555091,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5508,,6236,,4952,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1899,,2150,,1707,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1049558,,1188193,,943505,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,641714,,726477,,576872,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,8669,,9814,,7793,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,32100,,36340,,28857,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,302391,,342334,,271836,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,732595,,829362,,658569,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,288,,326,,259,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,80072,,90649,,71981,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,135711,,153637,,121998,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,11071,,12533,,9952,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,210290,,238067,,189041,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,225755957,,255575861,,202944372,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,110301,,124870,,99155,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5074,,5745,,4562,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,17145,,19409,,15412,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,676210,,765530,,607882,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1871949,,2119213,,1682797,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,424103,,480123,,381250,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,137042,,155144,,123194,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,12338,,13968,,11091,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,15855,,17949,,14252,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,730895,,827438,,657041,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1095332,,1240013,,984654,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,244558,,276861,,219846,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3040699,,3442342,,2733450,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,6143136,,6954577,,5522400,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,8242,,9331,,7409,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,659,Saint Kitts and Nevis,KNA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,18472,,20912,,16606,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,74,,84,,66,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,132188,,149649,,118831,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,14302,,16191,,12857,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,18572,,21026,,16696,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,419317,,474705,,376947,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,6537619,,7401168,,5877023,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1783,,2018,,1603,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,633261,,716908,,569273,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,149032,,168718,,133973,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,772029,,874006,,694019,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,17246129,,19524155,,15503488,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,597,,675,,536,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3718604,,4209791,,3342856,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,6556416,,7422447,,5893920,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,760,Syria,SYR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,187212,,211941,,168295,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,448350,,507572,,403046,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,521130,,589965,,468472,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,776,Tonga,TON,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,25678,,29070,,23084,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,25631,,29017,,23041,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3625845,,4104780,,3259470,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,7810,,8842,,7021,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2530,,2864,,2275,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2076676,,2350983,,1866838,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,807,TFYR of Macedonia,MKD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,8410,,9521,,7561,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2425,,2745,,2180,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,51141368,,57896586,,45973772,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,42070,,47627,,37819,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,651224,,737243,,585421,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,120733934,,136681572,,108534334,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3416,,3867,,3071,,,6
+H3,2008,2008,2008,4,0,2,Export,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2230274,,2524868,,2004915,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,965510981,,1037462102,,971777457,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,20202,,21708,,20333,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,65454,,70331,,65878,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,38995,,41901,,39248,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,694184,,745915,,698689,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,79899,,85853,,80417,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,62578,,67241,,62984,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5035065,,5410284,,5067744,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4499580,,4834894,,4528784,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,15597,,16759,,15698,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,115073,,123648,,115820,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,52869,,56809,,53212,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,48,,51,,48,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,12279,,13194,,12359,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,314392,,337821,,316433,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,22643,,24330,,22790,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,240330,,258239,,241889,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,14113,,15165,,14205,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,15449,,16600,,15549,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,38160,,41004,,38408,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,30193630,,32443698,,30389597,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,185903,,199756,,187109,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,33635,,36142,,33854,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,49378,,53057,,49698,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,115123,,123702,,115871,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2289502,,2460118,,2304361,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,36411,,39125,,36648,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2563,,2754,,2579,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,12841,,13798,,12924,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,58810,,63192,,59191,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,140089,,150529,,140998,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,761259,,817989,,766200,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3315173,,3562224,,3336690,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1070765,,1150560,,1077715,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,95934,,103083,,96556,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2926706,,3144808,,2945701,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,75161,,80762,,75649,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,303856,,326500,,305828,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,145,,156,,146,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,51266,,55086,,51599,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2216206,,2381361,,2230590,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,357851335,,384518877,,360173905,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,43062,,46271,,43342,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,56637,,60857,,57004,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,29296,,31479,,29486,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,35814,,38483,,36047,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,71103996,,76402757,,71565484,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,20573,,22106,,20707,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,296126,,318194,,298048,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1507028,,1619334,,1516809,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,316,Guam,GUM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,26427,,28396,,26599,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4348,,4672,,4376,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,133779,,143748,,134647,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,6693,,7191,,6736,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,336,Holy See (Vatican City State),VAT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,22247,,23905,,22391,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,28914,,31069,,29102,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1477339,,1587432,,1486927,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1535279,,1649690,,1545244,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,378847,,407079,,381306,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,14365,,15436,,14458,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3985220,,4282204,,4011085,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3167445,,3403487,,3188002,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,35726043,,38388394,,35957917,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,167694,,180190,,168782,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,6260706,,6727262,,6301340,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1106861,,1189345,,1114045,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,110265,,118482,,110980,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,83543,,89769,,84085,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3444,,3701,,3466,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,962768,,1034514,,969016,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,44510,,47827,,44799,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,131887,,141715,,132743,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,212482,,228317,,213861,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,84253,,90531,,84799,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,174094,,187068,,175224,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,13245154,,14232200,,13331119,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1382422,,1485442,,1391395,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,612107,,657722,,616080,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,16838,,18092,,16947,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,29807,,32028,,30000,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,344796,,370491,,347034,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,648472,,696797,,652681,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,299,,322,,301,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,179836585,,193238239,,181003783,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,80900,,86929,,81425,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,8104,,8708,,8156,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,36163,,38858,,36398,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,707588,,760318,,712180,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,11452,,12305,,11526,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,14,,15,,14,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,379596,,407884,,382060,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,59314,,63734,,59699,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,15492,,16647,,15593,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2783052,,2990449,,2801115,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,532671,,572367,,536128,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,193809,,208252,,195067,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,180369,,193810,,181540,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1641244,,1763552,,1651896,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4595694,,4938172,,4625522,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2916,,3133,,2935,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,26776,,28771,,26950,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,35947,,38626,,36180,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,65262,,70125,,65685,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,167110,,179563,,168195,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1472,,1582,,1482,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,176,,189,,177,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,203884,,219078,,205207,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,6110659,,6566033,,6150319,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,137308,,147541,,138199,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,462081,,496515,,465080,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,180837,,194313,,182011,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,619414,,665574,,623434,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,16734697,,17981788,,16843311,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1300,,1397,,1309,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4497332,,4832479,,4526522,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5526934,,5938808,,5562806,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,543047,,583516,,546572,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,20226,,21734,,20358,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,35817,,38486,,36050,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1875987,,2015788,,1888162,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3731,,4009,,3755,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,64950,,69791,,65372,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4268,,4587,,4296,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1779850,,1912486,,1791402,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,807,TFYR of Macedonia,MKD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5797,,6229,,5835,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2621,,2817,,2638,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,43534285,,46778516,,43816837,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,11358,,12205,,11432,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,557073,,598587,,560689,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,132680001,,142567485,,133541137,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,74241,,79774,,74723,,,6
+H3,2009,2009,2009,4,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,137096,,147313,,137986,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,963667520,,1053345468,,970281911,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,9481,,10364,,9546,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,127028,,138849,,127900,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,26322,,28772,,26503,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,978228,,1069261,,984942,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,80783,,88301,,81338,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,45417,,49644,,45729,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4179815,,4568785,,4208505,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5900244,,6449314,,5940741,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,10019,,10951,,10088,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,63230,,69114,,63664,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,10019,,10951,,10088,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,42474,,46427,,42766,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1454722,,1590097,,1464707,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,12579,,13749,,12665,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,299787,,327685,,301845,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,26257,,28700,,26437,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,38045,,41585,,38306,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,29523509,,32270938,,29726152,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,143716,,157090,,144702,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,46823,,51180,,47144,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,157677,,172351,,158760,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,134813,,147358,,135738,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,253378,,276957,,255117,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3123879,,3414584,,3145321,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,73633,,80486,,74139,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,49501,,54107,,49840,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,334002,,365084,,336295,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,128108,,140029,,128987,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,523131,,571813,,526722,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5940614,,6493442,,5981389,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1469080,,1605791,,1479163,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,77651,,84877,,78184,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2980946,,3258350,,3001407,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,81271,,88834,,81829,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,251443,,274842,,253168,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1174,,1283,,1182,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,70299,,76840,,70781,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3765884,,4116334,,3791733,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,358557488,,391924494,,361018544,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,48418,,52924,,48750,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,29741,,32509,,29945,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,42185,,46111,,42475,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4510,,4929,,4541,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,28909,,31599,,29107,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,78994680,,86345847,,79536881,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,17123,,18716,,17241,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,479019,,523595,,482306,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1325934,,1449324,,1335035,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,316,Guam,GUM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,29635,,32392,,29838,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4007,,4379,,4034,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,23692,,25897,,23855,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,8429,,9214,,8487,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,15574,,17023,,15681,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1850840,,2023078,,1863544,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1632772,,1784716,,1643979,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,160345,,175266,,161445,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4337593,,4741246,,4367366,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4234858,,4628950,,4263925,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,40029227,,43754308,,40303979,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,76741,,83883,,77268,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,7656660,,8369181,,7709214,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,797353,,871554,,802826,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,113790,,124379,,114571,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,69439,,75901,,69916,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,842937,,921380,,848723,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,8819,,9640,,8879,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,56702,,61979,,57092,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,220976,,241540,,222493,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,48284,,52777,,48615,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,231975,,253563,,233568,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,14345181,,15680129,,14443643,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3091935,,3379668,,3113157,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,586,,640,,590,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,608127,,664718,,612301,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,28237,,30865,,28431,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,76801,,83948,,77328,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,674563,,737337,,679193,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,651854,,712514,,656328,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,21534,,23538,,21682,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,20227,,22109,,20366,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,176449609,,192869835,,177660718,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,55603,,60778,,55985,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,13577,,14841,,13671,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,31638,,34582,,31855,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,712434,,778732,,717324,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4735,,5175,,4767,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,892,,974,,898,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,420662,,459808,,423549,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,584,Marshall Isds,MHL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,18758,,20503,,18886,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,68175,,74519,,68643,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,60981,,66656,,61400,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2244365,,2453223,,2259770,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,780925,,853597,,786285,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,218964,,239340,,220467,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,200783,,219468,,202161,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1401509,,1531932,,1411129,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5308799,,5802831,,5345238,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,13405,,14653,,13497,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,660,Anguilla,AIA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,11211,,12255,,11288,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,154419,,168790,,155479,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,82557,,90240,,83124,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,76539,,83662,,77064,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,24579,,26866,,24748,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,11137,,12173,,11213,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,201397,,220139,,202780,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3621210,,3958197,,3646066,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,69636,,76116,,70114,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,643148,,702999,,647562,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,153886,,168206,,154942,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,389221,,425441,,391892,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,15547277,,16994091,,15653990,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,13963,,15262,,14058,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,26973,,29483,,27158,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3892907,,4255177,,3919627,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4643363,,5075470,,4675234,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,760,Syria,SYR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,16224,,17734,,16335,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,556474,,608259,,560294,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,53348,,58313,,53714,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,776,Tonga,TON,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,14759,,16133,,14861,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,10153,,11098,,10223,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1535830,,1678753,,1546372,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3318,,3627,,3341,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,13691,,14965,,13785,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2134933,,2333608,,2149587,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,807,TFYR of Macedonia,MKD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2663,,2910,,2681,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,8853,,9677,,8914,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,39830078,,43536626,,40103462,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,106,,115,,106,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,850222,,929343,,856058,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,117072423,,127967067,,117875981,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,11049,,12077,,11125,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,41332,,45178,,41615,,,6
+H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,10140,,11083,,10209,,,6
