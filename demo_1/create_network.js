@@ -28,7 +28,7 @@ function findByISO(country, ISO){
 }
 
 var cy = cytoscape({
-      container: document.getElementById('map_container'),
+      container: document.getElementById('network_container'),
       style: [ // the stylesheet for the graph,
         {
           selector: 'node',
