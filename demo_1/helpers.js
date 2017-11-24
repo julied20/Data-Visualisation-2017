@@ -1,6 +1,3 @@
-const width = 900
-const height = 600
-
 const ISO = 'BEL'
 
 let iso_geo_coord;
