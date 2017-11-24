@@ -80,7 +80,8 @@ let cy = cytoscape({
 
   });
 
-function create_graph() {
+function update_graph() {
+  cy.elements().remove();
 
   let bigtraders = [];
 
