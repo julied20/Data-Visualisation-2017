@@ -3,10 +3,10 @@
 let current_year = 2015;
 let countries = [];
 
-d3.csv('datasets/countries_codes_and_coordinates.csv', loadIsoCoord);
+d3.csv('../../datasets/countries_codes_and_coordinates.csv', loadIsoCoord);
 
-d3.csv("datasets/belgium_beers_all_clean.csv", function(data) {
-    d3.json("world.geo.json", function(world_json) {
+d3.csv("../../datasets/belgium_beers_all_clean.csv", function(data) {
+    d3.json("../world.geo.json", function(world_json) {
 
       let data_curr_year = data.filter(x => x.Year == current_year);
       let big_trader_threshold = compute_big_trader_threshold(data_curr_year);
