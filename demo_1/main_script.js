@@ -60,19 +60,27 @@ d3.csv("datasets/belgium_beers_all_clean.csv", function(data) {
       }
 
       map_group.selectAll("path")
-        .data(countries)
-        .enter()
-        .append("path")
-        .attr('d', country => { return path(country.geo_feat); })
-        .style("fill", country => {
-          if (country.is_big_trader) {
-            return d3.color("steelblue");
-          } else {
-            return d3.color("lightgrey");
-          }
-        });
+            .data(countries)
+            .enter()
+            .append("path")
+            .attr('d', country => { return path(country.geo_feat); })
+            .style("fill", country => {
+                if (country.is_big_trader) {
+                    return d3.color("steelblue");
+                } else {
+                    return d3.color("lightgrey");
+                }
+            })
+            .on("mouseover", function() { tooltip.style("display", null); })
+            .on("mouseout", function() { tooltip.style("display", "none"); })
+            .on("mousemove", function(country) {
+              var x_pos = d3.mouse(this)[0] + 10;
+              var y_pos = d3.mouse(this)[1] + 10;
+              tooltip.attr("transform", "translate(" + x_pos + "," + y_pos + ")");
+              tooltip.select("text").text(country.trade_value);
+            });
 
-        create_graph();
+            create_graph()
 
-      });
     });
+});

@@ -1,5 +1,5 @@
 const width = 900
-const height = 600
+const height = 700
 
 const ISO = 'BEL'
 
