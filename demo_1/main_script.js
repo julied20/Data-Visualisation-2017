@@ -74,8 +74,8 @@ d3.csv("datasets/belgium_beers_all_clean.csv", function(data) {
             .on("mouseover", function() { tooltip.style("display", null); })
             .on("mouseout", function() { tooltip.style("display", "none"); })
             .on("mousemove", function(country) {
-              var x_pos = (d3.mouse(document.body)[0]) + 10;
-              var y_pos = (d3.mouse(document.body)[1]) - 115;
+              var x_pos = (d3.mouse(document.body)[0]) - 125;
+              var y_pos = (d3.mouse(document.body)[1]) - 125;
               tooltip.attr("transform", "translate(" + x_pos + "," + y_pos + ")");
               tooltip.select("text").text(country.trade_value);
             });
