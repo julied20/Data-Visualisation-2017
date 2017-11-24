@@ -66,7 +66,7 @@ d3.csv("datasets/belgium_beers_all_clean.csv", function(data) {
             .attr('d', country => { return path(country.geo_feat); })
             .style("fill", country => {
                 if (country.is_big_trader) {
-                    return d3.color("steelblue");
+                    return 'rgba(255, 206, 86, 0.8)';
                 } else {
                     return d3.color("lightgrey");
                 }

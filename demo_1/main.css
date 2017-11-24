@@ -1,22 +1,17 @@
-#map_container {
+
+#map_div {
+  position: relative;
   width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 56px;
-  left: -14px;
+  height: 70vh;
 }
 
-#network_container {
+#network_div {
   width: 100%;
   height: 100%;
   position: absolute;
   pointer-events: none;
 }
 
-#cy {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0px;
-    left: 0px;
+#timeline_row {
+    height:25vh;
 }

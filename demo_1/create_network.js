@@ -28,7 +28,7 @@ function findByISO(country, ISO){
 }
 
 var cy = cytoscape({
-      container: document.getElementById('network_container'),
+      container: document.getElementById('network_div'),
       style: [ // the stylesheet for the graph,
         {
           selector: 'node',
@@ -118,14 +118,12 @@ function create_graph() {
 let zoom_level = 1;
 
 let zoom = d3.zoom()
-    //.scaleExtent([1, 8])
     .on("zoom", zoomed);
 
 svg.call(zoom);
 
 function zoomed() {
   zoom_level = d3.event.transform.k;
-  console.log(d3.event.transform);
   map_group.attr("transform", d3.event.transform);
 
   cy.viewport({

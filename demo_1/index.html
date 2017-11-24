@@ -24,11 +24,11 @@
 
             <div class="collapse navbar-collapse" id="navbarText">
               <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                  <a class="nav-link" href="#">Switzerland<br/> <span class="sr-only">(current)</span></a>
-                </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Belgium</a>
+                  <a class="nav-link" href="#">Switzerland</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Belgium <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">China</a>
@@ -42,10 +42,16 @@
     </div>
 
     <div class="container">
-      <div class="row">
-        <div class="col-sm" id="map_container">
-            <div id="network_container">
+      <div class="row" id="map_row">
+        <div class="col-sm" id="map_div">
+            <div id="network_div">
             </div>
+        </div>
+      </div>
+
+      <div class="row" id="timeline_row">
+        <div class="col-sm">
+            <canvas id="timeline"></canvas>
         </div>
       </div>
     </div>
@@ -53,15 +59,17 @@
 
     <!-- SCRIPTS -->
 
-    <!-- D3, topojson, cytoscape -->
+    <!-- D3, topojson, cytoscape, chart.js -->
     <script src="http://d3js.org/d3.v4.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
     <script src="cytoscape.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js"></script>
 
     <!-- Trademap scripts -->
     <script type="text/javascript" src='helpers.js'></script>
     <script type="text/javascript" src='create_map.js'></script>
     <script type="text/javascript" src='create_network.js'></script>
+    <script type="text/javascript" src='create_timeline.js'></script>
     <script type="text/javascript" src='main_script.js'></script>
 
     <!-- Optional JavaScript -->
