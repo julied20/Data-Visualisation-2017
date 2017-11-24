@@ -19,7 +19,23 @@ let stories = [
 
 let stories_data = [];
 
-let current_year = 2015;
+// Create navbar with stories
+nav_ul = d3.select('#navbarUL');
+stories.forEach(function(story) {
+    nav_ul.append('li')
+        .attr('class', 'nav-item')
+        .append('a')
+            .attr('class', 'nav-link')
+            .attr('href', '#')
+            .text(story.country_name);
+});
+
+// Set first list elem as active
+nav_ul.select('li')
+    .attr('class', 'nav-item active')
+
+
+let current_year = 2016;
 
 
 d3.csv('datasets/countries_codes_and_coordinates.csv', loadIsoCoord);
