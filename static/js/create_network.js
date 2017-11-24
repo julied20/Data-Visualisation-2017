@@ -27,7 +27,7 @@ function findByISO(country, ISO){
     }
 }
 
-var cy = cytoscape({
+let cy = cytoscape({
       container: document.getElementById('network_div'),
       style: [ // the stylesheet for the graph,
         {
@@ -90,11 +90,11 @@ function create_graph() {
     }
   });
 
-  let origin_country = countries.find(x => findByISO(x,'BEL'));
+  let origin_country = countries.find(x => findByISO(x, stories[current_story].ISO3));
   let origin_coords = projection([origin_country.long, origin_country.lat]);
 
   cy.add({
-    data: { id: 'BELGIQUE' }, position: {x: origin_coords[0], y: origin_coords[1] }
+    data: { id: 'exporter' }, position: {x: origin_coords[0], y: origin_coords[1] }
   });
 
   for (var i = 0; i < bigtraders.length; i++) {
@@ -106,13 +106,12 @@ function create_graph() {
 
     cy.add({
       data: {
-        source: 'BELGIQUE',
+        source: 'exporter',
         target: bigtraders[i].ISO3
       }
     });
   }
 }
-
 
 // Zoom
 let zoom_level = 1;

@@ -18,6 +18,20 @@ class Country {
     }
 }
 
+class Story {
+    constructor(country_name, product_name, csv_path, ISO3, color) {
+        this.country_name = country_name;
+        this.product_name = product_name;
+        this.csv_path = csv_path;
+        this.ISO3 = ISO3;
+        this.color = color;
+    }
+
+    set_data(data) {
+        this.data = data;
+    }
+}
+
 function getCoordinates(ISO) {
     const country = iso_geo_coord.filter(x => x.ISO3 == ISO)[0];
 
