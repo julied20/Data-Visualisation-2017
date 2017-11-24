@@ -1,3 +1,5 @@
+
+
 d3.csv('belgium_beers_world.csv', function(data) {
   //console.log(data)
   let years = data.map(function(d) { return d.Year });
@@ -13,7 +15,7 @@ d3.csv('belgium_beers_world.csv', function(data) {
   }
 
   zipped.sort(function(left, right) {
-      var leftArray1elem = left.array1elem,
+      let leftArray1elem = left.array1elem,
           rightArray1elem = right.array1elem;
 
       return leftArray1elem === rightArray1elem ? 0 : (leftArray1elem < rightArray1elem ? -1 : 1);
@@ -27,46 +29,58 @@ d3.csv('belgium_beers_world.csv', function(data) {
   }
 
 
-  console.log(years);
-  console.log(trades);
+  let produt_color = 'rgba(255, 206, 86, 0.2)'
+  let backgroundColor = []
+
+  for(let i = 0; i < years.length; ++i ) {
+    backgroundColor.push(produt_color)
+  }
 
   let ctx = document.getElementById("myChart").getContext('2d');
-  let myChart = new Chart(ctx, {
+  let my_chart = new Chart(ctx, {
       type: 'bar',
       data: {
           labels: years,
           datasets: [{
-              label: '# of Votes',
+              label: 'Value of trades ($)',
               data: trades,
-              backgroundColor: [
-                  'rgba(255, 99, 132, 0.2)',
-                  'rgba(54, 162, 235, 0.2)',
-                  'rgba(255, 206, 86, 0.2)',
-                  'rgba(75, 192, 192, 0.2)',
-                  'rgba(153, 102, 255, 0.2)',
-                  'rgba(255, 159, 64, 0.2)'
-              ],
-              borderColor: [
-                  'rgba(255,99,132,1)',
-                  'rgba(54, 162, 235, 1)',
-                  'rgba(255, 206, 86, 1)',
-                  'rgba(75, 192, 192, 1)',
-                  'rgba(153, 102, 255, 1)',
-                  'rgba(255, 159, 64, 1)'
-              ],
+              backgroundColor: backgroundColor,
+              borderColor: 'rgba(255, 206, 86, 1)',
               borderWidth: 1
           }]
       },
-      options: {
-          scales: {
-              yAxes: [{
-                  ticks: {
-                      beginAtZero:true
-                  }
-              }]
-          }
-      }
-  });
+      options:{
+        onClick: function(e){
 
+            let element = this.getElementAtEvent(e);
+            // Reset color of every bars
+            for(let i=0;i<backgroundColor.length;i++){
+              backgroundColor[i] = produt_color;
+            }
+          if (element[0] != undefined){
+            backgroundColor[element[0]._index] = 'rgba(241, 28, 28, 0.8)';
+            this.update()
+          }
+        },
+        scales: {
+          yAxes: [{
+            scaleLabel: {
+              display: true,
+              labelString: '($)'
+            }
+          }],
+          xAxes: [{
+            scaleLabel: {
+              display: true,
+              labelString: 'Year'
+            }
+          }]
+        },
+        legend: {
+          onClick: null
+        }
+    }
+
+  });
 
 })
