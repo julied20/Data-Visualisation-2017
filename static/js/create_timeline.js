@@ -1,4 +1,4 @@
-d3.csv('../../datasets/belgium_beers_world.csv', function(data) {
+d3.csv('datasets/belgium_beers_world.csv', function(data) {
     let years = data.map(function(d) { return d.Year });
     let trades = data.map(function(d) { return d.Trade_Value });
 
