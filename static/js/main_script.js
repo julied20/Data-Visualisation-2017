@@ -1,4 +1,3 @@
-
 let current_story = 0;
 let stories = [
     new Story(
@@ -21,14 +20,28 @@ let stories_data = [];
 
 // Create navbar with stories
 nav_ul = d3.select('#navbarUL');
+
+let i = 0;
 stories.forEach(function(story) {
-    nav_ul.append('li')
+    nav_ul
+    .append('li')
         .attr('class', 'nav-item')
-        .append('a')
-            .attr('class', 'nav-link')
-            .attr('href', '#')
-            .text(story.country_name);
+    .append('a')
+        .attr('class', 'nav-link')
+        .attr('href', '#')
+        .attr('id', i)
+        .on('click', function() {
+            // Remove active for all stories
+            nav_ul.selectAll('li').attr('class', 'nav-item');
+
+            // Add active for new story
+            this.parentElement.setAttribute('class', 'nav-item active')
+            refresh_story(this.id);
+        })
+        .text(story.country_name);
+    i++;
 });
+
 
 // Set first list elem as active
 nav_ul.select('li')
