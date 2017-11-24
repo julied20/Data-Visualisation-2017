@@ -1,0 +1,416 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1356005620,,1356005620,,1354929239,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,11405,,11405,,14709,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,16190,,16190,,18700,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1401568,,1401568,,840499,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,132349,,132349,,117547,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,26958,,26958,,60064,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3283994,,3283994,,4517276,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,4515310,,4515310,,6854736,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,26040,,26040,,42670,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,172640,,172640,,101428,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,18216,,18216,,18854,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,280,,280,,1161,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,98099,,98099,,80055,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1434071,,1434071,,3114108,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,13399,,13399,,21510,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,176849,,176849,,181296,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,13871,,13871,,33007,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,44993,,44993,,69832,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,709620,,709620,,552643,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,34495013,,34495013,,30674367,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,110165,,110165,,76984,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,59598,,59598,,50112,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,929232,,929232,,634371,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1190268,,1190268,,788553,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,211181,,211181,,499390,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3897373,,3897373,,7084968,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,116544,,116544,,235235,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,19008,,19008,,14145,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,404041,,404041,,462664,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,184711,,184711,,145438,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,81389,,81389,,162140,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,181554,,181554,,198038,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,201165,,201165,,223978,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,156,,156,,369,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,6598440,,6598440,,7313715,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1605019,,1605019,,1192389,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,134434,,134434,,110701,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3560907,,3560907,,4961543,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,189870,,189870,,262615,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,83741,,83741,,93526,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,777,,777,,2602,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,47,,47,,154,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,123240,,123240,,151662,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,4000,,4000,,15797,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1892696,,1892696,,2010960,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,537446288,,537446288,,594623999,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,46096,,46096,,51905,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,2040,,2040,,1417,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,47860,,47860,,29007,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,144832,,144832,,91063,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,172302,,172302,,164310,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,12487,,12487,,20848,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,202860435,,202860435,,107899176,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,160548,,160548,,151533,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,227563,,227563,,402159,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1258352,,1258352,,1316561,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,316,Guam,GUM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,16080,,16080,,27262,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,215699,,215699,,200974,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1327,,1327,,4062,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,19095,,19095,,24712,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3471567,,3471567,,2725911,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,878999,,878999,,1064450,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,370894,,370894,,454452,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,6423552,,6423552,,5853730,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,5979044,,5979044,,6473461,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,46209452,,46209452,,48022880,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,373359,,373359,,212733,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,20001518,,20001518,,20773688,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1382922,,1382922,,1513877,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,124134,,124134,,90428,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,21731,,21731,,24565,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,2837675,,2837675,,2002699,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,41743,,41743,,54259,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,197291,,197291,,150110,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,18801,,18801,,16873,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,566663,,566663,,519227,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,16973052,,16973052,,16777695,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,9490,,9490,,41484,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,154011,,154011,,132484,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,8670725,,8670725,,7288815,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,5985,,5985,,10707,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,998553,,998553,,832900,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3811,,3811,,11148,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,6008,,6008,,19406,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,340406,,340406,,987458,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,626438,,626438,,1716220,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,10684,,10684,,10394,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,13685,,13685,,14354,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,75008,,75008,,94169,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,37200,,37200,,20150,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,615,,615,,1256,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,206738840,,206738840,,199557623,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,531,Curaçao,CUW,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,13369,,13369,,20769,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,16727,,16727,,18165,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,11368,,11368,,14146,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,654527,,654527,,665134,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,35249,,35249,,21275,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,284474,,284474,,565638,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,153839,,153839,,172881,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,35650,,35650,,86653,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,17273,,17273,,75435,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,2273819,,2273819,,2103467,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,775699,,775699,,922891,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,164296,,164296,,113307,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,469088,,469088,,392768,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,629695,,629695,,811671,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,5561490,,5561490,,8510304,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,48328,,48328,,50912,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,355,,355,,571,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,102386,,102386,,114211,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,10,,10,,13,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,202,,202,,960,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,24313,,24313,,20778,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,543204,,543204,,517590,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3855462,,3855462,,4218013,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,26651,,26651,,78328,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,2638403,,2638403,,6101006,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,19513,,19513,,54849,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,629687,,629687,,700783,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,10883988,,10883988,,12984728,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,729,Sudan,SDN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,265651,,265651,,274511,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3265006,,3265006,,4131298,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,6365192,,6365192,,6072004,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,760,Syria,SYR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,89,,89,,478,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,2900240,,2900240,,2669987,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,159523,,159523,,143842,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,9900,,9900,,9619,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,2851197,,2851197,,1959623,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,377524,,377524,,466699,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,796,Turks and Caicos Isds,TCA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,22686,,22686,,30862,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1215,,1215,,4413,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,5009698,,5009698,,4589750,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,807,TFYR of Macedonia,MKD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1680,,1680,,5690,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1615,,1615,,5108,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,39484789,,39484789,,40886248,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,205,,205,,611,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,837893,,837893,,1011517,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,129794661,,129794661,,156655145,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,200587,,200587,,138328,,,4
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,21923,,21923,,51158,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1375818521,,1375818521,,1550426898,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,889824,,889824,,658417,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,18390,,18390,,38026,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,401038,,401038,,258508,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,155930,,155930,,288725,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,92078,,92078,,111820,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3000467,,3000467,,5251126,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,4584574,,4584574,,7609651,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,40676,,40676,,81206,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,194001,,194001,,177969,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,125273,,125273,,113398,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,123303,,123303,,148242,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,2220720,,2220720,,5562031,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,12607,,12607,,21844,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,229743,,229743,,248958,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,5650,,5650,,17007,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,204097,,204097,,365040,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,7824,,7824,,26764,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,434407,,434407,,309967,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,37930898,,37930898,,37482894,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,274680,,274680,,203711,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,84525,,84525,,124547,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,664008,,664008,,479057,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,928895,,928895,,637642,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,411143,,411143,,1000406,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,8674749,,8674749,,18016732,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,242060,,242060,,414997,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,111780,,111780,,124669,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1053629,,1053629,,1035024,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,254016,,254016,,235638,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,160792,,160792,,291296,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,369489,,369489,,740657,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,203273,,203273,,186579,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,5671724,,5671724,,6977241,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1447520,,1447520,,1003512,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,7648,,7648,,5895,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3984105,,3984105,,7883379,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,314082,,314082,,401941,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,83254,,83254,,102252,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,15,,15,,57,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,214159,,214159,,452300,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1889651,,1889651,,2506084,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,488223327,,488223327,,618504337,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,36250,,36250,,84362,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,16606,,16606,,28788,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,297362,,297362,,216108,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,187568,,187568,,202884,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,7406,,7406,,13198,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,185726762,,185726762,,109602386,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,158522,,158522,,157501,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,207176,,207176,,385911,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1395501,,1395501,,1670534,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,316,Guam,GUM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,103386,,103386,,148845,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,571198,,571198,,622989,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,19552,,19552,,16630,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,38384,,38384,,39967,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,4209703,,4209703,,5348799,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1002246,,1002246,,1149640,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,466803,,466803,,817105,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,364,Iran,IRN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,460,,460,,977,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,60480,,60480,,38346,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,10734714,,10734714,,9804507,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,6178772,,6178772,,8767654,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,50302094,,50302094,,55120002,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,416528,,416528,,306476,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,17754919,,17754919,,21896880,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1701167,,1701167,,2575065,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,217877,,217877,,210132,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,149869,,149869,,244234,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,6806790,,6806790,,4819604,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,511,,511,,2332,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,14094,,14094,,33516,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,287649,,287649,,543332,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,515704,,515704,,871587,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,22008281,,22008281,,20716863,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,539236,,539236,,405540,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,12682179,,12682179,,12943687,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,31638,,31638,,42205,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,813010,,813010,,739990,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3489,,3489,,8473,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,5510,,5510,,18686,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,386981,,386981,,1223693,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1821737,,1821737,,3244721,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,21367,,21367,,25525,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,13684,,13684,,8785,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,76245,,76245,,127517,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,120,,120,,69,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,240,,240,,274,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,4902,,4902,,18569,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,230705424,,230705424,,228370600,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,531,Curaçao,CUW,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,24851,,24851,,35241,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,75565,,75565,,104763,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,534,Saint Maarten,SXM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,11471,,11471,,20145,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,22836,,22836,,68378,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,634116,,634116,,692274,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,50123,,50123,,54386,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,400,,400,,882,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,422739,,422739,,1011282,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,182226,,182226,,297553,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,17424,,17424,,26644,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,23547,,23547,,84054,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,28616,,28616,,131410,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,926713,,926713,,1390117,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,579305,,579305,,614079,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,635929,,635929,,710377,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,315028,,315028,,470403,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,7307214,,7307214,,12859816,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,218930,,218930,,168407,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,662,Saint Lucia,LCA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,554,,554,,1062,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,6641,,6641,,12525,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,452003,,452003,,310160,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,47693,,47693,,132547,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,14256,,14256,,40067,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,38276,,38276,,30148,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,910674,,910674,,928099,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,6489619,,6489619,,8532612,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,43068,,43068,,129882,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,2869445,,2869445,,5724815,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,26808,,26808,,84953,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,924739,,924739,,1212794,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,8891710,,8891710,,13460259,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,728,South Sudan,SSD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,35750,,35750,,59335,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,729,Sudan,SDN,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,91800,,91800,,74959,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3399209,,3399209,,6012763,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,6930060,,6930060,,8526205,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,3224661,,3224661,,3324266,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,219154,,219154,,238546,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,20576,,20576,,28024,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,4389529,,4389529,,5793340,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,745932,,745932,,1586281,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,796,Turks and Caicos Isds,TCA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,5677,,5677,,10447,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,19463,,19463,,15328,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,5733386,,5733386,,5378528,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,807,TFYR of Macedonia,MKD,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1357,,1357,,4869,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,1917,,1917,,7328,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,31315856,,31315856,,34166215,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,865005,,865005,,1058447,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,161793629,,161793629,,220891277,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,167254,,167254,,110049,,,4
+H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,2203,"Beverages, spirits and vinegar // Beer made from malt.",7,Volume in litres,,,25667,,25667,,65521,,,4
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1125622419,,1268617865,,1104501228,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4844,,5460,,4753,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,18616,,20981,,18267,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1356877,,1529250,,1331417,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,59295,,66827,,58182,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,229063,,258162,,224765,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3109466,,3504483,,3051120,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,6596339,,7434316,,6472565,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,84466,,95196,,82881,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,66620,,75084,,65370,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,38763,,43687,,38035,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,68552,,77260,,67266,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1662507,,1873707,,1631312,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,9663,,10890,,9481,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,96,Brunei Darussalam,BRN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,20499,,23103,,20114,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,400536,,451419,,393021,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,61998,,69874,,60835,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,227390,,256277,,223123,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,30339501,,34193733,,29770210,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,89079,,100395,,87407,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,46359,,52249,,45489,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,413685,,466238,,405922,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,325141,,366446,,319040,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,355836,,401040,,349159,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4994271,,5628727,,4900558,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,133059,,149962,,130562,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,32422,,36541,,31814,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1186532,,1337265,,1164268,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,40488,,45631,,39728,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,424383,,478295,,416419,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,109473,,123380,,107419,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,392741,,442634,,385372,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5147992,,5801976,,5051395,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1273827,,1435650,,1249925,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,68438,,77133,,67154,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4193650,,4726397,,4114960,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,144496,,162853,,141785,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,62442,,70375,,61271,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1792,,2020,,1758,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,107973,,121689,,105947,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3060610,,3449420,,3003181,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,427418041,,481715852,,419397964,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,64356,,72532,,63149,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,21298,,24003,,20898,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,66567,,75023,,65318,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,59690,,67273,,58570,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,17385,,19594,,17059,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,90796399,,102330881,,89092694,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,19760,,22270,,19389,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,406018,,457597,,398399,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1836105,,2069358,,1801652,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,316,Guam,GUM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,52648,,59336,,51660,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,16595,,18704,,16284,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,36802,,41477,,36111,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,11592,,13065,,11374,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,16917,,19067,,16600,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2224158,,2506708,,2182424,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1950286,,2198044,,1913691,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,300261,,338405,,294627,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2045,,2305,,2007,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5759701,,6491394,,5651625,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5119261,,5769596,,5023203,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,48834807,,55038623,,47918470,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,241974,,272714,,237434,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,12049535,,13580269,,11823437,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1313422,,1480275,,1288777,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,143187,,161377,,140500,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,86265,,97224,,84646,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1775407,,2000950,,1742094,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4267,,4809,,4187,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,8571,,9660,,8411,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,184468,,207902,,181006,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,17708,,19957,,17376,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,436822,,492314,,428625,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,15040738,,16951465,,14758514,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,18062,,20356,,17723,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4750386,,5353859,,4661249,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,22125,,24936,,21710,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,495591,,558549,,486292,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,51239,,57748,,50277,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,44557,,50217,,43721,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,805190,,907478,,790081,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,965698,,1088378,,947578,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,19113,,21541,,18754,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,51779,,58357,,50808,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,21790,,24558,,21381,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,188155614,,212058298,,184625061,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,531,Curaçao,CUW,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,38260,,43120,,37542,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,8333,,9391,,8176,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,111569,,125742,,109475,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,664979,,749456,,652501,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,38643,,43552,,37918,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,800300,,901967,,785283,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,111499,,125664,,109407,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,47783,,53853,,46886,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,760,,856,,745,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2115831,,2384619,,2076130,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,800737,,902460,,785712,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,68520,,77224,,67234,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,314259,,354182,,308363,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,751483,,846949,,737382,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,7051823,,7947663,,6919502,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,18346,,20676,,18001,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,2025,,2282,,1987,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,32835,,37006,,32219,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,9100,,10256,,8929,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,7028,,7921,,6896,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,13200,,14877,,12952,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,317291,,357598,,311337,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3408563,,3841576,,3344605,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,59812,,67410,,58690,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4931468,,5557946,,4838934,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,92082,,103780,,90355,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,510910,,575814,,501323,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,15270170,,17210043,,14983640,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,10827,,12203,,10624,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,39088,,44053,,38354,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,3835875,,4323172,,3763899,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5125407,,5776522,,5029234,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1193304,,1344897,,1170913,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,17844,,20111,,17509,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,9829,,11078,,9645,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1443731,,1627138,,1416641,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,18299,,20624,,17956,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,46600,,52520,,45726,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,796,Turks and Caicos Isds,TCA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5601,,6312,,5496,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,6021,,6786,,5908,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,4183418,,4714866,,4104920,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,807,TFYR of Macedonia,MKD,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,7192,,8106,,7057,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,5482,,6178,,5379,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,50204329,,56582125,,49262294,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,1135756,,1280039,,1114445,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,141803351,,159817592,,139142552,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,131616,,148336,,129147,,,6
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,2203,Beer made from malt.,7,Volume in litres,,,107359,,120997,,105344,,,6
