@@ -50,7 +50,6 @@ nav_ul.select('li')
 
 let current_year = 2016;
 
-
 d3.csv('datasets/countries_codes_and_coordinates.csv', loadIsoCoord);
 
 // Load all csvs
@@ -162,8 +161,35 @@ function update_paths(p) {
             return d3.color("lightgrey");
         }
     })
-    .on("mouseover", function() { tooltip.style("display", null); })
-    .on("mouseout", function() { tooltip.style("display", "none"); })
+    .on("mouseover", function(country) {
+        tooltip.style("display", null);
+        let color;
+        if (country.is_big_trader) {
+            color = d3.color(stories[current_story].color).darker(0.3);
+        } else {
+            color = d3.color("darkgrey")
+        }
+
+        d3.select(this)
+            .transition()
+            .duration(100)
+            .style("fill", color);
+    })
+    .on("mouseout", function(country) {
+        tooltip.style("display", "none");
+
+        let color;
+        if (country.is_big_trader) {
+            color = stories[current_story].color;
+        } else {
+            color = d3.color("lightgrey")
+        }
+
+        d3.select(this)
+            .transition()
+            .duration(100)
+            .style("fill", color);
+    })
     .on("mousemove", function(country) {
         var x_pos = (d3.mouse(document.body)[0]) - 125;
         var y_pos = (d3.mouse(document.body)[1]) - 125;
