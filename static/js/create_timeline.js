@@ -26,7 +26,7 @@ let my_chart = new Chart(ctx, {
             let element = this.getElementAtEvent(e);
             if (element[0] != undefined) {
                 change_year(element[0]._model.label);
-                yearChanged(element[0]._index);
+                year_changed(element[0]._index);
             }
         },
         onHover: function(e){
@@ -42,7 +42,7 @@ let my_chart = new Chart(ctx, {
     }
 });
 
-function yearChanged(year_index) {
+function year_changed(year_index) {
     [background_color, border_color] = get_colors();
 
     backgrounds = my_chart.data.datasets[0].backgroundColor;
@@ -90,9 +90,12 @@ function update_timeline() {
 
     let background_colors = [];
 
-    for(let i = 0; i < years.length; ++i) {
+    for(let i = 0; i < years.length - 1; ++i) {
         background_colors.push(background_color);
     }
+
+    // Last year is selected
+    background_colors.push(border_color);
 
     my_chart.data = {
         labels: years,

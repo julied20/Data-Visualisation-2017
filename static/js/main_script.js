@@ -17,6 +17,7 @@ let stories = [
 ];
 
 let stories_data = [];
+let current_year;
 
 // Create navbar with stories
 nav_ul = d3.select('#navbarUL');
@@ -47,8 +48,6 @@ stories.forEach(function(story) {
 nav_ul.select('li')
     .attr('class', 'nav-item active')
 
-
-let current_year = 2016;
 
 d3.csv('datasets/countries_codes_and_coordinates.csv', loadIsoCoord);
 
@@ -112,8 +111,9 @@ function change_story(new_story) {
     current_story = new_story;
     story_data = stories_data[current_story];
 
-    // Set current year as first year appearing in the dataset
-    change_year(story_data[0].Year);
+    // Set current year as last year appearing in the dataset
+    current_year = story_data[story_data.length - 1].Year
+    change_year(current_year);
 
     update_timeline();
 }
