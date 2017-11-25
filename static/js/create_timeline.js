@@ -26,6 +26,7 @@ let my_chart = new Chart(ctx, {
             let element = this.getElementAtEvent(e);
             if (element[0] != undefined) {
                 change_year(element[0]._model.label);
+                yearChanged(element[0]._index);
             }
         },
         onHover: function(e){
@@ -40,6 +41,29 @@ let my_chart = new Chart(ctx, {
         },
     }
 });
+
+function yearChanged(year_index) {
+    [background_color, border_color] = get_colors();
+
+    backgrounds = my_chart.data.datasets[0].backgroundColor;
+    for (var i = 0; i < backgrounds.length; i++) {
+        if (i == year_index) {
+            backgrounds[i] = border_color;
+        } else {
+            backgrounds[i] = background_color;
+        }
+    }
+    my_chart.update();
+}
+
+function get_colors() {
+    let background_color = d3.color(stories[current_story].color);
+    let border_color = d3.color(stories[current_story].color);
+
+    background_color.opacity = 0.2
+
+    return [background_color, border_color]
+}
 
 function update_timeline() {
     let years = get_world_data(current_story).years;
@@ -61,15 +85,13 @@ function update_timeline() {
     years = zipped.map(function(d) { return d.year });
     trades = zipped.map(function(d) { return d.trade });
 
-    let product_color = d3.color(stories[current_story].color);
-    let border_color = d3.color(stories[current_story].color);
 
-    product_color.opacity = 0.2
+    [background_color, border_color] = get_colors();
 
-    let backgroundColor = [];
+    let background_colors = [];
 
     for(let i = 0; i < years.length; ++i) {
-        backgroundColor.push(product_color);
+        background_colors.push(background_color);
     }
 
     my_chart.data = {
@@ -77,7 +99,7 @@ function update_timeline() {
         datasets: [{
             label: 'Value of trades ($)',
             data: trades,
-            backgroundColor: backgroundColor,
+            backgroundColor: background_colors,
             borderColor: border_color,
             borderWidth: 1,
             hoverBackgroundColor: border_color,
