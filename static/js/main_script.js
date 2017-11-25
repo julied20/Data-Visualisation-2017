@@ -105,6 +105,9 @@ d3.json("static/world.geo.json", function(world_json) {
     }
 
     change_story(0);
+
+    loading_finished();
+
 });
 
 
@@ -199,4 +202,9 @@ function update_paths(p) {
         tooltip.attr("transform", "translate(" + x_pos + "," + y_pos + ")");
         tooltip.select("text").text(country.trade_value);
     });
+}
+
+function loading_finished() {
+    d3.select("#loader").attr("class", "invisible");
+    d3.select("#content").attr("class", "");
 }

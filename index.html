@@ -12,41 +12,44 @@
   </head>
 
   <body>
-    <div class="container">
-      <div class="row">
-        <div class="col-sm">
+    <div id="loader"></div>
+    <div class="invisible", id="content">
+        <div class="container" >
+          <div class="row">
+            <div class="col-sm">
 
-          <nav class="navbar navbar-expand-md navbar-light bg-light">
-            <a class="navbar-brand" href="#">Stories</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
+              <nav class="navbar navbar-expand-md navbar-light bg-light">
+                <a class="navbar-brand" href="#">Stories</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
 
-            <div class="collapse navbar-collapse" id="navbarText">
-              <ul class="navbar-nav mr-auto" id="navbarUL">
+                <div class="collapse navbar-collapse" id="navbarText">
+                  <ul class="navbar-nav mr-auto" id="navbarUL">
 
-                </li>
-              </ul>
+                    </li>
+                  </ul>
+                </div>
+              </nav>
+
             </div>
-          </nav>
-
+          </div>
         </div>
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="row" id="map_row">
-        <div class="col-sm" id="map_div">
-            <div id="network_div">
+        <div class="container">
+          <div class="row" id="map_row">
+            <div class="col-sm" id="map_div">
+                <div id="network_div">
+                </div>
             </div>
-        </div>
-      </div>
+          </div>
 
-      <div class="row" id="timeline_row">
-        <div class="col-sm">
-            <canvas id="timeline"></canvas>
+          <div class="row" id="timeline_row">
+            <div class="col-sm">
+                <canvas id="timeline"></canvas>
+            </div>
+          </div>
         </div>
-      </div>
     </div>
 
 
