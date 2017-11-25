@@ -150,6 +150,8 @@ function refresh_story(new_story) {
     update_paths(paths);
     update_paths(paths.enter().append("path"));
 
+    update_timeline()
+
     update_graph();
 }
 
