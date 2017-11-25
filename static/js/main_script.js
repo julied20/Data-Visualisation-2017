@@ -36,7 +36,7 @@ stories.forEach(function(story) {
 
             // Add active for new story
             this.parentElement.setAttribute('class', 'nav-item active')
-            refresh_story(this.id);
+            change_story(this.id);
         })
         .text(story.country_name);
     i++;
@@ -104,19 +104,22 @@ d3.json("static/world.geo.json", function(world_json) {
         countries.push(new_country);
     }
 
-    refresh_story(0);
+    change_story(0);
 });
 
 
-function refresh_story(new_story) {
+function change_story(new_story) {
     current_story = new_story;
     story_data = stories_data[current_story];
 
     // Set current year as first year appearing in the dataset
-    current_year = story_data[0].Year;
-    console.log("current year " + current_year);
+    change_year(story_data[0].Year);
 
-    let year_data = story_data.filter(x => x.Year == current_year);
+    update_timeline();
+}
+
+function change_year(new_year) {
+    let year_data = story_data.filter(x => x.Year == new_year);
 
     let big_trader_threshold = compute_big_trader_threshold(year_data);
 
@@ -148,8 +151,6 @@ function refresh_story(new_story) {
 
     update_paths(paths);
     update_paths(paths.enter().append("path"));
-
-    update_timeline()
 
     update_graph();
 }

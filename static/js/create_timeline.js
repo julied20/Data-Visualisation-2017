@@ -1,38 +1,47 @@
-// d3.csv('datasets/belgium_beers_world.csv', function(data) {
-
-    //get_world_data(0)
-
-//    let years = data.map(function(d) { return d.Year });
-//    let trades = data.map(function(d) { return d.Trade_Value });
 
 let ctx = document.getElementById("timeline").getContext('2d');
 let my_chart = new Chart(ctx, {
-  type: 'bar',
-  data: {},
-  options:{
-    scales: {
-      yAxes: [{
-        scaleLabel: {
-          display: true,
-          labelString: '($)'
-        }
-      }],
-      xAxes: [{
-        scaleLabel: {
-          display: true,
-          labelString: 'Year'
-        }
-      }]
-    },
-    legend: {
-      onClick: null
-    },
-    maintainAspectRatio: false
-}
+    type: 'bar',
+    data: {},
+    options:{
+        scales: {
+          yAxes: [{
+            scaleLabel: {
+              display: true,
+              labelString: '($)'
+            }
+          }],
+          xAxes: [{
+            scaleLabel: {
+              display: true,
+              labelString: 'Year'
+            }
+          }]
+        },
+        legend: {
+          onClick: null
+        },
+        maintainAspectRatio: false,
+        onClick: function(e){
+            let element = this.getElementAtEvent(e);
+            if (element[0] != undefined) {
+                change_year(element[0]._model.label);
+            }
+        },
+        onHover: function(e){
+            let element = this.getElementAtEvent(e);
+            if (element[0] != undefined) {
+                d3.select('#timeline')
+                    .style('cursor', 'pointer')
+            } else {
+                d3.select('#timeline')
+                    .style('cursor', 'default')
+            }
+        },
+    }
 });
 
 function update_timeline() {
-
     let years = get_world_data(current_story).years;
     let trades = get_world_data(current_story).trades;
 
@@ -60,9 +69,8 @@ function update_timeline() {
     let backgroundColor = [];
 
     for(let i = 0; i < years.length; ++i) {
-    backgroundColor.push(product_color);
+        backgroundColor.push(product_color);
     }
-
 
     my_chart.data = {
         labels: years,
@@ -71,41 +79,9 @@ function update_timeline() {
             data: trades,
             backgroundColor: backgroundColor,
             borderColor: border_color,
-            borderWidth: 1
-        }]
-    };
-    my_chart.config.options = {
-        onClick: function(e){
-            let element = this.getElementAtEvent(e);
-
-            // Reset color of every bars
-            for(let i = 0; i < backgroundColor.length; i++){
-              backgroundColor[i] = product_color;
-            }
-
-            if (element[0] != undefined) {
-                backgroundColor[element[0]._index] = border_color;
-                this.update()
-            }
-        },
-        scales: {
-          yAxes: [{
-            scaleLabel: {
-              display: true,
-              labelString: '($)'
-            }
-          }],
-          xAxes: [{
-            scaleLabel: {
-              display: true,
-              labelString: 'Year'
-            }
-          }]
-        },
-        legend: {
-          onClick: null
-        },
-        maintainAspectRatio: false
+            borderWidth: 1,
+            hoverBackgroundColor: border_color,
+        }],
     };
 
     my_chart.update();
