@@ -64,6 +64,8 @@ q.awaitAll(function(err, results) {
 });
 
 
+
+
 // Load countries json
 let countries = [];
 
@@ -108,6 +110,8 @@ d3.json("static/world.geo.json", function(world_json) {
     loading_finished();
 
 });
+
+
 
 
 function change_story(new_story) {

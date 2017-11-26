@@ -1,4 +1,5 @@
 function compute_big_trader_threshold(data) {
+
     // Find threshold for values, so that cumulative values cover a given
     // percentage of the data
     const value_coverage = 0.8
@@ -21,17 +22,43 @@ function compute_big_trader_threshold(data) {
     }
 }
 
+
 function find_by_ISO(country, ISO) {
     if (country.ISO3 == ISO) {
       return country
     }
 }
 
-function get_arrow_weight(ISO) {
+function get_trades_total() {
+    let total_trades = stories_data[current_story].
+        filter(x => x.PartnerISO == "WLD")
+        .map(x => parseInt(x.Value))
+        .reduce((x,y) => x + y);
+    return total_trades;
+}
+
+
+let arrow_weight_scale = d3.scaleLinear()
+    .domain([20000000, 500000000])
+    .range([1,10]);
+
+
+function set_arrow_weight(ISO) {
+
     let country = countries.find(x => find_by_ISO(x, ISO));
-    let weight = (Math.log(country.trade_value/30000000));
+    let weight = arrow_weight_scale(country.trade_value);
     console.log(weight);
     return weight;
+}
+
+// Compute the distance for the control-point of the bezier curve
+function get_control_point_distance(source_geo, target_geo) {
+    let dist = Math.sqrt(
+        Math.pow(source_geo.x - target_geo.x,2) +
+        Math.pow(source_geo.y - target_geo.y,2));
+
+    return 1/3 * Math.pow(dist,2/3) * 0.02 * (source_geo.x - target_geo.x);;
+
 }
 
 let cy = cytoscape({
@@ -52,20 +79,20 @@ let cy = cytoscape({
           style: {
             'line-color': '#FF0000',
     //        'label' : 'data(id)',
-        //    'width': function(elem){
-        //        return get_arrow_weight(elem.target().id());
-        //    },
-        //    'width':  function( ele ){ return ele.data('weight') },
+            'width': function(elem){
+                return set_arrow_weight(elem.target().id());
+            },
+    //        'width':  function( ele ){ return 0.4},
             'curve-style': 'unbundled-bezier',
             'control-point-distances': function(e){
                 return get_control_point_distance(e.source().position(),
                                     e.target().position());
             },
             'control-point-weights': '0.5',
-            'width': [3, 6, 8, 10, 15],
             'edge-distances': 'node-position',
-            'target-arrow-shape': 'triangle',
+            'target-arrow-shape': 'triangle-backcurve',
             'target-arrow-color': '#FF0000',
+            'arrow-scale': 1.2,
             'opacity' : 0.5
             }
           },
@@ -97,15 +124,7 @@ let cy = cytoscape({
 
   });
 
-// Compute the distance for the control-point of the bezier curve
-function get_control_point_distance(source_geo, target_geo) {
-    let dist = Math.sqrt(
-        Math.pow(source_geo.x - target_geo.x,2) +
-        Math.pow(source_geo.y - target_geo.y,2));
 
-    return 1/3 * Math.pow(dist,2/3) * 0.02 * (source_geo.x - target_geo.x);;
-
-}
 
 function update_graph() {
 
