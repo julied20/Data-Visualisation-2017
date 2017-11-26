@@ -21,10 +21,17 @@ function compute_big_trader_threshold(data) {
     }
 }
 
-function findByISO(country, ISO){
+function find_by_ISO(country, ISO) {
     if (country.ISO3 == ISO) {
       return country
     }
+}
+
+function get_arrow_weight(ISO) {
+    let country = countries.find(x => find_by_ISO(x, ISO));
+    let weight = (Math.log(country.trade_value/30000000));
+    console.log(weight);
+    return weight;
 }
 
 let cy = cytoscape({
@@ -34,7 +41,7 @@ let cy = cytoscape({
           selector: 'node',
           style: {
             'background-color': '#FF0000',
-          //  'label': 'data(id)',
+      //      'label': 'data(id)',
             'width': 0.1,
             'height' : 0.1
           }
@@ -44,8 +51,18 @@ let cy = cytoscape({
           selector: 'edge',
           style: {
             'line-color': '#FF0000',
-//            'width':  function( ele ){ return ele.data('weight') },
+    //        'label' : 'data(id)',
+        //    'width': function(elem){
+        //        return get_arrow_weight(elem.target().id());
+        //    },
+        //    'width':  function( ele ){ return ele.data('weight') },
             'curve-style': 'unbundled-bezier',
+            'control-point-distances': function(e){
+                return get_control_point_distance(e.source().position(),
+                                    e.target().position());
+            },
+            'control-point-weights': '0.5',
+            'width': [3, 6, 8, 10, 15],
             'edge-distances': 'node-position',
             'target-arrow-shape': 'triangle',
             'target-arrow-color': '#FF0000',
@@ -80,39 +97,57 @@ let cy = cytoscape({
 
   });
 
-function update_graph() {
-  cy.elements().remove();
+// Compute the distance for the control-point of the bezier curve
+function get_control_point_distance(source_geo, target_geo) {
+    let dist = Math.sqrt(
+        Math.pow(source_geo.x - target_geo.x,2) +
+        Math.pow(source_geo.y - target_geo.y,2));
 
-  let bigtraders = [];
+    return 1/3 * Math.pow(dist,2/3) * 0.02 * (source_geo.x - target_geo.x);;
 
-  countries.forEach(function(country) {
-    if (country.is_big_trader) {
-      bigtraders.push(country)
-    }
-  });
-
-  let origin_country = countries.find(x => findByISO(x, stories[current_story].ISO3));
-  let origin_coords = projection([origin_country.long, origin_country.lat]);
-
-  cy.add({
-    data: { id: 'exporter' }, position: {x: origin_coords[0], y: origin_coords[1] }
-  });
-
-  for (var i = 0; i < bigtraders.length; i++) {
-    let value_coord = projection([bigtraders[i].long, bigtraders[i].lat]);
-
-    cy.add({
-      data: { id: bigtraders[i].ISO3} , position : { x : value_coord[0], y : value_coord[1]  }
-    });
-
-    cy.add({
-      data: {
-        source: 'exporter',
-        target: bigtraders[i].ISO3
-      }
-    });
-  }
 }
+
+function update_graph() {
+
+
+    cy.elements().remove();
+
+    let bigtraders = [];
+
+    countries.forEach(function(country) {
+        if (country.is_big_trader) {
+            bigtraders.push(country)
+        }
+    });
+
+    console.log(bigtraders)
+
+    let origin_country = countries.find(x => find_by_ISO(x, stories[current_story].ISO3));
+    let origin_coords = projection([origin_country.long, origin_country.lat]);
+
+    cy.add({
+        data: { id: 'exporter' }, position: {x: origin_coords[0], y: origin_coords[1] }
+    });
+
+    for (let i = 0; i < bigtraders.length; i++) {
+        let value_coord = projection([bigtraders[i].long, bigtraders[i].lat]);
+
+        cy.add({
+            data: { id: bigtraders[i].ISO3, width: 10} ,
+            position : { x : value_coord[0], y : value_coord[1]  }
+        });
+
+        cy.add({
+            data: {
+                id: 'Edge' + bigtraders[i].ISO3,
+                source: 'exporter',
+                target: bigtraders[i].ISO3,
+            },
+
+        });
+    }
+}
+
 
 // Zoom
 let zoom_level = 1;
