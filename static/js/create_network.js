@@ -37,17 +37,45 @@ function get_trades_total() {
     return total_trades;
 }
 
+function get_min_max_values() {
+    min = Number.MAX_SAFE_INTEGER;
+    max = 0;
+
+
+// TODO DEbug
+    console.log(big_traders.forEach(function(ISO) {
+        stories_data[current_story]
+            .filter(x => x.ISO3 == ISO)
+            .map(x => parseInt(x.Value))}))
+            /*
+            .forEach(function(value) {
+                if (value > max) {
+                    max = value;
+                }
+                if (value < min) {
+                    min = value;
+                }
+            });
+            */
+
+    //});
+
+    return [min, max];
+
+}
+
+
+
 
 let arrow_weight_scale = d3.scaleLinear()
     .domain([20000000, 500000000])
-    .range([1,10]);
+    .range([1,15]);
 
 
 function set_arrow_weight(ISO) {
 
     let country = countries.find(x => find_by_ISO(x, ISO));
     let weight = arrow_weight_scale(country.trade_value);
-    console.log(weight);
     return weight;
 }
 
@@ -90,7 +118,7 @@ let cy = cytoscape({
             },
             'control-point-weights': '0.5',
             'edge-distances': 'node-position',
-            'target-arrow-shape': 'triangle-backcurve',
+            'target-arrow-shape': 'triangle',
             'target-arrow-color': '#FF0000',
             'arrow-scale': 1.2,
             'opacity' : 0.5
@@ -138,8 +166,6 @@ function update_graph() {
             bigtraders.push(country)
         }
     });
-
-    console.log(bigtraders)
 
     let origin_country = countries.find(x => find_by_ISO(x, stories[current_story].ISO3));
     let origin_coords = projection([origin_country.long, origin_country.lat]);
