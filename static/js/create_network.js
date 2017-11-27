@@ -37,17 +37,15 @@ function get_trades_total() {
     return total_trades;
 }
 
-function get_min_max_values() {
+function min_max_bigtraders() {
     min = Number.MAX_SAFE_INTEGER;
     max = 0;
 
 
-// TODO DEbug
-    console.log(big_traders.forEach(function(ISO) {
+    big_traders.forEach(function(ISO) {
         stories_data[current_story]
-            .filter(x => x.ISO3 == ISO)
-            .map(x => parseInt(x.Value))}))
-            /*
+            .filter(x => x.PartnerISO == ISO)
+            .map(x => parseInt(x.Value))
             .forEach(function(value) {
                 if (value > max) {
                     max = value;
@@ -55,25 +53,15 @@ function get_min_max_values() {
                 if (value < min) {
                     min = value;
                 }
-            });
-            */
-
-    //});
+            })
+    })
 
     return [min, max];
 
 }
 
 
-
-
-let arrow_weight_scale = d3.scaleLinear()
-    .domain([20000000, 500000000])
-    .range([1,15]);
-
-
-function set_arrow_weight(ISO) {
-
+function get_arrow_weight(ISO) {
     let country = countries.find(x => find_by_ISO(x, ISO));
     let weight = arrow_weight_scale(country.trade_value);
     return weight;
@@ -105,12 +93,13 @@ let cy = cytoscape({
         {
           selector: 'edge',
           style: {
-            'line-color': '#FF0000',
+            'line-color': function(elem) {
+                return stories[current_story].color;
+            },
     //        'label' : 'data(id)',
             'width': function(elem){
-                return set_arrow_weight(elem.target().id());
+                return get_arrow_weight(elem.target().id());
             },
-    //        'width':  function( ele ){ return 0.4},
             'curve-style': 'unbundled-bezier',
             'control-point-distances': function(e){
                 return get_control_point_distance(e.source().position(),
@@ -119,9 +108,11 @@ let cy = cytoscape({
             'control-point-weights': '0.5',
             'edge-distances': 'node-position',
             'target-arrow-shape': 'triangle',
-            'target-arrow-color': '#FF0000',
+            'target-arrow-color': function(elem) {
+                return stories[current_story].color;
+            },
             'arrow-scale': 1.2,
-            'opacity' : 0.5
+            'opacity' : 1
             }
           },
 
