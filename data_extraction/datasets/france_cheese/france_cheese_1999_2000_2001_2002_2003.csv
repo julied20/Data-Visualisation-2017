@@ -1,0 +1,772 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,502453535,,502453535,,1866854291,,,6
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,43600,,43600,,150110,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,37800,,37800,,86856,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1577500,,1577500,,4021802,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,857600,,857600,,4943229,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,113100,,113100,,443720,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1200,,1200,,16994,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,26500,,26500,,124619,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,900800,,900800,,4504229,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2874100,,2874100,,10879635,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,35000,,35000,,131228,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,348200,,348200,,1353818,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,100,,100,,944,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,300,,300,,1888,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,68002600,,68002600,,253300816,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,15200,,15200,,64198,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,225900,,225900,,1270738,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,12500,,12500,,47204,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,360100,,360100,,1379308,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2300,,2300,,9441,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,12000,,12000,,115178,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,198200,,198200,,797752,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,4860800,,4860800,,29730178,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,15800,,15800,,65142,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,42300,,42300,,135948,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,37800,,37800,,196370,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,82000,,82000,,484316,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,18700,,18700,,97241,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,175,Mayotte,MYT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,180931,,180931,,757156,,,6
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,92300,,92300,,318157,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,300,,300,,1888,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,14700,,14700,,60421,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,44300,,44300,,272841,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,82200,,82200,,314380,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,423700,,423700,,1833413,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,753700,,753700,,3450630,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,149500,,149500,,537184,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,8293400,,8293400,,25179689,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,84100,,84100,,300219,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,15200,,15200,,40596,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1900,,1900,,7553,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,11000,,11000,,64198,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,234,Faeroe Isds,FRO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,700,,700,,4720,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1167600,,1167600,,4474963,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,817900,,817900,,4086000,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,643,,643,,5665,,,6
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,121100,,121100,,502253,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,279300,,279300,,1117797,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,11300,,11300,,41540,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,111295300,,111295300,,475120177,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,59700,,59700,,245462,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2400,,2400,,13217,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2420200,,2420200,,12443983,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1400,,1400,,6609,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,14800,,14800,,78359,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,49900,,49900,,185041,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,328,Guyana,GUY,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,400,,400,,944,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,279300,,279300,,1375532,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,279600,,279600,,1711626,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,236000,,236000,,1207485,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,3100,,3100,,30211,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,147400,,147400,,747715,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,88200,,88200,,204866,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,4423100,,4423100,,8524143,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,445800,,445800,,2004292,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,50678000,,50678000,,162502505,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,358700,,358700,,1603056,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,30400,,30400,,119899,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,7120400,,7120400,,43162618,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2200,,2200,,27378,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1462200,,1462200,,3837705,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,18400,,18400,,73639,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,600,,600,,4720,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,248300,,248300,,1189547,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,414,Kuwait,KWT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2566800,,2566800,,10260315,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1000,,1000,,5665,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,4221500,,4221500,,14109349,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,36100,,36100,,159550,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,15800,,15800,,53813,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2717400,,2717400,,6834231,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,86600,,86600,,367249,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,17694700,,17694700,,63356595,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,42300,,42300,,191649,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,68800,,68800,,377634,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,11800,,11800,,67030,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,113949,,113949,,729778,,,6
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,261900,,261900,,1002618,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,20300,,20300,,58533,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,547700,,547700,,2293182,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,240300,,240300,,999786,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,127900,,127900,,667468,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,613000,,613000,,2009013,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,9900,,9900,,33043,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,940100,,940100,,2463118,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2200,,2200,,9441,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,28392500,,28392500,,72901293,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,188800,,188800,,1003562,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2700,,2700,,9441,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,742400,,742400,,3772563,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,500,,500,,3776,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,50700,,50700,,260567,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,16200,,16200,,65142,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,21200,,21200,,74583,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,886600,,886600,,5745701,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,581,United States Minor Outlying Islands,UMI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,300,,300,,1888,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,66893,,66893,,174656,,,6
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,15200,,15200,,74583,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,83700,,83700,,362529,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,54700,,54700,,311548,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,758800,,758800,,3710254,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,5728800,,5728800,,14181100,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,3100,,3100,,8497,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,556400,,556400,,2226152,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,233500,,233500,,1089474,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1797200,,1797200,,6445268,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,400,,400,,3776,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,16000,,16000,,79303,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,51200,,51200,,315324,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1200,,1200,,7553,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,10777187,,10777187,,38402542,,,6
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,607900,,607900,,2251643,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,4800,,4800,,41540,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,17300,,17300,,60421,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,3900,,3900,,30211,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,456400,,456400,,2438571,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,47800,,47800,,257735,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,805700,,805700,,3391153,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,46000,,46000,,234133,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,287000,,287000,,1338712,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,42500500,,42500500,,140063495,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,736,Fmr Sudan,SDN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,23900,,23900,,84968,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,300,,300,,944,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,5384031,,5384031,,20397899,,,6
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,10732800,,10732800,,63779545,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,10800,,10800,,44372,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,45700,,45700,,292666,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,25200,,25200,,80247,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1000,,1000,,4720,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2688500,,2688500,,9879849,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,39300,,39300,,160494,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,166400,,166400,,754324,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,700,,700,,7553,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,71000,,71000,,191649,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,134600,,134600,,638201,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,785700,,785700,,3016351,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,64797600,,64797600,,193200370,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,16944400,,16944400,,87336352,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,60200,,60200,,239798,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,900,,900,,10385,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,172500,,172500,,847788,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,7400,,7400,,44372,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1784200,,1784200,,3861307,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,891,Serbia and Montenegro,SCG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,52400,,52400,,228469,,,0
+H2,2002,2002,2002,4,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,46900,,46900,,219028,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,539028879,,539028879,,2363087291,,,6
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,54300,,54300,,249010,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,57600,,57600,,142615,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,800,,800,,3396,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,490500,,490500,,1892474,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,814800,,814800,,5565367,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,84400,,84400,,447086,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,12100,,12100,,63384,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,37500,,37500,,238823,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,812700,,812700,,5125072,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2986900,,2986900,,13732885,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,33500,,33500,,152801,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,319200,,319200,,1440861,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,67621300,,67621300,,314449443,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,13000,,13000,,79230,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,30600,,30600,,97340,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,222700,,222700,,1385399,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2900,,2900,,11319,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,400,,400,,2264,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,277000,,277000,,1295982,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,3100,,3100,,44143,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,163000,,163000,,784381,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,4798200,,4798200,,34655358,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,8600,,8600,,52066,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,100,,100,,1132,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,70800,,70800,,310130,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,33300,,33300,,182230,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,70500,,70500,,593096,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,7800,,7800,,50934,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1300,,1300,,5659,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,175,Mayotte,MYT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,142500,,142500,,725524,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,67500,,67500,,295416,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,14900,,14900,,78098,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,280600,,280600,,688172,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,70400,,70400,,339559,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,406800,,406800,,2108659,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,718300,,718300,,3874364,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,151700,,151700,,690436,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,9433800,,9433800,,33206575,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,31300,,31300,,138087,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,222,El Salvador,SLV,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1900,,1900,,7923,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,20400,,20400,,63384,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,300,,300,,5659,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,232,Eritrea,ERI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,100,,100,,2264,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,12400,,12400,,93945,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,234,Faeroe Isds,FRO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1000,,1000,,6791,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1243500,,1243500,,6119979,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,892700,,892700,,5294852,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,400,,400,,4527,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,129300,,129300,,603283,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,332700,,332700,,1317488,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,268,Georgia,GEO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,28500,,28500,,91681,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,8600,,8600,,37351,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,275,State of Palestine,PSE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,97100,,97100,,198076,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,119259600,,119259600,,616679301,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,58000,,58000,,277306,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,4200,,4200,,27165,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2623000,,2623000,,16367860,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,100,,100,,1132,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,22800,,22800,,124505,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,18200,,18200,,101868,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,328,Guyana,GUY,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,5900,,5900,,26033,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,163600,,163600,,812677,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,325900,,325900,,2186758,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,185200,,185200,,1154499,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1400,,1400,,23769,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,150800,,150800,,828523,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,173600,,173600,,573854,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,5031800,,5031800,,11129602,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,404000,,404000,,1976231,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,51849500,,51849500,,198261519,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,334800,,334800,,1586871,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,29200,,29200,,199208,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,7913500,,7913500,,52253553,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,44800,,44800,,162988,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,610500,,610500,,1855122,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,10700,,10700,,54329,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,328200,,328200,,2065649,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,414,Kuwait,KWT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2137900,,2137900,,9501984,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,700,,700,,4527,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,4236600,,4236600,,15087724,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,40200,,40200,,210526,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,19200,,19200,,54329,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1744200,,1744200,,5269951,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,136700,,136700,,754952,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,21106800,,21106800,,93202065,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,3300,,3300,,21505,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,65400,,65400,,279570,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,48700,,48700,,363328,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,4200,,4200,,24901,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,111700,,111700,,788908,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,250300,,250300,,1208829,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,19400,,19400,,83758,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,519300,,519300,,2651953,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,220500,,220500,,1333334,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,108900,,108900,,728919,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,592500,,592500,,2478778,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,15200,,15200,,78098,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1526500,,1526500,,4659877,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,4600,,4600,,23769,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,29914400,,29914400,,85858543,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,218200,,218200,,1370685,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,3800,,3800,,16978,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,739900,,739900,,4453878,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2000,,2000,,16978,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,42500,,42500,,281834,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,26500,,26500,,118846,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2600,,2600,,18110,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,568,"Other Europe, nes",,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,15100,,15100,,27165,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1040900,,1040900,,7902662,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,54500,,54500,,150538,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,26000,,26000,,147142,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,70500,,70500,,358800,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,60400,,60400,,586305,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,570900,,570900,,3230335,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,5949400,,5949400,,18812682,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,500,,500,,2264,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,450100,,450100,,1907188,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,480700,,480700,,1954726,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,3474300,,3474300,,13061690,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,12600,,12600,,73571,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,49800,,49800,,399547,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,600,,600,,5659,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1100,,1100,,7923,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,6802600,,6802600,,23583482,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,561600,,561600,,2533108,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2900,,2900,,22637,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,9400,,9400,,45274,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,5200,,5200,,70175,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,397100,,397100,,2577250,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,29900,,29900,,193548,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,965779,,965779,,4200341,,,6
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,58300,,58300,,284097,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,270200,,270200,,1653651,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,46478500,,46478500,,187165874,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,736,Fmr Sudan,SDN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,25300,,25300,,86022,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,700,,700,,2264,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,748,Swaziland,SWZ,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,300,,300,,2264,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,5449600,,5449600,,26070183,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,10741600,,10741600,,74779875,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,22500,,22500,,95076,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,35800,,35800,,261460,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,18400,,18400,,64516,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,776,Tonga,TON,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,4400,,4400,,10187,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,700,,700,,3396,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,2412200,,2412200,,10118849,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,226100,,226100,,796831,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,224300,,224300,,1018676,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,5300,,5300,,16978,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,400,,400,,5659,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,25500,,25500,,119977,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,117900,,117900,,672326,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,209800,,209800,,914545,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,83748100,,83748100,,278551300,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,19301400,,19301400,,114175473,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,58100,,58100,,267119,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,3900,,3900,,23769,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,42700,,42700,,297680,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,10900,,10900,,158461,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,1889900,,1889900,,4605547,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,891,Serbia and Montenegro,SCG,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,55100,,55100,,143747,,,0
+H2,2003,2003,2003,4,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,0406,Cheese and curd.,8,Weight in kilograms,,,31500,,31500,,143747,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,488496192,,488496192,,1952161792,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,108500,,108500,,229812,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,242199,,242199,,888418,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,815873,,815873,,4867634,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,64398,,64398,,219588,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,8999,,8999,,38301,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,327913,,327913,,1418157,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,722897,,722897,,3794846,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2809572,,2809572,,12213722,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,36511,,36511,,146879,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,388886,,388886,,1544262,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,8125,,8125,,25805,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,64467024,,64467024,,245355216,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,16199,,16199,,79688,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,500,,500,,7627,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,21601,,21601,,28239,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,277413,,277413,,1880382,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,11000,,11000,,37166,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1125,,1125,,11198,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,421460,,421460,,1051200,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4312,,4312,,41223,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,191210,,191210,,773024,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3943612,,3943612,,25199008,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,296,,296,,1298,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,9125,,9125,,39438,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,7875,,7875,,44631,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,55972,,55972,,266492,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,56768,,56768,,276067,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,20284,,20284,,93319,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,114686,,114686,,564955,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,31573,,31573,,142819,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2909,,2909,,24343,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,105475,,105475,,584919,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,76783,,76783,,339200,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,386870,,386870,,1637422,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1861326,,1861326,,5611933,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,90296,,90296,,376043,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,6813596,,6813596,,22372104,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,5284,,5284,,39437,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,13000,,13000,,53718,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,6597,,6597,,28564,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,23074,,23074,,79200,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,999595,,999595,,4346171,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,773982,,773982,,3716131,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,129006,,129006,,487701,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,238533,,238533,,956256,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,9124,,9124,,36192,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,131603008,,131603008,,598269248,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,66773,,66773,,272171,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3812,,3812,,22883,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2486788,,2486788,,12481513,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,5125,,5125,,34893,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,79901,,79901,,183558,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,333510,,333510,,1648944,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,323624,,323624,,2064751,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,115424,,115424,,595144,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,8499,,8499,,72871,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,99397,,99397,,495980,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,364,Iran,IRN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,898,,898,,7627,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2279625,,2279625,,5922572,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3653108,,3653108,,8333667,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,374771,,374771,,1698769,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,52539832,,52539832,,188827200,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,389011,,389011,,1671990,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,699,,699,,3245,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,5398124,,5398124,,34268860,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1687,,1687,,25480,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2883806,,2883806,,8132579,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,10125,,10125,,50474,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,67280,,67280,,392110,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,414,Kuwait,KWT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2455937,,2455937,,9806034,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,6955949,,6955949,,25111368,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,17597,,17597,,106953,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,29800,,29800,,79363,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4363011,,4363011,,12017829,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,34499,,34499,,138438,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2195698,,2195698,,10078368,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,111400,,111400,,426679,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,43207,,43207,,246366,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1500,,1500,,9737,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,45272,,45272,,219425,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,297374,,297374,,1261216,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,38511,,38511,,94131,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,472722,,472722,,2022065,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,290498,,290498,,1399654,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,158307,,158307,,407691,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,201074,,201074,,858391,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,10217,,10217,,38789,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1765034,,1765034,,5215113,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4500,,4500,,21423,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,27555912,,27555912,,86891664,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,150096,,150096,,754196,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,775881,,775881,,4157906,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,398,,398,,2759,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,28386,,28386,,147203,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,558,Nicaragua,NIC,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,296,,296,,4868,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,19000,,19000,,76278,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,35187,,35187,,154345,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,693085,,693085,,4729032,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,48897,,48897,,134544,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,10875,,10875,,66217,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,67874,,67874,,308851,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,34312,,34312,,243607,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,731897,,731897,,2680670,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3366222,,3366222,,9560639,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,547324,,547324,,2146551,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,305499,,305499,,889715,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,503712,,503712,,1952603,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,296,,296,,2434,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,34904,,34904,,182582,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,48369,,48369,,298625,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,5472,,5472,,26941,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,15764630,,15764630,,55591876,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,490500,,490500,,1793226,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3687,,3687,,28239,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,27886,,27886,,94781,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,9312,,9312,,41061,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,398708,,398708,,2333842,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,68924,,68924,,228514,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,539459,,539459,,2079033,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,31250,,31250,,154343,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,711,So. African Customs Union,ZAF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,378710,,378710,,1782353,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,97,,97,,1460,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,30837396,,30837396,,112519136,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4404561,,4404561,,19481256,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,11296476,,11296476,,71564416,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,14312,,14312,,48526,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,22386,,22386,,141198,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,20612,,20612,,96728,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3608100,,3608100,,12855285,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,82500,,82500,,597256,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,214670,,214670,,1139978,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,43709,,43709,,85529,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,102796,,102796,,536393,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2704273,,2704273,,8670110,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,58471992,,58471992,,190452608,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,12128311,,12128311,,68467776,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,39483,,39483,,125131,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,14097,,14097,,80336,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,108800,,108800,,561224,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1291,,1291,,5679,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2719175,,2719175,,7962169,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,891,Serbia and Montenegro,SCG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,21699,,21699,,26454,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,24205,,24205,,198324,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,512350017,,512350017,,1781175149,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,77600,,77600,,146073,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,805300,,805300,,1930975,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,804600,,804600,,4402421,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,62500,,62500,,193687,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1500,,1500,,15169,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,377200,,377200,,1576748,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,855700,,855700,,3892148,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2969171,,2969171,,10503083,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,37700,,37700,,128797,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,344600,,344600,,1390926,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,200,,200,,1685,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1300,,1300,,4775,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,66876028,,66876028,,220073004,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,16500,,16500,,63064,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,100,,100,,983,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,296000,,296000,,1712427,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,20200,,20200,,70649,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1800,,1800,,16574,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,302100,,302100,,939363,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,7500,,7500,,54777,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,164500,,164500,,585276,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4438400,,4438400,,26624224,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,7000,,7000,,22051,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3900,,3900,,12781,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,8000,,8000,,41013,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,84700,,84700,,320518,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,90700,,90700,,369116,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,23600,,23600,,107869,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1000,,1000,,3933,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,175,Mayotte,MYT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,173900,,173900,,689353,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,72900,,72900,,265319,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,10900,,10900,,26406,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4300,,4300,,31602,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,82200,,82200,,392853,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,52800,,52800,,208857,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,374330,,374330,,1338817,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1080900,,1080900,,3471064,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,112600,,112600,,400718,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,8277711,,8277711,,22089495,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1560,,1560,,5337,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,56000,,56000,,190457,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,27800,,27800,,215598,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,15800,,15800,,37923,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,30800,,30800,,109134,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1088607,,1088607,,3866164,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,722900,,722900,,3111640,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,81000,,81000,,303102,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,316200,,316200,,920542,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,25200,,25200,,58429,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,275,State of Palestine,PSE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,12000,,12000,,36378,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,134042877,,134042877,,521516912,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,50800,,50800,,175709,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4400,,4400,,21630,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2609574,,2609574,,11520398,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,100,,100,,843,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,7000,,7000,,42558,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,50200,,50200,,125286,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,256600,,256600,,1274488,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,266300,,266300,,1656947,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,170900,,170900,,815903,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,6600,,6600,,51126,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,128700,,128700,,551707,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,59700,,59700,,147759,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2711448,,2711448,,5303159,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,332100,,332100,,1424494,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,55542037,,55542037,,170072156,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,359300,,359300,,1385027,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,6394900,,6394900,,38813328,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1600,,1600,,13905,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3563100,,3563100,,9647291,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,5400,,5400,,20787,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,800,,800,,4354,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,106400,,106400,,508868,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,414,Kuwait,KWT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2430200,,2430200,,10218380,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,200,,200,,843,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,6567700,,6567700,,22543726,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,15500,,15500,,77953,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,10400,,10400,,34973,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3949700,,3949700,,9603047,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,30400,,30400,,124864,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2006174,,2006174,,7900171,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,82900,,82900,,307456,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,73700,,73700,,345098,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,7500,,7500,,26686,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,31300,,31300,,122196,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,308700,,308700,,1088667,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,10634,,10634,,42839,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,527100,,527100,,2005416,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,233700,,233700,,1207772,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,148300,,148300,,706629,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,500,,500,,1545,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,220300,,220300,,922508,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,24700,,24700,,70930,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2323000,,2323000,,6571607,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,516,Namibia,NAM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,200,,200,,1545,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2934,,2934,,13203,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,33351737,,33351737,,89557464,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,197100,,197100,,871664,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2100,,2100,,11658,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,764100,,764100,,3468536,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,300,,300,,2107,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,38500,,38500,,175428,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,18400,,18400,,68402,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,32500,,32500,,110257,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,568,"Other Europe, nes",,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1100,,1100,,5056,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,763700,,763700,,4511133,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,59100,,59100,,142983,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,11600,,11600,,59974,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,63000,,63000,,263353,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,37100,,37100,,225571,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1743400,,1743400,,6158670,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4805800,,4805800,,10458278,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,5700,,5700,,12781,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,546200,,546200,,2207390,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,268500,,268500,,796239,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,854200,,854200,,3125545,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,34400,,34400,,183434,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,43000,,43000,,237509,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4500,,4500,,23877,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,900,,900,,2809,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,16424100,,16424100,,57617019,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,540000,,540000,,1800633,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,8300,,8300,,49440,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,18200,,18200,,54637,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,29000,,29000,,50704,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,446900,,446900,,2299950,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,112600,,112600,,350154,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,611600,,611600,,1754704,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,50000,,50000,,220233,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,376300,,376300,,1647256,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,36732738,,36732738,,112896446,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,736,Fmr Sudan,SDN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2000,,2000,,7023,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4075348,,4075348,,15980686,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,10911500,,10911500,,62497970,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,19900,,19900,,69244,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,44300,,44300,,213070,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,17800,,17800,,72896,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2300,,2300,,10253,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2747800,,2747800,,10204616,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,63400,,63400,,300293,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,257600,,257600,,1215216,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,300,,300,,1826,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,55200,,55200,,184136,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,214200,,214200,,962959,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1259500,,1259500,,4568439,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,60388900,,60388900,,167863641,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,13420800,,13420800,,65575479,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,30300,,30300,,81043,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,8800,,8800,,46912,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,131208,,131208,,655503,,,6
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2500,,2500,,13624,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2445800,,2445800,,6498711,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,891,Serbia and Montenegro,SCG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,139900,,139900,,152253,,,0
+H1,2000,2000,2000,4,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,137600,,137600,,572073,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,522519003,,522519003,,1773710204,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,38600,,38600,,85960,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1100,,1100,,4477,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1290700,,1290700,,3369446,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,829600,,829600,,4434094,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,143700,,143700,,437858,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1500,,1500,,6268,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,249100,,249100,,1012714,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,698500,,698500,,3460778,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2513143,,2513143,,9088460,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,30500,,30500,,115509,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,457800,,457800,,1669949,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,243,,243,,895,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,900,,900,,2686,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,68260600,,68260600,,230096537,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,11500,,11500,,43875,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,443,,443,,4477,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2900,,2900,,16117,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,289000,,289000,,1546381,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,258300,,258300,,973316,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,7100,,7100,,54620,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,191800,,191800,,698424,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4548000,,4548000,,26761263,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,8700,,8700,,34026,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,6000,,6000,,25072,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,5400,,5400,,31340,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,53200,,53200,,208632,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,61200,,61200,,239076,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,19100,,19100,,97600,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1000,,1000,,6268,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,175,Mayotte,MYT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,196800,,196800,,741403,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,79900,,79900,,280265,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4600,,4600,,33130,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,73700,,73700,,368911,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,78000,,78000,,345630,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,430600,,430600,,1578616,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,676900,,676900,,2627147,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,128700,,128700,,430695,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,9379400,,9379400,,24214703,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,10700,,10700,,55516,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,32600,,32600,,119986,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,13800,,13800,,42980,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,500,,500,,3582,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,5700,,5700,,38503,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1058800,,1058800,,3820735,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,761100,,761100,,3396308,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,53200,,53200,,221167,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,245843,,245843,,839004,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,15200,,15200,,52829,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,275,State of Palestine,PSE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,25000,,25000,,70738,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,121239200,,121239200,,462770078,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,58400,,58400,,234599,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2100,,2100,,13431,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2256900,,2256900,,10182657,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,300,,300,,895,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,7900,,7900,,46562,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,35500,,35500,,103868,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,359600,,359600,,1743373,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,307500,,307500,,1771131,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,188200,,188200,,925859,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,6100,,6100,,44771,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,116148,,116148,,566798,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,364,Iran,IRN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,100,,100,,895,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,64000,,64000,,151325,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3464500,,3464500,,6483699,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,414200,,414200,,1814110,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,57164400,,57164400,,174418748,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,348400,,348400,,1367298,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1200,,1200,,5372,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,7048200,,7048200,,36846320,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,200,,200,,1791,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2306600,,2306600,,6127324,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,23400,,23400,,89541,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2100,,2100,,14327,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,160900,,160900,,683202,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,414,Kuwait,KWT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2399200,,2399200,,10063567,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1400,,1400,,8954,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,5239396,,5239396,,18337200,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,9400,,9400,,36712,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,14900,,14900,,43875,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2855200,,2855200,,7140933,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,46100,,46100,,222958,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,16077900,,16077900,,53512676,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,300,,300,,895,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,63600,,63600,,255193,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,79300,,79300,,363538,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,6500,,6500,,33130,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,88600,,88600,,457557,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,264000,,264000,,867657,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,13843,,13843,,54620,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,589900,,589900,,2309275,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,79800,,79800,,397564,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,109500,,109500,,573961,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,642600,,642600,,2066617,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,7800,,7800,,26862,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2314300,,2314300,,6103147,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2800,,2800,,12536,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,32731700,,32731700,,85627624,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,180900,,180900,,841690,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1200,,1200,,3582,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,769600,,769600,,3619267,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,200,,200,,895,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,32600,,32600,,164756,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,19900,,19900,,67156,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,32200,,32200,,112822,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,764300,,764300,,4341866,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,54100,,54100,,135208,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,13400,,13400,,71633,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,65300,,65300,,266834,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,51200,,51200,,268624,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,579400,,579400,,2543874,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,5457300,,5457300,,12457906,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,3800,,3800,,9850,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,644600,,644600,,2458809,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,169400,,169400,,706482,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,849829,,849829,,3392727,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,28000,,28000,,127149,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,38200,,38200,,245344,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1500,,1500,,7163,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1500,,1500,,5372,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,14304100,,14304100,,50804046,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,545500,,545500,,1868731,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,14600,,14600,,54620,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,16800,,16800,,51039,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,13000,,13000,,42980,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,417200,,417200,,2080944,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,103000,,103000,,351898,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,677300,,677300,,1943946,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,47230,,47230,,247134,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,386400,,386400,,1652936,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,42748900,,42748900,,126492565,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,736,Fmr Sudan,SDN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,300,,300,,2686,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,4991500,,4991500,,17911878,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,10704100,,10704100,,56665431,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,14400,,14400,,47457,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,37900,,37900,,215795,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,30000,,30000,,93123,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,776,Tonga,TON,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,800,,800,,8059,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1200,,1200,,5372,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2734743,,2734743,,10038496,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,15600,,15600,,87751,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,140800,,140800,,627686,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,33500,,33500,,90437,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,139600,,139600,,609777,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1176600,,1176600,,4229044,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,63846900,,63846900,,170940062,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,13721200,,13721200,,66450525,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,45500,,45500,,171920,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1500,,1500,,12536,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,1000,,1000,,6268,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,402000,,402000,,1816797,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2700,,2700,,13431,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,2602600,,2602600,,6226715,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,891,Serbia and Montenegro,SCG,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,84500,,84500,,154907,,,0
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,894,Zambia,ZMB,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,243,,243,,895,,,6
+H1,2001,2001,2001,4,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,0406,Cheese and curd,8,Weight in kilograms,,,292600,,292600,,1110314,,,0
