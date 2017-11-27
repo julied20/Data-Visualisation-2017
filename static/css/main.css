@@ -16,7 +16,7 @@
 }
 
 #tooltip_bar {
-    height: 80%;
+    height: 100%;
 }
 
 #tooltip_canvas {
@@ -24,7 +24,7 @@
 }
 
 #tooltip_infos {
-    height: 20%;
+    height: 0%;
 }
 
 #tooltip_infos p {
