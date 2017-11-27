@@ -35,6 +35,20 @@ let stories = [
         "BOL",
         "rgba(147, 159, 92, 1)"
     ),
+    new Story(
+        "Switzerland",
+        "Chocolate",
+        "datasets/switzerland_chocolate_clean.csv",
+        "CHE",
+        "rgba(112, 74, 44, 1)"
+    ),
+    new Story(
+        "China",
+        "Tea",
+        "datasets/china_tea_clean.csv",
+        "CHN",
+        "rgba(63, 191, 63, 1)"
+    ),
 ];
 
 // Global variables

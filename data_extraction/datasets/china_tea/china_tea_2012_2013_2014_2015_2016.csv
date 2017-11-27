@@ -1,0 +1,636 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,313483727,,313483727,,1042115632,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,974852,,974852,,2463056,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,8,Albania,ALB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,99000,,99000,,454140,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,14393685,,14393685,,46811334,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,62650,,62650,,311442,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3800,,3800,,9120,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,157015,,157015,,395366,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1662382,,1662382,,15454972,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,9086,,9086,,52139,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1919004,,1919004,,7113091,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3040,,3040,,18240,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,500,,500,,2098,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,184042,,184042,,513946,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,90,,90,,3515,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1000,,1000,,1600,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2577053,,2577053,,9023140,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,162446,,162446,,711377,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4161,,4161,,51083,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,7754794,,7754794,,11433254,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1244780,,1244780,,7600309,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3087483,,3087483,,8127930,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,250400,,250400,,448108,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,226550,,226550,,1395518,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,79302,,79302,,1259402,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,84000,,84000,,399444,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3996,,3996,,35473,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4697,,4697,,158045,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3442850,,3442850,,7669261,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,136067,,136067,,501941,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,8758,,8758,,359155,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,34562,,34562,,70267,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,126,,126,,3472,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,244760,,244760,,1150012,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3773695,,3773695,,19066490,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,190590,,190590,,829449,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,268,Georgia,GEO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,84946,,84946,,252818,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4630706,,4630706,,17799303,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,9278232,,9278232,,33052208,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5735105,,5735105,,17560524,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1100,,1100,,8065,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,36295,,36295,,133994,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,320,Guatemala,GTM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,50,,50,,4608,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4464342,,4464342,,13895168,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,340,Honduras,HND,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2080,,2080,,47937,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10213904,,10213904,,58432835,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10684,,10684,,51480,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,514154,,514154,,1398134,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6962206,,6962206,,15209028,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,368,Iraq,IRQ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,45,,45,,1613,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15757,,15757,,146666,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,204769,,204769,,486714,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,76296,,76296,,567633,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1593086,,1593086,,6182965,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,388,Jamaica,JAM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1858,,1858,,17520,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,17319884,,17319884,,57679876,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1128162,,1128162,,2430585,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15390,,15390,,70062,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10,,10,,173,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,221573,,221573,,2300237,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,920,,920,,8427,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,985309,,985309,,1877934,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,27117,,27117,,109159,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,398,,398,,12039,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,420000,,420000,,614120,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5002580,,5002580,,12340595,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,78412,,78412,,286087,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,311014,,311014,,2880991,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,454,Malawi,MWI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,80,,80,,3344,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1760058,,1760058,,10783061,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6464580,,6464580,,24290023,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12512646,,12512646,,48921593,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4493,,4493,,33349,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,178838,,178838,,1246321,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,631112,,631112,,8660237,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1569691,,1569691,,1645914,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,55763009,,55763009,,182566642,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,24,,24,,2493,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5086,,5086,,72577,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1817488,,1817488,,6102360,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,250257,,250257,,1110607,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3803650,,3803650,,13235603,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,194325,,194325,,312263,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,11335,,11335,,155574,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4878062,,4878062,,6922734,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,105927,,105927,,490806,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,21900,,21900,,178616,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,71113,,71113,,638799,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1826965,,1826965,,12500952,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,88300,,88300,,308545,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,7949,,7949,,38716,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,60046,,60046,,168343,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15298049,,15298049,,51347897,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1040080,,1040080,,3895016,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,7767433,,7767433,,31112380,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,688,Serbia,SRB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,17300,,17300,,39219,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,117400,,117400,,204762,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,586144,,586144,,1423910,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1903795,,1903795,,8226581,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,703,Slovakia,SVK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2354,,2354,,25174,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,94532,,94532,,3993022,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,117517,,117517,,1360900,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,716,Zimbabwe,ZWE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,213,,213,,11200,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1110883,,1110883,,2605445,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,728,South Sudan,SSD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15,,15,,170,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,729,Sudan,SDN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,63520,,63520,,121459,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,11005,,11005,,151208,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,84723,,84723,,408117,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,78906,,78906,,532115,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,254092,,254092,,588425,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2128130,,2128130,,4008756,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2019311,,2019311,,6727349,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12178132,,12178132,,44397628,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,753621,,753621,,2732095,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3278404,,3278404,,5082742,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,414681,,414681,,892896,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2938008,,2938008,,5222722,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2735782,,2735782,,8483666,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1405289,,1405289,,2857351,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1883661,,1883661,,6182711,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,24320660,,24320660,,85906276,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,592500,,592500,,1676249,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2864,,2864,,93060,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,25856342,,25856342,,51140762,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,47103,,47103,,207767,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,882,Samoa,WSM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15600,,15600,,24648,,,0
+H4,2012,2012,2012,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,221144,,221144,,285795,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,325806269,,325806269,,1246307778,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2079650,,2079650,,5501478,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,13356217,,13356217,,48768650,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,123450,,123450,,618905,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,98207,,98207,,270425,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,153355,,153355,,352717,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1404916,,1404916,,16444246,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,147,,147,,3906,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,50,Bangladesh,BGD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,336,,336,,2525,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3251273,,3251273,,13659940,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,194332,,194332,,493879,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10800,,10800,,21360,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2157190,,2157190,,8070721,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,62219,,62219,,458438,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4216,,4216,,51607,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,8695740,,8695740,,12193547,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1390781,,1390781,,10637764,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10500,,10500,,52500,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2561314,,2561314,,6746588,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1139305,,1139305,,2083579,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,209498,,209498,,1422607,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,44301,,44301,,631871,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,120216,,120216,,518865,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6863,,6863,,38867,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,53554,,53554,,823851,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5288061,,5288061,,12312160,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,137428,,137428,,558243,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,212,Dominica,DMA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,63,,63,,2455,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,173,,173,,12053,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,32507,,32507,,73222,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,31600,,31600,,138178,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,231,Ethiopia,ETH,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10,,10,,161,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,198314,,198314,,642000,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3903957,,3903957,,20401335,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,30,,30,,424,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,164324,,164324,,863499,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,268,Georgia,GEO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,59600,,59600,,135924,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,7149615,,7149615,,27194076,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10114505,,10114505,,42050676,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5774980,,5774980,,21830119,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,29854,,29854,,154638,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,308,Grenada,GRD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,13,,13,,14,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2696865,,2696865,,7751862,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,9759368,,9759368,,83086849,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,28724,,28724,,140912,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,222471,,222471,,598654,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4501056,,4501056,,13630839,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,368,Iraq,IRQ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,8114,,8114,,45098,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,14374,,14374,,77789,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,165208,,165208,,530820,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,54156,,54156,,385385,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2228280,,2228280,,8298530,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,388,Jamaica,JAM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1856,,1856,,22439,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,17551544,,17551544,,66444179,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,580150,,580150,,1136041,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,52231,,52231,,110867,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,140608,,140608,,190638,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,293458,,293458,,3148899,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6500,,6500,,35024,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,747804,,747804,,1462585,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,41420,,41420,,91142,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,287740,,287740,,407861,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4486260,,4486260,,11766306,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,93122,,93122,,362402,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,293320,,293320,,1442479,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2140597,,2140597,,19154189,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,7571500,,7571500,,31167045,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,18189520,,18189520,,73845049,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10656,,10656,,81645,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,221721,,221721,,1614165,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1015603,,1015603,,16322047,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1671093,,1671093,,1904358,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,61190976,,61190976,,211570552,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,9,,9,,945,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,93,,93,,8672,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1624350,,1624350,,6377603,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,257185,,257185,,1159245,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3812270,,3812270,,15115463,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,120704,,120704,,209516,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6363991,,6363991,,9888102,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,31288,,31288,,469000,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3854,,3854,,61672,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,23265,,23265,,182997,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,66219,,66219,,1030160,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1432955,,1432955,,8708690,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,138700,,138700,,521090,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1109,,1109,,6712,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,16402,,16402,,84455,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,13525902,,13525902,,52637217,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,959861,,959861,,4159861,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10218980,,10218980,,44664864,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,688,Serbia,SRB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,47790,,47790,,79287,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,188800,,188800,,326270,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,532196,,532196,,1662353,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2150280,,2150280,,10261053,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,703,Slovakia,SVK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,100,,100,,3600,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,768308,,768308,,22532938,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,705,Slovenia,SVN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,45,,45,,420,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,706,Somalia,SOM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5300,,5300,,18550,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,149755,,149755,,1092496,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1759101,,1759101,,4703739,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,729,Sudan,SDN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,72790,,72790,,145014,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6180,,6180,,70142,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,57941,,57941,,272074,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5925,,5925,,170478,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,54810,,54810,,103243,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1818986,,1818986,,4140130,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2293707,,2293707,,11383372,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12188819,,12188819,,50286597,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1240140,,1240140,,4651635,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2481904,,2481904,,4448429,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,210668,,210668,,361459,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2262198,,2262198,,4881586,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3224629,,3224629,,10853787,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1504265,,1504265,,3093862,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2041534,,2041534,,7486971,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,834,United Rep. of Tanzania,TZA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,745,,745,,15638,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,22077681,,22077681,,90719761,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,328000,,328000,,1207857,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2087,,2087,,22998,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,23415133,,23415133,,52838185,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,21964,,21964,,86416,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,882,Samoa,WSM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15600,,15600,,24648,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2000,,2000,,7390,,,0
+H4,2013,2013,2013,4,0,2,Export,156,China,CHN,894,Zambia,ZMB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,42,,42,,4473,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,301484187,,301484187,,1272663369,,,6
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4130975,,4130975,,10032326,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15010213,,15010213,,56190108,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,66208,,66208,,378085,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,16828,,16828,,49368,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,182700,,182700,,497516,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1775330,,1775330,,20842905,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3648,,3648,,28546,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,44,Bahamas,BHS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,183,,183,,2325,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2293447,,2293447,,10430339,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,142789,,142789,,738909,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,40,,40,,1692,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,11550,,11550,,21045,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1963511,,1963511,,14441493,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,32431,,32431,,165521,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4474,,4474,,51686,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,7099706,,7099706,,7007881,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1212736,,1212736,,12530401,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2365628,,2365628,,6281019,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,864135,,864135,,1559578,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,396677,,396677,,2971325,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,42583,,42583,,752102,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,97380,,97380,,535803,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6305,,6305,,58874,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4573,,4573,,72376,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5062943,,5062943,,9515190,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,31045,,31045,,137061,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5156,,5156,,245750,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,16416,,16416,,50318,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,20000,,20000,,99900,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,232,Eritrea,ERI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,90,,90,,657,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,113047,,113047,,464906,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3206320,,3206320,,19274821,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,164992,,164992,,859484,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,268,Georgia,GEO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,32161,,32161,,80076,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4438959,,4438959,,17974700,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12542484,,12542484,,48532108,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4248411,,4248411,,18332978,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1100,,1100,,8880,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,53951,,53951,,225085,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,320,Guatemala,GTM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,180,,180,,7181,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3027828,,3027828,,8615517,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,328,Guyana,GUY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4752,,4752,,15230,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10237855,,10237855,,110935055,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,14592,,14592,,102038,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,253386,,253386,,1305107,,,6
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2993612,,2993612,,13615804,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,368,Iraq,IRQ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6000,,6000,,27600,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,21034,,21034,,352077,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,195210,,195210,,496372,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,79527,,79527,,359517,,,6
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1826285,,1826285,,7187747,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,14550002,,14550002,,60638630,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,650804,,650804,,1365155,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,89374,,89374,,269593,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,88234,,88234,,160762,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,137838,,137838,,1982562,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10100,,10100,,65598,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,748897,,748897,,1453871,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,36163,,36163,,198604,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,231200,,231200,,296700,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3273786,,3273786,,10975588,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,99582,,99582,,360553,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,303454,,303454,,1766678,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2071016,,2071016,,29914747,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5277973,,5277973,,24416100,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,14096595,,14096595,,61791989,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,9458,,9458,,73568,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,181648,,181648,,1574331,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,269098,,269098,,4142078,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1097818,,1097818,,1379061,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,499,Montenegro,MNE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,31020,,31020,,37788,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,58996243,,58996243,,211522630,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,7223,,7223,,173277,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,516,Namibia,NAM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15,,15,,734,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,971837,,971837,,3836422,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,271554,,271554,,1239721,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3495960,,3495960,,14468192,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,95601,,95601,,171591,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,44900,,44900,,95942,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6352549,,6352549,,14443078,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,67093,,67093,,460076,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,23500,,23500,,85070,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,39188,,39188,,326912,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,58380,,58380,,414675,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1433751,,1433751,,5919557,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,82000,,82000,,343980,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,313,,313,,2615,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,57419,,57419,,206301,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,13933247,,13933247,,48863620,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1203943,,1203943,,6243322,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,13332028,,13332028,,59766269,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,688,Serbia,SRB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,57100,,57100,,94236,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,258000,,258000,,450989,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,669118,,669118,,2161540,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1351506,,1351506,,6993759,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,703,Slovakia,SVK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,210,,210,,8820,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1466384,,1466384,,30828273,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,705,Slovenia,SVN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2828,,2828,,21490,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,175920,,175920,,1241792,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1565820,,1565820,,4606521,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,729,Sudan,SDN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,18000,,18000,,45740,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,732,Western Sahara,ESH,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,59000,,59000,,262800,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,8628,,8628,,85887,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,33270,,33270,,162805,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,7724,,7724,,228239,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,217753,,217753,,950837,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1990303,,1990303,,3502446,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1754790,,1754790,,11001866,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,16892530,,16892530,,75434307,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,780,Trinidad and Tobago,TTO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,20,,20,,3703,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1057187,,1057187,,5061813,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2830218,,2830218,,4756823,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,314334,,314334,,776864,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2690611,,2690611,,5679733,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2368827,,2368827,,7914950,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1170365,,1170365,,2838366,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2351814,,2351814,,8789868,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15302852,,15302852,,83238026,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,320900,,320900,,1190563,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5536,,5536,,91962,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,16387677,,16387677,,38008572,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,20025,,20025,,52269,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,882,Samoa,WSM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,18400,,18400,,29072,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,74333,,74333,,236619,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,894,Zambia,ZMB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15,,15,,1497,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,324951045,,324951045,,1381530399,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2904435,,2904435,,7578401,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,14364765,,14364765,,52227274,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,86763,,86763,,421348,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,17030,,17030,,52424,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,315500,,315500,,794537,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2134993,,2134993,,25353151,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,200,,200,,2500,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,44,Bahamas,BHS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,130,,130,,2115,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,48,Bahrain,BHR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5758,,5758,,212135,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,50,Bangladesh,BGD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,160,,160,,3880,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,51,Armenia,ARM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,11000,,11000,,33319,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1269002,,1269002,,5518019,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,183251,,183251,,754649,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,40,,40,,2006,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,100674,,100674,,521288,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2524328,,2524328,,21031137,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,16236,,16236,,33329,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4924,,4924,,58110,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,7487745,,7487745,,6381795,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1341317,,1341317,,11896981,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,8000,,8000,,32000,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1827624,,1827624,,4595633,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1177028,,1177028,,1126609,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,396232,,396232,,3782765,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,53540,,53540,,991732,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,153760,,153760,,842082,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,58,,58,,2092,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12638,,12638,,77492,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,23543,,23543,,221466,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4564251,,4564251,,7816543,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5332,,5332,,118910,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,9513,,9513,,521025,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,27000,,27000,,61071,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,9541,,9541,,64970,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12900,,12900,,14190,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,19925,,19925,,159454,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5544404,,5544404,,29189313,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,20,,20,,1792,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,211092,,211092,,826278,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,268,Georgia,GEO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,67140,,67140,,128886,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4627250,,4627250,,18931570,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12465535,,12465535,,49645406,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,8628462,,8628462,,38672127,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,43894,,43894,,182476,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,320,Guatemala,GTM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,432,,432,,6802,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2632520,,2632520,,7178241,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10310312,,10310312,,116645803,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6996,,6996,,59436,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,179713,,179713,,620661,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2712852,,2712852,,9591614,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,368,Iraq,IRQ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5000,,5000,,9300,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,14826,,14826,,189250,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,229419,,229419,,657032,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,53071,,53071,,293615,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1628085,,1628085,,5513308,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,388,Jamaica,JAM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1856,,1856,,34132,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,13072813,,13072813,,56663596,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,497485,,497485,,1101693,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,103655,,103655,,529196,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,165000,,165000,,269917,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12210,,12210,,891310,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,97489,,97489,,818437,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,14609,,14609,,494848,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,615881,,615881,,1057430,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,40054,,40054,,549649,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,388,,388,,12956,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,298400,,298400,,431930,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5007040,,5007040,,14382957,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,85909,,85909,,314929,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,268293,,268293,,1426023,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2572366,,2572366,,30281213,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5888260,,5888260,,27797741,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12865730,,12865730,,55662356,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,9834,,9834,,75655,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,331483,,331483,,1929365,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,338544,,338544,,11163757,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1167510,,1167510,,1300653,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,499,Montenegro,MNE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,41200,,41200,,64444,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,64437537,,64437537,,226729067,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10800,,10800,,51648,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,33560,,33560,,2562922,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1225404,,1225404,,5254769,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,241973,,241973,,2149403,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2703808,,2703808,,11267561,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,123312,,123312,,322479,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6620302,,6620302,,20742620,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,36772,,36772,,369580,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,52555,,52555,,390600,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,62865,,62865,,518768,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2101019,,2101019,,5773538,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,70500,,70500,,288225,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,23076,,23076,,465647,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10080,,10080,,57964,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12770694,,12770694,,37196392,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1314714,,1314714,,9694981,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,17221319,,17221319,,75383012,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,688,Serbia,SRB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,94925,,94925,,117533,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,306200,,306200,,546290,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,680497,,680497,,2384895,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1095294,,1095294,,6114271,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2065753,,2065753,,60338630,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,705,Slovenia,SVN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4406,,4406,,23969,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,215639,,215639,,1900894,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2022448,,2022448,,5706007,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,729,Sudan,SDN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,18200,,18200,,37920,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,732,Western Sahara,ESH,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,53850,,53850,,308738,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,15946,,15946,,90737,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,48703,,48703,,223471,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,151774,,151774,,395632,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1954199,,1954199,,5102651,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4115197,,4115197,,18788900,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,13311531,,13311531,,60008123,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,992516,,992516,,8255068,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2995331,,2995331,,4517213,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,335429,,335429,,1083715,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2290349,,2290349,,4743522,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1867894,,1867894,,5099457,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1130661,,1130661,,3661228,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2479223,,2479223,,9716908,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,834,United Rep. of Tanzania,TZA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5,,5,,63,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,16355531,,16355531,,91197892,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,474200,,474200,,2069302,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,11529,,11529,,333421,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,26795112,,26795112,,50405086,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,40003,,40003,,102274,,,0
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,42242,,42242,,133884,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,328699302,,328699302,,1485021549,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2532280,,2532280,,6092258,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12755187,,12755187,,46849598,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,41200,,41200,,178326,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,44220,,44220,,100052,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,204660,,204660,,431274,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1976737,,1976737,,19914971,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1419,,1419,,37136,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,48,Bahrain,BHR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,7957,,7957,,309203,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,50,Bangladesh,BGD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12240,,12240,,25781,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,52,Barbados,BRB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,290,,290,,10679,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,990279,,990279,,4289756,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,134374,,134374,,627775,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,90,Solomon Isds,SLB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,30000,,30000,,64500,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,40,,40,,1980,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,267376,,267376,,1360359,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3815644,,3815644,,29318370,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,26495,,26495,,116997,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,4677,,4677,,57004,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6446114,,6446114,,5621772,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1226641,,1226641,,11291470,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,20,,20,,449,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1449843,,1449843,,4069758,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,647740,,647740,,647800,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,317464,,317464,,2578872,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,78804,,78804,,898033,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,174,Comoros,COM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1620,,1620,,176580,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,136080,,136080,,647778,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,11506,,11506,,71777,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,39396,,39396,,340773,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5925381,,5925381,,9289391,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,19750,,19750,,84728,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,26000,,26000,,59799,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,231,Ethiopia,ETH,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,40,,40,,1715,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,33780,,33780,,53166,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,29259,,29259,,220078,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3850311,,3850311,,19361929,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,186020,,186020,,907853,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,268,Georgia,GEO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,54438,,54438,,120744,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3770864,,3770864,,12420473,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,11069381,,11069381,,43698141,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,16939922,,16939922,,74558166,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1250,,1250,,10170,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,48836,,48836,,178890,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,320,Guatemala,GTM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,350,,350,,9660,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2941560,,2941560,,8223542,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,340,Honduras,HND,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,617,,617,,12529,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12633415,,12633415,,162914236,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,9774,,9774,,59084,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,112186,,112186,,2538228,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2634839,,2634839,,5978427,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,368,Iraq,IRQ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,10161,,10161,,21644,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,19468,,19468,,381151,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,218262,,218262,,544055,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,260863,,260863,,1567824,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1378964,,1378964,,4843791,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,388,Jamaica,JAM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3,,3,,92,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,11998672,,11998672,,50938756,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,592611,,592611,,902377,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,59749,,59749,,221411,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,43898,,43898,,78601,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6200,,6200,,440200,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,353254,,353254,,10445593,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,32986,,32986,,448033,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,429646,,429646,,606010,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,11040,,11040,,172170,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,29029,,29029,,409331,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12785,,12785,,62008,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,205200,,205200,,294904,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3285827,,3285827,,9912279,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,64515,,64515,,300600,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,442,Luxembourg,LUX,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,46,,46,,1136,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,286322,,286322,,1295733,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2377502,,2377502,,46954168,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,462,Maldives,MDV,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,66,,66,,3383,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,5351256,,5351256,,22396470,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,13821285,,13821285,,59914111,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,74530,,74530,,385789,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,458370,,458370,,2335770,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,376498,,376498,,10862517,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1359438,,1359438,,1421231,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,499,Montenegro,MNE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,29620,,29620,,41443,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,67284611,,67284611,,226684583,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,217,,217,,7620,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,20676,,20676,,675615,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1969886,,1969886,,7700947,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,72186,,72186,,2038850,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2248220,,2248220,,7972346,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,659762,,659762,,1419382,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,210,,210,,20187,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,8122139,,8122139,,18883289,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,38736,,38736,,234818,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,120539,,120539,,523286,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,78505,,78505,,1017298,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1935093,,1935093,,5446104,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,620,Portugal,PRT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12552,,12552,,798130,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,55980,,55980,,201930,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,48986,,48986,,805382,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,20677,,20677,,127314,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,14301188,,14301188,,41175379,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,955385,,955385,,7712014,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,18228158,,18228158,,78321327,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,688,Serbia,SRB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,81435,,81435,,142153,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,374130,,374130,,649899,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,557816,,557816,,1835994,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1105097,,1105097,,6630084,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,3520313,,3520313,,110343952,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,277406,,277406,,1360051,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2555599,,2555599,,9406584,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,729,Sudan,SDN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,49820,,49820,,126216,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6192,,6192,,70846,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,50446,,50446,,222267,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6859,,6859,,206219,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,77504,,77504,,154265,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2601468,,2601468,,5618247,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,6443050,,6443050,,38599225,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,8919370,,8919370,,39098484,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1061102,,1061102,,7866420,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2678624,,2678624,,2819408,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,421584,,421584,,1607424,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2626615,,2626615,,8317704,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,800,Uganda,UGA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,12,,12,,1355,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2020341,,2020341,,5620360,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,1141713,,1141713,,3150140,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,2589389,,2589389,,9126875,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,16702783,,16702783,,90618651,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,793170,,793170,,2794395,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,30654,,30654,,223941,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,19159348,,19159348,,31505390,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,882,Samoa,WSM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,8400,,8400,,13272,,,0
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,"Coffee, tea, maté and spices // Tea, whether or not flavoured.",8,Weight in kilograms,,,29014,,29014,,91316,,,0

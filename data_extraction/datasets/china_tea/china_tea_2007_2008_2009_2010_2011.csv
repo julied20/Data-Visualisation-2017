@@ -1,0 +1,590 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,289622963,,289622963,,604033265,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5872813,,5872813,,6072127,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,10747996,,10747996,,23908146,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,19061,,19061,,92278,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,146614,,146614,,177345,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,363762,,363762,,1824987,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4286,,4286,,10626,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,51,Armenia,ARM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,18,,18,,1134,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,165040,,165040,,517648,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,131166,,131166,,230940,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,30,,30,,708,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,989628,,989628,,1156107,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9462,,9462,,43122,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3155803,,3155803,,1481393,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,766917,,766917,,3069815,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3586447,,3586447,,7112910,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,85940,,85940,,52091,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,217757,,217757,,711605,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,27147,,27147,,108963,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,22000,,22000,,65936,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3905,,3905,,27430,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,90,,90,,3858,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1122,,1122,,4760,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3146,,3146,,24545,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,8609498,,8609498,,10687123,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,177982,,177982,,508690,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,23000,,23000,,36800,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,111589,,111589,,393098,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3217900,,3217900,,12039559,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,22700,,22700,,53584,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3178400,,3178400,,5973156,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,8480915,,8480915,,19625549,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,12490127,,12490127,,29822316,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2040,,2040,,13279,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,36055,,36055,,121899,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1218360,,1218360,,2085463,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,13679816,,13679816,,53648182,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,35109,,35109,,123768,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,940084,,940084,,1279078,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1722575,,1722575,,1675579,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,23174,,23174,,182789,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,116160,,116160,,276712,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,142099,,142099,,437376,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1271554,,1271554,,2360324,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,25361385,,25361385,,61640621,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,560183,,560183,,609085,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5041,,5041,,6509,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,245610,,245610,,137447,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,552391,,552391,,2794562,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,61,,61,,5652,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,453244,,453244,,399769,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,6000,,6000,,8450,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4460,,4460,,35640,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,162188,,162188,,182817,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,538055,,538055,,1190270,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,67036,,67036,,179977,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,345556,,345556,,1256476,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1734385,,1734385,,8128278,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5186005,,5186005,,15028559,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,10567257,,10567257,,27995357,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5906,,5906,,28841,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,79871,,79871,,265554,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,73880,,73880,,383106,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1392480,,1392480,,665305,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,57695108,,57695108,,116713766,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,130,,130,,5190,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,524,Nepal,NPL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,40,,40,,47,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2074504,,2074504,,4209280,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,22540,,22540,,77053,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1874275,,1874275,,4014370,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1224525,,1224525,,674130,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5109,,5109,,31829,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1650,,1650,,13863,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5222939,,5222939,,4006545,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,52167,,52167,,108561,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,94,,94,,1012,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,22202,,22202,,94143,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,57854,,57854,,248345,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1818136,,1818136,,2690979,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2000,,2000,,6700,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,49615,,49615,,37453,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,17925557,,17925557,,33801852,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1093132,,1093132,,2804749,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9300726,,9300726,,23295901,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,136800,,136800,,142044,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,699376,,699376,,1276851,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1970049,,1970049,,7181200,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,190,,190,,2450,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,61654,,61654,,350870,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,768354,,768354,,1498351,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,736,Fmr Sudan,SDN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,23600,,23600,,31320,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,49016,,49016,,152798,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,84253,,84253,,368576,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,93645,,93645,,165471,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,903014,,903014,,555982,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,652197,,652197,,1655125,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3593364,,3593364,,8110328,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,476024,,476024,,1032278,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3748386,,3748386,,5535521,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,25035,,25035,,23721,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2753295,,2753295,,1836608,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1938451,,1938451,,4608000,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,399175,,399175,,623828,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2832119,,2832119,,10105205,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,19875548,,19875548,,39059983,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,406400,,406400,,670039,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2428,,2428,,20454,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,20385596,,20385596,,17019399,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,142400,,142400,,185222,,,0
+H3,2007,2007,2007,4,0,2,Export,156,China,CHN,894,Zambia,ZMB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,10,,10,,800,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,296945673,,296945673,,682247574,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2195138,,2195138,,2674981,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,12105372,,12105372,,28996861,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,38060,,38060,,179106,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2970,,2970,,5316,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,109291,,109291,,185694,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,517300,,517300,,3633826,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,89,,89,,2796,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,137332,,137332,,514183,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,256784,,256784,,804351,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4465,,4465,,5759,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1601844,,1601844,,2027317,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,55672,,55672,,187825,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4529,,4529,,35350,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5193480,,5193480,,3177449,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1066126,,1066126,,6258696,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4103067,,4103067,,8536115,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,21000,,21000,,29476,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,238612,,238612,,945351,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,36371,,36371,,526985,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,62790,,62790,,173174,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11000,,11000,,38500,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4128,,4128,,29598,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,400,,400,,14254,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9630,,9630,,15119,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,26861,,26861,,107777,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,7130071,,7130071,,9245278,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,202612,,202612,,602555,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11260,,11260,,18020,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,48000,,48000,,92360,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,210674,,210674,,604102,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3187707,,3187707,,13997815,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,12045,,12045,,11171,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,65750,,65750,,200716,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,268,Georgia,GEO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,40,,40,,1670,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2767380,,2767380,,7361830,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,7754633,,7754633,,24271874,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,10245080,,10245080,,26652026,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11631,,11631,,36831,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,64912,,64912,,243399,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,320,Guatemala,GTM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,200,,200,,2958,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3031515,,3031515,,5698665,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11264798,,11264798,,46418037,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,26107,,26107,,120222,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,326292,,326292,,599496,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3336087,,3336087,,3765815,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,368,Iraq,IRQ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9800,,9800,,21002,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,12323,,12323,,165389,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,150051,,150051,,424971,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,126477,,126477,,422204,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1126200,,1126200,,2411290,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,388,Jamaica,JAM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4048,,4048,,25300,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,21161869,,21161869,,55872455,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,629600,,629600,,716998,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,251815,,251815,,396238,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,116600,,116600,,80546,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,248414,,248414,,1308276,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,645,,645,,32377,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,637408,,637408,,696606,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,13520,,13520,,18067,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3679,,3679,,24621,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,137680,,137680,,183768,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2069176,,2069176,,3646706,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,52330,,52330,,162778,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,283029,,283029,,889629,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1621954,,1621954,,8070308,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5810544,,5810544,,19274379,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,470,Malta,MLT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,30,,30,,500,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,10329020,,10329020,,31361764,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5449,,5449,,34150,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,62068,,62068,,276003,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,196620,,196620,,2146386,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1727363,,1727363,,1104344,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,498,Rep. of Moldova,MDA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3072,,3072,,43386,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,50314713,,50314713,,121260520,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,20,,20,,132,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,130,,130,,6050,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,516,Namibia,NAM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2393,,2393,,34277,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,524,Nepal,NPL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,65100,,65100,,50100,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2215961,,2215961,,4169462,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,38420,,38420,,97213,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2118290,,2118290,,6410201,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,993838,,993838,,852148,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,550,,550,,7718,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,15475690,,15475690,,14019406,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,87056,,87056,,317435,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,25390,,25390,,175597,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,40000,,40000,,148665,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2102638,,2102638,,5151119,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,620,Portugal,PRT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,432,,432,,3780,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4000,,4000,,15050,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,84948,,84948,,208945,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,16160839,,16160839,,33869859,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1120646,,1120646,,3444979,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,7841369,,7841369,,24746872,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,688,Serbia,SRB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9796,,9796,,9964,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,142208,,142208,,166434,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1547893,,1547893,,2154342,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2612319,,2612319,,8449138,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,705,Slovenia,SVN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4915,,4915,,13639,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,101041,,101041,,510790,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,935884,,935884,,1900448,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,82197,,82197,,284717,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,51551,,51551,,463938,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,208646,,208646,,313402,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1634918,,1634918,,1193799,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1152350,,1152350,,2321821,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5271024,,5271024,,15007808,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,364304,,364304,,878298,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3661577,,3661577,,6253607,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,109837,,109837,,114307,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3995688,,3995688,,3178713,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1940291,,1940291,,5540713,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1077725,,1077725,,1666231,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3328641,,3328641,,15431131,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,22229893,,22229893,,45255991,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,271000,,271000,,647950,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,23213055,,23213055,,26562267,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,7008,,7008,,58538,,,0
+H3,2008,2008,2008,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9600,,9600,,18920,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,302951594,,302951594,,704947241,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2159646,,2159646,,2540538,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,12743860,,12743860,,34678431,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,60843,,60843,,235390,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,95646,,95646,,146673,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,522729,,522729,,4037657,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,688,,688,,14102,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,50,Bangladesh,BGD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,12000,,12000,,28200,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,453950,,453950,,1995798,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,139871,,139871,,276593,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,30,,30,,960,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2371453,,2371453,,3610011,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,71320,,71320,,189918,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4501,,4501,,41939,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5142175,,5142175,,4106402,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,852054,,852054,,3807902,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1850728,,1850728,,3262696,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,377520,,377520,,238947,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,344180,,344180,,1603927,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,64458,,64458,,822106,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,54500,,54500,,163976,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,6115,,6115,,52991,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2400,,2400,,88169,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,42385,,42385,,327220,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,10757148,,10757148,,20535086,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,215160,,215160,,609248,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,140,,140,,1092,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9424,,9424,,21696,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,47440,,47440,,85968,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,132829,,132829,,604544,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3236706,,3236706,,14646114,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,52940,,52940,,177952,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2494630,,2494630,,7881905,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5936041,,5936041,,17877834,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5666449,,5666449,,15359118,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2816,,2816,,19519,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,67117,,67117,,194515,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2651770,,2651770,,6064460,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9855995,,9855995,,38912552,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,25344,,25344,,111896,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,763496,,763496,,1186214,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2952727,,2952727,,3673331,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,12321,,12321,,174188,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,106425,,106425,,173138,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,202557,,202557,,697190,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2185100,,2185100,,6496904,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,18982812,,18982812,,50244663,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,751601,,751601,,950202,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,25309,,25309,,56598,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,141000,,141000,,120840,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,205500,,205500,,789452,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3450,,3450,,17335,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,463123,,463123,,631788,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,30984,,30984,,64443,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9936,,9936,,89827,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,255640,,255640,,320566,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2333753,,2333753,,4812321,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,60068,,60068,,136652,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,289444,,289444,,3273426,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,454,Malawi,MWI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,30,,30,,660,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1312626,,1312626,,5515462,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,7012160,,7012160,,23275339,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,10332233,,10332233,,32414200,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5303,,5303,,35354,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,295748,,295748,,765974,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,344606,,344606,,2818524,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1675812,,1675812,,1225428,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,58484659,,58484659,,142825015,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,410,,410,,7539,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,24600,,24600,,62261,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1913636,,1913636,,3698930,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,548,Vanuatu,VUT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,28,,28,,32,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,17765,,17765,,74781,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3316300,,3316300,,9182622,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,357875,,357875,,242503,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,200,,200,,9081,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,14827643,,14827643,,15987254,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,39400,,39400,,250755,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,24402,,24402,,180567,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,132917,,132917,,606951,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1511958,,1511958,,3170211,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,450,,450,,3600,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,82182,,82182,,137018,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,20627475,,20627475,,35538575,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1336918,,1336918,,3867378,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,8418469,,8418469,,25756542,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,688,Serbia,SRB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,32048,,32048,,35127,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,232800,,232800,,260977,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,864590,,864590,,1737497,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2496604,,2496604,,7476631,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,625,,625,,8396,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,68026,,68026,,201170,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,865165,,865165,,1800615,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,77859,,77859,,287261,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,119610,,119610,,637539,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,190249,,190249,,395794,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1935257,,1935257,,1513453,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1112885,,1112885,,2762557,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,8105975,,8105975,,23806759,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,655819,,655819,,1830192,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2048255,,2048255,,2418288,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,143240,,143240,,191844,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3914940,,3914940,,3368328,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3107875,,3107875,,7030953,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,658515,,658515,,936747,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3704120,,3704120,,13890989,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,19334832,,19334832,,40197049,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,344220,,344220,,587573,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,22329283,,22329283,,26385105,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1390,,1390,,9785,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,882,Samoa,WSM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,60,,60,,363,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,211100,,211100,,235573,,,0
+H3,2009,2009,2009,4,0,2,Export,156,China,CHN,894,Zambia,ZMB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,200,,200,,4997,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,302525066,,302525066,,784144640,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1153949,,1153949,,2015752,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11881291,,11881291,,30691353,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11243,,11243,,54566,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,13556,,13556,,35220,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,113555,,113555,,185899,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,613245,,613245,,4961117,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,280,,280,,8687,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,623704,,623704,,2402961,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,88139,,88139,,189924,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,90,Solomon Isds,SLB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5040,,5040,,36000,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,20,,20,,657,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2661247,,2661247,,5926774,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,228026,,228026,,644020,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4292,,4292,,38221,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3807480,,3807480,,3539728,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1688881,,1688881,,5844337,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2911292,,2911292,,5814265,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1009035,,1009035,,1433226,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,375797,,375797,,1745170,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,98980,,98980,,1524730,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,33388,,33388,,115989,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,21000,,21000,,57765,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3980,,3980,,34831,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1400,,1400,,25960,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,38688,,38688,,151328,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,6315207,,6315207,,15374395,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,129990,,129990,,434922,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,20360,,20360,,36840,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,231,Ethiopia,ETH,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,40,,40,,1318,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,37378,,37378,,32893,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,78305,,78305,,322539,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2580920,,2580920,,12725641,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,98905,,98905,,368031,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,268,Georgia,GEO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,41,,41,,1791,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3397465,,3397465,,11948251,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9056853,,9056853,,26353815,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,866442,,866442,,1896409,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1541,,1541,,13467,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,44173,,44173,,138433,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4186366,,4186366,,10978860,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11466425,,11466425,,52559590,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,20207,,20207,,73879,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,821285,,821285,,1275970,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3449452,,3449452,,4491697,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3405,,3405,,39082,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,150358,,150358,,342848,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,284528,,284528,,921012,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3316481,,3316481,,11492819,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,19456203,,19456203,,56308758,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,650256,,650256,,801976,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,13973,,13973,,42692,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,38180,,38180,,40251,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,275684,,275684,,1055224,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,29816,,29816,,65521,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,484884,,484884,,687356,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,25000,,25000,,55268,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,14000,,14000,,20420,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,66274,,66274,,650374,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,228880,,228880,,281909,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2091075,,2091075,,4088670,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,102100,,102100,,264494,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,271657,,271657,,2387181,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1550357,,1550357,,8371422,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,7020890,,7020890,,23459978,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11750126,,11750126,,39795455,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,16824,,16824,,42438,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,105445,,105445,,605005,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,159348,,159348,,945651,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1675084,,1675084,,1285106,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,61308511,,61308511,,156676581,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,676,,676,,15996,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,144,,144,,5440,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1672497,,1672497,,4139537,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,27492,,27492,,96848,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3111215,,3111215,,7860840,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,223750,,223750,,152258,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4900,,4900,,75204,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,8463353,,8463353,,12544430,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,42613,,42613,,438193,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,33000,,33000,,51865,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,600,Paraguay,PRY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,50400,,50400,,56822,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,33503,,33503,,277772,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,109770,,109770,,1637626,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1450609,,1450609,,2794218,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,626,Timor-Leste,TLS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,25,,25,,376,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,7000,,7000,,24950,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,62472,,62472,,107941,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,21271259,,21271259,,46682630,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1155561,,1155561,,3388862,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,6278061,,6278061,,20832327,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,688,Serbia,SRB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,22245,,22245,,25993,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,690,Seychelles,SYC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,15,,15,,90,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,80200,,80200,,88690,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,762784,,762784,,1677488,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2661748,,2661748,,9216993,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,703,Slovakia,SVK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,178,,178,,6391,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,58661,,58661,,1886728,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,180478,,180478,,353932,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,870776,,870776,,1796567,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,736,Fmr Sudan,SDN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,61040,,61040,,72663,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2688,,2688,,25495,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,42356,,42356,,175312,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,186364,,186364,,817876,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,450198,,450198,,903847,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1653125,,1653125,,1980385,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1344327,,1344327,,3702209,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,8764073,,8764073,,24669707,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,780,Trinidad and Tobago,TTO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,800,,800,,9300,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1387711,,1387711,,3794886,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2623070,,2623070,,2548340,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,402969,,402969,,556929,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3379881,,3379881,,3273588,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3503525,,3503525,,9088075,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1132740,,1132740,,1747713,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4048365,,4048365,,17385036,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,24820698,,24820698,,55656352,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,232800,,232800,,393364,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4585,,4585,,50441,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,18577698,,18577698,,23494039,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11558,,11558,,82304,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,210530,,210530,,233364,,,0
+H3,2010,2010,2010,4,0,2,Export,156,China,CHN,894,Zambia,ZMB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,378,,378,,11696,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,322579781,,322579781,,965080092,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1326674,,1326674,,2839282,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,15913702,,15913702,,46576332,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,34759,,34759,,158273,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,8600,,8600,,20880,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,141443,,141443,,307457,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1262570,,1262570,,10717375,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,160,,160,,4031,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,51,Armenia,ARM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11360,,11360,,21452,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1082057,,1082057,,3550862,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,163278,,163278,,309535,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,60,,60,,2103,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2278945,,2278945,,6200592,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,232466,,232466,,847028,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5159,,5159,,49115,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9281247,,9281247,,11898099,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1506738,,1506738,,8296179,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2774113,,2774113,,6824727,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,270488,,270488,,348371,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,465402,,465402,,2016150,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,71971,,71971,,1016131,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,10205,,10205,,37592,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,34297,,34297,,117665,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9613,,9613,,78060,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1808,,1808,,24761,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,57809,,57809,,319349,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,8659206,,8659206,,19400101,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,88356,,88356,,325899,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11750,,11750,,32450,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,79000,,79000,,297161,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,114,,114,,2207,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,127331,,127331,,737690,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2933141,,2933141,,13967110,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,146330,,146330,,632932,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5384867,,5384867,,19438754,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9802520,,9802520,,32021811,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2352062,,2352062,,7033988,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1275,,1275,,8615,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,65792,,65792,,272751,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,7154875,,7154875,,21685107,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11474617,,11474617,,67041919,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,20940,,20940,,107338,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,655722,,655722,,2080554,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11057963,,11057963,,20495533,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,368,Iraq,IRQ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,10000,,10000,,24500,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5192,,5192,,86850,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,161407,,161407,,383387,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,291239,,291239,,1012501,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1030620,,1030620,,3334731,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,388,Jamaica,JAM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1863,,1863,,14607,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,18098794,,18098794,,54510629,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,676493,,676493,,1015842,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,48527,,48527,,111333,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,278831,,278831,,258040,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,291726,,291726,,1352300,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,661,,661,,15089,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,523892,,523892,,936053,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,26160,,26160,,38885,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,520,,520,,1508,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,243860,,243860,,343349,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1760685,,1760685,,3442332,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,64799,,64799,,202119,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,327162,,327162,,1296137,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,454,Malawi,MWI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,12,,12,,1018,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1588423,,1588423,,9423713,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,7025600,,7025600,,26019711,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,470,Malta,MLT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,165,,165,,950,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,12325810,,12325810,,44778183,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,12510,,12510,,85873,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,64565,,64565,,900352,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,253337,,253337,,1802202,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1743829,,1743829,,1518797,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,63587809,,63587809,,189537343,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,11,,11,,936,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,167,,167,,11110,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1754968,,1754968,,5651994,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,181076,,181076,,642906,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,6149138,,6149138,,13735538,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,242922,,242922,,565179,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3802130,,3802130,,4664615,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,103975,,103975,,517685,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,93507,,93507,,268968,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,30059,,30059,,286042,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,134769,,134769,,2851301,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1820117,,1820117,,7542454,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,199360,,199360,,721159,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,61808,,61808,,143773,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,17874396,,17874396,,53865178,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1202060,,1202060,,4046557,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,5652550,,5652550,,21881261,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,688,Serbia,SRB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,30413,,30413,,33338,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,258400,,258400,,406150,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,592016,,592016,,1527611,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2991517,,2991517,,11257903,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,703,Slovakia,SVK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,977,,977,,13649,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,95209,,95209,,4791418,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,92964,,92964,,634369,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,716,Zimbabwe,ZWE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,174,,174,,5792,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1243074,,1243074,,2858803,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,736,Fmr Sudan,SDN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,41820,,41820,,73013,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2856,,2856,,27679,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,55463,,55463,,361023,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,117604,,117604,,684458,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,258192,,258192,,489351,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1604728,,1604728,,3648770,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1494742,,1494742,,5057851,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,9985880,,9985880,,33362512,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,776,Tonga,TON,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,23,,23,,411,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,647883,,647883,,2231446,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3680073,,3680073,,4359741,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,413404,,413404,,676910,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2868241,,2868241,,4034309,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,3049364,,3049364,,9251546,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1096730,,1096730,,1981369,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2320942,,2320942,,10353165,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,23861786,,23861786,,66044254,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,232800,,232800,,503678,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,2173,,2173,,31153,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,18552078,,18552078,,31824432,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,54432,,54432,,256339,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,882,Samoa,WSM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,4000,,4000,,6320,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,220000,,220000,,250434,,,0
+H3,2011,2011,2011,4,0,2,Export,156,China,CHN,894,Zambia,ZMB,,,,,,,,0902,"Tea, whether or not flavoured.",8,Weight in kilograms,,,1534,,1534,,32584,,,0

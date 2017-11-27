@@ -1,0 +1,709 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,101266051,,101266051,,763075164,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4838,,4838,,33604,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,191738,,191738,,1617435,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,116896,,116896,,1030541,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,21721,,21721,,110859,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,23653,,23653,,198867,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,193666,,193666,,1021099,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3355091,,3355091,,19502049,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2245434,,2245434,,19580911,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,201,,201,,3865,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,600926,,600926,,3398914,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,195,,195,,3220,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5121,,5121,,53696,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,581,,581,,4502,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2125422,,2125422,,12346199,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2139,,2139,,11151,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,15658,,15658,,105699,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2630,,2630,,17011,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1477248,,1477248,,11436246,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,26372,,26372,,144256,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,383111,,383111,,1946574,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,18668,,18668,,171945,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,43,,43,,4985,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,241,,241,,3384,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,7156225,,7156225,,51090287,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,136,Cayman Isds,CYM,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,135,,135,,8489,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,123438,,123438,,1243459,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,432816,,432816,,2542777,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1008029,,1008029,,6306882,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,52062,,52062,,419774,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,178,Congo,COG,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1331,,1331,,17395,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,49760,,49760,,389352,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,37241,,37241,,596897,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,73173,,73173,,774090,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,288044,,288044,,2075771,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,274878,,274878,,2821621,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9174,,9174,,101655,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,24867,,24867,,152186,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,23,,23,,1119,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,12021,,12021,,263397,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,123193,,123193,,1531044,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,234,Faeroe Isds,FRO,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4360,,4360,,40138,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2524,,2524,,35919,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,447611,,447611,,5253778,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9582247,,9582247,,77729555,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,18,,18,,1125,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5741,,5741,,46562,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,275,State of Palestine,PSE,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2258,,2258,,11771,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,17900589,,17900589,,128073523,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,151,,151,,6298,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9704,,9704,,120193,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,340805,,340805,,3027981,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,7276,,7276,,40994,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,336,Holy See (Vatican City State),VAT,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,120,,120,,10029,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10,,10,,491,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1262031,,1262031,,10440586,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,66955,,66955,,432126,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,135693,,135693,,1193389,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,237278,,237278,,1505288,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6267,,6267,,62074,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,82645,,82645,,610963,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,35521,,35521,,368948,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1515800,,1515800,,10685631,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5108031,,5108031,,33575630,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,167,,167,,14082,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,951,,951,,10194,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,800444,,800444,,9282594,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16009,,16009,,140313,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,65907,,65907,,621533,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,30714,,30714,,394141,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,595286,,595286,,4701970,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,548984,,548984,,4102275,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,417,Kyrgyzstan,KGZ,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,572,,572,,13459,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,418,Lao People's Dem. Rep.,LAO,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,21,,21,,318,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,227281,,227281,,1807966,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4297,,4297,,30779,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,115972,,115972,,1087222,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,41474,,41474,,317314,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,119320,,119320,,941396,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1822,,1822,,24664,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,245,,245,,6521,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,397524,,397524,,3082907,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,50937,,50937,,280423,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,81132,,81132,,938169,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,478,Mauritania,MRT,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,22,,22,,661,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,27368,,27368,,223869,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,203521,,203521,,1096461,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,436498,,436498,,3272077,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5845,,5845,,107575,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4980,,4980,,32836,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,73445,,73445,,586677,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,61357,,61357,,3217696,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10947,,10947,,59035,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3217562,,3217562,,22686602,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,531,Curaçao,CUW,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2028,,2028,,10854,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5665,,5665,,36420,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,136168,,136168,,1900183,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,15,,15,,728,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4145,,4145,,38096,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,290106,,290106,,2017458,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,29662,,29662,,255204,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,106050,,106050,,1218224,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,50741,,50741,,500224,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,67178,,67178,,463226,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1942099,,1942099,,16340204,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,445490,,445490,,2701050,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,450494,,450494,,2953754,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,242130,,242130,,2606318,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,114487,,114487,,612781,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1180001,,1180001,,8416567,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,532,,532,,7620,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,788189,,788189,,6875286,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,316,,316,,7479,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,688,Serbia,SRB,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16958,,16958,,110841,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,699,India,IND,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,535034,,535034,,4403330,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,959875,,959875,,10357644,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,753048,,753048,,5039503,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,51695,,51695,,318643,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,133309,,133309,,1097816,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,920123,,920123,,6169277,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3060,,3060,,24018,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2205492,,2205492,,18138644,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1657788,,1657788,,12382065,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4232,,4232,,57092,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,513714,,513714,,4453079,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6178,,6178,,37365,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1347629,,1347629,,15446834,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,54509,,54509,,500160,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,767277,,767277,,4782129,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,795,Turkmenistan,TKM,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9402,,9402,,90588,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1593,,1593,,17861,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,72569,,72569,,637179,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,807,TFYR of Macedonia,MKD,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,67507,,67507,,345647,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,139020,,139020,,1251060,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,14225360,,14225360,,99906128,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4521,,4521,,51795,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,842,USA,USA,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5723696,,5723696,,46608527,,,6
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,621238,,621238,,6346368,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2579,,2579,,24882,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,226864,,226864,,1997947,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,8704,,8704,,50810,,,0
+H4,2012,2012,2012,4,0,2,Export,757,Switzerland,CHE,894,Zambia,ZMB,,,,,,,,1806,Cocoa and cocoa preparations // Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5340,,5340,,28324,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,97476644,,97476644,,745816250,,,6
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6350,,6350,,2434,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,177820,,177820,,1403641,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,341799,,341799,,2201698,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6097,,6097,,34579,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,15211,,15211,,142760,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,284141,,284141,,1991967,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4078789,,4078789,,25218749,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2713309,,2713309,,24452423,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,110,,110,,3896,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,38220,,38220,,321457,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2157,,2157,,20324,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16527,,16527,,132306,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1803,,1803,,13204,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2101533,,2101533,,15137594,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5782,,5782,,46955,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1291937,,1291937,,8895278,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,92,Br. Virgin Isds,VGB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,0,,0,,1,,,6
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,19711,,19711,,102575,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,447920,,447920,,2673081,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,11796,,11796,,153965,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,174,,174,,7754,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6309105,,6309105,,44376702,,,6
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,136,Cayman Isds,CYM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1,,1,,3,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,93711,,93711,,830930,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,164424,,164424,,904052,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,217205,,217205,,1776526,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,66643,,66643,,421727,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,178,Congo,COG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,7,,7,,927,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,54967,,54967,,406878,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,43009,,43009,,392232,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2,,2,,186,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,104819,,104819,,959756,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,210193,,210193,,1858075,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,747134,,747134,,6508797,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1468,,1468,,12811,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1957,,1957,,23033,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,528,,528,,6376,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,770,,770,,12260,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10921,,10921,,98752,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6406,,6406,,71313,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,495560,,495560,,5043579,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9760416,,9760416,,81461080,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,782,,782,,15492,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1860,,1860,,11910,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,13967769,,13967769,,108965959,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,91,,91,,7668,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16647,,16647,,193109,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,620914,,620914,,5449110,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,316,Guam,GUM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,695,,695,,10986,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,11506,,11506,,54777,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6685,,6685,,35129,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1129105,,1129105,,8535431,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,134579,,134579,,1043143,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,160582,,160582,,1200843,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,251311,,251311,,1340469,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10434,,10434,,105269,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,22799,,22799,,161254,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,51007,,51007,,631038,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,837022,,837022,,6341918,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4253352,,4253352,,31133399,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,546,,546,,23031,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4199,,4199,,37294,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,851917,,851917,,10312103,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3713,,3713,,33985,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,72153,,72153,,653114,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,21050,,21050,,245094,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,285951,,285951,,2420594,,,6
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,292093,,292093,,2226831,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,417,Kyrgyzstan,KGZ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,302,,302,,3746,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,232039,,232039,,1714020,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3128,,3128,,32696,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,137822,,137822,,1301416,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,15949,,15949,,148071,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,104785,,104785,,774740,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,100,,100,,6830,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,238449,,238449,,1764058,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,35327,,35327,,212942,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,45,,45,,5485,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,64232,,64232,,623707,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9377,,9377,,87868,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,170473,,170473,,1296313,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,344150,,344150,,2034653,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1804,,1804,,32012,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,320,,320,,6572,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,499,Montenegro,MNE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,13,,13,,307,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,35923,,35923,,317874,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,55740,,55740,,1963682,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,37174,,37174,,182420,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3698455,,3698455,,27117960,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,530,Neth. Antilles,ANT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,487,,487,,5414,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2931,,2931,,48504,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,128979,,128979,,1258536,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10,,10,,492,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,88,,88,,5945,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,509961,,509961,,3229162,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,28818,,28818,,244050,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,112040,,112040,,1321850,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,63902,,63902,,634623,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,37499,,37499,,209791,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1872415,,1872415,,14485797,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,805938,,805938,,5335451,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,601875,,601875,,4058054,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,142776,,142776,,1475836,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,290962,,290962,,2241230,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1170071,,1170071,,8391664,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,518157,,518157,,4065697,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,688,Serbia,SRB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,198047,,198047,,1271993,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,690,Seychelles,SYC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2,,2,,9,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,699,India,IND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,269071,,269071,,1838273,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1013182,,1013182,,7655138,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,791158,,791158,,3525559,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,71163,,71163,,345946,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,117582,,117582,,1072639,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1015908,,1015908,,6763884,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4,,4,,14,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2750856,,2750856,,21641220,,,6
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2672382,,2672382,,18102288,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,44467,,44467,,377706,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,443388,,443388,,3206461,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1,,1,,9,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1300287,,1300287,,12208763,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,79186,,79186,,803084,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,850766,,850766,,4880976,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3275,,3275,,30839,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,42747,,42747,,355186,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,807,TFYR of Macedonia,MKD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,92693,,92693,,456038,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,304840,,304840,,2211801,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,13430614,,13430614,,101601352,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3173,,3173,,24777,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,842,USA,USA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6970788,,6970788,,55225291,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,53,,53,,3324,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,448932,,448932,,4172684,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,80,,80,,6604,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,218077,,218077,,1998688,,,0
+H3,2008,2008,2008,4,0,2,Export,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,12212,,12212,,84651,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,94607984,,94607984,,684386280,,,6
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,84,,84,,1942,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,11594,,11594,,70372,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,219573,,219573,,1930949,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,266829,,266829,,2119741,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,23938,,23938,,207837,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,171624,,171624,,1006894,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4330104,,4330104,,26265013,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2982030,,2982030,,25548454,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5163,,5163,,22576,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,54539,,54539,,540650,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,153,,153,,2927,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,11560,,11560,,69901,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6192,,6192,,28279,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3374628,,3374628,,19998148,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,691,,691,,3179,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6807,,6807,,59353,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1114065,,1114065,,8247958,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,84,Belize,BLZ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5895,,5895,,21405,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,92,Br. Virgin Isds,VGB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2630,,2630,,8875,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,33717,,33717,,164076,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,421626,,421626,,2512857,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,105,,105,,828,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,8061,,8061,,108057,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,877,,877,,5323,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6068804,,6068804,,40571962,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,88305,,88305,,863980,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,225177,,225177,,1130070,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,300999,,300999,,2283023,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,49848,,49848,,360774,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,178,Congo,COG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,277,,277,,2419,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,30,,30,,653,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,47196,,47196,,349376,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,40165,,40165,,354121,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,95236,,95236,,892681,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,308305,,308305,,2477334,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,589129,,589129,,5237469,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,212,Dominica,DMA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2033,,2033,,27856,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1899,,1899,,19279,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3889,,3889,,35577,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,11,,11,,1256,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2557,,2557,,30572,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5713,,5713,,70706,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3477,,3477,,44233,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,490930,,490930,,5118039,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10476856,,10476856,,78098467,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,477,,477,,5403,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,446,,446,,4302,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,12343569,,12343569,,93014577,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,126,,126,,4087,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,14465,,14465,,160065,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,513634,,513634,,4298979,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,316,Guam,GUM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2351,,2351,,44406,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4675,,4675,,24366,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,328,Guyana,GUY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4186,,4186,,14009,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,691,,691,,3066,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,336,Holy See (Vatican City State),VAT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,12,,12,,1139,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1518,,1518,,9353,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1125967,,1125967,,7837177,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,99767,,99767,,652590,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,113310,,113310,,870274,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,287591,,287591,,1455909,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,67835,,67835,,555270,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,116301,,116301,,784029,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,46180,,46180,,562284,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,900680,,900680,,6297510,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4815523,,4815523,,31314117,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,7809,,7809,,64297,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,766558,,766558,,8910409,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,76130,,76130,,457304,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,52323,,52323,,494376,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,22458,,22458,,241965,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,248476,,248476,,2145364,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,427919,,427919,,3215025,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,254133,,254133,,1982452,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,653,,653,,6445,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,112,,112,,1319,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,41233,,41233,,313034,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,19449,,19449,,159808,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,101862,,101862,,790472,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2,,2,,9,,,6
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,454,Malawi,MWI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,88,,88,,775,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,248295,,248295,,1893452,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,23876,,23876,,121679,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,50112,,50112,,532507,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,36346,,36346,,354676,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,175665,,175665,,1263486,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,403744,,403744,,2414652,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1578,,1578,,17880,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2500,,2500,,26677,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,499,Montenegro,MNE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4,,4,,72,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,37210,,37210,,329502,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,58278,,58278,,2492149,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9849,,9849,,45357,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3501379,,3501379,,22448780,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,530,Neth. Antilles,ANT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,630,,630,,8681,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1335,,1335,,17686,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,144816,,144816,,1332559,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,15,,15,,1068,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,381331,,381331,,2466649,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4137,,4137,,51903,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,69878,,69878,,840088,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,29656,,29656,,247680,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,22516,,22516,,127965,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1549559,,1549559,,11385989,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,640713,,640713,,4307944,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,599323,,599323,,3506318,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,206976,,206976,,2254519,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,206477,,206477,,1330932,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,677895,,677895,,5685759,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,91,,91,,811,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,365,,365,,1779,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,887761,,887761,,7294976,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,688,Serbia,SRB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,238827,,238827,,818380,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,699,India,IND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,169286,,169286,,1336474,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,990909,,990909,,8003689,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,752730,,752730,,4191226,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,63185,,63185,,303991,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,135859,,135859,,1276323,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,768467,,768467,,5519515,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2383058,,2383058,,17781860,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2393043,,2393043,,15662569,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,75317,,75317,,628988,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,348306,,348306,,2652133,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,19685,,19685,,66116,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1380676,,1380676,,13510157,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,63748,,63748,,627592,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,692472,,692472,,3745487,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3879,,3879,,34478,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,20038,,20038,,164972,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,807,TFYR of Macedonia,MKD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,85708,,85708,,415167,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,169194,,169194,,1441320,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,12547819,,12547819,,88652388,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1357,,1357,,10680,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,842,USA,USA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6399204,,6399204,,45477405,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,333657,,333657,,3189861,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,612,,612,,4278,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,259032,,259032,,2399355,,,0
+H3,2009,2009,2009,4,0,2,Export,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,7776,,7776,,56295,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,101049259,,101049259,,743511135,,,6
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,17205,,17205,,85663,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,19186,,19186,,122260,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,136633,,136633,,1125125,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,222970,,222970,,1851360,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,90,,90,,3220,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10333,,10333,,102661,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,257159,,257159,,1490564,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4531933,,4531933,,26487490,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2880584,,2880584,,23319768,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5,,5,,473,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,53693,,53693,,549590,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,301,,301,,4642,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,7444,,7444,,72695,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1154,,1154,,9354,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1691750,,1691750,,10242313,,,6
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5515,,5515,,34233,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4118,,4118,,36025,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,145,,145,,8267,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1576744,,1576744,,10896523,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,35975,,35975,,195308,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,343369,,343369,,1989838,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,14647,,14647,,136791,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,7469825,,7469825,,52017140,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,114373,,114373,,1136128,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,329799,,329799,,1954342,,,6
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,385122,,385122,,2793856,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,95328,,95328,,574615,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,178,Congo,COG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,174,,174,,2249,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,35222,,35222,,263591,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,29547,,29547,,292449,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,107616,,107616,,1025036,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,359253,,359253,,2566822,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3224,,3224,,13190,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,403475,,403475,,4077878,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3656,,3656,,38459,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10153,,10153,,72185,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,45,,45,,1248,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2518,,2518,,28588,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,11933,,11933,,125798,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4427,,4427,,55233,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,504841,,504841,,5864057,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9243911,,9243911,,76336708,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1096,,1096,,15933,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4387,,4387,,32706,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,275,State of Palestine,PSE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1523,,1523,,11083,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,15452593,,15452593,,114558539,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,19,,19,,3134,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10086,,10086,,117887,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,544303,,544303,,4565921,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,316,Guam,GUM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2275,,2275,,51732,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9714,,9714,,56337,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,336,Holy See (Vatican City State),VAT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1271,,1271,,21640,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16,,16,,815,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1198017,,1198017,,9183388,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,94746,,94746,,563438,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,111813,,111813,,934839,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,265507,,265507,,1498514,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,100876,,100876,,841297,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,52991,,52991,,385479,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,19868,,19868,,223276,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1199129,,1199129,,7914491,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5764719,,5764719,,37691280,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,102,,102,,10002,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4352,,4352,,34699,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,763028,,763028,,9168665,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,57165,,57165,,419782,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,48474,,48474,,446593,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,30951,,30951,,354390,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,311137,,311137,,2646549,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,445590,,445590,,3515603,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,417,Kyrgyzstan,KGZ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,411,,411,,6047,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,266125,,266125,,2084037,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4887,,4887,,38140,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,25344,,25344,,178656,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,115695,,115695,,868897,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,726,,726,,8021,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,7980,,7980,,59109,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,346635,,346635,,2526941,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,53865,,53865,,284092,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2736,,2736,,11265,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,76640,,76640,,868011,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,25040,,25040,,232967,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,80108,,80108,,601208,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,400052,,400052,,2668833,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1010,,1010,,28042,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4334,,4334,,40474,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,499,Montenegro,MNE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,69,,69,,950,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,81350,,81350,,616821,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,329,,329,,4095,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,80606,,80606,,2225737,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3795,,3795,,28282,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3892146,,3892146,,26086790,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,530,Neth. Antilles,ANT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,562,,562,,7291,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5196,,5196,,33398,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,540,New Caledonia,NCL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1235,,1235,,8849,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,125503,,125503,,1552945,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,24,,24,,1134,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,562,Niger,NER,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2342,,2342,,13989,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,277015,,277015,,2030698,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16118,,16118,,150368,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,63032,,63032,,732935,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,71398,,71398,,556459,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,61832,,61832,,359684,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1489490,,1489490,,11878711,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,639858,,639858,,3890638,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,633140,,633140,,3747798,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,624,Guinea-Bissau,GNB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5472,,5472,,22529,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,283487,,283487,,3230645,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,174687,,174687,,899715,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,731259,,731259,,5283495,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,674,San Marino,SMR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1170,,1170,,8428,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1035800,,1035800,,8859285,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1659,,1659,,10887,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,688,Serbia,SRB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,80764,,80764,,256009,,,6
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,699,India,IND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,231727,,231727,,1818879,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,869698,,869698,,7905622,,,6
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,880570,,880570,,4800671,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,48072,,48072,,285608,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,82622,,82622,,784734,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,895162,,895162,,6165117,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2735884,,2735884,,20843628,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,736,Fmr Sudan,SDN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2324,,2324,,23446,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2439072,,2439072,,16955898,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,94852,,94852,,888383,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,434474,,434474,,3430819,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2670,,2670,,15757,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1471422,,1471422,,15961258,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,40343,,40343,,405649,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,896811,,896811,,5176955,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,795,Turkmenistan,TKM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1580,,1580,,15834,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6168,,6168,,50970,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,34328,,34328,,316377,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,807,TFYR of Macedonia,MKD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,128552,,128552,,620018,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,207119,,207119,,1834537,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,13909845,,13909845,,94327995,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1205,,1205,,8753,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,842,USA,USA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6338771,,6338771,,48513347,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2306,,2306,,13076,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,497806,,497806,,4594754,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,137,,137,,1218,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,187399,,187399,,1379008,,,0
+H3,2010,2010,2010,4,0,2,Export,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16271,,16271,,97772,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,103658805,,103658805,,845935400,,,6
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16693,,16693,,101722,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,14348,,14348,,120511,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,159851,,159851,,1690356,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,223754,,223754,,2158565,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,17828,,17828,,161886,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,139896,,139896,,890357,,,6
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4181851,,4181851,,30364324,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2625125,,2625125,,23890301,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,185,,185,,2881,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,285491,,285491,,1745373,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,362,,362,,4588,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2762,,2762,,31926,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,38,,38,,4255,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1587073,,1587073,,10134570,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1661,,1661,,8782,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2524,,2524,,23347,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,8,,8,,28,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1870811,,1870811,,15414422,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,40356,,40356,,254259,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,304437,,304437,,2006838,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,25600,,25600,,242917,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1036,,1036,,13757,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,556,,556,,6467,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,7067259,,7067259,,54482733,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,136,Cayman Isds,CYM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1,,1,,11,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,141328,,141328,,1640867,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,264173,,264173,,1820212,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,629738,,629738,,4596469,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,80016,,80016,,541654,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,178,Congo,COG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1648,,1648,,21746,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,44,,44,,3303,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,49178,,49178,,380896,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,37832,,37832,,415376,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,100332,,100332,,1074142,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,327040,,327040,,2754645,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3192,,3192,,14766,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,350910,,350910,,3775887,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6555,,6555,,70949,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,37122,,37122,,201971,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,27,,27,,1816,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3111,,3111,,44572,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,98395,,98395,,1290549,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5668,,5668,,79674,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,422456,,422456,,5349463,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9693032,,9693032,,87223711,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1470,,1470,,23403,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5774,,5774,,44764,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,275,State of Palestine,PSE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,13598,,13598,,82283,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16957528,,16957528,,138308383,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,18,,18,,3677,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10488,,10488,,143122,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,404431,,404431,,3988930,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,316,Guam,GUM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1197,,1197,,24075,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16407,,16407,,93893,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,336,Holy See (Vatican City State),VAT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,120,,120,,10604,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,10,,10,,598,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1220151,,1220151,,10459969,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,85055,,85055,,626375,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,132623,,132623,,1251562,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,231138,,231138,,1477554,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,76030,,76030,,676564,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,119813,,119813,,782800,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,35608,,35608,,412767,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1710739,,1710739,,13537007,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5726421,,5726421,,41024674,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,327,,327,,13980,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3427,,3427,,39399,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,730874,,730874,,9765792,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,110066,,110066,,854432,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,59719,,59719,,605162,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,21382,,21382,,284856,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4,,4,,122,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,501776,,501776,,4599641,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,538036,,538036,,4571131,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,299616,,299616,,2577635,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6349,,6349,,50966,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,34402,,34402,,351544,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,41366,,41366,,343477,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,117424,,117424,,992009,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2723,,2723,,37978,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,9902,,9902,,116083,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,326279,,326279,,2742635,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,40131,,40131,,236635,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2736,,2736,,12657,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,68250,,68250,,860038,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,26924,,26924,,263669,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,58679,,58679,,455842,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,672617,,672617,,4426931,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1498,,1498,,26512,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2587,,2587,,20881,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,500,Montserrat,MSR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4560,,4560,,76469,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,81254,,81254,,659889,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,436,,436,,6792,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,75516,,75516,,2965317,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,19816,,19816,,99936,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4013351,,4013351,,28773185,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,531,Curaçao,CUW,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4062,,4062,,24279,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3342,,3342,,36200,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,540,New Caledonia,NCL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,4158,,4158,,52221,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,114238,,114238,,1655866,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16,,16,,1078,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,562,Niger,NER,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1824,,1824,,8437,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6544,,6544,,63284,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,282909,,282909,,2134525,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,16701,,16701,,157052,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,65203,,65203,,892767,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,64005,,64005,,623503,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,51948,,51948,,362767,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1784038,,1784038,,15066857,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,548575,,548575,,3499757,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,586677,,586677,,3613950,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,624,Guinea-Bissau,GNB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5472,,5472,,25312,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,267020,,267020,,3218736,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,163138,,163138,,974688,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1128356,,1128356,,8764729,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,674,San Marino,SMR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,790,,790,,6320,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,772246,,772246,,6960914,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,965,,965,,16305,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,688,Serbia,SRB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,31852,,31852,,292395,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,690,Seychelles,SYC,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,38,,38,,2583,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,699,India,IND,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,273202,,273202,,2976524,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1077780,,1077780,,11194008,,,6
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,801256,,801256,,5608775,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,85847,,85847,,670479,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,87945,,87945,,880290,,,6
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,862955,,862955,,6754462,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2381604,,2381604,,21020239,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2022143,,2022143,,15919941,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,29775,,29775,,349083,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,478914,,478914,,4545332,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,228,,228,,3024,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,1600331,,1600331,,18562738,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,34514,,34514,,395516,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,860849,,860849,,5763802,,,6
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,795,Turkmenistan,TKM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,5183,,5183,,58519,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,3153,,3153,,27346,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,53256,,53256,,513780,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,807,TFYR of Macedonia,MKD,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,66233,,66233,,388567,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,126743,,126743,,1139543,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,13749906,,13749906,,101466598,,,6
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2217,,2217,,18836,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,842,USA,USA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,6844638,,6844638,,55524764,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,2936,,2936,,23442,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,617975,,617975,,6610059,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,976,,976,,10236,,,0
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,234466,,234466,,2153757,,,6
+H3,2011,2011,2011,4,0,2,Export,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,1806,Chocolate and other food preparations containing cocoa.,8,Weight in kilograms,,,7715,,7715,,38774,,,0

@@ -1,0 +1,444 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,169669473,,169669473,,282500224,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,Tea,8,Weight in kilograms,,,8736000,,8736000,,10261939,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,Tea,8,Weight in kilograms,,,1297421,,1297421,,1622393,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,557900,,557900,,1397776,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,58,Belgium-Luxembourg,BEL,,,,,,,,0902,Tea,8,Weight in kilograms,,,1241390,,1241390,,2932582,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,0902,Tea,8,Weight in kilograms,,,3500,,3500,,24048,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,Tea,8,Weight in kilograms,,,269468,,269468,,87602,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,Tea,8,Weight in kilograms,,,21000,,21000,,58274,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,Tea,8,Weight in kilograms,,,31878,,31878,,94956,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,Tea,8,Weight in kilograms,,,632935,,632935,,1644367,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,Tea,8,Weight in kilograms,,,132488,,132488,,137921,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,Tea,8,Weight in kilograms,,,2125,,2125,,12726,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,18761,,18761,,36526,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,Tea,8,Weight in kilograms,,,371914,,371914,,548382,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,Tea,8,Weight in kilograms,,,70654,,70654,,210297,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,Tea,8,Weight in kilograms,,,4261886,,4261886,,10069539,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,0902,Tea,8,Weight in kilograms,,,22101,,22101,,16574,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,Tea,8,Weight in kilograms,,,1433663,,1433663,,3290904,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,Tea,8,Weight in kilograms,,,6021721,,6021721,,11645468,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,Tea,8,Weight in kilograms,,,1260,,1260,,8662,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,Tea,8,Weight in kilograms,,,2750,,2750,,15248,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,Tea,8,Weight in kilograms,,,462706,,462706,,1241431,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,Tea,8,Weight in kilograms,,,12429565,,12429565,,24530497,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,Tea,8,Weight in kilograms,,,5000,,5000,,31608,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,Tea,8,Weight in kilograms,,,16058,,16058,,97406,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,Tea,8,Weight in kilograms,,,68800,,68800,,59012,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,Tea,8,Weight in kilograms,,,50949,,50949,,106279,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,Tea,8,Weight in kilograms,,,53687,,53687,,132644,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,Tea,8,Weight in kilograms,,,1871761,,1871761,,4854862,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,Tea,8,Weight in kilograms,,,24404913,,24404913,,56085935,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,Tea,8,Weight in kilograms,,,597625,,597625,,480070,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,224355,,224355,,261877,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,134949,,134949,,72720,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,575694,,575694,,822427,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,0902,Tea,8,Weight in kilograms,,,155000,,155000,,163107,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,Tea,8,Weight in kilograms,,,12000,,12000,,31800,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,Tea,8,Weight in kilograms,,,770453,,770453,,1411282,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,Tea,8,Weight in kilograms,,,214974,,214974,,479290,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,Tea,8,Weight in kilograms,,,945748,,945748,,2445687,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,Tea,8,Weight in kilograms,,,2717375,,2717375,,5996140,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,Tea,8,Weight in kilograms,,,248500,,248500,,593438,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,2750,,2750,,9411,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,Tea,8,Weight in kilograms,,,24171,,24171,,54912,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,Tea,8,Weight in kilograms,,,358925,,358925,,263677,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,Tea,8,Weight in kilograms,,,11021562,,11021562,,17357772,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,524,Nepal,NPL,,,,,,,,0902,Tea,8,Weight in kilograms,,,13910,,13910,,9414,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,1855448,,1855448,,3556196,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,Tea,8,Weight in kilograms,,,505155,,505155,,536388,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,Tea,8,Weight in kilograms,,,5531250,,5531250,,3271406,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,Tea,8,Weight in kilograms,,,6233124,,6233124,,8341839,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,Tea,8,Weight in kilograms,,,45234,,45234,,49742,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,Tea,8,Weight in kilograms,,,13670,,13670,,66581,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,Tea,8,Weight in kilograms,,,65374,,65374,,104434,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,Tea,8,Weight in kilograms,,,2512875,,2512875,,5135353,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,Tea,8,Weight in kilograms,,,2000,,2000,,5699,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,7819186,,7819186,,11924406,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,Tea,8,Weight in kilograms,,,306252,,306252,,913086,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,6627530,,6627530,,14719260,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,Tea,8,Weight in kilograms,,,13812,,13812,,36088,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,Tea,8,Weight in kilograms,,,1549897,,1549897,,4118934,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,Tea,8,Weight in kilograms,,,88898,,88898,,83799,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,711,So. African Customs Union,ZAF,,,,,,,,0902,Tea,8,Weight in kilograms,,,558,,558,,4156,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,Tea,8,Weight in kilograms,,,5283720,,5283720,,8445308,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,Tea,8,Weight in kilograms,,,9062,,9062,,26027,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,Tea,8,Weight in kilograms,,,5000,,5000,,22123,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,Tea,8,Weight in kilograms,,,263937,,263937,,219962,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,Tea,8,Weight in kilograms,,,294932,,294932,,609822,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,Tea,8,Weight in kilograms,,,1865636,,1865636,,3538197,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,Tea,8,Weight in kilograms,,,5445104,,5445104,,8614343,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,Tea,8,Weight in kilograms,,,6246358,,6246358,,7883234,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,Tea,8,Weight in kilograms,,,46199,,46199,,46662,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,Tea,8,Weight in kilograms,,,404000,,404000,,713311,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,Tea,8,Weight in kilograms,,,2625,,2625,,3275,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,Tea,8,Weight in kilograms,,,8575880,,8575880,,11055896,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,Tea,8,Weight in kilograms,,,19980944,,19980944,,17990636,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,Tea,8,Weight in kilograms,,,2000,,2000,,4800,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,Tea,8,Weight in kilograms,,,5461339,,5461339,,8664526,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,Tea,8,Weight in kilograms,,,99996,,99996,,85244,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,899,"Areas, nes",,,,,,,,,0902,Tea,8,Weight in kilograms,,,233,,233,,609,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,175538971,,175538971,,361892835,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,Tea,8,Weight in kilograms,,,6087949,,6087949,,6529911,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,Tea,8,Weight in kilograms,,,2378937,,2378937,,9501395,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,1500221,,1500221,,2758435,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,Tea,8,Weight in kilograms,,,4894,,4894,,12194,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,50,Bangladesh,BGD,,,,,,,,0902,Tea,8,Weight in kilograms,,,85000,,85000,,280280,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,58,Belgium-Luxembourg,BEL,,,,,,,,0902,Tea,8,Weight in kilograms,,,606873,,606873,,1289875,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,84,Belize,BLZ,,,,,,,,0902,Tea,8,Weight in kilograms,,,250,,250,,1178,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,Tea,8,Weight in kilograms,,,38456,,38456,,11809,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,Tea,8,Weight in kilograms,,,714,,714,,3623,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,Tea,8,Weight in kilograms,,,70000,,70000,,219677,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,Tea,8,Weight in kilograms,,,954062,,954062,,1783441,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,Tea,8,Weight in kilograms,,,54484,,54484,,54778,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,Tea,8,Weight in kilograms,,,50000,,50000,,187875,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,Tea,8,Weight in kilograms,,,796,,796,,5864,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,0902,Tea,8,Weight in kilograms,,,11000,,11000,,50738,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,192,Cuba,CUB,,,,,,,,0902,Tea,8,Weight in kilograms,,,949,,949,,5580,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,650582,,650582,,1860957,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,Tea,8,Weight in kilograms,,,461366,,461366,,713590,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,0902,Tea,8,Weight in kilograms,,,202230,,202230,,418529,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,Tea,8,Weight in kilograms,,,10879,,10879,,49075,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,Tea,8,Weight in kilograms,,,2610068,,2610068,,9392818,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,0902,Tea,8,Weight in kilograms,,,184441,,184441,,149175,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,Tea,8,Weight in kilograms,,,862311,,862311,,2934588,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,Tea,8,Weight in kilograms,,,3617788,,3617788,,7545048,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,Tea,8,Weight in kilograms,,,46496,,46496,,140465,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,Tea,8,Weight in kilograms,,,17812,,17812,,31966,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,Tea,8,Weight in kilograms,,,364413,,364413,,1379811,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,Tea,8,Weight in kilograms,,,20969506,,20969506,,43099428,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,Tea,8,Weight in kilograms,,,59729,,59729,,177372,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,352,Iceland,ISL,,,,,,,,0902,Tea,8,Weight in kilograms,,,250,,250,,1127,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,Tea,8,Weight in kilograms,,,92381,,92381,,202796,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,0902,Tea,8,Weight in kilograms,,,1194,,1194,,4388,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,Tea,8,Weight in kilograms,,,39257,,39257,,159192,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,Tea,8,Weight in kilograms,,,482210,,482210,,2149838,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,Tea,8,Weight in kilograms,,,15081830,,15081830,,42108662,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,Tea,8,Weight in kilograms,,,132774,,132774,,375263,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,782886,,782886,,598422,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,25597,,25597,,30534,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,0902,Tea,8,Weight in kilograms,,,55,,55,,1166,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,Tea,8,Weight in kilograms,,,250,,250,,533,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,Tea,8,Weight in kilograms,,,128,,128,,2879,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,Tea,8,Weight in kilograms,,,12845187,,12845187,,26805818,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,Tea,8,Weight in kilograms,,,243889,,243889,,656246,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,450,Madagascar,MDG,,,,,,,,0902,Tea,8,Weight in kilograms,,,507,,507,,3320,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,Tea,8,Weight in kilograms,,,742627,,742627,,1666061,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,Tea,8,Weight in kilograms,,,683757,,683757,,1585376,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,470,Malta,MLT,,,,,,,,0902,Tea,8,Weight in kilograms,,,500,,500,,764,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,Tea,8,Weight in kilograms,,,2250687,,2250687,,12364561,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,30421,,30421,,71871,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,Tea,8,Weight in kilograms,,,61472,,61472,,197260,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,Tea,8,Weight in kilograms,,,2043124,,2043124,,1907840,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,Tea,8,Weight in kilograms,,,26038101,,26038101,,65723395,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,524,Nepal,NPL,,,,,,,,0902,Tea,8,Weight in kilograms,,,46339,,46339,,31369,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,2151750,,2151750,,4628460,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,Tea,8,Weight in kilograms,,,1146307,,1146307,,1238572,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,0902,Tea,8,Weight in kilograms,,,17250,,17250,,10100,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,Tea,8,Weight in kilograms,,,3165312,,3165312,,2895489,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,0902,Tea,8,Weight in kilograms,,,28000,,28000,,79966,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,5000,,5000,,7995,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,Tea,8,Weight in kilograms,,,5284295,,5284295,,6355436,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,Tea,8,Weight in kilograms,,,37750,,37750,,43036,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,Tea,8,Weight in kilograms,,,6625,,6625,,46483,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,Tea,8,Weight in kilograms,,,13062,,13062,,25912,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,Tea,8,Weight in kilograms,,,1049717,,1049717,,3382085,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,620,Portugal,PRT,,,,,,,,0902,Tea,8,Weight in kilograms,,,10000,,10000,,30000,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,Tea,8,Weight in kilograms,,,1875,,1875,,11221,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,Tea,8,Weight in kilograms,,,4875,,4875,,30869,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,2619202,,2619202,,6773405,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,Tea,8,Weight in kilograms,,,293710,,293710,,1237859,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,3995999,,3995999,,13556581,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,Tea,8,Weight in kilograms,,,39562,,39562,,193404,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,Tea,8,Weight in kilograms,,,1540619,,1540619,,4505930,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,Tea,8,Weight in kilograms,,,143476,,143476,,458644,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,Tea,8,Weight in kilograms,,,639932,,639932,,2110960,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,Tea,8,Weight in kilograms,,,17249,,17249,,38105,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,Tea,8,Weight in kilograms,,,13812,,13812,,59926,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,Tea,8,Weight in kilograms,,,1410,,1410,,4159,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,Tea,8,Weight in kilograms,,,5000,,5000,,51082,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,Tea,8,Weight in kilograms,,,55812,,55812,,54960,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,Tea,8,Weight in kilograms,,,2139124,,2139124,,8792525,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,776,Tonga,TON,,,,,,,,0902,Tea,8,Weight in kilograms,,,50,,50,,574,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,Tea,8,Weight in kilograms,,,43796,,43796,,80915,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,Tea,8,Weight in kilograms,,,9819850,,9819850,,14014470,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,Tea,8,Weight in kilograms,,,1002906,,1002906,,1316385,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,Tea,8,Weight in kilograms,,,7129991,,7129991,,10667719,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,Tea,8,Weight in kilograms,,,23465158,,23465158,,24417136,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,Tea,8,Weight in kilograms,,,5000,,5000,,11274,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,Tea,8,Weight in kilograms,,,3871416,,3871416,,4293736,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,Tea,8,Weight in kilograms,,,2242812,,2242812,,3211326,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,891,Serbia and Montenegro,SCG,,,,,,,,0902,Tea,8,Weight in kilograms,,,3187,,3187,,15866,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,899,"Areas, nes",,,,,,,,,0902,Tea,8,Weight in kilograms,,,451,,451,,2114,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,201434516,,201434516,,355678043,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,Tea,8,Weight in kilograms,,,11058370,,11058370,,10210194,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,0902,Tea,8,Weight in kilograms,,,1437,,1437,,11750,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,934354,,934354,,1371243,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,Tea,8,Weight in kilograms,,,2159,,2159,,8808,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,58,Belgium-Luxembourg,BEL,,,,,,,,0902,Tea,8,Weight in kilograms,,,1339328,,1339328,,4184426,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,0902,Tea,8,Weight in kilograms,,,210,,210,,649,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,Tea,8,Weight in kilograms,,,107210,,107210,,74370,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,Tea,8,Weight in kilograms,,,209187,,209187,,436815,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,Tea,8,Weight in kilograms,,,1168014,,1168014,,2275725,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,0902,Tea,8,Weight in kilograms,,,100000,,100000,,180000,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,Tea,8,Weight in kilograms,,,661753,,661753,,610013,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,Tea,8,Weight in kilograms,,,22186,,22186,,18499,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,Tea,8,Weight in kilograms,,,78,,78,,760,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,192,Cuba,CUB,,,,,,,,0902,Tea,8,Weight in kilograms,,,949,,949,,5800,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,0902,Tea,8,Weight in kilograms,,,6000,,6000,,5771,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,0902,Tea,8,Weight in kilograms,,,4500,,4500,,22154,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,445500,,445500,,941200,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,Tea,8,Weight in kilograms,,,513288,,513288,,726576,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,0902,Tea,8,Weight in kilograms,,,20000,,20000,,50000,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,0902,Tea,8,Weight in kilograms,,,18000,,18000,,67895,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,Tea,8,Weight in kilograms,,,113042,,113042,,164308,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,Tea,8,Weight in kilograms,,,7349373,,7349373,,23747121,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,0902,Tea,8,Weight in kilograms,,,12000,,12000,,42042,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,Tea,8,Weight in kilograms,,,1433636,,1433636,,3147071,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,Tea,8,Weight in kilograms,,,6880796,,6880796,,9844123,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,Tea,8,Weight in kilograms,,,42335,,42335,,104343,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,Tea,8,Weight in kilograms,,,301237,,301237,,803902,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,Tea,8,Weight in kilograms,,,18958494,,18958494,,35681379,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,Tea,8,Weight in kilograms,,,16687,,16687,,95858,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,352,Iceland,ISL,,,,,,,,0902,Tea,8,Weight in kilograms,,,1000,,1000,,4510,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,Tea,8,Weight in kilograms,,,65452,,65452,,102581,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,Tea,8,Weight in kilograms,,,21375,,21375,,26419,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,Tea,8,Weight in kilograms,,,77878,,77878,,197985,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,Tea,8,Weight in kilograms,,,1091125,,1091125,,3684777,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,Tea,8,Weight in kilograms,,,14583037,,14583037,,36171646,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,Tea,8,Weight in kilograms,,,1621788,,1621788,,3875633,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,10312,,10312,,32980,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,992000,,992000,,873157,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,1375,,1375,,13699,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,Tea,8,Weight in kilograms,,,85703,,85703,,152338,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,0902,Tea,8,Weight in kilograms,,,195,,195,,655,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,Tea,8,Weight in kilograms,,,1995000,,1995000,,3986569,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,Tea,8,Weight in kilograms,,,923647,,923647,,2631936,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,450,Madagascar,MDG,,,,,,,,0902,Tea,8,Weight in kilograms,,,105,,105,,729,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,Tea,8,Weight in kilograms,,,966222,,966222,,2241465,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,462,Maldives,MDV,,,,,,,,0902,Tea,8,Weight in kilograms,,,110000,,110000,,361350,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,Tea,8,Weight in kilograms,,,408875,,408875,,1152003,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,Tea,8,Weight in kilograms,,,44000,,44000,,104000,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,1890,,1890,,10674,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,Tea,8,Weight in kilograms,,,623718,,623718,,1573977,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,Tea,8,Weight in kilograms,,,5752874,,5752874,,4460621,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,Tea,8,Weight in kilograms,,,21741741,,21741741,,53020343,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,524,Nepal,NPL,,,,,,,,0902,Tea,8,Weight in kilograms,,,14000,,14000,,10885,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,3858674,,3858674,,5438422,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,Tea,8,Weight in kilograms,,,947702,,947702,,1126824,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,Tea,8,Weight in kilograms,,,1421937,,1421937,,1605586,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,5000,,5000,,7995,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,Tea,8,Weight in kilograms,,,4550069,,4550069,,4827656,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,Tea,8,Weight in kilograms,,,31921,,31921,,34026,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,Tea,8,Weight in kilograms,,,6151,,6151,,32292,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,Tea,8,Weight in kilograms,,,152858,,152858,,247420,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,Tea,8,Weight in kilograms,,,3576057,,3576057,,5107492,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,620,Portugal,PRT,,,,,,,,0902,Tea,8,Weight in kilograms,,,131,,131,,1276,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,638,Réunion,REU,,,,,,,,0902,Tea,8,Weight in kilograms,,,699,,699,,3051,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,0902,Tea,8,Weight in kilograms,,,3187,,3187,,18714,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,15312933,,15312933,,28864379,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,Tea,8,Weight in kilograms,,,290394,,290394,,1142979,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,6285284,,6285284,,17654462,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,690,Seychelles,SYC,,,,,,,,0902,Tea,8,Weight in kilograms,,,240000,,240000,,656110,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,Tea,8,Weight in kilograms,,,10000,,10000,,18654,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,Tea,8,Weight in kilograms,,,5188577,,5188577,,7212788,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,Tea,8,Weight in kilograms,,,44562,,44562,,144546,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,705,Slovenia,SVN,,,,,,,,0902,Tea,8,Weight in kilograms,,,23000,,23000,,75787,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,Tea,8,Weight in kilograms,,,1656749,,1656749,,4916940,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,736,Fmr Sudan,SDN,,,,,,,,0902,Tea,8,Weight in kilograms,,,40460,,40460,,47647,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,0902,Tea,8,Weight in kilograms,,,1375,,1375,,6937,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,Tea,8,Weight in kilograms,,,9975,,9975,,46410,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,Tea,8,Weight in kilograms,,,480000,,480000,,1213440,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,Tea,8,Weight in kilograms,,,2937,,2937,,11461,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,Tea,8,Weight in kilograms,,,1537121,,1537121,,3064579,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,Tea,8,Weight in kilograms,,,146335,,146335,,233779,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,Tea,8,Weight in kilograms,,,1723937,,1723937,,4618545,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,Tea,8,Weight in kilograms,,,91648,,91648,,95588,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,Tea,8,Weight in kilograms,,,8249948,,8249948,,11171667,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,Tea,8,Weight in kilograms,,,406,,406,,3508,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,Tea,8,Weight in kilograms,,,1730163,,1730163,,1913577,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,Tea,8,Weight in kilograms,,,122362,,122362,,265814,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,Tea,8,Weight in kilograms,,,1314875,,1314875,,1191649,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,Tea,8,Weight in kilograms,,,8991565,,8991565,,10998028,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,Tea,8,Weight in kilograms,,,22834502,,22834502,,21913812,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,Tea,8,Weight in kilograms,,,7527268,,7527268,,10013582,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,0902,Tea,8,Weight in kilograms,,,170000,,170000,,204319,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,899,"Areas, nes",,,,,,,,,0902,Tea,8,Weight in kilograms,,,319,,319,,2575,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,179667539,,179667539,,294349424,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,Tea,8,Weight in kilograms,,,3593386,,3593386,,3296623,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,Tea,8,Weight in kilograms,,,693062,,693062,,1749045,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,1124740,,1124740,,1529027,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,Tea,8,Weight in kilograms,,,101,,101,,968,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,58,Belgium-Luxembourg,BEL,,,,,,,,0902,Tea,8,Weight in kilograms,,,2615874,,2615874,,6943156,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,0902,Tea,8,Weight in kilograms,,,597,,597,,2606,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,Tea,8,Weight in kilograms,,,310323,,310323,,103337,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,0902,Tea,8,Weight in kilograms,,,15187,,15187,,38130,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,Tea,8,Weight in kilograms,,,3421,,3421,,25148,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,0902,Tea,8,Weight in kilograms,,,147000,,147000,,82320,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,Tea,8,Weight in kilograms,,,1189158,,1189158,,2147550,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,Tea,8,Weight in kilograms,,,108803,,108803,,111013,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,Tea,8,Weight in kilograms,,,84000,,84000,,58968,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,Tea,8,Weight in kilograms,,,234,,234,,1553,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,0902,Tea,8,Weight in kilograms,,,100378,,100378,,85873,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,192,Cuba,CUB,,,,,,,,0902,Tea,8,Weight in kilograms,,,1449,,1449,,7600,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,0902,Tea,8,Weight in kilograms,,,63000,,63000,,158613,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,404125,,404125,,718961,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,Tea,8,Weight in kilograms,,,335250,,335250,,492275,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,0902,Tea,8,Weight in kilograms,,,597,,597,,1164,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,Tea,8,Weight in kilograms,,,6296,,6296,,27224,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,Tea,8,Weight in kilograms,,,5573936,,5573936,,16261298,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,0902,Tea,8,Weight in kilograms,,,31621,,31621,,17429,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,Tea,8,Weight in kilograms,,,824480,,824480,,1881582,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,Tea,8,Weight in kilograms,,,5016342,,5016342,,7541990,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,Tea,8,Weight in kilograms,,,15000,,15000,,18393,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,Tea,8,Weight in kilograms,,,699,,699,,3996,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,320,Guatemala,GTM,,,,,,,,0902,Tea,8,Weight in kilograms,,,60000,,60000,,57630,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,Tea,8,Weight in kilograms,,,117398,,117398,,233008,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,Tea,8,Weight in kilograms,,,19105307,,19105307,,39356985,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,Tea,8,Weight in kilograms,,,161351,,161351,,261864,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,Tea,8,Weight in kilograms,,,93250,,93250,,173913,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,Tea,8,Weight in kilograms,,,507,,507,,3856,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,Tea,8,Weight in kilograms,,,18000,,18000,,32020,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,Tea,8,Weight in kilograms,,,78228,,78228,,205070,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,Tea,8,Weight in kilograms,,,212499,,212499,,696305,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,Tea,8,Weight in kilograms,,,17819983,,17819983,,39579246,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,Tea,8,Weight in kilograms,,,1299199,,1299199,,2310894,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,6249,,6249,,19870,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,190101,,190101,,185482,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0902,Tea,8,Weight in kilograms,,,117,,117,,628,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,51826,,51826,,248055,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,0902,Tea,8,Weight in kilograms,,,71706,,71706,,100110,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,0902,Tea,8,Weight in kilograms,,,246,,246,,16266,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,Tea,8,Weight in kilograms,,,21948,,21948,,57315,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,Tea,8,Weight in kilograms,,,586221,,586221,,1174525,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,Tea,8,Weight in kilograms,,,1124987,,1124987,,2193746,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,Tea,8,Weight in kilograms,,,1119625,,1119625,,2654847,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,108393,,108393,,43566,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,0902,Tea,8,Weight in kilograms,,,22500,,22500,,70425,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,0902,Tea,8,Weight in kilograms,,,219281,,219281,,274977,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,Tea,8,Weight in kilograms,,,590997,,590997,,360761,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,Tea,8,Weight in kilograms,,,18456409,,18456409,,32586924,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,1901052,,1901052,,2834950,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,Tea,8,Weight in kilograms,,,1112889,,1112889,,1190348,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,Tea,8,Weight in kilograms,,,5249116,,5249116,,2868406,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,5000,,5000,,8685,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,Tea,8,Weight in kilograms,,,7944475,,7944475,,8669471,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,Tea,8,Weight in kilograms,,,23218,,23218,,25658,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,Tea,8,Weight in kilograms,,,5812,,5812,,29331,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,Tea,8,Weight in kilograms,,,106566,,106566,,159417,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,Tea,8,Weight in kilograms,,,1868702,,1868702,,3826726,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,0902,Tea,8,Weight in kilograms,,,11812,,11812,,28910,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,0902,Tea,8,Weight in kilograms,,,1437,,1437,,4457,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,7934312,,7934312,,15600349,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,Tea,8,Weight in kilograms,,,303257,,303257,,907352,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,4551499,,4551499,,11071618,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,0902,Tea,8,Weight in kilograms,,,1687,,1687,,4225,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,0902,Tea,8,Weight in kilograms,,,4312,,4312,,17757,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,Tea,8,Weight in kilograms,,,3015605,,3015605,,5859409,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,703,Slovakia,SVK,,,,,,,,0902,Tea,8,Weight in kilograms,,,11250,,11250,,48609,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,Tea,8,Weight in kilograms,,,247718,,247718,,292417,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,711,So. African Customs Union,ZAF,,,,,,,,0902,Tea,8,Weight in kilograms,,,2277,,2277,,4604,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,Tea,8,Weight in kilograms,,,4718437,,4718437,,8495931,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,736,Fmr Sudan,SDN,,,,,,,,0902,Tea,8,Weight in kilograms,,,94050,,94050,,65835,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,Tea,8,Weight in kilograms,,,10312,,10312,,25942,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,Tea,8,Weight in kilograms,,,279000,,279000,,344390,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,Tea,8,Weight in kilograms,,,213250,,213250,,251202,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,Tea,8,Weight in kilograms,,,210538,,210538,,209900,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,Tea,8,Weight in kilograms,,,1467312,,1467312,,2806968,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,Tea,8,Weight in kilograms,,,1240866,,1240866,,2406947,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,Tea,8,Weight in kilograms,,,6763916,,6763916,,8319483,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,Tea,8,Weight in kilograms,,,464,,464,,3893,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,Tea,8,Weight in kilograms,,,815187,,815187,,473136,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,Tea,8,Weight in kilograms,,,468999,,468999,,773451,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,Tea,8,Weight in kilograms,,,79812,,79812,,64205,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,Tea,8,Weight in kilograms,,,8548362,,8548362,,9789815,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,Tea,8,Weight in kilograms,,,22508721,,22508721,,21453575,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,Tea,8,Weight in kilograms,,,10687,,10687,,32171,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,Tea,8,Weight in kilograms,,,14139273,,14139273,,19174244,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,899,"Areas, nes",,,,,,,,,0902,Tea,8,Weight in kilograms,,,970,,970,,1507,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,166572174,,166572174,,274747943,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,0902,Tea,8,Weight in kilograms,,,7779353,,7779353,,8121095,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,0902,Tea,8,Weight in kilograms,,,803034,,803034,,1646055,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,1156720,,1156720,,2051817,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,0902,Tea,8,Weight in kilograms,,,6604,,6604,,13494,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,58,Belgium-Luxembourg,BEL,,,,,,,,0902,Tea,8,Weight in kilograms,,,805874,,805874,,1904542,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,0902,Tea,8,Weight in kilograms,,,632428,,632428,,231354,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,0902,Tea,8,Weight in kilograms,,,4660,,4660,,31771,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,0902,Tea,8,Weight in kilograms,,,777580,,777580,,1818594,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,0902,Tea,8,Weight in kilograms,,,2250,,2250,,4479,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,0902,Tea,8,Weight in kilograms,,,21000,,21000,,14741,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,0902,Tea,8,Weight in kilograms,,,2796,,2796,,15897,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,192,Cuba,CUB,,,,,,,,0902,Tea,8,Weight in kilograms,,,1862,,1862,,10384,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,143199,,143199,,256367,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,0902,Tea,8,Weight in kilograms,,,447000,,447000,,610676,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,0902,Tea,8,Weight in kilograms,,,12250,,12250,,25759,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,0902,Tea,8,Weight in kilograms,,,12182,,12182,,31278,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,0902,Tea,8,Weight in kilograms,,,4315937,,4315937,,11964487,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,0902,Tea,8,Weight in kilograms,,,21984,,21984,,16376,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,0902,Tea,8,Weight in kilograms,,,1185292,,1185292,,2908694,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,0902,Tea,8,Weight in kilograms,,,4357440,,4357440,,7987313,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,0902,Tea,8,Weight in kilograms,,,30140,,30140,,53575,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,0902,Tea,8,Weight in kilograms,,,14437,,14437,,17447,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,0902,Tea,8,Weight in kilograms,,,482250,,482250,,1345553,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,0902,Tea,8,Weight in kilograms,,,13891951,,13891951,,27261173,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,0902,Tea,8,Weight in kilograms,,,3000,,3000,,25322,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,0902,Tea,8,Weight in kilograms,,,17226,,17226,,110350,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,0902,Tea,8,Weight in kilograms,,,27199,,27199,,37992,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,0902,Tea,8,Weight in kilograms,,,140937,,140937,,184850,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,0902,Tea,8,Weight in kilograms,,,28015,,28015,,54644,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,0902,Tea,8,Weight in kilograms,,,707616,,707616,,1661651,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,0902,Tea,8,Weight in kilograms,,,21909909,,21909909,,49964997,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,0902,Tea,8,Weight in kilograms,,,656042,,656042,,476507,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,33300,,33300,,26341,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0902,Tea,8,Weight in kilograms,,,199,,199,,1179,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,202436,,202436,,181303,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,0902,Tea,8,Weight in kilograms,,,26574,,26574,,23045,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,0902,Tea,8,Weight in kilograms,,,330000,,330000,,623699,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,0902,Tea,8,Weight in kilograms,,,625,,625,,9138,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,0902,Tea,8,Weight in kilograms,,,22000,,22000,,41720,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,0902,Tea,8,Weight in kilograms,,,3450437,,3450437,,5985737,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,0902,Tea,8,Weight in kilograms,,,191764,,191764,,479970,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,0902,Tea,8,Weight in kilograms,,,1315631,,1315631,,3027876,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,0902,Tea,8,Weight in kilograms,,,6653816,,6653816,,13935237,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,0902,Tea,8,Weight in kilograms,,,20000,,20000,,30000,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,1796,,1796,,4567,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,0902,Tea,8,Weight in kilograms,,,569186,,569186,,754284,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,0902,Tea,8,Weight in kilograms,,,16308347,,16308347,,27004208,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,0902,Tea,8,Weight in kilograms,,,20,,20,,1590,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,524,Nepal,NPL,,,,,,,,0902,Tea,8,Weight in kilograms,,,2250,,2250,,11400,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,1330987,,1330987,,2267773,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,0902,Tea,8,Weight in kilograms,,,498812,,498812,,498209,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,0902,Tea,8,Weight in kilograms,,,3748500,,3748500,,1467361,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,0902,Tea,8,Weight in kilograms,,,10000,,10000,,22453,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,0902,Tea,8,Weight in kilograms,,,5688812,,5688812,,7117724,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,0902,Tea,8,Weight in kilograms,,,54867,,54867,,55309,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,0902,Tea,8,Weight in kilograms,,,6812,,6812,,44980,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,0902,Tea,8,Weight in kilograms,,,31913,,31913,,51067,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,0902,Tea,8,Weight in kilograms,,,2422076,,2422076,,4447608,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,0902,Tea,8,Weight in kilograms,,,86000,,86000,,230119,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,0902,Tea,8,Weight in kilograms,,,7044108,,7044108,,9713233,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,0902,Tea,8,Weight in kilograms,,,209202,,209202,,664470,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,0902,Tea,8,Weight in kilograms,,,5216499,,5216499,,12495183,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,0902,Tea,8,Weight in kilograms,,,3552386,,3552386,,7141812,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,0902,Tea,8,Weight in kilograms,,,474261,,474261,,752490,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,711,So. African Customs Union,ZAF,,,,,,,,0902,Tea,8,Weight in kilograms,,,19000,,19000,,15080,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,0902,Tea,8,Weight in kilograms,,,8061675,,8061675,,11609257,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,0902,Tea,8,Weight in kilograms,,,7312,,7312,,24564,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,0902,Tea,8,Weight in kilograms,,,972,,972,,5868,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,0902,Tea,8,Weight in kilograms,,,52000,,52000,,54619,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,0902,Tea,8,Weight in kilograms,,,134937,,134937,,303708,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,0902,Tea,8,Weight in kilograms,,,263534,,263534,,461848,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,0902,Tea,8,Weight in kilograms,,,1730425,,1730425,,2973166,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,0902,Tea,8,Weight in kilograms,,,3927249,,3927249,,6473695,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,0902,Tea,8,Weight in kilograms,,,3336999,,3336999,,4463405,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,0902,Tea,8,Weight in kilograms,,,8625,,8625,,15114,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,0902,Tea,8,Weight in kilograms,,,100000,,100000,,39524,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,0902,Tea,8,Weight in kilograms,,,125940,,125940,,296833,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,0902,Tea,8,Weight in kilograms,,,22000,,22000,,13871,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,0902,Tea,8,Weight in kilograms,,,7714448,,7714448,,10186552,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,834,United Rep. of Tanzania,TZA,,,,,,,,0902,Tea,8,Weight in kilograms,,,539,,539,,3100,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,0902,Tea,8,Weight in kilograms,,,20623088,,20623088,,17013458,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,0902,Tea,8,Weight in kilograms,,,8812,,8812,,20065,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,0902,Tea,8,Weight in kilograms,,,4000,,4000,,8800,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,0902,Tea,8,Weight in kilograms,,,528324,,528324,,793483,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,899,"Areas, nes",,,,,,,,,0902,Tea,8,Weight in kilograms,,,512,,512,,1614,,,0
