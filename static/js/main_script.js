@@ -197,8 +197,6 @@ function update_paths(p) {
         }
 
         d3.select(this)
-            .transition()
-            .duration(100)
             .style("fill", color);
     })
     .on("mouseout", function(country) {
