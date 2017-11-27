@@ -16,8 +16,11 @@ let stories = [
     )
 ];
 
+// Global variables
 let stories_data = [];
 let current_year;
+let countries = [];
+let big_traders;
 
 // Create navbar with stories
 nav_ul = d3.select('#navbarUL');
@@ -63,10 +66,25 @@ q.awaitAll(function(err, results) {
     stories_data = results;
 });
 
+function get_top_traders(n) {
+    let tmp_array = [];
+
+    let story_data = stories_data[current_story];
+
+    let min = story_data[0].Year;
+    let max = story_data[story_data.length-1].Year;
+
+    // For each year, take the top n traders and concatenate their ISO in an array
+    for (let year = min; year <= max; year++) {
+        tmp_array = tmp_array.concat(story_data.filter(x => x.Year == year)
+        .sort((a, b) => (parseInt(a.Value) - parseInt(b.Value)))
+        .map(x => x.PartnerISO)
+        .slice(-n-1,-1))
+    }
+    return new Set(tmp_array);
+}
 
 // Load countries json
-let countries = [];
-
 d3.json("static/world.geo.json", function(world_json) {
     for (let geo_feat of world_json.features) {
 
@@ -109,10 +127,11 @@ d3.json("static/world.geo.json", function(world_json) {
 
 });
 
-
 function change_story(new_story) {
     current_story = new_story;
     story_data = stories_data[current_story];
+
+    big_traders = get_top_traders(10);
 
     // Set current year as last year appearing in the dataset
     current_year = story_data[story_data.length - 1].Year
@@ -139,7 +158,8 @@ function change_year(new_year) {
             trade_value = parseFloat(trade_data.Value);
             trade_weight = parseFloat(trade_data.Weight);
 
-            if (trade_value >= big_trader_threshold) {
+
+            if (big_traders.has(country.ISO3)) {
                 is_big_trader = true;
             }
         }
