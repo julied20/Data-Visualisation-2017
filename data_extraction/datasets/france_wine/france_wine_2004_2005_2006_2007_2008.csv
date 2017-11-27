@@ -1,0 +1,959 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1517600810,,1517600810,,9279545137,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,356,,356,,1372,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,38199,,38199,,107032,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,394432,,394432,,1234979,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,177328,,177328,,3005116,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,311341,,311341,,2741654,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,137671,,137671,,1141670,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,61565,,61565,,477525,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,61799,,61799,,1892262,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,5094702,,5094702,,70282661,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,5711052,,5711052,,50263649,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,505615,,505615,,3667888,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,359024,,359024,,2825358,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,42324,,42324,,182502,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,36608,,36608,,334817,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,306133,,306133,,3486758,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,177250770,,177250770,,1046536384,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,190223,,190223,,3906651,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,64,Bhutan,BTN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,3186,,3186,,15094,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,20864,,20864,,478897,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,41733,,41733,,277184,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,3551518,,3551518,,33303270,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,13747,,13747,,91937,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,90,Solomon Isds,SLB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,679,,679,,17839,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,49781,,49781,,937212,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,711872,,711872,,2158469,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,104,Myanmar,MMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,14218,,14218,,69982,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,57867,,57867,,178386,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,788931,,788931,,2254523,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,377701,,377701,,2427420,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2383450,,2383450,,8978298,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,58555670,,58555670,,367542130,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,13181,,13181,,32933,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,94100,,94100,,1956756,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,80139,,80139,,333444,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,202885,,202885,,1038755,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,28400,,28400,,190736,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,50313,,50313,,1300845,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,16920741,,16920741,,101183210,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,880268,,880268,,3584184,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2836,,2836,,23327,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,175,Mayotte,MYT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,214964,,214964,,915257,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,519832,,519832,,4992060,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,708098,,708098,,2603062,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,70665,,70665,,975633,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,198186,,198186,,3132730,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,37359,,37359,,499480,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1149943,,1149943,,7912099,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,6154123,,6154123,,25642283,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,629201,,629201,,3713170,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,39450014,,39450014,,173410276,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,16815,,16815,,48027,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,393932,,393932,,3643188,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,69562,,69562,,351283,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,42927,,42927,,288162,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,67915,,67915,,1978711,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,124486,,124486,,942701,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,232,Eritrea,ERI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,117,,117,,1372,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2185100,,2185100,,11209494,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,13703,,13703,,108404,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,9673139,,9673139,,42872986,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2117226,,2117226,,13641030,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,240,,240,,5489,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,151331,,151331,,439104,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1956986,,1956986,,9391330,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,10095,,10095,,455570,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,24394,,24394,,63121,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,258994949,,258994949,,855854238,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,238531,,238531,,2483680,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,7292,,7292,,238763,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1545499,,1545499,,20581613,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,17306,,17306,,133103,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,22443,,22443,,277184,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,64720,,64720,,463803,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,71012,,71012,,612001,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,172925,,172925,,1136181,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,336,Holy See (Vatican City State),VAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,378,,378,,2744,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,63244,,63244,,308745,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,6773834,,6773834,,96981537,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,872933,,872933,,3795502,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,246185,,246185,,2277850,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,88538,,88538,,740987,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,27813,,27813,,227785,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,16506189,,16506189,,97937959,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,839868,,839868,,5793424,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,31316253,,31316253,,350583123,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2345374,,2345374,,9260971,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,306061,,306061,,1166369,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,58639376,,58639376,,524269211,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,527710,,527710,,6681237,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,232723,,232723,,1096387,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,80198,,80198,,738243,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,4545,,4545,,26072,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,7318401,,7318401,,64470026,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,11439,,11439,,67238,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,247850,,247850,,1884029,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,402763,,402763,,5554662,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,4750381,,4750381,,22675588,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,49838,,49838,,190736,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,148,,148,,4117,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,3992705,,3992705,,10428712,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,7874361,,7874361,,59214503,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,180609,,180609,,9418774,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,163958,,163958,,1121087,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1214312,,1214312,,7526512,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,334162,,334162,,2694999,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,196974,,196974,,891929,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,688483,,688483,,4488463,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,34009,,34009,,395193,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,727599,,727599,,7548467,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2461957,,2461957,,27368509,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,8903527,,8903527,,49673604,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,496,Mongolia,MNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,159368,,159368,,531041,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,37005,,37005,,178386,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,15783,,15783,,128987,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,500,Montserrat,MSR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,112,,112,,2744,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,968141,,968141,,9864739,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2617,,2617,,21955,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,12889,,12889,,278556,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,721,,721,,16466,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,218987,,218987,,441848,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,136880679,,136880679,,465657103,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,274925,,274925,,3984866,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,10611,,10611,,266207,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2937705,,2937705,,18814220,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,45141,,45141,,330700,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1052258,,1052258,,16223509,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,558,Nicaragua,NIC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,18395,,18395,,76843,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,75928,,75928,,352655,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1360435,,1360435,,13421478,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,26991,,26991,,200341,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,577,"Other Africa, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,662,,662,,23327,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,9294523,,9294523,,42057899,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,150,,150,,2744,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,157,,157,,1372,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,241422,,241422,,5705603,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,65077,,65077,,1213024,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,101415,,101415,,978378,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,499212,,499212,,2520730,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,7467598,,7467598,,26376409,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1151938,,1151938,,18449216,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,743,,743,,6861,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,351047,,351047,,6275066,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1287093,,1287093,,7456529,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,73722845,,73722845,,89186074,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,21735,,21735,,50771,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,12433,,12433,,148197,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,10446,,10446,,120754,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,341257,,341257,,1101876,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,142669,,142669,,687472,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,38769,,38769,,428126,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,674,San Marino,SMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,4806,,4806,,108404,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,7230,,7230,,43910,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,16005,,16005,,166036,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2092540,,2092540,,3549879,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,199466,,199466,,1494325,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,125521,,125521,,1383177,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,11228,,11228,,60377,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1134038,,1134038,,11044830,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,10501599,,10501599,,267733863,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,717894,,717894,,2467214,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,3486033,,3486033,,11046202,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,272823,,272823,,1863446,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,589734,,589734,,13259559,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1620,,1620,,24700,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,6984065,,6984065,,128496831,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,736,Fmr Sudan,SDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1705,,1705,,6861,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,17947,,17947,,200341,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,748,Swaziland,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,103346,,103346,,209946,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,20492634,,20492634,,117939132,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,53397654,,53397654,,384669918,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,37549,,37549,,428126,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2176016,,2176016,,14645480,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,760288,,760288,,5422930,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,138691,,138691,,1766020,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2794880,,2794880,,47752525,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,29654,,29654,,569463,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,709451,,709451,,4080920,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,18,,18,,23327,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,796,Turks and Caicos Isds,TCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,76611,,76611,,922118,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,15150,,15150,,49399,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,707106,,707106,,10345008,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1521,,1521,,9605,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,164391,,164391,,1833258,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,299687781,,299687781,,1981109562,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,62888,,62888,,362261,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,108419492,,108419492,,1230391839,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,541739,,541739,,2622272,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,287739,,287739,,2513869,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,329,,329,,9605,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,753404,,753404,,5772841,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,81360,,81360,,311489,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,65520,,65520,,168780,,,4
+H3,2007,2007,2007,4,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,18512,,18512,,97426,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1368977986,,1368977986,,10060794296,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,8747,,8747,,26552,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,40486,,40486,,237494,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,423,,423,,11801,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1239983,,1239983,,3267382,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,162010,,162010,,2964984,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,335281,,335281,,4471077,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,132396,,132396,,1197794,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,85039,,85039,,1236147,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,66495,,66495,,2367562,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,7004279,,7004279,,91098754,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,5281823,,5281823,,58936794,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,449435,,449435,,2773219,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,268530,,268530,,3156749,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,27240,,27240,,73756,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,8948,,8948,,215367,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,273663,,273663,,3912008,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,172008030,,172008030,,1157747931,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,154518,,154518,,3276233,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,16179,,16179,,306824,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,38283,,38283,,268471,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,3491544,,3491544,,39595070,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,9004,,9004,,84082,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,41313,,41313,,851142,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,338,,338,,17701,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,431134,,431134,,3317536,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,104,Myanmar,MMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,9927,,9927,,76706,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,24792,,24792,,89982,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,475576,,475576,,2075489,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,357946,,357946,,2293806,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2439275,,2439275,,11277264,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,55442054,,55442054,,415855920,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,15071,,15071,,54579,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,88038,,88038,,2242177,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,87654,,87654,,449910,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,121887,,121887,,907196,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,67972,,67972,,631350,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,67412,,67412,,1455940,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,25660844,,25660844,,142066970,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,460007,,460007,,2762893,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,3684,,3684,,19177,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,175,Mayotte,MYT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,260885,,260885,,1185993,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,635772,,635772,,5851786,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,521857,,521857,,2880902,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,82103,,82103,,1023731,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,178670,,178670,,3650913,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,72681,,72681,,916047,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1108218,,1108218,,8791693,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,6511749,,6511749,,30263485,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,617400,,617400,,3379491,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,33671112,,33671112,,170769782,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,23993,,23993,,51629,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,479760,,479760,,4695295,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,111331,,111331,,920473,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,55770,,55770,,345177,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,104385,,104385,,3624361,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,109097,,109097,,982427,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1852624,,1852624,,10303687,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,26977,,26977,,174064,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,9391011,,9391011,,48779144,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1968524,,1968524,,12936769,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1916,,1916,,11801,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,116204,,116204,,494164,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1481683,,1481683,,11340694,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,43764,,43764,,799513,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2457,,2457,,14751,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,242094080,,242094080,,987374956,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,225399,,225399,,4484353,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,12040,,12040,,339277,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1552930,,1552930,,25245139,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,20824,,20824,,129810,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,10644,,10644,,159313,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,33103,,33103,,559069,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,121634,,121634,,1632954,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,151597,,151597,,1396935,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,59644,,59644,,290598,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,7528937,,7528937,,149477954,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,801254,,801254,,4199656,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,221106,,221106,,1665406,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,105752,,105752,,2079914,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,364,Iran,IRN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,6366,,6366,,51629,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,83838,,83838,,331901,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,15306676,,15306676,,103992745,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,904545,,904545,,6098131,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,26100477,,26100477,,332843753,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2387062,,2387062,,11389372,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,298004,,298004,,1349731,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,58818457,,58818457,,595384942,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,355694,,355694,,3677465,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,184702,,184702,,1259749,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,100518,,100518,,711006,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,40,,40,,4425,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,4773374,,4773374,,56473350,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2003,,2003,,112109,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,304763,,304763,,2858775,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,469667,,469667,,10533805,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,5144205,,5144205,,26009250,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,21392,,21392,,84082,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,328,,328,,7376,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,6650472,,6650472,,18713325,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,7589357,,7589357,,64862336,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,190910,,190910,,8226723,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,144987,,144987,,1076835,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1339533,,1339533,,10660665,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,331215,,331215,,2926631,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,186329,,186329,,1037007,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,871860,,871860,,6283995,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,17893,,17893,,238969,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,741538,,741538,,9125069,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2524803,,2524803,,33471863,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,6304597,,6304597,,50124450,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,496,Mongolia,MNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,246502,,246502,,1084210,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,4023,,4023,,129810,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,27398,,27398,,234543,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,500,Montserrat,MSR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,720,,720,,1475,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1020783,,1020783,,15134693,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,4677,,4677,,11801,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,38820,,38820,,408607,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,101943,,101943,,185865,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,128793580,,128793580,,490800675,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,265949,,265949,,4099348,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,34906,,34906,,532517,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,3040805,,3040805,,20681130,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,45638,,45638,,311250,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1967869,,1967869,,21390661,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,558,Nicaragua,NIC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,26686,,26686,,132760,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,152556,,152556,,544318,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2342313,,2342313,,30986292,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,34954,,34954,,311250,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,7525032,,7525032,,39754383,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,36,,36,,1475,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,333581,,333581,,6378403,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,202,,202,,8851,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,114281,,114281,,1413161,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,98502,,98502,,1433813,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,604984,,604984,,3777773,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,6700141,,6700141,,29269256,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1300843,,1300843,,21386235,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,203,,203,,8851,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,429804,,429804,,7347554,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1415614,,1415614,,11949917,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,20533085,,20533085,,69281784,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,42755,,42755,,107683,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,8586,,8586,,197666,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,3328,,3328,,148987,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,288599,,288599,,1185993,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,177838,,177838,,961776,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,29522,,29522,,517766,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,674,San Marino,SMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,7173,,7173,,157837,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,9986,,9986,,35403,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,11522,,11522,,407132,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,1756574,,1756574,,4177529,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,267009,,267009,,1753913,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,214161,,214161,,2683236,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,18993,,18993,,103258,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,905847,,905847,,8024632,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,10075858,,10075858,,263809788,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,848183,,848183,,4099348,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2295019,,2295019,,8838897,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,353430,,353430,,3136097,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,627101,,627101,,15540350,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2566,,2566,,30977,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,6558011,,6558011,,133245775,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,736,Fmr Sudan,SDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,22148,,22148,,56054,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,12902,,12902,,209467,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,748,Swaziland,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,27527,,27527,,78181,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,20942837,,20942837,,129923813,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,44372994,,44372994,,512282793,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,44150,,44150,,467612,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,2032791,,2032791,,23438122,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,587466,,587466,,5562663,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,126584,,126584,,2525399,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,4239835,,4239835,,87200021,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,53277,,53277,,861468,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,807611,,807611,,4689395,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,24143,,24143,,81131,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,796,Turks and Caicos Isds,TCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,74040,,74040,,1689008,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,18653,,18653,,107683,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,865009,,865009,,13463386,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,4934,,4934,,181439,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,175663,,175663,,2515073,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,260636012,,260636012,,2083727074,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,52840,,52840,,230118,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,99531914,,99531914,,1125183265,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,370428,,370428,,2581453,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,226325,,226325,,2941382,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,185,,185,,11801,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,472354,,472354,,5031621,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,86951,,86951,,395331,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,22218,,22218,,107683,,,4
+H3,2008,2008,2008,4,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,,,15952,,15952,,278797,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1426879255,,1439175989,,6919139484,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,15883,,16800,,88300,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,61679,,75200,,143021,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,445,,400,,23630,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,21851,,28100,,550943,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,253589,,295545,,2928826,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,95185,,118600,,840716,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,156599,,164700,,797188,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,23831,,24200,,89544,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,47413,,64604,,605664,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,3114031,,3580941,,38069757,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5403850,,5489758,,33330159,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,435862,,457800,,2110496,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,392820,,415400,,2309482,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,32108,,32300,,125610,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,6662,,8600,,49747,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,297653,,314200,,2769637,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,165719650,,169885700,,679036070,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,174398,,218100,,2663925,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,25148,,39700,,318378,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,827,,800,,3731,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2759667,,3250720,,17138915,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,11708,,11800,,104468,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,61858,,89627,,977519,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,316817,,319136,,425333,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,104,Myanmar,MMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,8757,,8800,,28604,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,33655,,38100,,133072,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,202002,,212500,,526069,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,257648,,260700,,856884,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2435112,,2587100,,13508664,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,57043255,,59898300,,256834990,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2835,,3200,,17411,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,40822,,47200,,886731,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,36725,,38200,,211423,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,233278,,269900,,1197647,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,61407,,64400,,287286,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,24048,,37500,,521095,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4935258,,5141100,,13453942,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1058104,,1145500,,3770785,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2382,,2900,,12437,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,175,Mayotte,MYT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,124181,,205900,,463886,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,305307,,341000,,2170191,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,177922,,202400,,651679,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,91004,,100900,,768584,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,146491,,199300,,1483690,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,48689,,57249,,261169,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,603787,,614400,,3497179,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4141735,,4206200,,10864637,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,424060,,455000,,1496126,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,41481748,,41056300,,150879908,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,52332,,53900,,101980,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,325151,,341500,,1461304,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,114396,,117000,,366880,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,28391,,29200,,136803,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,35063,,46800,,458912,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,49062,,52618,,533531,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1107087,,1168625,,4121498,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,20769,,23000,,140534,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,9144614,,9047632,,34910854,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2093151,,2320600,,11205400,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,363,,400,,1244,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,129632,,132700,,303454,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,965583,,965727,,4742086,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4373,,6337,,283555,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,18145,,20100,,33579,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,263923951,,270658400,,774253369,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,157720,,186300,,849422,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,6951,,13600,,207692,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1402605,,1486600,,13911610,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,20756,,21200,,70889,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,13818,,17200,,274849,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,37599,,41600,,248733,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,56567,,59100,,304697,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1620,,1600,,9949,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,156609,,175400,,1116809,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,62838,,64300,,243758,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5193740,,5829125,,45562824,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,222275,,280700,,1093179,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,294677,,323600,,1568259,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,147588,,154600,,797188,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,364,Iran,IRN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2861,,3000,,36066,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,16580769,,16643609,,66544657,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,884209,,1042800,,3851623,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,32511000,,26161200,,255143609,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1180967,,1251200,,5013204,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,427424,,433000,,978762,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,63650558,,68275820,,471895352,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,416720,,429736,,2234862,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,234388,,251900,,906630,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,97987,,112400,,328327,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1951,,2500,,72132,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4738491,,5363700,,30633898,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,414,Kuwait,KWT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,90,,100,,2487,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,17972,,20600,,104468,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,256372,,256300,,1279729,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,376581,,480200,,5775569,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2001534,,2088700,,7177177,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,52035,,52200,,154214,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1381,,2700,,33579,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4653330,,4761800,,5188561,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,8537706,,10903900,,52291039,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,41656,,43563,,782264,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,141516,,157100,,721324,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,6420,,6400,,12437,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1601831,,1770000,,9114803,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,203582,,206300,,1268536,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,123182,,152500,,691476,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,470898,,475700,,2828089,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,25433,,28400,,272362,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,522860,,591400,,3515834,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1982731,,2439200,,18771844,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,6938594,,7586830,,31368903,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,496,Mongolia,MNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,141914,,147000,,276093,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,925,,1000,,13680,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,661588,,715300,,4121498,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,30935,,31300,,46016,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,14524,,14900,,226347,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,475,,400,,4975,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,173483,,180800,,332058,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,142245670,,143727200,,412887291,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,292612,,346300,,2328136,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,30457,,41300,,350713,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2787793,,2888700,,15093090,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,33719,,35900,,359419,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,752266,,972538,,12153071,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,558,Nicaragua,NIC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,23612,,26600,,133072,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,66743,,75500,,216397,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,710419,,775200,,6138719,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,30757,,33100,,225103,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,577,"Other Africa, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,185,,200,,4975,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,9278362,,9729100,,27702585,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,10575,,10600,,52234,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,584,Marshall Isds,MHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,6309,,6300,,44772,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,15698,,15719,,95762,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,157234,,205200,,1936383,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1849,,1900,,16168,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,27099,,45681,,670334,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,79737,,92100,,376830,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,787136,,818200,,3314361,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,8956259,,9261800,,17964707,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1794587,,1316600,,13577065,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1533,,9800,,41041,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,76322,,83800,,955133,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,203288,,251727,,1146657,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,30729281,,31553326,,61568763,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,16407,,25400,,62183,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,10137,,11900,,116904,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7123,,7149,,136803,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,250862,,262900,,762365,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,160740,,163300,,730030,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,17601,,21545,,238783,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,6922,,10800,,13680,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,8866,,8900,,100737,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1265771,,1308100,,2804459,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,72281,,83300,,594471,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,46442,,84700,,151727,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,571720,,666700,,3253421,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5044491,,7953172,,99458189,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,134452,,136100,,467617,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2519328,,2603300,,6091460,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,85801,,93000,,379317,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,397619,,528500,,5276861,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,261,,300,,3731,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4102310,,4139500,,60255455,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,736,Fmr Sudan,SDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,462,,601,,9949,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,14114,,23700,,281068,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,748,Swaziland,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7650,,7700,,14924,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,16238373,,17587805,,77712747,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,56873591,,59026700,,346445858,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,21659,,25018,,323352,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,762,Tajikistan,TJK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,6353,,12900,,164163,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2149264,,2280200,,13595720,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,477016,,586200,,3323067,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,115078,,147400,,1225008,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2036957,,2244349,,20266726,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,43925,,56700,,522338,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,431682,,544000,,2154024,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,8047,,8200,,27361,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,796,Turks and Caicos Isds,TCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,25389,,30400,,318378,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,27322,,20200,,57208,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,489321,,526600,,5543004,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,34675,,36900,,70889,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,139802,,153300,,1346887,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,308632082,,276490600,,1518845385,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,87230,,120300,,833254,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,95014518,,108567557,,1026131120,,,4
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,313971,,343800,,1563284,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,112007,,129100,,970057,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,151,,200,,1244,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,770997,,795200,,2755956,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,76653,,77200,,258682,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,171,,300,,2487,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,67168,,76400,,478810,,,0
+H2,2004,2004,2004,4,0,2,Export,251,France,FRA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,946,,1800,,31092,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1385191839,,1410378298,,6961912450,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,9924,,10000,,80876,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,91816,,99300,,154286,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,400,,400,,7465,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,17678,,26118,,411844,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,187498,,227900,,2290650,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,121054,,157100,,1158390,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,128106,,134100,,946868,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,62048,,62500,,301107,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,36998,,69000,,904564,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,3561678,,4546109,,53419053,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5704300,,5681300,,34923392,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,375492,,409900,,2313046,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,317691,,332500,,2196088,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,43953,,44400,,172950,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,22801,,24200,,95807,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,278019,,321900,,2728623,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,167526651,,169700900,,666376339,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,198761,,238145,,3116827,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,17064,,25300,,247604,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,13668,,13700,,78387,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1859233,,2341800,,17069760,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,17330,,17600,,111982,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,46520,,84827,,889633,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,148427,,169409,,894610,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,104,Myanmar,MMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2210,,2200,,24885,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,22672,,22800,,55991,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,244792,,268200,,664425,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,284559,,284700,,1504289,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1885686,,2001300,,8439695,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,57493619,,60590585,,263281662,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1154,,1400,,8710,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,71217,,75900,,1372399,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,60491,,66600,,311061,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,197024,,203136,,1060094,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,34720,,35300,,206544,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,29415,,37900,,740324,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5433422,,5596200,,19631654,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,779593,,883800,,3221343,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,3312,,3900,,23641,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,175,Mayotte,MYT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,154921,,241500,,653227,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,352725,,392200,,2219728,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,383673,,464100,,1368666,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,70045,,77909,,847329,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,127718,,168640,,1450786,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,41838,,65700,,253825,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,822234,,869524,,4591254,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,3493514,,7082933,,12707446,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,514954,,581500,,2631572,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,41231292,,42439700,,152154653,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,33708,,33900,,52258,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,268669,,302300,,1633690,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,87300,,89400,,385715,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,30599,,36900,,199079,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,165306,,197845,,2530789,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,53621,,60100,,518849,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,232,Eritrea,ERI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,143,,141,,2488,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1435717,,1455645,,5209642,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7185,,17800,,110738,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,8513663,,8660700,,34061132,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2284597,,2503100,,12204772,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,81,,200,,3733,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,98010,,100300,,260047,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1093204,,1193500,,7304946,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,33932,,47000,,401890,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,15790,,17400,,28618,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,245347916,,244053700,,743321524,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,157970,,192300,,908297,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7555,,15500,,222719,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1379135,,1482000,,12499658,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,9223,,9800,,42304,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,18976,,25418,,399402,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,58229,,62345,,364563,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,67060,,96800,,419310,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,45,,100,,34839,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,167798,,173800,,836131,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,78881,,79700,,257558,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4984190,,5523000,,44292536,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,211771,,228500,,1261662,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,298386,,317900,,1647377,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,163522,,166606,,982951,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,364,Iran,IRN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2871,,2400,,34839,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,10168,,10200,,44793,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,13603481,,12845020,,65982167,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,811349,,959800,,3752635,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,31048801,,24732807,,257770913,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1500480,,1579200,,5880289,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,329967,,342200,,989173,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,61585898,,64206200,,449294636,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,315485,,352200,,2800789,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,319293,,352400,,1163367,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,107637,,114800,,330968,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2170,,3000,,74655,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4296973,,4619602,,29652782,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,508,,800,,2488,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,248879,,250800,,1282814,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,377916,,492836,,5243237,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4439611,,4124240,,11957168,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,41342,,49901,,130645,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,400,,700,,8710,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1594270,,1537400,,4487982,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,8171447,,8938800,,50777527,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,58492,,70202,,2446180,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,282199,,295200,,1255440,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,11985,,12100,,26129,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1303488,,1470000,,8307806,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,106991,,107800,,766453,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,78116,,84700,,479033,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,594969,,596400,,3302219,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,49100,,48900,,350876,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,660740,,755467,,4836370,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2290204,,2807419,,22517052,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7923455,,8735100,,35157309,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,496,Mongolia,MNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,132373,,132800,,342167,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,224043,,224000,,233918,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,500,Montserrat,MSR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5310,,5300,,13687,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,671952,,783600,,5157384,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,48958,,54100,,98295,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7026,,8500,,100784,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,133,,100,,2488,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,182479,,190500,,262535,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,132857017,,135521600,,397524204,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,255474,,320400,,3149177,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,22207,,25700,,226452,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2475434,,2607000,,13498784,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,37183,,41900,,288664,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,762973,,874700,,11144678,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,558,Nicaragua,NIC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,27888,,27900,,116959,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,67887,,78300,,227696,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,696748,,822106,,6996374,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,17640,,17600,,162996,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,8320426,,8831700,,27016232,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4740,,4718,,64701,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,194579,,269900,,3431620,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2497,,2500,,9954,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,29557,,43500,,766453,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,64094,,72400,,482766,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,469663,,487700,,2329222,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5901441,,6159600,,16273445,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1138522,,1202512,,14420768,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1020,,1000,,9954,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,177518,,216700,,2877932,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,491202,,518900,,2346641,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,38772444,,39349557,,71718124,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,31896,,33600,,108249,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,654,Saint Helena,SHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,675,,1000,,57235,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,9387,,13000,,145576,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,11716,,11614,,172950,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,247486,,251900,,802536,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,155012,,155300,,648250,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,40912,,44900,,325991,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7264,,7900,,58479,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4732,,4614,,196590,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1303302,,1347800,,2551941,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,72948,,89681,,669402,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,37846,,51700,,146821,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,948589,,1128900,,6073146,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5424992,,8670510,,114087061,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,200158,,208600,,625854,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2864728,,2932900,,7163103,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,142831,,233200,,561153,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,439979,,608400,,7321121,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1119,,1100,,14931,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5250903,,4822663,,74292461,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,10597,,20500,,289908,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,16017706,,17889100,,80183948,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,54363544,,56664200,,304584284,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,30028,,32300,,261291,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,762,Tajikistan,TJK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,15240,,30900,,541245,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1913590,,2060800,,13317125,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,411146,,495100,,3334569,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,153821,,206800,,1885027,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2101144,,2416511,,27013744,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,45705,,60800,,561153,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,764739,,876427,,3485123,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,796,Turks and Caicos Isds,TCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,63340,,77800,,730370,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,23661,,26800,,60968,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,614315,,675400,,6990153,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,19093,,20045,,69678,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,160671,,176500,,1313920,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,293201030,,279204100,,1505086452,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,74401,,98800,,650739,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,98554630,,113178430,,1091332352,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,403261,,465000,,2693784,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,122113,,146781,,1067560,,,4
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,902358,,967500,,4358581,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,64166,,64300,,226452,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,139209,,168200,,726637,,,0
+H2,2005,2005,2005,4,0,2,Export,251,France,FRA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,651,,800,,7465,,,0
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1465549941,,1465549941,,7830415090,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5399,,5399,,16319,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,75013,,75013,,193322,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,222880,,222880,,809695,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,164075,,164075,,2356274,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,170319,,170319,,1675880,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,128338,,128338,,1020592,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,36966,,36966,,153152,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,51510,,51510,,1242787,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4524345,,4524345,,52600024,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5612402,,5612402,,40021512,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,462944,,462944,,2565916,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,358210,,358210,,2564661,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,48371,,48371,,166960,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,58756,,58756,,207131,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,291440,,291440,,3522486,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,170862949,,170862949,,685419701,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,195805,,195805,,3310333,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,25982,,25982,,289984,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,9077,,9077,,43937,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,526,,526,,12553,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,3121739,,3121739,,25295112,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,15449,,15449,,124279,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,35388,,35388,,696714,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1264055,,1264055,,1670858,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,104,Myanmar,MMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,6508,,6508,,15064,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,48795,,48795,,209642,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,407520,,407520,,1157424,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,250342,,250342,,895058,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1701510,,1701510,,7833325,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,58513038,,58513038,,323474895,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5615,,5615,,30128,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,84893,,84893,,1687178,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,46073,,46073,,174492,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,147803,,147803,,937739,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,68944,,68944,,335176,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,42296,,42296,,844844,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,10382378,,10382378,,43231418,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,852366,,852366,,2971391,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,659,,659,,6277,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,175,Mayotte,MYT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,231258,,231258,,847355,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,651054,,651054,,3915407,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,629342,,629342,,2656301,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,65662,,65662,,612606,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,145245,,145245,,1825265,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,23939,,23939,,146875,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1081930,,1081930,,5517222,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4877685,,4877685,,17513256,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,873455,,873455,,4315861,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,38908311,,38908311,,158865856,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,18800,,18800,,70299,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,302779,,302779,,2720323,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,182120,,182120,,548584,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,30434,,30434,,116747,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,97068,,97068,,1777562,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,74154,,74154,,803418,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,232,Eritrea,ERI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,121,,121,,1255,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1747413,,1747413,,6506430,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,930,,930,,22596,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,9468279,,9468279,,37563555,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2004816,,2004816,,12038716,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,307,,307,,8787,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,79222,,79222,,271154,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1228834,,1228834,,7289763,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,21177,,21177,,794631,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7088,,7088,,12553,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,241967498,,241967498,,746505827,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,197768,,197768,,1196340,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,9146,,9146,,340197,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1468762,,1468762,,16159999,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,24000,,24000,,138087,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7242,,7242,,150641,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,50190,,50190,,361538,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,77784,,77784,,359027,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,120780,,120780,,741906,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,56682,,56682,,264877,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5384147,,5384147,,58212652,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,372701,,372701,,2773047,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,244107,,244107,,1890543,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,140194,,140194,,1470004,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,364,Iran,IRN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,454,,454,,8787,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,37079,,37079,,184535,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,15293691,,15293691,,78259185,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,741640,,741640,,3846363,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,31146969,,31146969,,287274640,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1578900,,1578900,,6423578,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,358689,,358689,,1328150,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,62651611,,62651611,,500008414,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,405976,,405976,,3899088,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,366523,,366523,,1119764,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,65807,,65807,,514690,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4668,,4668,,15064,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5290990,,5290990,,37389063,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,3791,,3791,,18830,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,269739,,269739,,1604325,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,377117,,377117,,5507179,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4576403,,4576403,,16129871,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,22160,,22160,,81597,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,378,,378,,10043,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,3102108,,3102108,,8149671,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7996638,,7996638,,51682370,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,133980,,133980,,6501409,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,216999,,216999,,1073316,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,982734,,982734,,7995264,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,190299,,190299,,1398449,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,128196,,128196,,733119,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,617278,,617278,,3766022,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,32376,,32376,,307558,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,577710,,577710,,4774060,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2299140,,2299140,,24499226,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7919749,,7919749,,39675038,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,496,Mongolia,MNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,166200,,166200,,438114,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,73666,,73666,,71554,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,738,,738,,22596,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,788270,,788270,,5964123,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,27152,,27152,,43937,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,18478,,18478,,188301,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,881,,881,,12553,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,188254,,188254,,291239,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,141057298,,141057298,,416200624,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,262707,,262707,,3144628,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,17783,,17783,,239770,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2818720,,2818720,,15308878,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,37852,,37852,,254834,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,790262,,790262,,9993766,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,558,Nicaragua,NIC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,20997,,20997,,99172,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,63586,,63586,,281196,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1493270,,1493270,,10306346,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,23011,,23011,,153152,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,8674583,,8674583,,34818125,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,232838,,232838,,5102959,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,45,,45,,1255,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,30937,,30937,,798397,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,86113,,86113,,479540,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,425591,,425591,,2021098,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,6218661,,6218661,,18756043,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1204599,,1204599,,15826078,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2345,,2345,,12553,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,351985,,351985,,4943531,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,804824,,804824,,2923688,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,81037767,,81037767,,88773917,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,10350,,10350,,20085,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,654,Saint Helena,SHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1337,,1337,,808439,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,12447,,12447,,200854,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,11390,,11390,,241025,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,303435,,303435,,805929,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,161457,,161457,,689182,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,36130,,36130,,369070,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,14681,,14681,,51469,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,4852,,4852,,42682,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,1884365,,1884365,,3129564,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,191201,,191201,,907611,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,107929,,107929,,1454940,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,16679,,16679,,31384,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,885576,,885576,,8132096,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,7787205,,7787205,,195706335,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,580988,,580988,,1598049,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,3056540,,3056540,,7921199,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,200036,,200036,,1216425,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,483393,,483393,,10418071,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,10548,,10548,,31384,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,5673715,,5673715,,90567799,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,18310,,18310,,283707,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,748,Swaziland,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,17284,,17284,,30128,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,17856294,,17856294,,88871834,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,53732312,,53732312,,335708189,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,30538,,30538,,238515,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,762,Tajikistan,TJK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,22126,,22126,,946527,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2120665,,2120665,,14780380,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,569718,,569718,,4892062,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,152710,,152710,,1684667,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,2742573,,2742573,,37480703,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,35953,,35953,,433092,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,689757,,689757,,3113245,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,24965,,24965,,56490,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,796,Turks and Caicos Isds,TCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,58308,,58308,,864930,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,17907,,17907,,43937,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,484223,,484223,,7537065,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,8635,,8635,,151896,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,116450,,116450,,1333172,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,285363051,,285363051,,1660592084,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,72029,,72029,,679139,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,110911655,,110911655,,1298300804,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,489986,,489986,,2339955,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,180327,,180327,,1431088,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,802810,,802810,,5125555,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,70628,,70628,,256089,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,229,,229,,5021,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,43671,,43671,,102938,,,4
+H2,2006,2006,2006,4,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,,,266,,266,,26362,,,4
