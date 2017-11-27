@@ -19,7 +19,7 @@ function update_tooltip(year_index, label, trade_value, percentage) {
     };
 
     // Update the title
-    chart_tooltip.titleBlock.options.text = trade_value;
+    chart_tooltip.titleBlock.options.text = ['Total Trade ($): ', trade_value];
 
     chart_tooltip.update();
 }
@@ -32,7 +32,7 @@ let config_tooltip = {
         },
         title: {
             display: true,
-            text: "Title",
+            text: ["Title"],
             position: "bottom"
         },
         legend: {
