@@ -207,7 +207,10 @@ function change_year(new_year) {
         country.is_big_trader = is_big_trader;
         country.trade_value = trade_value;
         country.trade_weight = trade_weight;
+
     }
+
+
 
     paths = map_group.selectAll("path")
             .data(countries);
@@ -233,8 +236,7 @@ function update_paths(p) {
         tooltip_div.attr("class", "")
     })
     .on("mouseout", function(country) {
-        let color;
-        color = country_color_scale(country.trade_value);
+        let color = country_color_scale(country.trade_value);
 
         d3.select(this)
             .transition()
@@ -244,12 +246,19 @@ function update_paths(p) {
         tooltip_div.attr("class", "invisible")
     })
     .on("mousemove", function(country) {
-        var x_pos = (d3.event.pageX) - 60;
-        var y_pos = (d3.event.pageY) - 250;
+        let x_pos = (d3.event.pageX) - 60;
+        let y_pos = (d3.event.pageY) - 250;
 
         tooltip_div.style('left', x_pos + 'px')
         tooltip_div.style('top', y_pos + 'px')
+        update_tooltip(current_year, country.ISO3, country.trade_value, compute_percentage(country))
     });
+}
+
+function compute_percentage(country) {
+    let total_trades_value = story_data.filter(x => x.Year == current_year)
+        .filter(x => x.PartnerISO == "WLD")[0].Value;
+    return country.trade_value / total_trades_value * 100;;
 }
 
 function loading_finished() {

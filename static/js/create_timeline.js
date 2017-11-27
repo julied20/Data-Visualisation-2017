@@ -46,7 +46,7 @@ function year_changed(year_index) {
     [background_color, border_color] = get_colors();
 
     backgrounds = my_chart.data.datasets[0].backgroundColor;
-    for (var i = 0; i < backgrounds.length; i++) {
+    for (let i = 0; i < backgrounds.length; i++) {
         if (i == year_index) {
             backgrounds[i] = border_color;
         } else {
