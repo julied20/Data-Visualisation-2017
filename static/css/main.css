@@ -1,3 +1,35 @@
+#tooltip_div {
+    width: 120px;
+    height: 200px;
+    background-color: white;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+
+    box-shadow: 3px 3px 0px #BBB;
+
+    padding: 10px 10px 10px 10px;
+
+    z-index: 1000;
+}
+
+#tooltip_bar {
+    height: 80%;
+}
+
+#tooltip_canvas {
+    height: 100%;
+}
+
+#tooltip_infos {
+    height: 20%;
+}
+
+#tooltip_infos p {
+    text-align: center;
+}
+
+
 #map_div {
   position: relative;
   width: 100%;

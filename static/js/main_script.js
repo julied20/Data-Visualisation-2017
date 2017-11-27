@@ -222,46 +222,33 @@ function update_paths(p) {
     p.attr('d', country => { return path(country.geo_feat); })
     .style("fill", country => {
         return country_color_scale(country.trade_value);
-        // if (country.is_big_trader) {
-        //     return d3.color("darkgrey");
-        // } else {
-        //     return d3.color("lightgrey");
-        // }
     })
     .on("mouseover", function(country) {
-        tooltip.style("display", null);
         let color;
         color = d3.color(country_color_scale(country.trade_value)).darker(0.3);
-        // if (country.is_big_trader) {
-        //     color = d3.color("darkgrey").darker(0.3);
-        // } else {
-        //     color = d3.color("darkgrey")
-        // }
 
         d3.select(this)
             .style("fill", color);
+
+        tooltip_div.attr("class", "")
     })
     .on("mouseout", function(country) {
-        tooltip.style("display", "none");
-
         let color;
         color = country_color_scale(country.trade_value);
-        // if (country.is_big_trader) {
-        //     color = d3.color("darkgrey");
-        // } else {
-        //     color = d3.color("lightgrey")
-        // }
 
         d3.select(this)
             .transition()
             .duration(100)
             .style("fill", color);
+
+        tooltip_div.attr("class", "invisible")
     })
     .on("mousemove", function(country) {
-        var x_pos = (d3.mouse(document.body)[0]) - 125;
-        var y_pos = (d3.mouse(document.body)[1]) - 125;
-        tooltip.attr("transform", "translate(" + x_pos + "," + y_pos + ")");
-        tooltip.select("text").text(country.trade_value);
+        var x_pos = (d3.event.pageX) - 60;
+        var y_pos = (d3.event.pageY) - 250;
+
+        tooltip_div.style('left', x_pos + 'px')
+        tooltip_div.style('top', y_pos + 'px')
     });
 }
 

@@ -39,8 +39,15 @@
         <div class="container">
           <div class="row" id="map_row">
             <div class="col-sm" id="map_div">
-                <div id="network_div">
+                <div id="tooltip_div" class="invisible">
+                    <div id="tooltip_bar">
+                        <canvas id="tooltip_canvas"></canvas>
+                    </div>
+                    <div id="tooltip_infos">
+                        <p><strong>$100K</strong></p>
+                    </div>
                 </div>
+                <div id="network_div"></div>
             </div>
           </div>
 
@@ -63,6 +70,7 @@
 
     <!-- Trademap scripts -->
     <script type="text/javascript" src='static/js/helpers.js'></script>
+    <script type="text/javascript" src='static/js/tooltip.js'></script>
     <script type="text/javascript" src='static/js/create_map.js'></script>
     <script type="text/javascript" src='static/js/create_network.js'></script>
     <script type="text/javascript" src='static/js/create_timeline.js'></script>
