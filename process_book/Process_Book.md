@@ -49,18 +49,18 @@ Following our discussion with the professor, we implemented a new version of our
 ### Timeline creation
 
 <div align = 'center'>
-<img src="images/timeline1.jpg" width="450" />
+<img src="images/timeline_1.jpg" width="450" />
 </div>
 
 
 ### Tooltips and interactions
 
 <div align = 'center'>
-<img src="images/current_map1.jpg" width="450" />
+<img src="images/current_map_1.jpg" width="450" />
 </div>
 
 <div align = 'center'>
-<img src="images/current_map2.jpg" width="450" />
+<img src="images/current_map_2.jpg" width="450" />
 </div>
 
 ## Further things to do
