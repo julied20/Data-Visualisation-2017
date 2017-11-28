@@ -18,20 +18,11 @@ We will focus on a small amount of (country, product) pairs that are interesting
 
 ## Dataset Preporcessing and first visualisation
 
-
-<div align = 'center'>
-<img src="images/Datamap_version.jpg" width="450" />
-</div>
-
-
-## Second map version
-Following our discussion with the professor, we implemented a new version of our map based on
-
 <div align = 'center'>
 <img src="images/datamap_version.jpg" width="450" />
 </div>
 
-
+## Second map version
 
 ### Implementation of Cytoscape
 
