@@ -61,9 +61,9 @@ function min_max_bigtraders() {
 }
 
 
-function get_arrow_weight(ISO) {
+function get_arrow_weight(ISO, zoom_level) {
     let country = countries.find(x => find_by_ISO(x, ISO));
-    let weight = arrow_weight_scale(country.trade_value);
+    let weight = (1/zoom_level) * arrow_weight_scale(country.trade_value);
     return weight;
 }
 
@@ -93,13 +93,7 @@ let cy = cytoscape({
         {
           selector: 'edge',
           style: {
-            'line-color': function(elem) {
-                return stories[current_story].color;
-            },
     //        'label' : 'data(id)',
-            'width': function(elem){
-                return get_arrow_weight(elem.target().id());
-            },
             'curve-style': 'unbundled-bezier',
             'control-point-distances': function(e){
                 return get_control_point_distance(e.source().position(),
@@ -111,11 +105,10 @@ let cy = cytoscape({
             'target-arrow-color': function(elem) {
                 return stories[current_story].color;
             },
-            'arrow-scale': 1.2,
             'opacity' : 1
-            }
-          },
+            },
 
+          },
         {
           selector: 'edge:active',
   				style: {
@@ -147,7 +140,6 @@ let cy = cytoscape({
 
 function update_graph() {
 
-
     cy.elements().remove();
 
     let bigtraders = [];
@@ -177,9 +169,19 @@ function update_graph() {
             data: {
                 id: 'Edge' + bigtraders[i].ISO3,
                 source: 'exporter',
-                target: bigtraders[i].ISO3,
+                target: bigtraders[i].ISO3
             },
-
+            style: {
+                'line-color': function(elem) {
+                    return stories[current_story].color;
+                },
+                'width': function(elem){
+                    return get_arrow_weight(bigtraders[i].ISO3, zoom_level);
+                },
+                'arrow-scale': function(elem){
+                    return Math.min(1, get_arrow_weight(bigtraders[i].ISO3, zoom_level));
+                },
+            }
         });
     }
 }
@@ -196,6 +198,8 @@ svg.call(zoom);
 function zoomed() {
   zoom_level = d3.event.transform.k;
   map_group.attr("transform", d3.event.transform);
+
+  update_graph();
 
   cy.viewport({
       zoom: zoom_level,
