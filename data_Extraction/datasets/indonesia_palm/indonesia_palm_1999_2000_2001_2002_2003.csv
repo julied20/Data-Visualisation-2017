@@ -1,0 +1,509 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3298986259,,3298986259,,1114242403,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5510574,,5510574,,961594,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,18468,,18468,,12312,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14625,,14625,,10724,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4000000,,4000000,,2230000,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,33096738,,33096738,,11298641,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,18140000,,18140000,,4139949,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,546437,,546437,,515927,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,32021324,,32021324,,13669930,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,204105,,204105,,111563,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1451453,,1451453,,405889,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3650000,,3650000,,1126375,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,12936488,,12936488,,5415313,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,342911284,,342911284,,118373329,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,136253,,136253,,90095,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,226390,,226390,,147679,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3232203,,3232203,,1136871,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,206976,,206976,,127100,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,150000,,150000,,26250,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,33695,,33695,,23399,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3000000,,3000000,,831211,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,226,Equatorial Guinea,GNQ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,84238,,84238,,57720,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,174316,,174316,,116563,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3361125,,3361125,,1000052,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,371187,,371187,,329836,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1000000,,1000000,,180000,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,117046035,,117046035,,34803479,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,119851,,119851,,92070,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,8987937,,8987937,,2241879,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,332,Haiti,HTI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,500000,,500000,,122500,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5555542,,5555542,,2630203,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,300000,,300000,,81425,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6100000,,6100000,,2067500,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,68502140,,68502140,,20973175,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,8500000,,8500000,,2404501,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,11343074,,11343074,,3885205,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1400000,,1400000,,385000,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3700000,,3700000,,1164000,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,359750,,359750,,119921,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,866687,,866687,,250095,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,31753,,31753,,19018,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,417,Kyrgyzstan,KGZ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2700000,,2700000,,977399,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,250000,,250000,,45000,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,245851500,,245851500,,77042951,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,373000,,373000,,271999,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,7000000,,7000000,,2380000,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,100000,,100000,,25250,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,12750,,12750,,11774,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6700000,,6700000,,1563300,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2585125,,2585125,,814424,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,496,Mongolia,MNG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3870250,,3870250,,2359833,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,498,Rep. of Moldova,MDA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13875,,13875,,9006,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3510000,,3510000,,937500,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14782789,,14782789,,3450135,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,650096749,,650096749,,209039887,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,16109,,16109,,14864,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,562,Niger,NER,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2000000,,2000000,,515000,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,20817433,,20817433,,8690766,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,9635238,,9635238,,2697549,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,876324,,876324,,668100,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,933812,,933812,,181378,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2750000,,2750000,,1012500,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5820000,,5820000,,2140725,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1687,,1687,,1334,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,8551156,,8551156,,4918225,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1028435937,,1028435937,,382493483,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,92035273,,92035273,,28691518,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13795000,,13795000,,4473860,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,706,Somalia,SOM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1000000,,1000000,,572500,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,711,So. African Customs Union,ZAF,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,47002011,,47002011,,14063740,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,127395007,,127395007,,38291233,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,60330000,,60330000,,17485426,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,590000,,590000,,123899,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3933062,,3933062,,1114474,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,326312,,326312,,75587,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,8312,,8312,,4194,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2053750,,2053750,,415239,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,87859,,87859,,35606,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6000000,,6000000,,3133000,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,11750000,,11750000,,3370500,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,44494000,,44494000,,15530552,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,500000,,500000,,92500,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,69648187,,69648187,,20199507,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,37754632,,37754632,,12967152,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,35532812,,35532812,,9324598,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,21825660,,21825660,,6648643,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2500000,,2500000,,450000,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2950000,,2950000,,1338000,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4110027292,,4110027292,,1087278381,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1050000,,1050000,,252000,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6345063,,6345063,,1436652,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,15207,,15207,,10963,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,36936,,36936,,23256,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,33966,,33966,,22442,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,95938087,,95938087,,26577319,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,9,,9,,54,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1000000,,1000000,,327500,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13250000,,13250000,,3326875,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,16848,,16848,,11388,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,532815,,532815,,128070,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,9800000,,9800000,,2841000,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,26413190,,26413190,,9501224,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,170000,,170000,,69700,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,116283,,116283,,71098,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1700029,,1700029,,381825,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,140,Central African Rep.,CAF,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1600000,,1600000,,368000,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13531844,,13531844,,3242176,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,438083612,,438083612,,123186562,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,162,Christmas Isds,CXR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,21,,21,,29,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,123642,,123642,,69842,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,69012,,69012,,43719,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,802346,,802346,,439477,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,155531,,155531,,87424,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,72058,,72058,,41262,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,257947,,257947,,157805,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5000000,,5000000,,1631392,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1500000,,1500000,,302500,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,23442,,23442,,6363,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,253739,,253739,,148406,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2000000,,2000000,,582000,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1182438,,1182438,,288715,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,44412,,44412,,19872,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1238372,,1238372,,333310,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13891,,13891,,9361,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,145626000,,145626000,,37004215,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,8670089,,8670089,,2276394,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,7645000,,7645000,,2020524,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2000000,,2000000,,280000,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,29305546,,29305546,,8782159,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,28868430,,28868430,,7251514,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6240000,,6240000,,1456200,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,10152218,,10152218,,2518574,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13715000,,13715000,,3415867,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3500000,,3500000,,1107400,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1275140,,1275140,,424220,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,51454,,51454,,25968,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,241570,,241570,,82266,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,56910479,,56910479,,14995473,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,677636,,677636,,407425,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,15076,,15076,,10570,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,105948,,105948,,55471,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1350000,,1350000,,243000,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,49192,,49192,,34744,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,27984500,,27984500,,6609355,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,45400,,45400,,35017,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4400000,,4400000,,1042500,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,12555404,,12555404,,2695441,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,593598852,,593598852,,148556370,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,32130,,32130,,19583,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,43150,,43150,,18554,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1000000,,1000000,,316500,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,51165504,,51165504,,14022233,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6804254,,6804254,,1808420,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,15120000,,15120000,,4027875,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1611708,,1611708,,925296,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,453776,,453776,,224283,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1000000,,1000000,,170000,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1250000,,1250000,,263125,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,679107,,679107,,287544,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4500000,,4500000,,1265661,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2250973,,2250973,,719885,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,10116000,,10116000,,2465325,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1639067287,,1639067287,,438300282,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,273322475,,273322475,,72828058,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,42312000,,42312000,,12158415,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,60664992,,60664992,,14394956,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14910,,14910,,11760,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,113866574,,113866574,,28681095,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,21872511,,21872511,,4754763,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,581385,,581385,,125320,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2260070,,2260070,,652024,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1810288,,1810288,,487320,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,27213,,27213,,7757,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5584,,5584,,2137,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,7558000,,7558000,,2072775,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5960000,,5960000,,1854240,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,63853000,,63853000,,15800420,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2099902,,2099902,,569727,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,807,TFYR of Macedonia,MKD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1000000,,1000000,,242500,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,35503000,,35503000,,6320289,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,11802000,,11802000,,2982325,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,87250000,,87250000,,23273569,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,21052122,,21052122,,5394577,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,44763703,,44763703,,12559540,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4903217735,,4903217735,,1080906499,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,16848,,16848,,11310,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,12500000,,12500000,,2436100,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,219439,,219439,,97056,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2016545,,2016545,,331076,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13,,13,,43,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,178828900,,178828900,,40052771,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,10132000,,10132000,,2100035,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,25823,,25823,,16815,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4,,4,,79,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,534284,,534284,,113337,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,51233630,,51233630,,12484415,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,108,Burundi,BDI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,38963,,38963,,23508,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,179639,,179639,,74151,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1215768,,1215768,,295446,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,35,,35,,43,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,24620400,,24620400,,4722824,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,363563701,,363563701,,81918022,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,91946,,91946,,30913,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,135134,,135134,,76232,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,555499,,555499,,274256,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,65089,,65089,,32278,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,60000,,60000,,17700,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2000000,,2000000,,400000,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,34798,,34798,,20833,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2764251,,2764251,,613403,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,12448803,,12448803,,3641250,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6500000,,6500000,,1406250,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,226,Equatorial Guinea,GNQ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,47792,,47792,,29308,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,331744,,331744,,146127,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3675000,,3675000,,983062,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,950000,,950000,,140875,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13982,,13982,,9710,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,17704263,,17704263,,2370788,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,50675,,50675,,32214,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,107720,,107720,,36085,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,205736322,,205736322,,48197508,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4953111,,4953111,,937952,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,15514837,,15514837,,3218741,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1540835,,1540835,,298359,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,54270,,54270,,24300,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,19580000,,19580000,,4438462,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,60550216,,60550216,,12052395,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,19161300,,19161300,,4223486,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,9411568,,9411568,,1848300,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,24618240,,24618240,,4910241,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,34172,,34172,,13971,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1570000,,1570000,,364950,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,121202,,121202,,39364,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,750000,,750000,,236250,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,141526,,141526,,72486,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,78323071,,78323071,,16815745,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,836017,,836017,,385198,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,998,,998,,1380,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13724,,13724,,7280,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,58269908,,58269908,,13772358,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2487652,,2487652,,709060,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5500000,,5500000,,1465000,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,12959476,,12959476,,2628890,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1700000,,1700000,,357000,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,129276,,129276,,56002,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,527,"Oceania, nes",,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4080000,,4080000,,851700,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,699896475,,699896475,,150374340,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13591,,13591,,7837,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5713213,,5713213,,1149805,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,7600000,,7600000,,1668925,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,52510787,,52510787,,12589826,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5470000,,5470000,,1180500,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,96419724,,96419724,,25659077,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4266649,,4266649,,1376673,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,10048555,,10048555,,2371701,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5680000,,5680000,,1369422,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4086832,,4086832,,919729,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1661314,,1661314,,272082,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,40719082,,40719082,,10573981,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,500000,,500000,,87500,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14225000,,14225000,,2625312,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1519811424,,1519811424,,328137178,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,327016755,,327016755,,69855041,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,21970448,,21970448,,5477353,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,706,Somalia,SOM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,500000,,500000,,105000,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,133969505,,133969505,,27015402,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,171256581,,171256581,,34590713,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,39009413,,39009413,,7108374,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,571616,,571616,,178245,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,12630468,,12630468,,3464616,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,500000,,500000,,97500,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4638882,,4638882,,855681,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,205240,,205240,,49340,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,8091995,,8091995,,2020256,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14750000,,14750000,,3244410,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,186805443,,186805443,,47249703,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,795,Turkmenistan,TKM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,47208,,47208,,52527,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,27260000,,27260000,,7278174,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,92263407,,92263407,,21902889,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2399183,,2399183,,778727,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,115987141,,115987141,,23248806,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2444000,,2444000,,673905,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,51560416,,51560416,,12421428,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,899,"Areas, nes",,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,16979,,16979,,9828,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6333707956,,6333707956,,2092403905,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,33696,,33696,,22620,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,30512600,,30512600,,9910195,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,528831,,528831,,290499,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,35466,,35466,,24178,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,44,Bahamas,BHS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,950000,,950000,,384750,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,220851020,,220851020,,77194355,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2555443,,2555443,,982984,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1002012,,1002012,,426374,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,84,Belize,BLZ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1700000,,1700000,,544000,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1226,,1226,,835,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,19655,,19655,,12104,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3036480,,3036480,,1130976,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,8499855,,8499855,,2926164,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1300000,,1300000,,208000,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,8763495,,8763495,,2790804,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1,,1,,4,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13125274,,13125274,,3912555,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,148,Chad,TCD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,17518,,17518,,12635,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,482809481,,482809481,,170275508,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,9702000,,9702000,,2573715,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,197803,,197803,,127129,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,631478,,631478,,370622,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,7782402,,7782402,,2763107,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,533608,,533608,,71300,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1500000,,1500000,,468750,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14640325,,14640325,,4965155,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5420000,,5420000,,2032500,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5975000,,5975000,,2034500,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,226,Equatorial Guinea,GNQ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,33885,,33885,,19427,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,263091,,263091,,137405,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14537,,14537,,9069,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,29655519,,29655519,,10432628,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,16896,,16896,,11607,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1350000,,1350000,,459000,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,575000,,575000,,135987,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,61260,,61260,,26505,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,200740314,,200740314,,60364787,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14194296,,14194296,,4899382,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,19484044,,19484044,,6621511,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3000000,,3000000,,888750,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,60762,,60762,,37324,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,336,Holy See (Vatican City State),VAT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,15569,,15569,,12250,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,10786,,10786,,12707,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,87262000,,87262000,,30976432,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,35,,35,,47,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1100000,,1100000,,385000,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14106100,,14106100,,6186447,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,368,Iraq,IRQ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5600000,,5600000,,1692500,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,23,,23,,63,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,34028230,,34028230,,11492937,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,16974000,,16974000,,5188230,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4432084,,4432084,,1237296,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,95421058,,95421058,,35453105,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13486000,,13486000,,2860100,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,105096,,105096,,57420,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,7111720,,7111720,,1688811,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,438208,,438208,,174445,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,80881,,80881,,43393,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,232174,,232174,,114095,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,404968789,,404968789,,130420365,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,856903,,856903,,496539,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,32978,,32978,,18749,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,215631,,215631,,385140,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2000000,,2000000,,820000,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14300000,,14300000,,4073530,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6007000,,6007000,,1922311,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,498,Rep. of Moldova,MDA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,15076,,15076,,9540,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,9546000,,9546000,,2450460,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,10814931,,10814931,,3786725,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1500000,,1500000,,486250,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2307302,,2307302,,602920,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,997726218,,997726218,,310310819,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,22093,,22093,,14871,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1042145,,1042145,,292431,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,12100000,,12100000,,4903500,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,140977370,,140977370,,50676183,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6085000,,6085000,,2094250,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,269381080,,269381080,,88782839,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1346589,,1346589,,734476,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4172508,,4172508,,2171728,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13050000,,13050000,,4520625,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6671259,,6671259,,2536893,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2222555,,2222555,,294533,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,147000,,147000,,61845,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13043772,,13043772,,4837416,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6390525,,6390525,,1823245,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,19696,,19696,,10738,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1766630028,,1766630028,,585153152,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,371531243,,371531243,,116847635,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,15135232,,15135232,,5847612,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,91025773,,91025773,,30630292,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,178914241,,178914241,,54892640,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,74964800,,74964800,,22338266,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,69682,,69682,,35104,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,19050000,,19050000,,6960750,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,23350,,23350,,18953,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,19936128,,19936128,,6070714,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,103368,,103368,,27465,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2020000,,2020000,,588300,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6853055,,6853055,,2538652,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,149750500,,149750500,,54111798,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,73050624,,73050624,,26657959,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,85413960,,85413960,,30504505,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,25853787,,25853787,,8115342,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,127730983,,127730983,,44550573,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,7486926,,7486926,,2593353,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,23619,,23619,,17574,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,19200000,,19200000,,6289367,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6386409535,,6386409535,,2454625536,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14900000,,14900000,,5023650,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,503635,,503635,,274757,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,236084,,236084,,142053,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,990,,990,,509,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,222266082,,222266082,,91147608,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2015931,,2015931,,741692,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4500000,,4500000,,1931250,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,31900,,31900,,25170,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,167946,,167946,,103896,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,140876,,140876,,97463,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13594736,,13594736,,5451173,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,112,Belarus,BLR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,750000,,750000,,275625,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3600000,,3600000,,1510375,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,19303141,,19303141,,6285284,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,34075,,34075,,29116,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,11961529,,11961529,,4778431,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2990000,,2990000,,1046500,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,800422393,,800422393,,318343010,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3041382,,3041382,,1146523,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,16979,,16979,,14040,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,308148,,308148,,223885,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,597445,,597445,,450546,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,168000,,168000,,87200,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4287190,,4287190,,2305429,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,800000,,800000,,322000,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,36480,,36480,,25353,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5690000,,5690000,,2238100,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,226,Equatorial Guinea,GNQ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,16406,,16406,,14320,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,20412,,20412,,12852,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,78349,,78349,,50993,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,27313,,27313,,21761,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2910099,,2910099,,1078984,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,203906,,203906,,115710,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,67916,,67916,,58032,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,546499,,546499,,305660,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,184434872,,184434872,,70727014,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,10708686,,10708686,,4704629,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,14929644,,14929644,,5785453,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,192912,,192912,,120498,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,336,Holy See (Vatican City State),VAT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1902,,1902,,1410,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,20397226,,20397226,,8331103,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,63000,,63000,,29295,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,70113000,,70113000,,31068405,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,59121710,,59121710,,21471507,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,33682742,,33682742,,10083684,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1367335,,1367335,,678354,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,11118,,11118,,9016,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,72750000,,72750000,,28946415,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,8175776,,8175776,,3299358,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1425000,,1425000,,658353,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,82254,,82254,,47568,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,335472,,335472,,162335,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,367725240,,367725240,,144115331,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3870572,,3870572,,1697253,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,7956,,7956,,19324,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,21019,,21019,,11368,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1016240,,1016240,,440795,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,204829,,204829,,149516,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6200000,,6200000,,2941053,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,62472,,62472,,28615,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,496,Mongolia,MNG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,3725000,,3725000,,1620375,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,17005000,,17005000,,6472605,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,7960763,,7960763,,3063562,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5200000,,5200000,,2142400,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,37223,,37223,,28810,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,520,Nauru,NRU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,757,,757,,1168,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,580691133,,580691133,,205323903,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,540,New Caledonia,NCL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1140,,1140,,961,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,140556,,140556,,111125,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1018000,,1018000,,423190,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,562,Niger,NER,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,40143,,40143,,24780,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,42786519,,42786519,,17839140,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,287162575,,287162575,,116502467,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1142643,,1142643,,769675,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,62059,,62059,,39495,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4156945,,4156945,,2554280,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4443949,,4443949,,1650294,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,8601907,,8601907,,3046109,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2521352,,2521352,,1480488,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,189000,,189000,,93240,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,48547261,,48547261,,21020865,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,662,Saint Lucia,LCA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4200,,4200,,1911,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1185450,,1185450,,242061,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,4950000,,4950000,,1693324,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1862,,1862,,1570,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2274281586,,2274281586,,861759138,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,339226777,,339226777,,125750041,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,31080716,,31080716,,12538391,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,2493,,2493,,2196,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,706,Somalia,SOM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13724,,13724,,11960,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,145210298,,145210298,,55802881,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,131208448,,131208448,,47090952,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,20780272,,20780272,,8549155,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,9072976,,9072976,,4474583,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5570000,,5570000,,2201950,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,762,Tajikistan,TJK,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,987000,,987000,,421950,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1102038,,1102038,,835200,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13872744,,13872744,,4113039,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,772,Tokelau,TKL,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,1500000,,1500000,,660000,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,74378,,74378,,52315,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,10955,,10955,,1555,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,663410,,663410,,500419,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,7010000,,7010000,,2853800,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,147346957,,147346957,,56218170,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,795,Turkmenistan,TKM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,13724,,13724,,11063,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,54795605,,54795605,,21478827,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,77150600,,77150600,,27676028,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,5561851,,5561851,,2359415,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,118943489,,118943489,,48540202,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,26632,,26632,,20572,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,860,Uzbekistan,UZB,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,15000,,15000,,7850,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,85264,,85264,,62520,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,6000000,,6000000,,3200000,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,899,"Areas, nes",,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,,,90342,,90342,,76964,,,0

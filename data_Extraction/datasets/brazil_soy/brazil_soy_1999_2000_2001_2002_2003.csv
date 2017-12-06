@@ -1,0 +1,186 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,15970002019,,15970002019,,3031983963,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,712250,,712250,,139925,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,692353651,,692353651,,124590762,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,217587827,,217587827,,38104432,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,136,Cayman Isds,CYM,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,86072020,,86072020,,17166568,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,4142664508,,4142664508,,825474522,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,178,Congo,COG,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,18000,,18000,,7020,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,84779454,,84779454,,14782958,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,2106000,,2106000,,800098,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,5150000,,5150000,,1053520,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,246,Finland,FIN,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,41248905,,41248905,,7781809,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,501578036,,501578036,,94540413,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,1587799221,,1587799221,,307517289,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,300,Greece,GRC,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,98631934,,98631934,,19053347,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,364,Iran,IRN,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,355002619,,355002619,,64318870,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,4100000,,4100000,,830730,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,521300313,,521300313,,97166908,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,712223446,,712223446,,140012555,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,164998400,,164998400,,31905565,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,11340516,,11340516,,2203462,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,44000000,,44000000,,7009652,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,191734000,,191734000,,34814400,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,134579452,,134579452,,24465952,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,2946292786,,2946292786,,543968708,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,406814400,,406814400,,77367656,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,8342580,,8342580,,2697091,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,608,Philippines,PHL,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,2000000,,2000000,,423503,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,919948473,,919948473,,164609343,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,642,Romania,ROU,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,36031040,,36031040,,6274190,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,53191640,,53191640,,8802332,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,699,India,IND,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,2000000,,2000000,,388400,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,1209718055,,1209718055,,223586719,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,282190,,282190,,70732,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,710340,,710340,,295831,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,764,Thailand,THA,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,104429538,,104429538,,18806152,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,4156323,,4156323,,722411,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,667826881,,667826881,,128576713,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,3077221,,3077221,,768475,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,200000,,200000,,94000,,,0
+H2,2002,2002,2002,4,0,2,Export,76,Brazil,BRA,891,Serbia and Montenegro,SCG,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,5000000,,5000000,,790950,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,19890466334,,19890466334,,4290442927,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,28169801,,28169801,,5409700,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,677838472,,677838472,,148140395,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,176045272,,176045272,,32784208,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,136,Cayman Isds,CYM,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,8123310,,8123310,,1660514,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,6101943086,,6101943086,,1313073236,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,76130601,,76130601,,16034990,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,60000,,60000,,46200,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,24926055,,24926055,,5554963,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,246,Finland,FIN,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,41200000,,41200000,,9385800,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,579155927,,579155927,,130265157,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,2206527576,,2206527576,,493473175,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,300,Greece,GRC,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,106759522,,106759522,,22701090,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,364,Iran,IRN,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,359456584,,359456584,,77224310,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,19724898,,19724898,,4335296,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,376,Israel,ISR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,195133367,,195133367,,45066827,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,773353355,,773353355,,165066287,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,625292748,,625292748,,140000544,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,8300000,,8300000,,1828236,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,235932815,,235932815,,53188940,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,60767267,,60767267,,13284646,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,43847822,,43847822,,10523039,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,555689763,,555689763,,117946868,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,153106815,,153106815,,33821161,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,3669290770,,3669290770,,769693561,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,388185999,,388185999,,81744695,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,9109240,,9109240,,3336598,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,373488923,,373488923,,80493692,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,642,Romania,ROU,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,32768220,,32768220,,6925257,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,710,South Africa,ZAF,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,25000,,25000,,17500,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,1569662684,,1569662684,,334061389,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,769810,,769810,,226353,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,3500000,,3500000,,741615,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,764,Thailand,THA,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,92389741,,92389741,,19983024,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,71737157,,71737157,,14883591,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,618221014,,618221014,,136404350,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,872020,,872020,,448460,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,2950000,,2950000,,656346,,,0
+H2,2003,2003,2003,4,0,2,Export,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,1201,"Soya beans, whether or not broken.",8,Weight in kilograms,,,10700,,10700,,10914,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,8917209418,,8917209418,,1593293277,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,422778625,,422778625,,75582804,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,115893687,,115893687,,13835520,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,136,Cayman Isds,CYM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1000000,,1000000,,174539,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,620450812,,620450812,,111289569,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,10591699,,10591699,,3905665,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,6559117,,6559117,,1511580,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,252179562,,252179562,,46792152,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,856548937,,856548937,,155365282,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,16500000,,16500000,,2940495,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,300,Greece,GRC,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,64209285,,64209285,,11210442,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,114601,,114601,,62261,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,364,Iran,IRN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,96180000,,96180000,,16863386,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,435667187,,435667187,,77485718,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,364144250,,364144250,,64469686,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,54400000,,54400000,,9003292,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,58500000,,58500000,,9889852,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,26137351,,26137351,,4632673,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,12219898,,12219898,,2015354,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,73380000,,73380000,,13491080,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3021948164,,3021948164,,543569106,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,362876062,,362876062,,66594891,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,8419261,,8419261,,2286968,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1416228269,,1416228269,,251217058,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,764,Thailand,THA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,56899847,,56899847,,9838324,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,14853250,,14853250,,2501322,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,461371875,,461371875,,81590511,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3036000,,3036000,,592409,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,7511679,,7511679,,1567075,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,16000,,16000,,6719,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,76594000,,76594000,,13007544,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,11517264006,,11517264006,,2187878569,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,235200,,235200,,87012,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,313047096,,313047096,,58716748,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,169825864,,169825864,,25651709,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,152,Chile,CHL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,16000000,,16000000,,2957820,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1783628244,,1783628244,,337350321,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,170,Colombia,COL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,10481000,,10481000,,1894755,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,29400000,,29400000,,5381558,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,7660822,,7660822,,2788438,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,80000,,80000,,24000,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,21750,,21750,,6446,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,190870511,,190870511,,36041457,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1053262758,,1053262758,,201073269,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,6000000,,6000000,,1110000,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,300,Greece,GRC,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,34778834,,34778834,,6272935,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,60480,,60480,,25402,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,364,Iran,IRN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,318543524,,318543524,,61839852,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,5469678,,5469678,,1077444,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,440510463,,440510463,,85103880,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,530133880,,530133880,,103224471,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,110204320,,110204320,,20940892,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3750000,,3750000,,712500,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,155216057,,155216057,,29767481,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,114347250,,114347250,,21071010,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,70510000,,70510000,,13125787,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3448716418,,3448716418,,656760836,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,534991150,,534991150,,102966528,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,9324030,,9324030,,2581654,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,293553726,,293553726,,55550815,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1181662060,,1181662060,,223032882,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,2693285,,2693285,,672590,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,764,Thailand,THA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,101476990,,101476990,,19261010,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,54439098,,54439098,,10229180,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,30122750,,30122750,,5803540,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,382373629,,382373629,,73131495,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,2409299,,2409299,,971624,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,63000,,63000,,22995,,,0
+H1,2000,2000,2000,4,0,2,Export,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,111400840,,111400840,,20648233,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,15675542036,,15675542036,,2725507890,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,794546282,,794546282,,139905231,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,154698156,,154698156,,24197213,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,84,Belize,BLZ,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,132000,,132000,,90089,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,152,Chile,CHL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,7530000,,7530000,,1204019,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3192322587,,3192322587,,537663759,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,67180590,,67180590,,11964593,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,28628134,,28628134,,6006200,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,278335,,278335,,61138,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,459045312,,459045312,,80863021,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1573609576,,1573609576,,279417590,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,300,Greece,GRC,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,54710842,,54710842,,8856926,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,20000,,20000,,8000,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,344,"China, Hong Kong SAR",HKG,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,7000000,,7000000,,1183280,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,364,Iran,IRN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,453631003,,453631003,,76494419,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,13788680,,13788680,,2412224,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,727808117,,727808117,,120967095,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,768490116,,768490116,,137360935,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,99971670,,99971670,,16642864,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,13680000,,13680000,,2269649,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,217140447,,217140447,,36478143,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,252619819,,252619819,,44958922,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,44750000,,44750000,,7065305,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3319067634,,3319067634,,590705674,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,412883280,,412883280,,75609212,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,9477550,,9477550,,2877377,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,604,Peru,PER,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,7368048,,7368048,,1296104,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,608,Philippines,PHL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,25803520,,25803520,,4535378,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,878354968,,878354968,,154359223,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,642,Romania,ROU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,85613969,,85613969,,13977559,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1367763019,,1367763019,,232684699,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,42000,,42000,,16800,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,764,Thailand,THA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,39532485,,39532485,,6782922,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3329755,,3329755,,512982,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,511975223,,511975223,,91080131,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,2687260,,2687260,,1108195,,,0
+H1,2001,2001,2001,4,0,2,Export,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,80061659,,80061659,,13891019,,,0

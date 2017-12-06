@@ -1,0 +1,139 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,4615521792,,4615521792,,1153164928,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,32245000,,32245000,,8509481,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,44,Bahamas,BHS,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,8875,,8875,,5185,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,50,Bangladesh,BGD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,300000,,300000,,69000,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,58,Belgium-Luxembourg,BEL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,191757440,,191757440,,48103796,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1500000,,1500000,,318030,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,6437,,6437,,2575,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,156,China,CHN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,50000,,50000,,79750,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,230,Fmr Ethiopia,ETH,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,5000000,,5000000,,1165000,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,118057000,,118057000,,29657520,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,350063488,,350063488,,84975064,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,31630000,,31630000,,7355824,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3000000,,3000000,,642120,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,64489184,,64489184,,17240724,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1090000,,1090000,,280435,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,411842560,,411842560,,107306472,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,26204520,,26204520,,5736304,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,611870784,,611870784,,152821776,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,138672368,,138672368,,34228664,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,99781376,,99781376,,24373048,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,235000,,235000,,61524,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,11500000,,11500000,,2513290,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1734391424,,1734391424,,434476000,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,882000,,882000,,560070,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,20100000,,20100000,,4444664,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,50528140,,50528140,,13957470,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,601170048,,601170048,,146744880,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,27700000,,27700000,,6238832,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,764,Thailand,THA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1000000,,1000000,,213500,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,18587648,,18587648,,4528126,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,8000000,,8000000,,2034500,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,890,Fmr Yugoslavia,YUG,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,53858500,,53858500,,14521296,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,4077286144,,4077286144,,910015552,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,2000,,2000,,1000,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,58,Belgium-Luxembourg,BEL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,225531312,,225531312,,50674596,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,222,El Salvador,SLV,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,180000,,180000,,88199,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,134162440,,134162440,,30768256,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,189460192,,189460192,,42090520,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,45023644,,45023644,,10335744,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,386000,,386000,,167960,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,20900000,,20900000,,4582722,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,266637872,,266637872,,57893896,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,733762176,,733762176,,164595808,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,111606312,,111606312,,24654124,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,30350000,,30350000,,6674138,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,486000,,486000,,233279,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1488649984,,1488649984,,331010752,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,45765000,,45765000,,10138958,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,372375,,372375,,126294,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,48163440,,48163440,,10853072,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,642,Romania,ROU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,96010000,,96010000,,21442308,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,488110304,,488110304,,109331864,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,74700000,,74700000,,17229248,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,44378048,,44378048,,10019656,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,28270000,,28270000,,6306968,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3395875,,3395875,,551893,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,482875,,482875,,120720,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,500148,,500148,,123574,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,2020436864,,2020436864,,448167488,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3500,,3500,,3587,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,2400000,,2400000,,366959,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,58,Belgium-Luxembourg,BEL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,160320368,,160320368,,35788292,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,62250,,62250,,28660,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,15000,,15000,,12062,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,44271288,,44271288,,9726479,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,152401744,,152401744,,33185690,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,68209000,,68209000,,15197949,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,645000,,645000,,301875,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,105099184,,105099184,,22846070,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,243304624,,243304624,,54139148,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,774369472,,774369472,,172809216,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,8150000,,8150000,,1730305,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,30101,,30101,,12642,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,39110000,,39110000,,8365188,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,642,Romania,ROU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,4050000,,4050000,,834006,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,367288064,,367288064,,81634344,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1000000,,1000000,,222490,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,44287088,,44287088,,10095567,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,5420199,,5420199,,866969,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3725980416,,3725980416,,808566016,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,5216492,,5216492,,799545,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,58,Belgium-Luxembourg,BEL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,294469568,,294469568,,64006688,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,30320,,30320,,13750,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,50000,,50000,,32701,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,69551752,,69551752,,15322628,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,267253120,,267253120,,58329180,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,711812,,711812,,343412,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,19800000,,19800000,,4317757,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3500000,,3500000,,737425,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,261160368,,261160368,,56718024,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,426860128,,426860128,,91845120,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,16750000,,16750000,,3586412,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,430,Liberia,LBR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,5000000,,5000000,,1047300,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,94399624,,94399624,,20299822,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,21462000,,21462000,,4633363,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1341221120,,1341221120,,293799520,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,30820000,,30820000,,6563289,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,250851,,250851,,81901,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,35200000,,35200000,,7691598,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,660,Anguilla,AIA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,8000000,,8000000,,1643969,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,682,Saudi Arabia,SAU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1950000,,1950000,,426347,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,610286784,,610286784,,131482128,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,5000000,,5000000,,1065949,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,7470660,,7470660,,1657622,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,176425440,,176425440,,38264856,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,18140352,,18140352,,2814644,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,891,Serbia and Montenegro,SCG,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,5000000,,5000000,,1041050,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,4184704512,,4184704512,,945500224,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,5000,,5000,,2300,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,58,Belgium-Luxembourg,BEL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,26927012,,26927012,,5905755,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,5000000,,5000000,,1058100,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3250,,3250,,4798,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,97769,,97769,,20927,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,136,Cayman Isds,CYM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3000000,,3000000,,636689,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,233,Estonia,EST,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,47500000,,47500000,,10475569,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,27300000,,27300000,,6149839,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,173059184,,173059184,,38928968,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1000000,,1000000,,257949,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,415125,,415125,,251897,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,19200192,,19200192,,4513141,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,281324064,,281324064,,63789544,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,337056000,,337056000,,77377264,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,49792560,,49792560,,11953968,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,40622192,,40622192,,9543705,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,31265000,,31265000,,6643735,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,15000000,,15000000,,3170550,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1895866112,,1895866112,,434664864,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,591,Panama,PAN,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1000000,,1000000,,252020,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,140000,,140000,,44899,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,30230000,,30230000,,7627360,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,642,Romania,ROU,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1000000,,1000000,,219740,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,3000000,,3000000,,636600,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,507144736,,507144736,,117152312,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,7463371,,7463371,,1594058,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,16569710,,16569710,,3667376,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,1000000,,1000000,,219000,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,31359628,,31359628,,3909354,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,1201,Soya beans,8,Weight in kilograms,,,631363520,,631363520,,134827936,,,0
