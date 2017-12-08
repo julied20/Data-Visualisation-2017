@@ -147,7 +147,6 @@ let cy = cytoscape({
 
 function update_graph() {
 
-
     cy.elements().remove();
 
     let bigtraders = [];

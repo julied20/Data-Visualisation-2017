@@ -49,6 +49,20 @@ let stories = [
         "CHN",
         "rgba(63, 191, 63, 1)"
     ),
+    new Story(
+        "Brazil",
+        "Soybean",
+        "datasets/brazil_soy_clean.csv",
+        "BRA",
+        "rgba(63, 191, 63, 1)"
+    ),
+    new Story(
+        "Indonesia",
+        "Palm",
+        "datasets/indonesia_palm_clean.csv",
+        "IDN",
+        "rgba(63, 191, 63, 1)"
+    ),
 ];
 
 // Global variables
@@ -60,15 +74,14 @@ let big_traders;
 // Create navbar with stories
 nav_ul = d3.select('#navbarUL');
 
-let i = 0;
-stories.forEach(function(story) {
+stories.forEach((story, index) => {
     nav_ul
     .append('li')
         .attr('class', 'nav-item')
     .append('a')
         .attr('class', 'nav-link')
         .attr('href', '#')
-        .attr('id', i)
+        .attr('id', index)
         .on('click', function() {
             // Remove active for all stories
             nav_ul.selectAll('li').attr('class', 'nav-item');
@@ -78,7 +91,6 @@ stories.forEach(function(story) {
             change_story(this.id);
         })
         .text(story.country_name);
-    i++;
 });
 
 
@@ -92,9 +104,7 @@ d3.csv('datasets/countries_codes_and_coordinates.csv', loadIsoCoord);
 // Load all csvs
 let q = d3.queue();
 
-stories.forEach(function(s) {
-    q.defer(d3.csv, s.csv_path);
-});
+stories.forEach(s => q.defer(d3.csv, s.csv_path));
 
 q.awaitAll(function(err, results) {
     if (err) throw err;
@@ -104,10 +114,10 @@ q.awaitAll(function(err, results) {
 function get_top_traders(n) {
     let tmp_array = [];
 
-    let story_data = stories_data[current_story];
+    const story_data = stories_data[current_story];
 
-    let min = story_data[0].Year;
-    let max = story_data[story_data.length-1].Year;
+    const min = story_data[0].Year;
+    const max = story_data[story_data.length-1].Year;
 
     // For each year, take the top n traders and concatenate their ISO in an array
     for (let year = min; year <= max; year++) {
@@ -129,20 +139,17 @@ d3.json("static/world.geo.json", function(world_json) {
           continue;
         }
 
-        // For now
-        let is_big_trader = false;
-        let trade_value = 0.0;
-        let trade_weight = 0.0;
-
         let coordinates = getCoordinates(ISO3);
-
         if(typeof coordinates === "undefined") {
             coordinates = {
                 latitude : 0,
                 longitude : 0
             };
         }
-
+        // For now
+        const is_big_trader = false;
+        const trade_value = 0.0;
+        const trade_weight = 0.0;
         new_country = new Country(
             ISO3,
             coordinates.latitude,
@@ -194,12 +201,12 @@ function update_scales() {
         .range([d3.rgb("#F2F2F2"), d3.rgb('#5E5E5E')]);
 }
 
-function change_year(new_year) {
-    let year_data = story_data.filter(x => x.Year == new_year);
+const change_year = new_year => {
+    const year_data = story_data.filter(x => x.Year == new_year);
 
     let big_trader_threshold = compute_big_trader_threshold(year_data);
 
-    for (let country of countries) {
+    for (let country of countries) { // 👍
         let is_big_trader = false;
         let trade_value = 0.0;
         let trade_weight = 0.0;
@@ -212,7 +219,6 @@ function change_year(new_year) {
             trade_value = parseFloat(trade_data.Value);
             trade_weight = parseFloat(trade_data.Weight);
 
-
             if (big_traders.has(country.ISO3)) {
                 is_big_trader = true;
             }
@@ -223,8 +229,6 @@ function change_year(new_year) {
         country.trade_weight = trade_weight;
 
     }
-
-
 
     paths = map_group.selectAll("path")
             .data(countries);

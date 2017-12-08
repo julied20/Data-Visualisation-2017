@@ -36,12 +36,9 @@ function getCoordinates(ISO) {
     const country = iso_geo_coord.filter(x => x.ISO3 == ISO)[0];
 
     if(typeof country !== "undefined") {
-
-        const obj = {
+        return {
             latitude: parseFloat(country.Latitude),
             longitude: parseFloat(country.Longitude),
         };
-
-        return obj;
     }
 }
