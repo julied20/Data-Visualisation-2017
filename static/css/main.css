@@ -56,11 +56,15 @@
 }
 
 #infos_row {
-    height: 40vh;
+    height: 80vh;
 }
 
 #linegraph_div {
-    width: 30vw;
+    width: 50vw;
+}
+
+#text_div{
+    width: 50vw;
 }
 
 #loader {
