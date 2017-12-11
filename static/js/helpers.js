@@ -59,3 +59,16 @@ function get_country_data(countryISO3) {
 
     return data
 }
+
+// Simply convert big numbers to a human readable format
+function human_readable_number(number) {
+    if (number > 1000000000) {
+        return  Math.round(number/10000000) / 100 + " B";
+    } else if (number > 1000000) {
+        return  Math.round(number/10000) / 100 + " M";
+    } else if (number > 1000) {
+        return  Math.round(number/10) / 100 + " K";
+    } else {
+        return number;
+    }
+}

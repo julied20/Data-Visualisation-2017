@@ -19,7 +19,8 @@ function update_tooltip(year_index, label, trade_value, percentage) {
     };
 
     // Update the title
-    chart_tooltip.titleBlock.options.text = ['Total Trade ($): ', trade_value];
+    chart_tooltip.titleBlock.options.text = ['Total Trade ($): ',
+        human_readable_number(trade_value)];
 
     chart_tooltip.update();
 }

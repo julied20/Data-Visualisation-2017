@@ -3,6 +3,16 @@ let infos_chart = new Chart(ctx_infos, {
     type: 'line',
     data: {},
     options:{
+        scales: {
+            yAxes: [{
+                ticks: {
+                    // Display readable numbers on the y axis
+                    callback: function(value, index, values) {
+                        return human_readable_number(value);
+                    }
+                }
+            }]
+        },
         maintainAspectRatio: false,
     }
 });

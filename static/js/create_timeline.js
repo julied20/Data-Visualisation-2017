@@ -5,21 +5,27 @@ let my_chart = new Chart(ctx, {
     data: {},
     options:{
         scales: {
-          yAxes: [{
-            scaleLabel: {
-              display: true,
-              labelString: '($)'
-            }
-          }],
-          xAxes: [{
-            scaleLabel: {
-              display: true,
-              labelString: 'Year'
-            }
-          }]
+            yAxes: [{
+                ticks: {
+                    // Display readable numbers on the y axis
+                    callback: function(value, index, values) {
+                        return human_readable_number(value);
+                    }
+                },
+                scaleLabel: {
+                    display: true,
+                    labelString: '($)'
+                }
+            }],
+            xAxes: [{
+                scaleLabel: {
+                    display: true,
+                    labelString: 'Year'
+                }
+            }]
         },
         legend: {
-          onClick: null
+            onClick: null
         },
         maintainAspectRatio: false,
         onClick: function(e){
