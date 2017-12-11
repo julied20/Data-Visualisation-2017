@@ -3,32 +3,17 @@ let infos_chart = new Chart(ctx_infos, {
     type: 'line',
     data: {},
     options:{
-        /*
-        scales: {
-          yAxes: [{
-            scaleLabel: {
-              display: true,
-              labelString: '($)'
-            }
-          }],
-          xAxes: [{
-            scaleLabel: {
-              display: true,
-              labelString: 'Year'
-            }
-          }]
-        },
-        legend: {
-          onClick: null
-        },
-        */
         maintainAspectRatio: false,
     }
 });
 
-function update_infos(country) {
-    let years = get_country_data(country).years;
-    let trades = get_country_data(country).trades;
+function update_infos(countryISO3) {
+    let years = get_country_data(countryISO3).years;
+    let trades = get_country_data(countryISO3).trades;
+
+    if (years.length < 3) {
+        console.log("TODO manage countries with few data");
+    }
 
     let zipped = [];
 
@@ -48,15 +33,6 @@ function update_infos(country) {
 
     [background_color, border_color] = get_colors();
 
-//    let background_colors = [];
-
-//    for(let i = 0; i < years.length - 1; ++i) {
-//        background_colors.push(background_color);
-//    }
-
-    // Last year is selected
-//    background_colors.push(border_color);
-
     infos_chart.data = {
         labels: years,
         datasets: [{
@@ -69,18 +45,4 @@ function update_infos(country) {
     };
 
     infos_chart.update();
-}
-
-
-function get_country_data(country) {
-
-    let country_data = stories_data[current_story]
-        .filter(x => x.PartnerISO == country.ISO3);
-
-    let data = {
-        years: country_data.map(function(d) { return d.Year }),
-        trades: country_data.map(function(d) { return d.Value }),
-    };
-
-    return data
 }

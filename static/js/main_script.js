@@ -282,7 +282,7 @@ function update_paths(p) {
         update_tooltip(current_year, country.ISO3, country.trade_value, compute_percentage(country))
     })
     .on("click", function(country) {
-        update_infos(country);
+        update_infos(country.ISO3);
     });
 }
 

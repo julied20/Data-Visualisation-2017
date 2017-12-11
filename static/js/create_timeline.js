@@ -66,8 +66,8 @@ function get_colors() {
 }
 
 function update_timeline() {
-    let years = get_world_data(current_story).years;
-    let trades = get_world_data(current_story).trades;
+    let years = get_country_data("WLD").years;
+    let trades = get_country_data("WLD").trades;
 
     let zipped = [];
 
@@ -110,16 +110,4 @@ function update_timeline() {
     };
 
     my_chart.update();
-}
-
-
-function get_world_data(story) {
-    let world_data = stories_data[story].filter(x => x.PartnerISO == "WLD");
-
-    let data = {
-        years: world_data.map(function(d) { return d.Year }),
-        trades: world_data.map(function(d) { return d.Value }),
-    };
-
-    return data
 }

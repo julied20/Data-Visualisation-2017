@@ -45,3 +45,17 @@ function getCoordinates(ISO) {
         return obj;
     }
 }
+
+// Retrieves the trades values for all available years for a given country ISO
+function get_country_data(countryISO3) {
+
+    let country_data = stories_data[current_story]
+        .filter(x => x.PartnerISO == countryISO3);
+
+    let data = {
+        years: country_data.map(function(d) { return d.Year }),
+        trades: country_data.map(function(d) { return d.Value }),
+    };
+
+    return data
+}
