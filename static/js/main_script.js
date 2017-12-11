@@ -49,6 +49,20 @@ let stories = [
         "CHN",
         "rgba(63, 191, 63, 1)"
     ),
+    new Story(
+        "Indonesia",
+        "Palm Oil",
+        "datasets/indonesia_palm_clean.csv",
+        "IDN",
+        "rgba(63, 191, 63, 1)"
+    ),
+    new Story(
+        "Brazil",
+        "Soy",
+        "datasets/brazil_soy_clean.csv",
+        "BRA",
+        "rgba(63, 191, 63, 1)"
+    ),
 ];
 
 // Global variables
@@ -266,6 +280,9 @@ function update_paths(p) {
         tooltip_div.style('left', x_pos + 'px')
         tooltip_div.style('top', y_pos + 'px')
         update_tooltip(current_year, country.ISO3, country.trade_value, compute_percentage(country))
+    })
+    .on("click", function(country) {
+        update_infos(country);
     });
 }
 
