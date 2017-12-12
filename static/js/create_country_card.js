@@ -5,8 +5,11 @@ let card_year = d3.select('#country_card_year');
 let card_trade_value = d3.select('#country_card_trade_value');
 let card_trade_percent = d3.select('#country_card_trade_percent');
 let card_trade_rank = d3.select('#country_card_trade_rank');
+let card_close_cross = d3.select('#country_card_close');
 
-
+card_close_cross.on('click', function() {
+    country_card.attr('class', 'invisible');
+});
 
 
 let ctx_country_card = document.getElementById("country_card_canvas").getContext('2d');
