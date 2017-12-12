@@ -1,13 +1,6 @@
 let current_story = 0;
 let stories = [
     new Story(
-        "Belgium",
-        "Beer",
-        "datasets/belgium_beer_clean.csv",
-        "BEL",
-        "rgba(255, 206, 86, 1)"
-    ),
-    new Story(
         "Peru",
         "Quinoa",
         "datasets/peru_quinoa_clean.csv",
@@ -16,45 +9,10 @@ let stories = [
     ),
     new Story(
         "France",
-        "Cheese",
-        "datasets/france_cheese_clean.csv",
-        "FRA",
-        "rgba(14, 119, 225, 1)"
-    ),
-    new Story(
-        "France",
         "Wine",
         "datasets/france_wine_clean.csv",
         "FRA",
         "rgba(203, 56, 85, 1)"
-    ),
-    new Story(
-        "Bolivia",
-        "Quinoa",
-        "datasets/bolivia_quinoa_clean.csv",
-        "BOL",
-        "rgba(147, 159, 92, 1)"
-    ),
-    new Story(
-        "Switzerland",
-        "Chocolate",
-        "datasets/switzerland_chocolate_clean.csv",
-        "CHE",
-        "rgba(112, 74, 44, 1)"
-    ),
-    new Story(
-        "China",
-        "Tea",
-        "datasets/china_tea_clean.csv",
-        "CHN",
-        "rgba(63, 191, 63, 1)"
-    ),
-    new Story(
-        "Brazil",
-        "Soybean",
-        "datasets/brazil_soy_clean.csv",
-        "BRA",
-        "rgba(63, 191, 63, 1)"
     ),
     new Story(
         "Indonesia",
