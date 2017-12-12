@@ -94,13 +94,14 @@ function update_timeline() {
 
     [background_color, border_color] = get_colors();
 
+
     let background_colors = [];
 
     for(let i = 0; i < years.length - 1; ++i) {
         background_colors.push(background_color);
     }
 
-    // Last year is selected
+    // TODO : Change that: not last year selectetd but first year
     background_colors.push(border_color);
 
     my_chart.data = {
