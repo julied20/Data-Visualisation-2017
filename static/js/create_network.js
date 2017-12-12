@@ -112,7 +112,7 @@ let cy = cytoscape({
                 return stories[current_story].color;
             },
             'arrow-scale': 1.2,
-            'opacity' : 1
+            'opacity' : 0.9
             }
           },
 
