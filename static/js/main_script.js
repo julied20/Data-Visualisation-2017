@@ -303,7 +303,7 @@ function update_paths(p) {
         let y_pos = (d3.event.pageY) - 250;
     })
     .on("click", function(country) {
-        update_infos(country);
+        update_country_card(country);
     });
 }
 

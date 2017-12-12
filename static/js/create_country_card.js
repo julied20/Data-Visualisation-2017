@@ -9,8 +9,8 @@ let card_trade_rank = d3.select('#country_card_trade_rank');
 
 
 
-let ctx_infos = document.getElementById("infos_panel").getContext('2d');
-let infos_chart = new Chart(ctx_infos, {
+let ctx_country_card = document.getElementById("country_card_canvas").getContext('2d');
+let country_card_chart = new Chart(ctx_country_card, {
     type: 'line',
     data: {},
     options:{
@@ -28,7 +28,7 @@ let infos_chart = new Chart(ctx_infos, {
     }
 });
 
-function update_infos(country) {
+function update_country_card(country) {
     const story = stories[current_story];
     card_title.text(country.name);
     card_subtitle.text(story.product_name + " imports - " + story.country_name);
@@ -92,7 +92,7 @@ function update_infos(country) {
     }
   }
 
-  infos_chart.data = {
+  country_card_chart.data = {
     labels: years,
     datasets: [{
       label: 'Value of trades ($)',
@@ -106,5 +106,5 @@ function update_infos(country) {
     }],
   };
 
-  infos_chart.update();
+  country_card_chart.update();
 }
