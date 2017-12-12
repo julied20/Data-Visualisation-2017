@@ -26,8 +26,6 @@
 
                 <div class="collapse navbar-collapse" id="navbarText">
                   <ul class="navbar-nav mr-auto" id="navbarUL">
-
-                    </li>
                   </ul>
                 </div>
               </nav>
@@ -39,12 +37,45 @@
         <div class="container">
           <div class="row" id="map_row">
             <div class="col-sm" id="map_div">
+              <div id="country_card" class="card">
+                <div class="card-header">
+                  <button type="button" class="close" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                  <h4 class="card-title" id="country_card_title">Card title</h4>
+                  <h6 class="card-subtitle mb-2 text-muted" id="country_card_subtitle">Card subtitle</h6>
+                </div>
+                  <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                      <table style="width:100%">
+                        <tr>
+                          <td id="country_card_year">
+                            2016
+                          </td>
+                          <td id="country_card_trade_value">
+                            10M$
+                          </td>
+                          <td id="country_card_trade_percent">
+                            23.5%
+                          </td>
+                          <td id="country_card_trade_rank">
+                            #2 trader
+                          </td>
+                        </tr>
+                      </table>
+                    </li>
+                    <li class="list-group-item text-center">
+                        <canvas id="infos_panel"></canvas>
+                    </li>
+                  </ul>
+              </div>
+
                 <div id="tooltip_div" class="invisible">
-                    <div id="tooltip_bar">
-                        <canvas id="tooltip_canvas"></canvas>
-                    </div>
-                    <div id="tooltip_infos">
-                    </div>
+                  <div id="tooltip_bar">
+                    <canvas id="tooltip_canvas"></canvas>
+                  </div>
+                  <div id="tooltip_infos">
+                  </div>
                 </div>
                 <div id="network_div"></div>
             </div>
@@ -59,7 +90,7 @@
           <div class="row" id="infos_row">
               <div class="col-sm" id="linegraph_div">
                   <div class="col-sm">
-                      <canvas id="infos_panel"></canvas>
+                      <canvas id="infos_panel_old"></canvas>
                   </div>
               </div>
 

@@ -7,8 +7,9 @@ function loadIsoCoord(CSV) {
 }
 
 class Country {
-    constructor(ISO3, lat, long, is_big_trader, trade_value, trade_weight, geo_feat) {
+    constructor(ISO3, name, lat, long, is_big_trader, trade_value, trade_weight, geo_feat) {
         this.ISO3 = ISO3;
+        this.name = name;
         this.lat = lat;
         this.long = long;
         this.is_big_trader = is_big_trader;
@@ -32,6 +33,14 @@ class Story {
     }
 }
 
+function get_country_name(ISO) {
+    const country = iso_geo_coord.filter(x => x.ISO3 == ISO)[0];
+
+    if(typeof country !== "undefined") {
+        return country.Country;
+    }
+}
+
 function getCoordinates(ISO) {
     const country = iso_geo_coord.filter(x => x.ISO3 == ISO)[0];
 
@@ -44,6 +53,19 @@ function getCoordinates(ISO) {
 
         return obj;
     }
+}
+
+function get_country_rank(countryISO3) {
+    let year_data = story_data.filter(x => x.Year == current_year);
+
+    // Remove World
+    year_data = year_data.filter(x => x.PartnerISO != "WLD")
+
+    // Descending sorted values
+    let sorted_traders = year_data.sort((a, b) => parseInt(b.Value) - parseInt(a.Value))
+                                  .map(x => x.PartnerISO);
+
+    return sorted_traders.indexOf(countryISO3)
 }
 
 // Retrieves the trades values for all available years for a given country ISO

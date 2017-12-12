@@ -144,6 +144,8 @@ d3.json("static/world.geo.json", function(world_json) {
           continue;
         }
 
+        let country_name = get_country_name(ISO3);
+
         // For now
         let is_big_trader = false;
         let trade_value = 0.0;
@@ -160,6 +162,7 @@ d3.json("static/world.geo.json", function(world_json) {
 
         new_country = new Country(
             ISO3,
+            country_name,
             coordinates.latitude,
             coordinates.longitude,
             is_big_trader,
@@ -233,6 +236,7 @@ function roll_years() {
 }
 
 function change_year(new_year) {
+    current_year = new_year;
     let year_data = story_data.filter(x => x.Year == new_year);
 
     let big_trader_threshold = compute_big_trader_threshold(year_data);
@@ -283,9 +287,10 @@ function update_paths(p) {
         color = d3.color(country_color_scale(country.trade_value)).darker(0.3);
 
         d3.select(this)
-            .style("fill", color);
+            .style("fill", color)
+            .style('cursor', 'pointer');
 
-        tooltip_div.attr("class", "")
+        tooltip_div.attr("class", "");
     })
     .on("mouseout", function(country) {
         let color = country_color_scale(country.trade_value);
@@ -306,7 +311,7 @@ function update_paths(p) {
         update_tooltip(current_year, country.ISO3, country.trade_value, compute_percentage(country))
     })
     .on("click", function(country) {
-        update_infos(country.ISO3);
+        update_infos(country);
     });
 }
 
