@@ -29,7 +29,8 @@ let infos_chart = new Chart(ctx_infos, {
 });
 
 function update_infos(country) {
-    story = stories[current_story];
+
+    const story = stories[current_story];
     card_title.text(country.name);
     card_subtitle.text(story.product_name + " imports - " + story.country_name);
     card_year.text(current_year);
@@ -49,38 +50,62 @@ function update_infos(country) {
     let years = country_data.years;
     let trades = country_data.trades;
 
-    if (years.length < 3) {
-        console.log("TODO manage countries with few data");
+    const story_year = get_country_data("WLD").years;
+    let graph_data = [];
+
+  for (let i = 0; i < story_year.length; ++i) {
+    let trades_per_year = {};
+    trades_per_year['year'] = story_year[i];
+    const year_index = years.indexOf(story_year[i]);
+    if( year_index == -1  ) {
+      trades_per_year['trade'] = 0;
+      graph_data.push(trades_per_year)
+    } else {
+      trades_per_year['trade'] = trades[year_index];
+      graph_data.push(trades_per_year)
     }
 
-    let zipped = [];
+  }
 
-    for(let i = 0; i < years.length; ++i) {
-      zipped.push({
-          year: years[i],
-          trade: trades[i]
-      });
+  years = graph_data.map( y => y.year);
+  trades = graph_data.map( y => y.trade);
+
+  if (years.length < 3) {
+    console.log("TODO manage countries with few data");
+  }
+
+
+  [background_color, border_color] = get_colors();
+
+  let point_border_colors = []
+  let point_background_colors = []
+  let point_style = [];
+  for (let t of trades) {
+    if (t == 0) {
+      //point_style.push('crossRot');
+      point_border_colors.push("#BFBFBF");
+      point_background_colors.push("#EEEEEE");
+    } else {
+      //point_style.push('circle');
+      point_border_colors.push(border_color);
+      point_background_colors.push(border_color);
+
     }
+  }
 
-    zipped.sort(function(left, right) {
-      return left.year === right.year ? 0 : (left.year < right.year ? -1 : 1);
-    });
+  infos_chart.data = {
+    labels: years,
+    datasets: [{
+      label: 'Value of trades ($)',
+      data: trades,
+      backgroundColor: background_color,
+      borderColor: border_color,
+      borderWidth: 1,
+      pointStyle: 'circle',//point_style,
+      pointBorderColor: point_border_colors,
+      pointBackgoundColor: point_background_colors
+    }],
+  };
 
-    years = zipped.map(function(d) { return d.year });
-    trades = zipped.map(function(d) { return d.trade });
-
-    [background_color, border_color] = get_colors();
-
-    infos_chart.data = {
-        labels: years,
-        datasets: [{
-            label: 'Value of trades ($)',
-            data: trades,
-            backgroundColor: background_color,
-            borderColor: border_color,
-            borderWidth: 1,
-        }],
-    };
-
-    infos_chart.update();
+  infos_chart.update();
 }
