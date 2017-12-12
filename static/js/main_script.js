@@ -68,6 +68,7 @@ let stories = [
 // Global variables
 let stories_data = [];
 let current_year;
+let years = [];
 let countries = [];
 let big_traders;
 
@@ -188,6 +189,8 @@ function change_story(new_story) {
     change_year(current_year);
 
     update_timeline();
+
+    years = my_chart.config.data.labels;
 }
 
 let arrow_weight_scale;
@@ -206,6 +209,27 @@ function update_scales() {
         .domain([0, max])
         .interpolate(d3.interpolateHcl)
         .range([d3.rgb("#F2F2F2"), d3.rgb('#5E5E5E')]);
+}
+
+let year_interval;
+
+function roll_years() {
+    clearInterval(year_interval);
+    year_interval = setInterval(next_year_callback, 100);
+    let year_i = 0;
+
+    function next_year_callback() {
+        let first_year = parseInt(years[0]);
+        let last_year = parseInt(years[years.length - 1]);
+
+        year_i += 1;
+        change_year(first_year + year_i);
+        year_changed(year_i)
+        if (first_year + year_i == last_year) {
+            clearInterval(year_interval);
+        }
+    }
+
 }
 
 function change_year(new_year) {
