@@ -289,8 +289,6 @@ function update_paths(p) {
         d3.select(this)
             .style("fill", color)
             .style('cursor', 'pointer');
-
-        tooltip_div.attr("class", "");
     })
     .on("mouseout", function(country) {
         let color = country_color_scale(country.trade_value);
@@ -299,16 +297,10 @@ function update_paths(p) {
             .transition()
             .duration(100)
             .style("fill", color);
-
-        tooltip_div.attr("class", "invisible")
     })
     .on("mousemove", function(country) {
         let x_pos = (d3.event.pageX) - 60;
         let y_pos = (d3.event.pageY) - 250;
-
-        tooltip_div.style('left', x_pos + 'px')
-        tooltip_div.style('top', y_pos + 'px')
-        update_tooltip(current_year, country.ISO3, country.trade_value, compute_percentage(country))
     })
     .on("click", function(country) {
         update_infos(country);

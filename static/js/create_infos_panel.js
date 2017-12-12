@@ -29,7 +29,6 @@ let infos_chart = new Chart(ctx_infos, {
 });
 
 function update_infos(country) {
-
     const story = stories[current_story];
     card_title.text(country.name);
     card_subtitle.text(story.product_name + " imports - " + story.country_name);
