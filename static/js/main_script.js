@@ -72,6 +72,8 @@ let years = [];
 let countries = [];
 let big_traders;
 
+const duration = 800;
+
 // Create navbar with stories
 nav_ul = d3.select('#navbarUL');
 
@@ -188,6 +190,8 @@ function change_story(new_story) {
     current_year = story_data[story_data.length - 1].Year
     change_year(current_year);
 
+    update_graph();
+
     update_timeline();
 
     years = my_chart.config.data.labels;
@@ -215,7 +219,7 @@ let year_interval;
 
 function roll_years() {
     clearInterval(year_interval);
-    year_interval = setInterval(next_year_callback, 100);
+    year_interval = setInterval(next_year_callback, duration);
     let year_i = 0;
 
     function next_year_callback() {
@@ -270,7 +274,7 @@ function change_year(new_year) {
     update_paths(paths);
     update_paths(paths.enter().append("path"));
 
-    update_graph();
+    update_edges_click();
 }
 
 function update_paths(p) {
@@ -319,4 +323,78 @@ function compute_percentage(country) {
 function loading_finished() {
     d3.select("#loader").attr("class", "invisible");
     d3.select("#content").attr("class", "");
+    start_animation();
 }
+
+function start_animation() {
+    // Display a welcome card
+    d3.select("#welcome_card")
+        .transition()
+        .duration(1000)
+        .style("background-color", "red")
+        .transition()
+        .duration(500)
+        .attr("class", "invisible")
+
+    // Select the first story (French Wines) and
+    change_story(3);
+
+    let t = d3.zoomIdentity.translate(-16300, -8666).scale(28);
+    let t2 = d3.zoomIdentity.translate(0, 0).scale(1);
+
+    zoom_and_pan()
+
+
+
+//    zoom_and_pan()
+//        .transition()
+//        .duration(1000)
+
+//
+//    roll_years();
+
+
+//    roll_years();
+}
+
+function zoom_and_pan() {
+
+    let translate_coords = {
+        x: -16300,
+        y: -8666
+    }
+    const scale = 28.8;
+
+    zoom_level = scale;
+
+    let t = d3.zoomIdentity.translate(translate_coords.x, translate_coords.y).scale(scale);
+
+    map_group.transition()
+        .duration(5000)
+        .attr("transform", t);
+
+    update_edges_zoom();
+
+    cy.viewport({
+        zoom: scale,
+        pan: {
+            x: translate_coords.x,
+            y: translate_coords.y,
+        }
+    });
+}
+
+function transform_zoom_test() {
+      return d3.zoomIdentity
+          .translate(width / 2, height / 2)
+          .scale(8)
+          .translate(-point[0], -point[1]);
+    }
+
+    function transition_zoom_test(canvas) {
+      map_group.transition()
+          .delay(500)
+          .duration(3000)
+          .call(zoom.transform, zoom_and_pan)
+          .on("end", function() { canvas.call(zoom_and_pan); });
+    }

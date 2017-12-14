@@ -76,6 +76,9 @@ function get_control_point_distance(source_geo, target_geo) {
 
 }
 
+// Big traders list
+let bigtraders = [];
+
 let cy = cytoscape({
       container: document.getElementById('network_div'),
       style: [
@@ -126,7 +129,7 @@ function update_graph() {
     cy.elements().remove();
 
     // Creates the big traders list
-    let bigtraders = [];
+    bigtraders = [];
     countries.forEach(function(country) {
         if (country.is_big_trader) {
             bigtraders.push(country)
@@ -171,6 +174,31 @@ function update_graph() {
     }
 }
 
+function update_edges_zoom() {
+
+    big_traders.forEach(iso => {
+        cy.getElementById("Edge"+iso).style('width',
+            get_arrow_weight(iso, zoom_level));
+        cy.getElementById("Edge"+iso).style('arrow-scale',
+            Math.min(1, get_arrow_weight(iso, zoom_level)));
+    });
+}
+
+function update_edges_click() {
+
+    big_traders.forEach(iso => {
+        cy.getElementById("Edge"+iso).animate({
+            style: {
+                'width': get_arrow_weight(iso, zoom_level),
+                'arrow-scale': Math.min(1, get_arrow_weight(iso, zoom_level)),
+            }
+        }, {
+            duration: duration
+        },
+    );
+    });
+}
+
 // Zoom level
 let zoom_level = 1;
 
@@ -182,10 +210,11 @@ svg.call(zoom);
 function zoomed() {
     // Changes the zoom_level
     zoom_level = d3.event.transform.k;
+    console.log(d3.event.transform)
     map_group.attr("transform", d3.event.transform);
 
-    // Updates the grpah especially for the edges shapes
-    update_graph();
+    // Updates the graph especially for the edges shapes
+    update_edges_zoom();
 
     // Changes the zoom level and the pan parameters to keep the correspondance
     // between the map and the graph
