@@ -266,4 +266,9 @@ function compute_percentage(country) {
 function loading_finished() {
     d3.select("#loader").attr("class", "invisible");
     d3.select("#content").attr("class", "");
+
+    // Enable all tooltips
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    });
 }

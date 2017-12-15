@@ -99,6 +99,7 @@ function update_country_card(country=null) {
     card_year.text(current_year);
     card_trade_value.text(human_readable_number(country.trade_value));
     card_trade_percent.text(compute_percentage(country).toFixed(2) + '%');
+    card_trade_percent.attr('data-original-title', 'The percentage of all ' + story.product_name + ' exports from ' + story.country_name + ' that goes to ' + country.name);
 
     let rank = get_country_rank(country.ISO3);
 
