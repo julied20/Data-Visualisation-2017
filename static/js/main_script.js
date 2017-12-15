@@ -31,10 +31,11 @@ let countries = [];
 let big_traders;
 
 // Create navbar with stories
-nav_ul = d3.select('#navbarUL');
+nav_stories_ul = d3.select('#navbar_stories_UL');
+nav_exploration_ul = d3.select('#navbar_exploration_UL');
 
 stories.forEach((story, index) => {
-    nav_ul
+    nav_stories_ul
     .append('li')
         .attr('class', 'nav-item')
     .append('a')
@@ -43,18 +44,35 @@ stories.forEach((story, index) => {
         .attr('id', index)
         .on('click', function() {
             // Remove active for all stories
-            nav_ul.selectAll('li').attr('class', 'nav-item');
+            nav_stories_ul.selectAll('li').attr('class', 'nav-item');
 
             // Add active for new story
             this.parentElement.setAttribute('class', 'nav-item active')
             change_story(this.id);
         })
         .text(story.country_name);
+
+        nav_exploration_ul
+        .append('li')
+            .attr('class', 'nav-item')
+        .append('a')
+            .attr('class', 'nav-link')
+            .attr('href', '#')
+            .attr('id', index+1000) // Shameless hack
+            .on('click', function() {
+                // Remove active for all stories
+                nav_exploration_ul.selectAll('li').attr('class', 'nav-item');
+
+                // Add active for new story
+                this.parentElement.setAttribute('class', 'nav-item active')
+                change_story(this.id-1000);
+            })
+            .text(story.country_name);
 });
 
 
 // Set first list elem as active
-nav_ul.select('li')
+nav_stories_ul.select('li')
     .attr('class', 'nav-item active')
 
 
@@ -144,7 +162,7 @@ function change_story(new_story) {
     years = timeline_chart.config.data.labels;
 
     // Show intro modal
-    $('#intro_modal').modal('toggle')
+    $('#intro_modal').modal('toggle');
 }
 
 let arrow_weight_scale;
