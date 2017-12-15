@@ -1,32 +1,39 @@
 
 let ctx = document.getElementById("timeline").getContext('2d');
-let my_chart = new Chart(ctx, {
+let timeline_chart = new Chart(ctx, {
     type: 'bar',
     data: {},
     options:{
         scales: {
-          yAxes: [{
-            scaleLabel: {
-              display: true,
-              labelString: '($)'
-            }
-          }],
-          xAxes: [{
-            scaleLabel: {
-              display: true,
-              labelString: 'Year'
-            }
-          }]
+            yAxes: [{
+                ticks: {
+                    // Display readable numbers on the y axis
+                    callback: function(value, index, values) {
+                        return human_readable_number(value);
+                    }
+                },
+                scaleLabel: {
+                    display: true,
+                    labelString: '($)'
+                }
+            }],
+            xAxes: [{
+                scaleLabel: {
+                    display: true,
+                    labelString: 'Year'
+                }
+            }]
         },
         legend: {
-          onClick: null
+            onClick: null
         },
         maintainAspectRatio: false,
         onClick: function(e){
             let element = this.getElementAtEvent(e);
             if (element[0] != undefined) {
-                change_year(element[0]._model.label);
-                year_changed(element[0]._index);
+                let index = element[0]._index;
+                change_year(years[index]);
+                timeline_year_changed(element[0]._index);
             }
         },
         onHover: function(e){
@@ -42,10 +49,10 @@ let my_chart = new Chart(ctx, {
     }
 });
 
-function year_changed(year_index) {
+function timeline_year_changed(year_index) {
     [background_color, border_color] = get_colors();
 
-    backgrounds = my_chart.data.datasets[0].backgroundColor;
+    backgrounds = timeline_chart.data.datasets[0].backgroundColor;
     for (let i = 0; i < backgrounds.length; i++) {
         if (i == year_index) {
             backgrounds[i] = border_color;
@@ -53,7 +60,7 @@ function year_changed(year_index) {
             backgrounds[i] = background_color;
         }
     }
-    my_chart.update();
+    timeline_chart.update();
 }
 
 function get_colors() {
@@ -66,8 +73,8 @@ function get_colors() {
 }
 
 function update_timeline() {
-    let years = get_world_data(current_story).years;
-    let trades = get_world_data(current_story).trades;
+    let years = get_country_data("WLD").years;
+    let trades = get_country_data("WLD").trades;
 
     let zipped = [];
 
@@ -88,16 +95,17 @@ function update_timeline() {
 
     [background_color, border_color] = get_colors();
 
+
     let background_colors = [];
 
     for(let i = 0; i < years.length - 1; ++i) {
         background_colors.push(background_color);
     }
 
-    // Last year is selected
+    // TODO : Change that: not last year selectetd but first year
     background_colors.push(border_color);
 
-    my_chart.data = {
+    timeline_chart.data = {
         labels: years,
         datasets: [{
             label: 'Value of trades ($)',
@@ -109,17 +117,5 @@ function update_timeline() {
         }],
     };
 
-    my_chart.update();
-}
-
-
-function get_world_data(story) {
-    let world_data = stories_data[story].filter(x => x.PartnerISO == "WLD");
-
-    let data = {
-        years: world_data.map(function(d) { return d.Year }),
-        trades: world_data.map(function(d) { return d.Value }),
-    };
-
-    return data
+    timeline_chart.update();
 }

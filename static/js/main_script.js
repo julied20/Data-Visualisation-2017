@@ -1,13 +1,6 @@
 let current_story = 0;
 let stories = [
     new Story(
-        "Peru",
-        "Quinoa",
-        "datasets/peru_quinoa_clean.csv",
-        "PER",
-        "rgba(147, 159, 92, 1)"
-    ),
-    new Story(
         "France",
         "Wine",
         "datasets/france_wine_clean.csv",
@@ -15,8 +8,15 @@ let stories = [
         "rgba(203, 56, 85, 1)"
     ),
     new Story(
+        "Peru",
+        "Quinoa",
+        "datasets/peru_quinoa_clean.csv",
+        "PER",
+        "rgba(147, 159, 92, 1)"
+    ),
+    new Story(
         "Indonesia",
-        "Palm",
+        "Palm Oil",
         "datasets/indonesia_palm_clean.csv",
         "IDN",
         "rgba(63, 191, 63, 1)"
@@ -26,6 +26,7 @@ let stories = [
 // Global variables
 let stories_data = [];
 let current_year;
+let years = [];
 let countries = [];
 let big_traders;
 
@@ -96,7 +97,6 @@ d3.json("static/world.geo.json", function(world_json) {
         if(ISO3 == "WLD") {
           continue;
         }
-
         let coordinates = getCoordinates(ISO3);
         if(typeof coordinates === "undefined") {
             coordinates = {
@@ -110,6 +110,7 @@ d3.json("static/world.geo.json", function(world_json) {
         const trade_weight = 0.0;
         new_country = new Country(
             ISO3,
+            get_country_name(ISO3),
             coordinates.latitude,
             coordinates.longitude,
             is_big_trader,
@@ -139,6 +140,8 @@ function change_story(new_story) {
     change_year(current_year);
 
     update_timeline();
+
+    years = timeline_chart.config.data.labels;
 }
 
 let arrow_weight_scale;
@@ -159,7 +162,29 @@ function update_scales() {
         .range([d3.rgb("#F2F2F2"), d3.rgb('#5E5E5E')]);
 }
 
+let year_interval;
+
+function roll_years() {
+    clearInterval(year_interval);
+    year_interval = setInterval(next_year_callback, 100);
+    let year_i = 0;
+
+    function next_year_callback() {
+        let first_year = parseInt(years[0]);
+        let last_year = parseInt(years[years.length - 1]);
+
+        year_i += 1;
+        change_year(first_year + year_i);
+        timeline_year_changed(year_i);
+
+        if (first_year + year_i == last_year) {
+            clearInterval(year_interval);
+        }
+    }
+
+}
 const change_year = new_year => {
+    current_year = new_year;
     const year_data = story_data.filter(x => x.Year == new_year);
 
     let big_trader_threshold = compute_big_trader_threshold(year_data);
@@ -195,6 +220,7 @@ const change_year = new_year => {
     update_paths(paths.enter().append("path"));
 
     update_graph();
+    update_country_card();
 }
 
 function update_paths(p) {
@@ -207,9 +233,8 @@ function update_paths(p) {
         color = d3.color(country_color_scale(country.trade_value)).darker(0.3);
 
         d3.select(this)
-            .style("fill", color);
-
-        tooltip_div.attr("class", "")
+            .style("fill", color)
+            .style('cursor', 'pointer');
     })
     .on("mouseout", function(country) {
         let color = country_color_scale(country.trade_value);
@@ -218,16 +243,14 @@ function update_paths(p) {
             .transition()
             .duration(100)
             .style("fill", color);
-
-        tooltip_div.attr("class", "invisible")
     })
     .on("mousemove", function(country) {
         let x_pos = (d3.event.pageX) - 60;
         let y_pos = (d3.event.pageY) - 250;
-
-        tooltip_div.style('left', x_pos + 'px')
-        tooltip_div.style('top', y_pos + 'px')
-        update_tooltip(current_year, country.ISO3, country.trade_value, compute_percentage(country))
+    })
+    .on("click", function(country) {
+        activate_country_card();
+        update_country_card(country);
     });
 }
 

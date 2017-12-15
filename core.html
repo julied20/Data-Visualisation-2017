@@ -3,7 +3,6 @@
   <head>
     <title>TradeMap</title>
 
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -14,48 +13,71 @@
   <body>
     <div id="loader"></div>
     <div class="invisible", id="content">
-        <div class="container" >
-          <div class="row">
-            <div class="col-sm">
+      <div class="container" >
+        <div class="row">
+          <div class="col-sm">
 
-              <nav class="navbar navbar-expand-md navbar-light bg-light">
-                <a class="navbar-brand" href="#">Stories</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
+            <nav class="navbar navbar-expand-md navbar-light bg-light">
+              <a class="navbar-brand" href="#">Stories</a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav mr-auto" id="navbarUL">
+                </ul>
+              </div>
+            </nav>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row" id="map_row">
+          <div class="col-sm" id="map_div">
+            <div id="country_card" class="card invisible">
+              <div class="card-header">
+                <button type="button" id="country_card_close" class="close" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
                 </button>
-
-                <div class="collapse navbar-collapse" id="navbarText">
-                  <ul class="navbar-nav mr-auto" id="navbarUL">
-
-                    </li>
-                  </ul>
-                </div>
-              </nav>
-
+                <h4 class="card-title" id="country_card_title">Card title</h4>
+                <h6 class="card-subtitle mb-2 text-muted" id="country_card_subtitle">Card subtitle</h6>
+              </div>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">
+                    <table style="width:100%">
+                      <tr>
+                        <td id="country_card_year">
+                          2016
+                        </td>
+                        <td id="country_card_trade_value">
+                          $10 M
+                        </td>
+                        <td id="country_card_trade_percent">
+                          23.5%
+                        </td>
+                        <td id="country_card_trade_rank">
+                          NA
+                        </td>
+                      </tr>
+                    </table>
+                  </li>
+                  <li class="list-group-item text-center">
+                      <canvas id="country_card_canvas"></canvas>
+                  </li>
+                </ul>
             </div>
+            <div id="network_div"></div>
           </div>
         </div>
 
-        <div class="container">
-          <div class="row" id="map_row">
-            <div class="col-sm" id="map_div">
-                <div id="tooltip_div" class="invisible">
-                    <div id="tooltip_bar">
-                        <canvas id="tooltip_canvas"></canvas>
-                    </div>
-                    <div id="tooltip_infos">
-                    </div>
-                </div>
-                <div id="network_div"></div>
-            </div>
-          </div>
-
-          <div class="row" id="timeline_row">
-            <div class="col-sm">
-                <canvas id="timeline"></canvas>
-            </div>
+        <div class="row" id="timeline_row">
+          <div class="col-sm">
+              <canvas id="timeline"></canvas>
           </div>
         </div>
+      </div>
     </div>
 
 
@@ -71,7 +93,7 @@
     <script type="text/javascript" src='static/js/create_map.js'></script>
     <script type="text/javascript" src='static/js/create_network.js'></script>
     <script type="text/javascript" src='static/js/create_timeline.js'></script>
-    <script type="text/javascript" src='static/js/tooltip.js'></script>
+    <script type="text/javascript" src='static/js/create_country_card.js'></script>
     <script type="text/javascript" src='static/js/main_script.js'></script>
 
     <!-- Optional JavaScript -->
