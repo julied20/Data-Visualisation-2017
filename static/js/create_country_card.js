@@ -35,7 +35,6 @@ let country_card_chart = new Chart(ctx_country_card, {
             if (element[0] != undefined) {
                 let index = element[0]._index;
                 change_year(years[index]);
-                //country_card_year_changed(element[0]._index);
                 timeline_year_changed(element[0]._index);
             }
         },
@@ -61,22 +60,6 @@ function activate_country_card() {
 function desactivate_country_card() {
     country_card.attr('class', 'invisible');
     country_card_activated = false;
-}
-
-function country_card_year_changed(year_index) {
-    [background_color, border_color] = get_colors();
-
-    backgrounds = country_card_chart.data.datasets[0].backgroundColor;
-
-
-    for (let i = 0; i < backgrounds.length; i++) {
-        if (i == year_index) {
-            backgrounds[i] = border_color;
-        } else {
-            backgrounds[i] = background_color;
-        }
-    }
-    country_card_chart.update();
 }
 
 function update_country_card(country=null) {
