@@ -323,7 +323,7 @@ function compute_percentage(country) {
 function loading_finished() {
     d3.select("#loader").attr("class", "invisible");
     d3.select("#content").attr("class", "");
-    start_animation();
+//    start_animation();
 }
 
 function start_animation() {
@@ -342,7 +342,35 @@ function start_animation() {
     let t = d3.zoomIdentity.translate(-16300, -8666).scale(28);
     let t2 = d3.zoomIdentity.translate(0, 0).scale(1);
 
-    zoom_and_pan()
+    /*
+    zoom2 = d3.zoom()
+        .duration(1000)
+        .on("zoom", zoomed_test(t));
+*/
+/*
+    for (let i = 0; i < 50; i++) {
+        let t_curr = d3.zoomIdentity.translate(0 - 2*i, 0 - i).scale(1 + i/2);
+        svg.transition()
+            .duration(1000)
+            .call(animated_zoom(t_curr))
+    }
+    */
+
+
+//    animated_zoom()
+
+//    zoom_and_pan()
+
+    map_group.transition()
+        .duration(1000)
+        .attr("transform", t)
+        //.tween(update_edges_zoom)
+        .transition()
+        .duration(1000)
+        .attr("transform", t2)
+
+
+
 
 
 
@@ -359,6 +387,7 @@ function start_animation() {
 
 function zoom_and_pan() {
 
+
     let translate_coords = {
         x: -16300,
         y: -8666
@@ -367,14 +396,40 @@ function zoom_and_pan() {
 
     zoom_level = scale;
 
+    let origin_country = countries.find(x => find_by_ISO(x, stories[current_story].ISO3));
+    let origin_coords = projection([origin_country.long, origin_country.lat]);
+
     let t = d3.zoomIdentity.translate(translate_coords.x, translate_coords.y).scale(scale);
+
+    console.log(t)
 
     map_group.transition()
         .duration(5000)
-        .attr("transform", t);
+        .attr("transform", t)
+        .call(console.log('test'));
 
     update_edges_zoom();
 
+    let pos = cy.nodes("#exporter").position();
+
+    console.log(pos)
+/*
+    cy.zoom({
+        level : scale,
+        position: pos
+    })
+    */
+
+    cy.animate({
+        pan: { x: translate_coords.x, y: translate_coords.y },
+        zoom : scale
+    },
+    { duration: 5000 },
+    { easing: "linear"});
+
+
+
+/*
     cy.viewport({
         zoom: scale,
         pan: {
@@ -382,7 +437,41 @@ function zoom_and_pan() {
             y: translate_coords.y,
         }
     });
+    */
+
 }
+
+function animated_zoom(transformation) {
+
+
+    // let transformation = d3.zoomIdentity.translate(-16300, -8666).scale(28);
+    // Changes the zoom_level
+    zoom_level = transformation.k;
+    console.log(transformation)
+    map_group.attr("transform", transformation);
+
+    // Updates the graph especially for the edges shapes
+    update_edges_zoom();
+
+    // Changes the zoom level and the pan parameters to keep the correspondance
+    // between the map and the graph
+    cy.viewport({
+        zoom: zoom_level,
+        pan: {
+            x: transformation.x,
+            y: transformation.y,
+        }
+    });
+}
+
+function animated_zoom2(canvas) {
+    console.log('test');
+    canvas.transition()
+      .duration(3000)
+      .call(animated_zoom)
+}
+
+
 
 function transform_zoom_test() {
       return d3.zoomIdentity

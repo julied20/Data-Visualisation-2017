@@ -210,7 +210,6 @@ svg.call(zoom);
 function zoomed() {
     // Changes the zoom_level
     zoom_level = d3.event.transform.k;
-    console.log(d3.event.transform)
     map_group.attr("transform", d3.event.transform);
 
     // Updates the graph especially for the edges shapes
