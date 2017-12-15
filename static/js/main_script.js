@@ -193,7 +193,7 @@ function change_story(new_story) {
 
     update_timeline();
 
-    years = my_chart.config.data.labels;
+    years = timeline_chart.config.data.labels;
 }
 
 let arrow_weight_scale;
@@ -227,7 +227,8 @@ function roll_years() {
 
         year_i += 1;
         change_year(first_year + year_i);
-        year_changed(year_i)
+        timeline_year_changed(year_i);
+
         if (first_year + year_i == last_year) {
             clearInterval(year_interval);
         }
@@ -275,6 +276,7 @@ function change_year(new_year) {
     update_paths(paths.enter().append("path"));
 
     update_graph();
+    update_country_card();
 }
 
 function update_paths(p) {
@@ -303,7 +305,7 @@ function update_paths(p) {
         let y_pos = (d3.event.pageY) - 250;
     })
     .on("click", function(country) {
-        country_card.attr('class', 'card');
+        activate_country_card();
         update_country_card(country);
     });
 }

@@ -8,8 +8,11 @@ let card_trade_rank = d3.select('#country_card_trade_rank');
 let card_close_cross = d3.select('#country_card_close');
 
 card_close_cross.on('click', function() {
-    country_card.attr('class', 'invisible');
+    desactivate_country_card();
 });
+
+let selected_country;
+let country_card_activated = false;
 
 
 let ctx_country_card = document.getElementById("country_card_canvas").getContext('2d');
@@ -27,11 +30,69 @@ let country_card_chart = new Chart(ctx_country_card, {
                 }
             }]
         },
+        onClick: function(e){
+            let element = this.getElementAtEvent(e);
+            if (element[0] != undefined) {
+                let index = element[0]._index;
+                change_year(years[index]);
+                //country_card_year_changed(element[0]._index);
+                timeline_year_changed(element[0]._index);
+            }
+        },
+        onHover: function(e){
+            let element = this.getElementAtEvent(e);
+            if (element[0] != undefined) {
+                d3.select('#country_card_canvas')
+                    .style('cursor', 'pointer')
+            } else {
+                d3.select('#country_card_canvas')
+                    .style('cursor', 'default')
+            }
+        },
         maintainAspectRatio: true,
     }
 });
 
-function update_country_card(country) {
+function activate_country_card() {
+    country_card.attr('class', 'card');
+    country_card_activated = true;
+}
+
+function desactivate_country_card() {
+    country_card.attr('class', 'invisible');
+    country_card_activated = false;
+}
+
+function country_card_year_changed(year_index) {
+    [background_color, border_color] = get_colors();
+
+    backgrounds = country_card_chart.data.datasets[0].backgroundColor;
+
+
+    for (let i = 0; i < backgrounds.length; i++) {
+        if (i == year_index) {
+            backgrounds[i] = border_color;
+        } else {
+            backgrounds[i] = background_color;
+        }
+    }
+    country_card_chart.update();
+}
+
+function update_country_card(country=null) {
+    // Do not need to update if the country card is disactivated
+    if (country_card_activated == false) {
+        return;
+    }
+
+    // If no country provided, use previously selected country
+    if (country == null) {
+        country = selected_country;
+    // If country provided, use this as selected country
+    } else {
+        selected_country = country;
+    }
+
     const story = stories[current_story];
     card_title.text(country.name);
     card_subtitle.text(story.product_name + " imports - " + story.country_name);
@@ -60,7 +121,7 @@ function update_country_card(country) {
         trades_per_year['year'] = story_year[i];
         const year_index = years.indexOf(story_year[i]);
 
-        if( year_index == -1  ) {
+        if (year_index == -1) {
             trades_per_year['trade'] = 0;
             graph_data.push(trades_per_year)
         } else {
@@ -77,22 +138,28 @@ function update_country_card(country) {
         console.log("TODO manage countries with few data");
     }
 
-
     [background_color, border_color] = get_colors();
 
     let point_border_colors = []
     let point_background_colors = []
     let point_style = [];
-    for (let t of trades) {
-        if (t == 0) {
-            //point_style.push('crossRot');
+    for (let i=0; i < trades.length; i++) {
+        // No trade and not selected
+        if (trades[i] == 0 && years[i] != current_year) {
             point_border_colors.push("#BFBFBF");
             point_background_colors.push("#EEEEEE");
-        } else {
-            //point_style.push('circle');
+        // No trade and selected
+        } else if (trades[i] == 0 && years[i] == current_year){
+            point_border_colors.push("#BFBFBF");
+            point_background_colors.push("#BFBFBF");
+        // Some trade and selected
+        } else if (years[i] == current_year) {
             point_border_colors.push(border_color);
             point_background_colors.push(border_color);
-
+        // Some trade and not selected
+        } else {
+            point_border_colors.push(border_color);
+            point_background_colors.push(background_color);
         }
     }
 
@@ -106,7 +173,7 @@ function update_country_card(country) {
             borderWidth: 1,
             pointStyle: 'circle',//point_style,
             pointBorderColor: point_border_colors,
-            pointBackgoundColor: point_background_colors
+            pointBackgroundColor: point_background_colors
         }],
     };
 
