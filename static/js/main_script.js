@@ -153,7 +153,7 @@ function update_scales() {
     arrow_weight_scale = d3.scalePow()
         .exponent(0.8)
         .domain([min, max])
-        .range([2,15]);
+        .range([2, 25]);
 
     country_color_scale = d3.scalePow()
         .exponent(0.2)
