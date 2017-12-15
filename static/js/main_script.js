@@ -142,6 +142,9 @@ function change_story(new_story) {
     update_timeline();
 
     years = timeline_chart.config.data.labels;
+
+    // Show intro modal
+    $('#intro_modal').modal('toggle')
 }
 
 let arrow_weight_scale;
