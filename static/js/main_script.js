@@ -1,5 +1,9 @@
-let story_mode = true;
 let current_story = 0;
+
+let stories_mode = [
+  new Story_Mode()
+]
+
 let stories = [
     new Story(
         "France",
@@ -283,8 +287,10 @@ function update_paths(p) {
         let y_pos = (d3.event.pageY) - 250;
     })
     .on("click", function(country) {
-        activate_country_card();
-        update_country_card(country);
+        if(!story_mode){
+          activate_country_card();
+          update_country_card(country);
+        }
     });
 }
 

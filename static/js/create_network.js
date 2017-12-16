@@ -220,6 +220,7 @@ let zoom = d3.zoom()
 svg.call(zoom);
 
 function zoomed() {
+  if(!story_mode){
     // Changes the zoom_level
     zoom_level = d3.event.transform.k;
     map_group.attr("transform", d3.event.transform);
@@ -236,4 +237,5 @@ function zoomed() {
             y: d3.event.transform.y,
         }
     });
+  }
 }
