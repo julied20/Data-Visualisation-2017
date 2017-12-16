@@ -162,7 +162,8 @@ function change_story(new_story) {
     years = timeline_chart.config.data.labels;
 
     // Show intro modal
-    $('#intro_modal').modal('toggle');
+    //TODO uncomment to toggle introduction modal
+    //$('#intro_modal').modal('toggle');
 }
 
 let arrow_weight_scale;
@@ -245,7 +246,10 @@ const change_year = new_year => {
 }
 
 function update_paths(p) {
-    p.attr('d', country => { return path(country.geo_feat); })
+    p.attr('d', (country, i) => {
+        country.svg_path = d3.select(p._groups[0][i]);
+        return path(country.geo_feat);
+    })
     .style("fill", country => {
         return country_color_scale(country.trade_value);
     })
@@ -289,4 +293,5 @@ function loading_finished() {
     $(function () {
       $('[data-toggle="tooltip"]').tooltip()
     });
+
 }
