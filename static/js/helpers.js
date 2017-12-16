@@ -16,6 +16,7 @@ class Country {
         this.trade_value = trade_value;
         this.trade_weight = trade_weight;
         this.geo_feat = geo_feat;
+        this.svg_path = null;
     }
 }
 
@@ -31,6 +32,24 @@ class Story {
     set_data(data) {
         this.data = data;
     }
+}
+
+function show_popover(country, popover_id, content, title='', placement='top') {
+    const country_path = country.svg_path;
+
+    country_path
+        .attr('id', popover_id)
+        .attr('data-toggle', 'popover')
+        .attr('data-container', 'body')
+        .attr('title', title)
+        .attr('data-placement',  placement)
+        .attr('data-content', content)
+
+    $('#'+popover_id).popover('show');
+}
+
+function hide_popover(popover_id) {
+    $('#'+popover_id).popover('hide')
 }
 
 function get_country_name(ISO) {

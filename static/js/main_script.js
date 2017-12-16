@@ -33,10 +33,11 @@ let big_traders;
 const duration = 800;
 
 // Create navbar with stories
-nav_ul = d3.select('#navbarUL');
+nav_stories_ul = d3.select('#navbar_stories_UL');
+nav_exploration_ul = d3.select('#navbar_exploration_UL');
 
 stories.forEach((story, index) => {
-    nav_ul
+    nav_stories_ul
     .append('li')
         .attr('class', 'nav-item')
     .append('a')
@@ -45,18 +46,35 @@ stories.forEach((story, index) => {
         .attr('id', index)
         .on('click', function() {
             // Remove active for all stories
-            nav_ul.selectAll('li').attr('class', 'nav-item');
+            nav_stories_ul.selectAll('li').attr('class', 'nav-item');
 
             // Add active for new story
             this.parentElement.setAttribute('class', 'nav-item active')
             change_story(this.id);
         })
         .text(story.country_name);
+
+        nav_exploration_ul
+        .append('li')
+            .attr('class', 'nav-item')
+        .append('a')
+            .attr('class', 'nav-link')
+            .attr('href', '#')
+            .attr('id', index+1000) // Shameless hack
+            .on('click', function() {
+                // Remove active for all stories
+                nav_exploration_ul.selectAll('li').attr('class', 'nav-item');
+
+                // Add active for new story
+                this.parentElement.setAttribute('class', 'nav-item active')
+                change_story(this.id-1000);
+            })
+            .text(story.country_name);
 });
 
 
 // Set first list elem as active
-nav_ul.select('li')
+nav_stories_ul.select('li')
     .attr('class', 'nav-item active')
 
 
@@ -146,6 +164,10 @@ function change_story(new_story) {
     update_timeline();
 
     years = timeline_chart.config.data.labels;
+
+    // Show intro modal
+    //TODO uncomment to toggle introduction modal
+    //$('#intro_modal').modal('toggle');
 }
 
 let arrow_weight_scale;
@@ -228,7 +250,10 @@ const change_year = new_year => {
 }
 
 function update_paths(p) {
-    p.attr('d', country => { return path(country.geo_feat); })
+    p.attr('d', (country, i) => {
+        country.svg_path = d3.select(p._groups[0][i]);
+        return path(country.geo_feat);
+    })
     .style("fill", country => {
         return country_color_scale(country.trade_value);
     })
@@ -271,15 +296,6 @@ function loading_finished() {
 }
 
 function start_animation() {
-    // Display a welcome card
-    d3.select("#welcome_card")
-        .transition()
-        .duration(1000)
-        .style("background-color", "red")
-        .transition()
-        .duration(500)
-        .attr("class", "invisible")
-
     // Select the first story (French Wines) and
     change_story(0);
 
@@ -325,4 +341,10 @@ function animated_zoom(transformation) {
             y: transformation.y,
         }
     });
+
+    // Enable all tooltips
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    });
+
 }

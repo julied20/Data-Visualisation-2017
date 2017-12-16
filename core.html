@@ -13,6 +13,25 @@
   <body>
     <div id="loader"></div>
     <div class="invisible", id="content">
+    <div id="intro_modal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <img src="static/img/france.png" />
+          </div>
+          <div class="modal-body">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a dui in tortor egestas pharetra. Integer placerat massa ligula, non tincidunt libero molestie sed. Nunc elementum nulla sed tristique rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse blandit neque metus, in vehicula ex egestas sit amet. Duis feugiat ultrices quam, dictum feugiat erat aliquam nec. Aliquam erat volutpat. Cras porta ultrices mi, sed commodo felis cursus lacinia. Cras ullamcorper tortor ipsum, molestie congue massa pulvinar sit amet. Integer posuere mauris et malesuada tempus. Donec nec felis ac magna mollis suscipit at luctus eros.
+
+            Nunc molestie hendrerit dictum. Etiam id ultricies turpis. Aenean interdum feugiat elit sit amet posuere. Fusce non libero nec dolor dignissim sodales et sit amet sapien. Nunc sed lectus pellentesque, ornare odio eget, dapibus augue. Proin tempus, est sit amet convallis suscipit, leo tellus porta nisi, vitae molestie leo lacus ac lacus. Vivamus faucibus, lorem ut cursus volutpat, arcu purus scelerisque nulla, porttitor finibus leo libero sit amet elit.
+
+            Morbi efficitur felis id tempor porttitor. Ut eleifend nulla non tellus ultrices malesuada. In id feugiat nibh. Nullam at fringilla ante, ac feugiat velit. Nulla commodo quam viverra, elementum orci eu, porttitor est. Fusce a tellus eget sapien interdum convallis sed eu lorem. Integer sollicitudin, eros sed ornare consequat, turpis risus lacinia magna, ut sagittis lacus purus sed ante. Proin blandit consectetur dignissim. Nulla nec ultricies urna.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary btn-lg btn-block" data-dismiss="modal">Go to story</button>
+          </div>
+        </div>
+      </div>
+    </div>
       <div class="container" >
         <div class="row">
           <div class="col-sm">
@@ -24,7 +43,10 @@
               </button>
 
               <div class="collapse navbar-collapse" id="navbarText">
-                <ul class="navbar-nav mr-auto" id="navbarUL">
+                <ul class="navbar-nav mr-auto" id="navbar_stories_UL">
+                </ul>
+                <a class="navbar-brand" href="#">Exploration</a>
+                <ul class="navbar-nav justify-content-end" id="navbar_exploration_UL">
                 </ul>
               </div>
             </nav>
@@ -54,7 +76,7 @@
                         <td id="country_card_trade_value">
                           $10 M
                         </td>
-                        <td id="country_card_trade_percent">
+                        <td id="country_card_trade_percent" data-toggle="tooltip" data-placement="top" title="Coucocuou">
                           23.5%
                         </td>
                         <td id="country_card_trade_rank">
