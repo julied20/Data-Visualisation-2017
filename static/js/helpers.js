@@ -6,12 +6,6 @@ function loadIsoCoord(CSV) {
     iso_geo_coord = CSV;
 }
 
-class Story_Mode {
-  set_methods(methods) {
-      this.methods = methods;
-  }
-}
-
 class Country {
     constructor(ISO3, name, lat, long, is_big_trader, trade_value, trade_weight, geo_feat) {
         this.ISO3 = ISO3;
@@ -26,19 +20,6 @@ class Country {
     }
 }
 
-class Story {
-    constructor(country_name, product_name, csv_path, ISO3, color) {
-        this.country_name = country_name;
-        this.product_name = product_name;
-        this.csv_path = csv_path;
-        this.ISO3 = ISO3;
-        this.color = color;
-    }
-
-    set_data(data) {
-        this.data = data;
-    }
-}
 
 function show_popover(country, popover_id, content, title='', placement='top') {
     const country_path = country.svg_path;
@@ -90,6 +71,24 @@ function get_country_rank(countryISO3) {
     return sorted_traders.indexOf(countryISO3)
 }
 
+function get_top_traders(n) {
+    let tmp_array = [];
+
+    const story_data = stories_data[current_story];
+
+    const min = story_data[0].Year;
+    const max = story_data[story_data.length-1].Year;
+
+    // For each year, take the top n traders and concatenate their ISO in an array
+    for (let year = min; year <= max; year++) {
+        tmp_array = tmp_array.concat(story_data.filter(x => x.Year == year)
+        .sort((a, b) => (parseInt(a.Value) - parseInt(b.Value)))
+        .map(x => x.PartnerISO)
+        .slice(-n-1,-1))
+    }
+    return new Set(tmp_array);
+}
+
 // Retrieves the trades values for all available years for a given country ISO
 function get_country_data(countryISO3) {
 
@@ -102,6 +101,30 @@ function get_country_data(countryISO3) {
     };
 
     return data
+}
+
+let arrow_weight_scale;
+let country_color_scale;
+
+function update_scales() {
+    let [min, max] = min_max_bigtraders()
+
+    arrow_weight_scale = d3.scalePow()
+        .exponent(0.8)
+        .domain([min, max])
+        .range([2, 25]);
+
+    country_color_scale = d3.scalePow()
+        .exponent(0.2)
+        .domain([0, max])
+        .interpolate(d3.interpolateHcl)
+        .range([d3.rgb("#F2F2F2"), d3.rgb('#5E5E5E')]);
+}
+
+function compute_percentage(country) {
+    let total_trades_value = story_data.filter(x => x.Year == current_year)
+        .filter(x => x.PartnerISO == "WLD")[0].Value;
+    return country.trade_value / total_trades_value * 100;;
 }
 
 // Simply convert big numbers to a human readable format

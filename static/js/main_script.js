@@ -1,35 +1,4 @@
-let current_story = 0;
-
-let stories_mode = [
-  new Story_Mode()
-]
-
-let stories = [
-    new Story(
-        "France",
-        "Wine",
-        "datasets/france_wine_clean.csv",
-        "FRA",
-        "rgba(203, 56, 85, 1)"
-    ),
-    new Story(
-        "Peru",
-        "Quinoa",
-        "datasets/peru_quinoa_clean.csv",
-        "PER",
-        "rgba(147, 159, 92, 1)"
-    ),
-    new Story(
-        "Indonesia",
-        "Palm Oil",
-        "datasets/indonesia_palm_clean.csv",
-        "IDN",
-        "rgba(63, 191, 63, 1)"
-    ),
-];
-
 // Global variables
-let stories_data = [];
 let current_year;
 let years = [];
 let countries = [];
@@ -48,15 +17,11 @@ stories.forEach((story, index) => {
     .append('a')
         .attr('class', 'nav-link')
         .attr('href', '#')
-        .attr('id', index)
+        .attr('id', 'story_nav_' + index)
         .on('click', function() {
-            // Remove active for all stories
-            nav_stories_ul.selectAll('li').attr('class', 'nav-item');
             story_mode = true;
-            //Start animation:
-            // Add active for new story
-            this.parentElement.setAttribute('class', 'nav-item active')
-            change_story(this.id);
+            const split_id = this.id.split('_')
+            change_story(parseInt(split_id[split_id.length - 1]));
         })
         .text(story.country_name);
 
@@ -66,14 +31,11 @@ stories.forEach((story, index) => {
         .append('a')
             .attr('class', 'nav-link')
             .attr('href', '#')
-            .attr('id', index+1000) // Shameless hack
+            .attr('id', 'explore_nav_' + index)
             .on('click', function() {
-                // Remove active for all stories
-                nav_exploration_ul.selectAll('li').attr('class', 'nav-item');
                 story_mode = false;
-                // Add active for new story
-                this.parentElement.setAttribute('class', 'nav-item active')
-                change_story(this.id-1000);
+                const split_id = this.id.split('_')
+                change_story(parseInt(split_id[split_id.length - 1]));
             })
             .text(story.country_name);
 });
@@ -96,23 +58,6 @@ q.awaitAll(function(err, results) {
     stories_data = results;
 });
 
-function get_top_traders(n) {
-    let tmp_array = [];
-
-    const story_data = stories_data[current_story];
-
-    const min = story_data[0].Year;
-    const max = story_data[story_data.length-1].Year;
-
-    // For each year, take the top n traders and concatenate their ISO in an array
-    for (let year = min; year <= max; year++) {
-        tmp_array = tmp_array.concat(story_data.filter(x => x.Year == year)
-        .sort((a, b) => (parseInt(a.Value) - parseInt(b.Value)))
-        .map(x => x.PartnerISO)
-        .slice(-n-1,-1))
-    }
-    return new Set(tmp_array);
-}
 
 // Load countries json
 d3.json("static/world.geo.json", function(world_json) {
@@ -151,7 +96,23 @@ d3.json("static/world.geo.json", function(world_json) {
     change_story(0);
 
     loading_finished();
+});
 
+// Attach launch next story step to next_step_button
+const next_step_button = d3.select('#next_step_button');
+next_step_button.on('click', () => stories_animations[current_story].launch_next());
+
+// Attach launch next story to next_story_button
+const next_story_button = d3.select('#next_story_button');
+next_story_button.on('click', () => {
+    change_story(current_story + 1);
+});
+
+// Attach explore the data to explore_data_button
+const explore_data_button = d3.select('#explore_data_button');
+explore_data_button.on('click', () => {
+    story_mode = false;
+    change_story(0);
 });
 
 function change_story(new_story) {
@@ -171,30 +132,50 @@ function change_story(new_story) {
 
     years = timeline_chart.config.data.labels;
 
-    // Show intro modal
-    //TODO uncomment to toggle introduction modal
-    if(story_mode == true) {
-      $('#intro_modal').modal('toggle');
+    // Remove active for all stories in navbar
+    nav_stories_ul.selectAll('li').attr('class', 'nav-item');
+    nav_exploration_ul.selectAll('li').attr('class', 'nav-item');
+    // Add active for corresponding story in navbar
+    if(story_mode) {
+        d3.select(nav_stories_ul.select('#story_nav_' + current_story).node().parentNode).attr('class', 'nav-item active');
+    } else {
+        d3.select(nav_exploration_ul.select('#explore_nav_' + current_story).node().parentNode).attr('class', 'nav-item active');
     }
 
+    // Show intro modal
+    if(story_mode) {
+        update_intro_modal();
+        $('#intro_modal').modal('toggle');
+    } else {
+        d3.selectAll('.control_button').attr('class', 'control_button invisible');
+    }
 }
 
-let arrow_weight_scale;
-let country_color_scale;
+function update_intro_modal() {
+    const intro_modal_button = d3.select('#intro_modal_button');
+    intro_modal_button.on('click', () => start_story_animation());
+}
 
-function update_scales() {
-    let [min, max] = min_max_bigtraders()
+function start_story_animation() {
+    let animation = stories_animations[current_story];
+    animation.reset();
+    animation.launch_next();
 
-    arrow_weight_scale = d3.scalePow()
-        .exponent(0.8)
-        .domain([min, max])
-        .range([2, 25]);
+    // Make all control buttons invisible except next_step_button
+    d3.selectAll('.control_button').attr('class', 'control_button invisible');
+    d3.select('#next_step_button').attr('class', 'control_button');
+}
 
-    country_color_scale = d3.scalePow()
-        .exponent(0.2)
-        .domain([0, max])
-        .interpolate(d3.interpolateHcl)
-        .range([d3.rgb("#F2F2F2"), d3.rgb('#5E5E5E')]);
+function end_of_story() {
+    if (current_story < stories.length - 1) {
+        // Make all control buttons invisible except next_story_button
+        d3.selectAll('.control_button').attr('class', 'control_button invisible');
+        d3.select('#next_story_button').attr('class', 'control_button');
+    } else {
+        // Make all control buttons invisible except explore_data_button
+        d3.selectAll('.control_button').attr('class', 'control_button invisible');
+        d3.select('#explore_data_button').attr('class', 'control_button');
+    }
 }
 
 let year_interval;
@@ -218,13 +199,14 @@ function roll_years() {
     }
 
 }
-const change_year = new_year => {
+
+function change_year(new_year) {
     current_year = new_year;
     const year_data = story_data.filter(x => x.Year == new_year);
 
     let big_trader_threshold = compute_big_trader_threshold(year_data);
 
-    for (let country of countries) { // 👍
+    for (let country of countries) {
         let is_big_trader = false;
         let trade_value = 0.0;
         let trade_weight = 0.0;
@@ -294,12 +276,6 @@ function update_paths(p) {
     });
 }
 
-function compute_percentage(country) {
-    let total_trades_value = story_data.filter(x => x.Year == current_year)
-        .filter(x => x.PartnerISO == "WLD")[0].Value;
-    return country.trade_value / total_trades_value * 100;;
-}
-
 function loading_finished() {
     d3.select("#loader").attr("class", "invisible");
     d3.select("#content").attr("class", "");
@@ -309,53 +285,5 @@ function loading_finished() {
     // Enable all tooltips
     $(function () {
       $('[data-toggle="tooltip"]').tooltip()
-    });
-}
-
-function start_animation() {
-    // Select the first story (French Wines) and
-    change_story(0);
-
-    zoom_to_location('#exporter, #CHE, #GBR', 3000, 0);
-    zoom_to_location('#exporter, #USA, #CAN, #DEU', 3000, 4000);
-
-
-}
-
-function zoom_to_location(points, duration, delay) {
-    let prev_pos = cy.pan();
-    let prev_zoom = cy.zoom();
-
-    cy.fit(cy.$(points));
-
-    let step_x = (cy.pan().x - prev_pos.x) / duration;
-    let step_y = (cy.pan().y - prev_pos.y) / duration;
-    let step_k = (cy.zoom() - prev_zoom) / duration;
-
-    for (let i = 0; i < duration; i+=10) {
-        let t = d3.zoomIdentity
-            .translate(prev_pos.x + step_x * i, prev_pos.y + step_y * i)
-            .scale(prev_zoom + step_k * i);
-        setTimeout(function(){ animated_zoom(t); }, delay + i);
-    }
-}
-
-function animated_zoom(transformation) {
-    // let transformation = d3.zoomIdentity.translate(-16300, -8666).scale(28);
-    // Changes the zoom_level
-    zoom_level = transformation.k;
-    map_group.attr("transform", transformation);
-
-    // Updates the graph especially for the edges shapes
-    update_edges_zoom();
-
-    // Changes the zoom level and the pan parameters to keep the correspondance
-    // between the map and the graph
-    cy.viewport({
-        zoom: zoom_level,
-        pan: {
-            x: transformation.x,
-            y: transformation.y,
-        }
     });
 }

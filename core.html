@@ -27,7 +27,7 @@
             Morbi efficitur felis id tempor porttitor. Ut eleifend nulla non tellus ultrices malesuada. In id feugiat nibh. Nullam at fringilla ante, ac feugiat velit. Nulla commodo quam viverra, elementum orci eu, porttitor est. Fusce a tellus eget sapien interdum convallis sed eu lorem. Integer sollicitudin, eros sed ornare consequat, turpis risus lacinia magna, ut sagittis lacus purus sed ante. Proin blandit consectetur dignissim. Nulla nec ultricies urna.
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-secondary btn-lg btn-block" data-dismiss="modal">Go to story</button>
+            <button id="intro_modal_button" type="button" class="btn btn-secondary btn-lg btn-block" data-dismiss="modal">Go to story</button>
           </div>
         </div>
       </div>
@@ -91,8 +91,14 @@
                 </ul>
             </div>
             <div id="network_div"></div>
-            <a id="story_right_arrow" href="#" data-toggle="tooltip" data-placement="left" title="Next step in the story!">
+            <a id="next_step_button" class="control_button invisible" href="#" data-toggle="tooltip" data-placement="left" title="Next step in the story!">
               <i class="fas fa-chevron-circle-right fa-3x"></i>
+            </a>
+            <a id="next_story_button" class="control_button invisible" href="#" data-toggle="tooltip" data-placement="left" title="Next story!">
+              <i class="fas fa-arrow-right fa-3x"></i>
+            </a>
+            <a id="explore_data_button" class="control_button invisible" href="#" data-toggle="tooltip" data-placement="left" title="Explore the data!">
+              <i class="fas fa-eye fa-3x"></i>
             </a>
           </div>
         </div>
@@ -115,6 +121,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.1/js/all.js"></script>
 
     <!-- Trademap scripts -->
+    <script type="text/javascript" src='static/js/stories.js'></script>
     <script type="text/javascript" src='static/js/helpers.js'></script>
     <script type="text/javascript" src='static/js/create_map.js'></script>
     <script type="text/javascript" src='static/js/create_network.js'></script>
