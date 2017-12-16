@@ -32,7 +32,7 @@ function show_popover_html(html_selector, popover_id, content, title='', placeme
         .attr('data-placement', placement)
         .attr('data-content', content);
 
-    $('#' + popover_id).popover('show');
+    $('#' + popover_id).popover('show').popover('disable');
 }
 
 
@@ -52,7 +52,7 @@ function show_popover(ISO, popover_id, content, title='', placement='top') {
         .attr('data-placement', placement)
         .attr('data-content', content);
 
-    $('#' + popover_id).popover('show');
+    $('#' + popover_id).popover('show').popover('disable');
 }
 
 function hide_popover(popover_id) {
