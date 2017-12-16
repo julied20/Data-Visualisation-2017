@@ -56,7 +56,7 @@ const stories_animations = [
         () => { show_popover('FRA', 'fr_popover_1', 'Europe is the continent were people drink the most wine. French wine is clearly being exported all around Europe. Among its importers, England was the 2nd largest one, but got caught up by the USA in 2015', 'Europe import', 'bottom'); },
         () => {
             hide_popover('fr_popover_1');
-            roll_years(300, null, null, function () {
+            roll_years(300, null, null, true, function () {
                 show_popover('FRA', 'fr_popover_2', 'A we can see, the import of French wine in Europe is quite stable from 1994 to 2016', 'Europe french wine import', 'bottom');
             });
         },
@@ -68,7 +68,7 @@ const stories_animations = [
         },
         () => {
             hide_popover('fr_popover_2_1');
-            roll_years(300, null, 1998, function () {
+            roll_years(300, null, 1998, true, function () {
                 activate_country_card();
                 update_country_card(get_country('JPN'));
                 show_popover('JPN', 'fr_popover_3', 'The wine import from Japan said to have peaked in 1998. The fact is that in 1998, too much wine was imported and some was carried over to the next year. That caused a slight decline in the consumption figures.', 'Japan french wine import', 'left');
@@ -77,7 +77,7 @@ const stories_animations = [
         () => {
             desactivate_country_card();
             hide_popover('fr_popover_3');
-            roll_years(300, 1998, 2011, function () {
+            roll_years(300, 1998, 2011, true, function () {
                 activate_country_card();
                 update_country_card(get_country('CHN'));
                 show_popover('CHN', 'fr_popover_4', 'Text about China.', 'China wine import', 'left');
@@ -93,7 +93,7 @@ const stories_animations = [
             hide_popover('fr_popover_5');
             zoom_to_coords(...france_world_boundaries);
             show_popover('USA', 'fr_popover_6', 'Throughout all these years, USA is among the biggest french wine importers.', 'USA wine import', 'bottom');
-            roll_years(300, 2011, null, function() {
+            roll_years(300, 2011, null, true, function() {
                 setTimeout(() => {
                     show_popover_html('#next_story_button', 'fr_popover_6', 'Go see the next story about Peruvian Quinoa!', title='', placement='left');
                 }, 800);
@@ -236,7 +236,12 @@ function zoom_step(transformation) {
 
 let year_interval;
 
-function roll_years(duration=300, first_year=null, last_year=null, last_year_callback=null) {
+function roll_years(duration=300, first_year=null, last_year=null, hide_control_buttons=true, last_year_callback=null) {
+    // Hide control buttons if asked
+    if (hide_control_buttons) {
+        d3.select('#control_buttons_div').attr('class', 'invisible');
+    }
+
     clearInterval(year_interval);
     year_interval = setInterval(next_year_callback, duration);
     let year_i = 0;
@@ -255,7 +260,17 @@ function roll_years(duration=300, first_year=null, last_year=null, last_year_cal
 
         if (first_year + year_i == last_year) {
             clearInterval(year_interval);
-            last_year_callback();
+
+            // Run callback if provided
+            if (last_year_callback != null) {
+                last_year_callback();
+            }
+
+            // Show control buttons if they were hidden
+            if (hide_control_buttons) {
+                console.log('yea');
+                d3.select('#control_buttons_div').attr('class', '');
+            }
         }
     }
 

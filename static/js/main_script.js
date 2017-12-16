@@ -237,18 +237,37 @@ function update_paths(p) {
         return path(country.geo_feat);
     })
     .style("fill", country => {
-        return country_color_scale(country.trade_value);
+        if (country.is_selected) {
+            let color = d3.color(stories[current_story].color);
+            color.opacity = 0.5;
+            return color;
+        } else {
+            return country_color_scale(country.trade_value);
+        }
     })
     .on("mouseover", function(country) {
         let color;
-        color = d3.color(country_color_scale(country.trade_value)).darker(0.3);
+
+        if (country.is_selected) {
+            color = d3.color(stories[current_story].color).darker(0.3);
+            color.opacity = 0.5;
+        } else {
+            color = d3.color(country_color_scale(country.trade_value)).darker(0.3);
+        }
 
         d3.select(this)
             .style("fill", color)
             .style('cursor', 'pointer');
     })
     .on("mouseout", function(country) {
-        let color = country_color_scale(country.trade_value);
+        let color;
+
+        if (country.is_selected) {
+            color = d3.color(stories[current_story].color);
+            color.opacity = 0.5;
+        } else {
+            color = country_color_scale(country.trade_value);
+        }
 
         d3.select(this)
             .transition()
