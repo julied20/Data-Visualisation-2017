@@ -100,9 +100,21 @@ let cy = cytoscape({
             'control-point-weights': '0.5',
             'edge-distances': 'node-position',
             'target-arrow-shape': 'triangle',
+
             'target-arrow-color': e => stories[current_story].color,
-            'opacity' : 1
-            },
+            'arrow-scale': 1.2,
+            'opacity' : 0.9
+            }
+          },
+
+        {
+          selector: 'edge:active',
+  				style: {
+            "selection-box-color": "#ddd",
+  					"selection-box-opacity": 0.65,
+  					"selection-box-border-color": "#aaa",
+  					"overlay-opacity": 0
+  				},
         },
       ],
 

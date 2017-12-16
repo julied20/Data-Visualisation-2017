@@ -1,11 +1,11 @@
 let current_story = 0;
 let stories = [
     new Story(
-        "Belgium",
-        "Beer",
-        "datasets/belgium_beer_clean.csv",
-        "BEL",
-        "rgba(255, 206, 86, 1)"
+        "France",
+        "Wine",
+        "datasets/france_wine_clean.csv",
+        "FRA",
+        "rgba(203, 56, 85, 1)"
     ),
     new Story(
         "Peru",
@@ -15,52 +15,10 @@ let stories = [
         "rgba(147, 159, 92, 1)"
     ),
     new Story(
-        "France",
-        "Cheese",
-        "datasets/france_cheese_clean.csv",
-        "FRA",
-        "rgba(14, 119, 225, 1)"
-    ),
-    new Story(
-        "France",
-        "Wine",
-        "datasets/france_wine_clean.csv",
-        "FRA",
-        "rgba(203, 56, 85, 1)"
-    ),
-    new Story(
-        "Bolivia",
-        "Quinoa",
-        "datasets/bolivia_quinoa_clean.csv",
-        "BOL",
-        "rgba(147, 159, 92, 1)"
-    ),
-    new Story(
-        "Switzerland",
-        "Chocolate",
-        "datasets/switzerland_chocolate_clean.csv",
-        "CHE",
-        "rgba(112, 74, 44, 1)"
-    ),
-    new Story(
-        "China",
-        "Tea",
-        "datasets/china_tea_clean.csv",
-        "CHN",
-        "rgba(63, 191, 63, 1)"
-    ),
-    new Story(
         "Indonesia",
         "Palm Oil",
         "datasets/indonesia_palm_clean.csv",
         "IDN",
-        "rgba(63, 191, 63, 1)"
-    ),
-    new Story(
-        "Brazil",
-        "Soy",
-        "datasets/brazil_soy_clean.csv",
-        "BRA",
         "rgba(63, 191, 63, 1)"
     ),
 ];
@@ -77,15 +35,14 @@ const duration = 800;
 // Create navbar with stories
 nav_ul = d3.select('#navbarUL');
 
-let i = 0;
-stories.forEach(function(story) {
+stories.forEach((story, index) => {
     nav_ul
     .append('li')
         .attr('class', 'nav-item')
     .append('a')
         .attr('class', 'nav-link')
         .attr('href', '#')
-        .attr('id', i)
+        .attr('id', index)
         .on('click', function() {
             // Remove active for all stories
             nav_ul.selectAll('li').attr('class', 'nav-item');
@@ -95,7 +52,6 @@ stories.forEach(function(story) {
             change_story(this.id);
         })
         .text(story.country_name);
-    i++;
 });
 
 
@@ -109,9 +65,7 @@ d3.csv('datasets/countries_codes_and_coordinates.csv', loadIsoCoord);
 // Load all csvs
 let q = d3.queue();
 
-stories.forEach(function(s) {
-    q.defer(d3.csv, s.csv_path);
-});
+stories.forEach(s => q.defer(d3.csv, s.csv_path));
 
 q.awaitAll(function(err, results) {
     if (err) throw err;
@@ -121,10 +75,10 @@ q.awaitAll(function(err, results) {
 function get_top_traders(n) {
     let tmp_array = [];
 
-    let story_data = stories_data[current_story];
+    const story_data = stories_data[current_story];
 
-    let min = story_data[0].Year;
-    let max = story_data[story_data.length-1].Year;
+    const min = story_data[0].Year;
+    const max = story_data[story_data.length-1].Year;
 
     // For each year, take the top n traders and concatenate their ISO in an array
     for (let year = min; year <= max; year++) {
@@ -145,23 +99,20 @@ d3.json("static/world.geo.json", function(world_json) {
         if(ISO3 == "WLD") {
           continue;
         }
-
-        // For now
-        let is_big_trader = false;
-        let trade_value = 0.0;
-        let trade_weight = 0.0;
-
         let coordinates = getCoordinates(ISO3);
-
         if(typeof coordinates === "undefined") {
             coordinates = {
                 latitude : 0,
                 longitude : 0
             };
         }
-
+        // For now
+        const is_big_trader = false;
+        const trade_value = 0.0;
+        const trade_weight = 0.0;
         new_country = new Country(
             ISO3,
+            get_country_name(ISO3),
             coordinates.latitude,
             coordinates.longitude,
             is_big_trader,
@@ -194,7 +145,7 @@ function change_story(new_story) {
 
     update_timeline();
 
-    years = my_chart.config.data.labels;
+    years = timeline_chart.config.data.labels;
 }
 
 let arrow_weight_scale;
@@ -206,7 +157,7 @@ function update_scales() {
     arrow_weight_scale = d3.scalePow()
         .exponent(0.8)
         .domain([min, max])
-        .range([2,15]);
+        .range([2, 25]);
 
     country_color_scale = d3.scalePow()
         .exponent(0.2)
@@ -228,20 +179,21 @@ function roll_years() {
 
         year_i += 1;
         change_year(first_year + year_i);
-        year_changed(year_i)
+        timeline_year_changed(year_i);
+
         if (first_year + year_i == last_year) {
             clearInterval(year_interval);
         }
     }
 
 }
-
-function change_year(new_year) {
-    let year_data = story_data.filter(x => x.Year == new_year);
+const change_year = new_year => {
+    current_year = new_year;
+    const year_data = story_data.filter(x => x.Year == new_year);
 
     let big_trader_threshold = compute_big_trader_threshold(year_data);
 
-    for (let country of countries) {
+    for (let country of countries) { // 👍
         let is_big_trader = false;
         let trade_value = 0.0;
         let trade_weight = 0.0;
@@ -254,7 +206,6 @@ function change_year(new_year) {
             trade_value = parseFloat(trade_data.Value);
             trade_weight = parseFloat(trade_data.Weight);
 
-
             if (big_traders.has(country.ISO3)) {
                 is_big_trader = true;
             }
@@ -266,8 +217,6 @@ function change_year(new_year) {
 
     }
 
-
-
     paths = map_group.selectAll("path")
             .data(countries);
 
@@ -275,6 +224,7 @@ function change_year(new_year) {
     update_paths(paths.enter().append("path"));
 
     update_edges_click();
+    update_country_card();
 }
 
 function update_paths(p) {
@@ -287,9 +237,8 @@ function update_paths(p) {
         color = d3.color(country_color_scale(country.trade_value)).darker(0.3);
 
         d3.select(this)
-            .style("fill", color);
-
-        tooltip_div.attr("class", "")
+            .style("fill", color)
+            .style('cursor', 'pointer');
     })
     .on("mouseout", function(country) {
         let color = country_color_scale(country.trade_value);
@@ -298,19 +247,14 @@ function update_paths(p) {
             .transition()
             .duration(100)
             .style("fill", color);
-
-        tooltip_div.attr("class", "invisible")
     })
     .on("mousemove", function(country) {
         let x_pos = (d3.event.pageX) - 60;
         let y_pos = (d3.event.pageY) - 250;
-
-        tooltip_div.style('left', x_pos + 'px')
-        tooltip_div.style('top', y_pos + 'px')
-        update_tooltip(current_year, country.ISO3, country.trade_value, compute_percentage(country))
     })
     .on("click", function(country) {
-        update_infos(country.ISO3);
+        activate_country_card();
+        update_country_card(country);
     });
 }
 
@@ -337,7 +281,7 @@ function start_animation() {
         .attr("class", "invisible")
 
     // Select the first story (French Wines) and
-    change_story(3);
+    change_story(0);
 
     zoom_to_location('#exporter, #CHE, #GBR', 2000, 0);
     zoom_to_location('#exporter, #USA, #CAN, #DEU', 3000, 4000);

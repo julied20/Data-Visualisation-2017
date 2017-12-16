@@ -1,0 +1,24 @@
+#datamap {
+  position: relative;
+  width: 100%;
+}
+
+#cytoscape {
+  position: relative;
+  width: 100%;
+}
+
+#stories_1 {
+  position: relative;
+  width: 100%;
+}
+
+#timeline_1 {
+  position: relative;
+  width: 100%;
+}
+
+#current_map_1 {
+  position: relative;
+  width: 100%;
+}
