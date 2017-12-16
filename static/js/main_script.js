@@ -293,13 +293,18 @@ function loading_finished() {
     d3.select("#loader").attr("class", "invisible");
     d3.select("#content").attr("class", "");
     start_animation();
+
+    // Enable all tooltips
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    });
 }
 
 function start_animation() {
     // Select the first story (French Wines) and
     change_story(0);
 
-    zoom_to_location('#exporter, #CHE, #GBR', 2000, 0);
+    zoom_to_location('#exporter, #CHE, #GBR', 3000, 0);
     zoom_to_location('#exporter, #USA, #CAN, #DEU', 3000, 4000);
 
 
@@ -309,16 +314,16 @@ function zoom_to_location(points, duration, delay) {
     let prev_pos = cy.pan();
     let prev_zoom = cy.zoom();
 
-    cy.fit( cy.$(points));
+    cy.fit(cy.$(points));
 
     let step_x = (cy.pan().x - prev_pos.x) / duration;
     let step_y = (cy.pan().y - prev_pos.y) / duration;
-    let step_k = (cy.zoom()- prev_zoom) / duration;
+    let step_k = (cy.zoom() - prev_zoom) / duration;
 
-    for (let i = 0; i < duration; i++) {
+    for (let i = 0; i < duration; i+=10) {
         let t = d3.zoomIdentity
-            .translate(prev_pos.x + step_x*i, prev_pos.y + step_y*i)
-            .scale(prev_zoom+ step_k*i);
+            .translate(prev_pos.x + step_x * i, prev_pos.y + step_y * i)
+            .scale(prev_zoom + step_k * i);
         setTimeout(function(){ animated_zoom(t); }, delay + i);
     }
 }
@@ -341,10 +346,4 @@ function animated_zoom(transformation) {
             y: transformation.y,
         }
     });
-
-    // Enable all tooltips
-    $(function () {
-      $('[data-toggle="tooltip"]').tooltip()
-    });
-
 }
