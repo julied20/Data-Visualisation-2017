@@ -39,6 +39,7 @@ let point_id_zoom = 1;
 
 const france_europe_boundaries = [[57, -15], [40, 18]];
 const france_world_boundaries = [[-25, 150], [68, -125]];
+const france_asia_boundaries = [[58, 0], [-6, 141]];
 
 const stories_animations = [
     // France
@@ -48,27 +49,49 @@ const stories_animations = [
         () => { show_popover('FRA', 'fr_popover_1', 'Europe is the continent were people drink the most wine. French wine is clearly being exported all around Europe. Among its importers, England was the 2nd largest one, but got caught up by the USA in 2015', 'Europe import', 'bottom'); },
         () => {
             hide_popover('fr_popover_1');
-            roll_years(300);
+            roll_years(300, null, null, function () {
+                show_popover('FRA', 'fr_popover_2', 'A we can see, the import of French wine in Europe is quite stable from 1994 to 2016', 'Europe french wine import', 'bottom');
+            });
         },
-        () => { show_popover('FRA', 'fr_popover_2', 'A we can see, the import of French wine in Europe is quite stable since 1998', 'Europe import', 'bottom'); },
         () => {
-            zoom_to_coords(...france_world_boundaries);
+            zoom_to_coords(...france_asia_boundaries);
             change_year(1994);
+            show_popover_html('#timeline', 'fr_popover_2_1', 'Back to 1994, looking at Asia imports', '', 'top');
             hide_popover('fr_popover_2');
         },
         () => {
-            roll_years(300, null, 1998);
-        },
-        () => {
-            activate_country_card();
-            update_country_card(get_country('JPN'));
-            show_popover('JPN', 'fr_popover_3', 'The wine import from Japan said to have peaked in 1998. The fact is that in 1998, too much wine was imported and some was carried over to the next year. That caused a slight decline in the consumption figures.', 'Japan import', 'left');
+            hide_popover('fr_popover_2_1');
+            roll_years(300, null, 1998, function () {
+                activate_country_card();
+                update_country_card(get_country('JPN'));
+                show_popover('JPN', 'fr_popover_3', 'The wine import from Japan said to have peaked in 1998. The fact is that in 1998, too much wine was imported and some was carried over to the next year. That caused a slight decline in the consumption figures.', 'Japan french wine import', 'left');
+            });
         },
         () => {
             desactivate_country_card();
             hide_popover('fr_popover_3');
-
-        }
+            roll_years(300, 1998, 2011, function () {
+                activate_country_card();
+                update_country_card(get_country('CHN'));
+                show_popover('CHN', 'fr_popover_4', 'Text about China.', 'China wine import', 'left');
+            });
+        },
+        () => {
+            update_country_card(get_country('HKG'));
+            hide_popover('fr_popover_4');
+            show_popover('HKG', 'fr_popover_5', 'Text about HK.', 'Hong Kong wine import', 'left');
+        },
+        () => {
+            desactivate_country_card()
+            hide_popover('fr_popover_5');
+            zoom_to_coords(...france_world_boundaries);
+            show_popover('USA', 'fr_popover_6', 'Throughout all these years, USA is among the biggest french wine importers.', 'USA wine import', 'bottom');
+            roll_years(300, 2011, null, function() {
+                setTimeout(() => {
+                    show_popover_html('#next_story_button', 'fr_popover_6', 'Go see the next story about Peruvian Quinoa!', title='', placement='left');
+                }, 800);
+            });
+        },
     ]),
     new StoryAnimation([
         () => { zoom_to_location('#topleft_EasternAsia, #bottomright_EasternAsia', 3000, 0) },
@@ -173,7 +196,7 @@ function zoom_step(transformation) {
 
 let year_interval;
 
-function roll_years(duration=300, first_year=null, last_year=null) {
+function roll_years(duration=300, first_year=null, last_year=null, last_year_callback=null) {
     clearInterval(year_interval);
     year_interval = setInterval(next_year_callback, duration);
     let year_i = 0;
@@ -192,6 +215,7 @@ function roll_years(duration=300, first_year=null, last_year=null) {
 
         if (first_year + year_i == last_year) {
             clearInterval(year_interval);
+            last_year_callback();
         }
     }
 

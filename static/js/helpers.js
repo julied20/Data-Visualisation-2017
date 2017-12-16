@@ -20,6 +20,22 @@ class Country {
     }
 }
 
+function show_popover_html(html_selector, popover_id, content, title='', placement='top', center_text=true) {
+    const html_elem = d3.select(html_selector);
+
+    html_elem
+        .attr('id', popover_id)
+        .classed('text-center', true)
+        .attr('data-toggle', 'popover')
+        .attr('data-container', 'body')
+        .attr('title', title)
+        .attr('data-placement', placement)
+        .attr('data-content', content);
+
+    $('#' + popover_id).popover('show');
+}
+
+
 function show_popover(ISO, popover_id, content, title='', placement='top') {
     const country = countries.find(x => find_by_ISO(x, ISO));
     const coords = getCoordinates(ISO);
@@ -33,7 +49,7 @@ function show_popover(ISO, popover_id, content, title='', placement='top') {
         .attr('data-toggle', 'popover')
         .attr('data-container', 'body')
         .attr('title', title)
-        .attr('data-placement',  placement)
+        .attr('data-placement', placement)
         .attr('data-content', content);
 
     $('#' + popover_id).popover('show');

@@ -115,7 +115,10 @@ explore_data_button.on('click', () => {
 
 function change_story(new_story) {
     // Remove all popovers
-    $('.popover').popover('hide');
+    $('.popover').popover('dispose');
+
+    // Desactivate country_card
+    desactivate_country_card();
 
     current_story = new_story;
     story_data = stories_data[current_story];
