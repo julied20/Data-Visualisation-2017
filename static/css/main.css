@@ -15,6 +15,12 @@
     height:25vh;
 }
 
+#story_right_arrow {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    color: #666;
+}
 
 #loader {
   position: absolute;
