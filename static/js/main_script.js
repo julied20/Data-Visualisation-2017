@@ -323,7 +323,7 @@ function compute_percentage(country) {
 function loading_finished() {
     d3.select("#loader").attr("class", "invisible");
     d3.select("#content").attr("class", "");
-//    start_animation();
+    start_animation();
 }
 
 function start_animation() {
@@ -339,115 +339,34 @@ function start_animation() {
     // Select the first story (French Wines) and
     change_story(3);
 
-    let t = d3.zoomIdentity.translate(-16300, -8666).scale(28);
-    let t2 = d3.zoomIdentity.translate(0, 0).scale(1);
-
-    /*
-    zoom2 = d3.zoom()
-        .duration(1000)
-        .on("zoom", zoomed_test(t));
-*/
-/*
-    for (let i = 0; i < 50; i++) {
-        let t_curr = d3.zoomIdentity.translate(0 - 2*i, 0 - i).scale(1 + i/2);
-        svg.transition()
-            .duration(1000)
-            .call(animated_zoom(t_curr))
-    }
-    */
+    zoom_to_location('#exporter, #CHE, #GBR', 2000, 0);
+    zoom_to_location('#exporter, #USA, #CAN, #DEU', 3000, 4000);
 
 
-//    animated_zoom()
-
-//    zoom_and_pan()
-
-    map_group.transition()
-        .duration(1000)
-        .attr("transform", t)
-        //.tween(update_edges_zoom)
-        .transition()
-        .duration(1000)
-        .attr("transform", t2)
-
-
-
-
-
-
-//    zoom_and_pan()
-//        .transition()
-//        .duration(1000)
-
-//
-//    roll_years();
-
-
-//    roll_years();
 }
 
-function zoom_and_pan() {
+function zoom_to_location(points, duration, delay) {
+    let prev_pos = cy.pan();
+    let prev_zoom = cy.zoom();
 
+    cy.fit( cy.$(points));
 
-    let translate_coords = {
-        x: -16300,
-        y: -8666
+    let step_x = (cy.pan().x - prev_pos.x) / duration;
+    let step_y = (cy.pan().y - prev_pos.y) / duration;
+    let step_k = (cy.zoom()- prev_zoom) / duration;
+
+    for (let i = 0; i < duration; i++) {
+        let t = d3.zoomIdentity
+            .translate(prev_pos.x + step_x*i, prev_pos.y + step_y*i)
+            .scale(prev_zoom+ step_k*i);
+        setTimeout(function(){ animated_zoom(t); }, delay + i);
     }
-    const scale = 28.8;
-
-    zoom_level = scale;
-
-    let origin_country = countries.find(x => find_by_ISO(x, stories[current_story].ISO3));
-    let origin_coords = projection([origin_country.long, origin_country.lat]);
-
-    let t = d3.zoomIdentity.translate(translate_coords.x, translate_coords.y).scale(scale);
-
-    console.log(t)
-
-    map_group.transition()
-        .duration(5000)
-        .attr("transform", t)
-        .call(console.log('test'));
-
-    update_edges_zoom();
-
-    let pos = cy.nodes("#exporter").position();
-
-    console.log(pos)
-/*
-    cy.zoom({
-        level : scale,
-        position: pos
-    })
-    */
-
-    cy.animate({
-        pan: { x: translate_coords.x, y: translate_coords.y },
-        zoom : scale
-    },
-    { duration: 5000 },
-    { easing: "linear"});
-
-
-
-/*
-    cy.viewport({
-        zoom: scale,
-        pan: {
-            x: translate_coords.x,
-            y: translate_coords.y,
-        }
-    });
-    */
-
 }
 
 function animated_zoom(transformation) {
-
-
     // let transformation = d3.zoomIdentity.translate(-16300, -8666).scale(28);
     // Changes the zoom_level
     zoom_level = transformation.k;
-    console.log(transformation)
     map_group.attr("transform", transformation);
 
     // Updates the graph especially for the edges shapes
@@ -463,27 +382,3 @@ function animated_zoom(transformation) {
         }
     });
 }
-
-function animated_zoom2(canvas) {
-    console.log('test');
-    canvas.transition()
-      .duration(3000)
-      .call(animated_zoom)
-}
-
-
-
-function transform_zoom_test() {
-      return d3.zoomIdentity
-          .translate(width / 2, height / 2)
-          .scale(8)
-          .translate(-point[0], -point[1]);
-    }
-
-    function transition_zoom_test(canvas) {
-      map_group.transition()
-          .delay(500)
-          .duration(3000)
-          .call(zoom.transform, zoom_and_pan)
-          .on("end", function() { canvas.call(zoom_and_pan); });
-    }
