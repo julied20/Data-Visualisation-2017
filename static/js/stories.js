@@ -35,20 +35,25 @@ class Story {
     }
 }
 
+let point_id_zoom = 1;
+
+
 const stories_animations = [
     new StoryAnimation([
-        () => { zoom_to_location('#exporter, #CHE, #GBR', 3000, 0) },
+        () => { zoom_to_coords([47, 8], [37, 37]) },
+        () => { zoom_to_coords([45, 70], [20, 103]) },
+    ]),
+    new StoryAnimation([
+        () => { zoom_to_location('#topleft_EasternAsia, #bottomright_EasternAsia', 3000, 0) },
         () => { zoom_to_location('#exporter, #USA, #CAN, #DEU', 3000, 0) },
     ]),
     new StoryAnimation([
-        () => { zoom_to_location('#exporter, #CHE, #GBR', 3000, 0) },
-        () => { zoom_to_location('#exporter, #USA, #CAN, #DEU', 3000, 0) },
-    ]),
-    new StoryAnimation([
-        () => { zoom_to_location('#exporter, #CHE, #GBR', 3000, 0) },
+        () => { zoom_to_location('#topleft_Europe, #bottomright_Europe', 3000, 0) },
         () => { zoom_to_location('#exporter, #USA, #CAN, #DEU', 3000, 0) },
     ]),
 ];
+
+
 
 const stories = [
     new Story(
@@ -90,6 +95,33 @@ function zoom_to_location(points, duration, delay) {
             .scale(prev_zoom + step_k * i);
         setTimeout(function(){ zoom_step(t); }, delay + i);
     }
+}
+
+function zoom_to_coords(coord1, coord2) {
+
+    let point1 = projection([coord1[1], coord1[0]]);
+    let point2 = projection([coord2[1], coord2[0]]);
+
+    cy.add({
+        data: { id: 'point_id_' + point_id_zoom },
+        position: {x: point1[0], y: point1[1] }
+    });
+
+    cy.add({
+        data: { id: 'point_id_' + (point_id_zoom + 1) },
+        position: {x: point2[0], y: point2[1] },
+    });
+
+    cy.fit(cy.$('#point_id_' + point_id_zoom + ', #point_id_' + (point_id_zoom+1)));
+
+    let t = d3.zoomIdentity
+        .translate(cy.pan().x, cy.pan().y)
+        .scale(cy.zoom());
+
+    zoom_step(t);
+
+    point_id_zoom += 2;
+
 }
 
 function zoom_step(transformation) {
