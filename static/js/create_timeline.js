@@ -19,7 +19,7 @@ let timeline_chart = new Chart(ctx, {
             }],
             xAxes: [{
                 scaleLabel: {
-                    display: true,
+                    display: false,
                     labelString: 'Year'
                 }
             }]

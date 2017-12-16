@@ -1,7 +1,7 @@
 #map_div {
   position: relative;
   width: 100%;
-  height: 70vh;
+  height: 65vh;
 }
 
 #network_div {
@@ -11,27 +11,10 @@
   pointer-events: none;
 }
 
-#treemap_div {
-  position: relative;
-  width: 100%;
-  height: 70vh;
-}
-
 #timeline_row {
     height:25vh;
 }
 
-#infos_row {
-    height: 80vh;
-}
-
-#linegraph_div {
-    width: 50vw;
-}
-
-#text_div{
-    width: 50vw;
-}
 
 #loader {
   position: absolute;
