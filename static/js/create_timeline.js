@@ -29,14 +29,17 @@ let timeline_chart = new Chart(ctx, {
         },
         maintainAspectRatio: false,
         onClick: function(e){
+          if(!story_mode){
             let element = this.getElementAtEvent(e);
             if (element[0] != undefined) {
                 let index = element[0]._index;
                 change_year(years[index]);
                 timeline_year_changed(element[0]._index);
             }
+          }
         },
         onHover: function(e){
+          if(!story_mode){
             let element = this.getElementAtEvent(e);
             if (element[0] != undefined) {
                 d3.select('#timeline')
@@ -45,6 +48,7 @@ let timeline_chart = new Chart(ctx, {
                 d3.select('#timeline')
                     .style('cursor', 'default')
             }
+          }
         },
     }
 });

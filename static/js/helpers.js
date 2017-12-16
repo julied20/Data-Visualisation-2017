@@ -1,9 +1,15 @@
-const ISO = 'BEL'
+let story_mode = true;
 
 let iso_geo_coord;
 
 function loadIsoCoord(CSV) {
     iso_geo_coord = CSV;
+}
+
+class Story_Mode {
+  set_methods(methods) {
+      this.methods = methods;
+  }
 }
 
 class Country {

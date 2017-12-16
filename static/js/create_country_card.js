@@ -31,6 +31,7 @@ let country_card_chart = new Chart(ctx_country_card, {
             }]
         },
         onClick: function(e){
+
             let element = this.getElementAtEvent(e);
             if (element[0] != undefined) {
                 let index = element[0]._index;
