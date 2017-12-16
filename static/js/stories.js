@@ -37,11 +37,15 @@ class Story {
 
 let point_id_zoom = 1;
 
+const france_europe_boundaries = [[57, -15], [40, 18]];
+const france_world_boundaries = [[-25, 150], [68, -125]];
 
 const stories_animations = [
     new StoryAnimation([
-        () => { zoom_to_coords([47, 8], [37, 37]) },
-        () => { zoom_to_coords([45, 70], [20, 103]) },
+        () => {},
+        () => { zoom_to_coords(...france_europe_boundaries) },
+        () => { show_popover('CHE', 'fr_popover_1', 'Yo', 'France', 'left') },
+        () => { zoom_to_coords(...france_world_boundaries) },
     ]),
     new StoryAnimation([
         () => { zoom_to_location('#topleft_EasternAsia, #bottomright_EasternAsia', 3000, 0) },
@@ -103,16 +107,16 @@ function zoom_to_coords(coord1, coord2) {
     let point2 = projection([coord2[1], coord2[0]]);
 
     cy.add({
-        data: { id: 'point_id_' + point_id_zoom },
+        data: { id: 'point_zoom_manual_' + point_id_zoom },
         position: {x: point1[0], y: point1[1] }
     });
 
     cy.add({
-        data: { id: 'point_id_' + (point_id_zoom + 1) },
+        data: { id: 'point_zoom_manual_' + (point_id_zoom + 1) },
         position: {x: point2[0], y: point2[1] },
     });
 
-    cy.fit(cy.$('#point_id_' + point_id_zoom + ', #point_id_' + (point_id_zoom+1)));
+    cy.fit(cy.$('#point_zoom_manual_' + point_id_zoom + ', #point_zoom_manual_' + (point_id_zoom+1)));
 
     let t = d3.zoomIdentity
         .translate(cy.pan().x, cy.pan().y)

@@ -20,19 +20,23 @@ class Country {
     }
 }
 
+function show_popover(ISO, popover_id, content, title='', placement='top') {
+    const country = countries.find(x => find_by_ISO(x, ISO));
+    const coords = getCoordinates(ISO);
+    const point = projection([coords.longitude, coords.latitude]);
 
-function show_popover(country, popover_id, content, title='', placement='top') {
-    const country_path = country.svg_path;
-
-    country_path
+    map_group.append('circle')
+        .attr('r', '5')
+        .attr('opacity', 0)
+        .attr('transform', 'translate(' + point[0] + ',' + point[1] +')')
         .attr('id', popover_id)
         .attr('data-toggle', 'popover')
         .attr('data-container', 'body')
         .attr('title', title)
         .attr('data-placement',  placement)
-        .attr('data-content', content)
+        .attr('data-content', content);
 
-    $('#'+popover_id).popover('show');
+    $('#' + popover_id).popover('show');
 }
 
 function hide_popover(popover_id) {
