@@ -41,11 +41,34 @@ const france_europe_boundaries = [[57, -15], [40, 18]];
 const france_world_boundaries = [[-25, 150], [68, -125]];
 
 const stories_animations = [
+    // France
     new StoryAnimation([
-        () => {},
-        () => { zoom_to_coords(...france_europe_boundaries) },
-        () => { show_popover('CHE', 'fr_popover_1', 'Yo', 'France', 'left') },
-        () => { zoom_to_coords(...france_world_boundaries) },
+        () => { zoom_to_coords(...france_world_boundaries); },
+        () => { zoom_to_coords(...france_europe_boundaries); },
+        () => { show_popover('FRA', 'fr_popover_1', 'Yo', 'France', 'bottom'); },
+        () => {
+            hide_popover('fr_popover_1');
+            roll_years(300);
+        },
+        () => { show_popover('FRA', 'fr_popover_2', 'Yo2', 'France', 'bottom'); },
+        () => {
+            zoom_to_coords(...france_world_boundaries);
+            change_year(1994);
+            hide_popover('fr_popover_2');
+        },
+        () => {
+            roll_years(300, null, 1998);
+        },
+        () => {
+            activate_country_card();
+            update_country_card(get_country('JPN'));
+            show_popover('JPN', 'fr_popover_3', 'Yo3', 'Japan', 'left');
+        },
+        () => {
+            desactivate_country_card();
+            hide_popover('fr_popover_3');
+
+        }
     ]),
     new StoryAnimation([
         () => { zoom_to_location('#topleft_EasternAsia, #bottomright_EasternAsia', 3000, 0) },
@@ -146,4 +169,30 @@ function zoom_step(transformation) {
             y: transformation.y,
         }
     });
+}
+
+let year_interval;
+
+function roll_years(duration=300, first_year=null, last_year=null) {
+    clearInterval(year_interval);
+    year_interval = setInterval(next_year_callback, duration);
+    let year_i = 0;
+
+    function next_year_callback() {
+        if (first_year == null) {
+            first_year = parseInt(years[0]);
+        }
+
+        if (last_year == null) {
+            last_year = parseInt(years[years.length - 1]);
+        }
+
+        year_i += 1;
+        change_year(first_year + year_i);
+
+        if (first_year + year_i == last_year) {
+            clearInterval(year_interval);
+        }
+    }
+
 }

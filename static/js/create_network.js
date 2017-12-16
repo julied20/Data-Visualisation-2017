@@ -22,6 +22,10 @@ function compute_big_trader_threshold(data) {
     }
 }
 
+function get_country(ISO) {
+    return countries.find(x => find_by_ISO(x, ISO));
+}
+
 // Returns the country for a given ISO
 function find_by_ISO(country, ISO) {
     if (country.ISO3 == ISO) {
@@ -117,7 +121,7 @@ let cy = cytoscape({
   				},
         },
       ],
-      
+
         layout: {
           name: 'preset'
         },
@@ -206,7 +210,7 @@ function update_edges_click() {
                 'arrow-scale': Math.min(1, get_arrow_weight(iso, zoom_level)),
             }
         }, {
-            duration: duration
+            duration: 100
         },
     );
     });
@@ -225,8 +229,6 @@ function zoomed() {
     // Changes the zoom_level
     zoom_level = d3.event.transform.k;
     map_group.attr("transform", d3.event.transform);
-
-    console.log(d3.event.transform)
 
     // Updates the graph especially for the edges shapes
     update_edges_zoom();

@@ -34,7 +34,6 @@ let timeline_chart = new Chart(ctx, {
             if (element[0] != undefined) {
                 let index = element[0]._index;
                 change_year(years[index]);
-                timeline_year_changed(element[0]._index);
             }
           }
         },
@@ -53,18 +52,22 @@ let timeline_chart = new Chart(ctx, {
     }
 });
 
-function timeline_year_changed(year_index) {
-    [background_color, border_color] = get_colors();
+function timeline_year_changed(year) {
+    if (timeline_chart.data.datasets.length >= 1) {
+        const year_index = year - years[0];
 
-    backgrounds = timeline_chart.data.datasets[0].backgroundColor;
-    for (let i = 0; i < backgrounds.length; i++) {
-        if (i == year_index) {
-            backgrounds[i] = border_color;
-        } else {
-            backgrounds[i] = background_color;
+        [background_color, border_color] = get_colors();
+
+        backgrounds = timeline_chart.data.datasets[0].backgroundColor;
+        for (let i = 0; i < backgrounds.length; i++) {
+            if (i == year_index) {
+                backgrounds[i] = border_color;
+            } else {
+                backgrounds[i] = background_color;
+            }
         }
+        timeline_chart.update();
     }
-    timeline_chart.update();
 }
 
 function get_colors() {
@@ -102,12 +105,11 @@ function update_timeline() {
 
     let background_colors = [];
 
-    for(let i = 0; i < years.length - 1; ++i) {
+    background_colors.push(border_color);
+
+    for(let i = 1; i < years.length; ++i) {
         background_colors.push(background_color);
     }
-
-    // TODO : Change that: not last year selectetd but first year
-    background_colors.push(border_color);
 
     timeline_chart.data = {
         labels: years,

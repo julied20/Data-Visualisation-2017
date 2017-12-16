@@ -4,8 +4,6 @@ let years = [];
 let countries = [];
 let big_traders;
 
-const duration = 800;
-
 // Create navbar with stories
 nav_stories_ul = d3.select('#navbar_stories_UL');
 nav_exploration_ul = d3.select('#navbar_exploration_UL');
@@ -116,14 +114,17 @@ explore_data_button.on('click', () => {
 });
 
 function change_story(new_story) {
+    // Remove all popovers
+    $('.popover').popover('hide');
+
     current_story = new_story;
     story_data = stories_data[current_story];
 
     big_traders = get_top_traders(10);
     update_scales();
 
-    // Set current year as last year appearing in the dataset
-    current_year = story_data[story_data.length - 1].Year
+    // Set current year as first year appearing in the dataset
+    current_year = story_data[0].Year;
     change_year(current_year);
 
     update_graph();
@@ -178,28 +179,6 @@ function end_of_story() {
     }
 }
 
-let year_interval;
-
-function roll_years() {
-    clearInterval(year_interval);
-    year_interval = setInterval(next_year_callback, duration);
-    let year_i = 0;
-
-    function next_year_callback() {
-        let first_year = parseInt(years[0]);
-        let last_year = parseInt(years[years.length - 1]);
-
-        year_i += 1;
-        change_year(first_year + year_i);
-        timeline_year_changed(year_i);
-
-        if (first_year + year_i == last_year) {
-            clearInterval(year_interval);
-        }
-    }
-
-}
-
 function change_year(new_year) {
     current_year = new_year;
     const year_data = story_data.filter(x => x.Year == new_year);
@@ -238,6 +217,8 @@ function change_year(new_year) {
 
     update_edges_click();
     update_country_card();
+
+    timeline_year_changed(current_year);
 }
 
 function update_paths(p) {

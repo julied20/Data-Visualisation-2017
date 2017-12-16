@@ -8,7 +8,9 @@ let card_trade_rank = d3.select('#country_card_trade_rank');
 let card_close_cross = d3.select('#country_card_close');
 
 card_close_cross.on('click', function() {
-    desactivate_country_card();
+    if (!story_mode) {
+        desactivate_country_card();
+    }
 });
 
 let selected_country;
@@ -36,7 +38,6 @@ let country_card_chart = new Chart(ctx_country_card, {
             if (element[0] != undefined) {
                 let index = element[0]._index;
                 change_year(years[index]);
-                timeline_year_changed(element[0]._index);
             }
         },
         onHover: function(e){
