@@ -268,7 +268,6 @@ function roll_years(duration=300, first_year=null, last_year=null, hide_control_
 
             // Show control buttons if they were hidden
             if (hide_control_buttons) {
-                console.log('yea');
                 d3.select('#control_buttons_div').attr('class', '');
             }
         }
