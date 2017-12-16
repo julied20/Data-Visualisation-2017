@@ -1,3 +1,4 @@
+let story_mode = true;
 let current_story = 0;
 let stories = [
     new Story(
@@ -47,7 +48,8 @@ stories.forEach((story, index) => {
         .on('click', function() {
             // Remove active for all stories
             nav_stories_ul.selectAll('li').attr('class', 'nav-item');
-
+            story_mode = true;
+            //Start animation:
             // Add active for new story
             this.parentElement.setAttribute('class', 'nav-item active')
             change_story(this.id);
@@ -64,7 +66,7 @@ stories.forEach((story, index) => {
             .on('click', function() {
                 // Remove active for all stories
                 nav_exploration_ul.selectAll('li').attr('class', 'nav-item');
-
+                story_mode = false;
                 // Add active for new story
                 this.parentElement.setAttribute('class', 'nav-item active')
                 change_story(this.id-1000);
@@ -167,7 +169,10 @@ function change_story(new_story) {
 
     // Show intro modal
     //TODO uncomment to toggle introduction modal
-    //$('#intro_modal').modal('toggle');
+    if(story_mode == true) {
+      $('#intro_modal').modal('toggle');
+    }
+
 }
 
 let arrow_weight_scale;
@@ -292,8 +297,9 @@ function compute_percentage(country) {
 function loading_finished() {
     d3.select("#loader").attr("class", "invisible");
     d3.select("#content").attr("class", "");
-    //start_animation();
-
+    //if (story_mode == true) {
+    //  start_animation();
+    //}
     // Enable all tooltips
     $(function () {
       $('[data-toggle="tooltip"]').tooltip()
