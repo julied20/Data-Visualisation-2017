@@ -292,7 +292,7 @@ function compute_percentage(country) {
 function loading_finished() {
     d3.select("#loader").attr("class", "invisible");
     d3.select("#content").attr("class", "");
-    start_animation();
+    //start_animation();
 
     // Enable all tooltips
     $(function () {
