@@ -156,6 +156,13 @@ function change_story(new_story) {
 }
 
 function update_intro_modal() {
+
+    const modal_img = d3.select('#modal_img');
+    const modal_txt = d3.select('#modal_txt');
+    console.log(modal_img);
+    modal_txt.html(stories[current_story].intro_text);
+    modal_img.attr('src' , stories[current_story].img_url);
+
     const intro_modal_button = d3.select('#intro_modal_button');
     intro_modal_button.on('click', () => start_story_animation());
 }

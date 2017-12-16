@@ -22,12 +22,14 @@ class StoryAnimation {
 }
 
 class Story {
-    constructor(country_name, product_name, csv_path, ISO3, color) {
+    constructor(country_name, product_name, csv_path, ISO3, color, intro_text, img_url) {
         this.country_name = country_name;
         this.product_name = product_name;
         this.csv_path = csv_path;
         this.ISO3 = ISO3;
         this.color = color;
+        this.intro_text = intro_text;
+        this.img_url = img_url;
     }
 
     set_data(data) {
@@ -40,6 +42,11 @@ let point_id_zoom = 1;
 const france_europe_boundaries = [[57, -15], [40, 18]];
 const france_world_boundaries = [[-25, 150], [68, -125]];
 const france_asia_boundaries = [[58, 0], [-6, 141]];
+
+const peru_world_boundaries = [[-50, 180], [68, -125]];
+const peru_us_boundaries = [[63, -165], [-20, 0]];
+const peru_europe_boundaries = [[-22, -90], [58, 31]];
+
 
 const stories_animations = [
     // France
@@ -82,7 +89,7 @@ const stories_animations = [
             show_popover('HKG', 'fr_popover_5', 'Text about HK.', 'Hong Kong wine import', 'left');
         },
         () => {
-            desactivate_country_card()
+            desactivate_country_card();
             hide_popover('fr_popover_5');
             zoom_to_coords(...france_world_boundaries);
             show_popover('USA', 'fr_popover_6', 'Throughout all these years, USA is among the biggest french wine importers.', 'USA wine import', 'bottom');
@@ -94,8 +101,35 @@ const stories_animations = [
         },
     ]),
     new StoryAnimation([
-        () => { zoom_to_location('#topleft_EasternAsia, #bottomright_EasternAsia', 3000, 0) },
-        () => { zoom_to_location('#exporter, #USA, #CAN, #DEU', 3000, 0) },
+        () => { zoom_to_coords(...peru_world_boundaries); },
+        () => {
+            zoom_to_coords(...peru_us_boundaries);
+            activate_country_card();
+            update_country_card(get_country('USA'));
+            show_popover('USA', 'per_popover_1', 'Text about USA.', 'USA quinoa import', 'top');
+        },
+        () => {
+            desactivate_country_card()
+            hide_popover('per_popover_1');
+            zoom_to_coords(...peru_europe_boundaries);
+            roll_years(300, null, 2014, function() {
+                activate_country_card()
+                update_country_card(get_country('NLD'));
+                show_popover('NLD', 'per_popover_2', 'Text about Netherlands.', 'Netherlands quinoa import', 'right');
+            });
+         },
+         () => {
+             desactivate_country_card()
+             hide_popover('per_popover_2');
+             zoom_to_coords(...peru_world_boundaries);
+             roll_years(300, null, null, function() {
+                 //activate_country_card()
+                 //update_country_card(get_country('WLD'));
+                 //show_popover('WLD', 'per_popover_3', 'Text about Quinoa.', '', 'right');
+               });
+         },
+
+
     ]),
     new StoryAnimation([
         () => { zoom_to_location('#topleft_Europe, #bottomright_Europe', 3000, 0) },
@@ -111,21 +145,27 @@ const stories = [
         "Wine",
         "datasets/france_wine_clean.csv",
         "FRA",
-        "rgba(203, 56, 85, 1)"
+        "rgba(203, 56, 85, 1)",
+        "<p> France has historically produced some of the finest vintages around, and its regions have lent their names to some of the world's most famous grapes. </p> <p> Although France is only the third wine exporter, behind Spain and Italy, it goes first place in terms of market values. Among their importer, Europe is leading the market with England, Germany and Belgium being respectively the second, third and fifth importer. The biggest importer of french wine is the USA, with a percentage of 16.92% in 2016. French wine consumption has been growing in Asia for the past few year. In 1998, Japan got a high peak in trade value, buying 531.21 M. Can it be the influence of the ‘French Paradox’? </p> <p> China french wine import exploded in 2011, making it the fourth importer of french wine in 2016. </p> <p> Hong-Kong and Singapore have a percentage of import of 8.96% making them respectively the sixth and eleventh importers of french wine.</p>",
+        "static/img/wine.jpeg"
     ),
     new Story(
         "Peru",
         "Quinoa",
         "datasets/peru_quinoa_clean.csv",
         "PER",
-        "rgba(147, 159, 92, 1)"
+        "rgba(147, 159, 92, 1)",
+        "<p> Some text </p>",
+        "static/img/quinoa.jpg"
     ),
     new Story(
         "Indonesia",
         "Palm Oil",
         "datasets/indonesia_palm_clean.csv",
         "IDN",
-        "rgba(63, 191, 63, 1)"
+        "rgba(63, 191, 63, 1)",
+        "<p> Some text </p>",
+        "static/img/palm.jpeg"
     ),
 ];
 
