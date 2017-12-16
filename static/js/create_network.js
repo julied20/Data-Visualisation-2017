@@ -81,6 +81,24 @@ let bigtraders = [];
 
 let cy = cytoscape({
       container: document.getElementById('network_div'),
+      elements: [
+          {
+              data: { id: 'topleft_EasternAsia' },
+              position: {x: projection([90, 45])[0], y: projection([90, 45])[1] }
+          },
+          {
+              data: { id: 'bottomright_EasternAsia' },
+              position: {x: projection([150, 15])[0], y: projection([150, 15])[1] }
+          },
+          {
+              data: { id: 'topleft_Europe' },
+              position: {x: projection([-30, 60])[0], y: projection([-30, 60])[1] }
+          },
+          {
+              data: { id: 'bottomright_Europe' },
+              position: {x: projection([40, 30])[0], y: projection([40, 30])[1] }
+          },
+      ],
       style: [
         {
           selector: 'node',
