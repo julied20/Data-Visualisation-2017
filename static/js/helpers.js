@@ -17,6 +17,7 @@ class Country {
         this.trade_weight = trade_weight;
         this.geo_feat = geo_feat;
         this.svg_path = null;
+        this.is_selected = false;
     }
 }
 

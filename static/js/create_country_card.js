@@ -62,6 +62,9 @@ function activate_country_card() {
 function desactivate_country_card() {
     country_card.attr('class', 'invisible');
     country_card_activated = false;
+    if (selected_country != null) {
+        selected_country.is_selected = false;
+    }
 }
 
 function update_country_card(country=null) {
@@ -75,6 +78,12 @@ function update_country_card(country=null) {
         country = selected_country;
     // If country provided, use this as selected country
     } else {
+        if (selected_country != null) {
+            selected_country.is_selected = false;
+            update_paths(selected_country.svg_path.data([selected_country]));
+        }
+        country.is_selected = true;
+        update_paths(country.svg_path.data([country]));
         selected_country = country;
     }
 
@@ -120,16 +129,12 @@ function update_country_card(country=null) {
     years = graph_data.map( y => y.year);
     trades = graph_data.map( y => y.trade);
 
-    if (years.length < 3) {
-        console.log("TODO manage countries with few data");
-    }
-
     [background_color, border_color] = get_colors();
 
     let point_border_colors = []
     let point_background_colors = []
     let point_style = [];
-    for (let i=0; i < trades.length; i++) {
+    for (let i = 0; i < trades.length; i++) {
         // No trade and not selected
         if (trades[i] == 0 && years[i] != current_year) {
             point_border_colors.push("#BFBFBF");
