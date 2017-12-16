@@ -45,12 +45,12 @@ const stories_animations = [
     new StoryAnimation([
         () => { zoom_to_coords(...france_world_boundaries); },
         () => { zoom_to_coords(...france_europe_boundaries); },
-        () => { show_popover('FRA', 'fr_popover_1', 'Yo', 'France', 'bottom'); },
+        () => { show_popover('FRA', 'fr_popover_1', 'Europe is the continent were people drink the most wine. French wine is clearly being exported all around Europe. Among its importers, England was the 2nd largest one, but got caught up by the USA in 2015', 'Europe import', 'bottom'); },
         () => {
             hide_popover('fr_popover_1');
             roll_years(300);
         },
-        () => { show_popover('FRA', 'fr_popover_2', 'Yo2', 'France', 'bottom'); },
+        () => { show_popover('FRA', 'fr_popover_2', 'A we can see, the import of French wine in Europe is quite stable since 1998', 'Europe import', 'bottom'); },
         () => {
             zoom_to_coords(...france_world_boundaries);
             change_year(1994);
@@ -62,7 +62,7 @@ const stories_animations = [
         () => {
             activate_country_card();
             update_country_card(get_country('JPN'));
-            show_popover('JPN', 'fr_popover_3', 'Yo3', 'Japan', 'left');
+            show_popover('JPN', 'fr_popover_3', 'The wine import from Japan said to have peaked in 1998. The fact is that in 1998, too much wine was imported and some was carried over to the next year. That caused a slight decline in the consumption figures.', 'Japan import', 'left');
         },
         () => {
             desactivate_country_card();
