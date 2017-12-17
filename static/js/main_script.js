@@ -123,7 +123,7 @@ function change_story(new_story) {
     current_story = new_story;
     story_data = stories_data[current_story];
 
-    big_traders = get_top_traders(10);
+    big_traders = get_top_traders(stories[current_story].big_traders_number);
     update_scales();
 
     // Set current year as first year appearing in the dataset

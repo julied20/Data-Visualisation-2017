@@ -1,6 +1,8 @@
 let current_story = 0;
 let stories_data = [];
 
+let show_quinoa_weight = false;
+
 class StoryAnimation {
     constructor(steps) {
         this.current_step = 0;
@@ -22,12 +24,13 @@ class StoryAnimation {
 }
 
 class Story {
-    constructor(country_name, product_name, csv_path, ISO3, color, intro_text, img_url) {
+    constructor(country_name, product_name, csv_path, ISO3, color, big_traders_number, intro_text, img_url) {
         this.country_name = country_name;
         this.product_name = product_name;
         this.csv_path = csv_path;
         this.ISO3 = ISO3;
         this.color = color;
+        this.big_traders_number = big_traders_number
         this.intro_text = intro_text;
         this.img_url = img_url;
     }
@@ -112,21 +115,28 @@ const stories_animations = [
             desactivate_country_card()
             hide_popover('per_popover_1');
             zoom_to_coords(...peru_europe_boundaries);
-            roll_years(300, null, 2014, function() {
+            roll_years(300, null, 2014, true, function() {
                 activate_country_card()
                 update_country_card(get_country('NLD'));
                 show_popover('NLD', 'per_popover_2', 'Text about Netherlands.', 'Netherlands quinoa import', 'right');
             });
          },
          () => {
-             desactivate_country_card()
+             desactivate_country_card();
              hide_popover('per_popover_2');
              zoom_to_coords(...peru_world_boundaries);
-             roll_years(300, null, null, function() {
-                 //activate_country_card()
-                 //update_country_card(get_country('WLD'));
-                 //show_popover('WLD', 'per_popover_3', 'Text about Quinoa.', '', 'right');
+             roll_years(300, null, null, true, function() {
+                 show_quinoa_weight = true;
+                 activate_country_card();
+                 update_country_card(get_country('USA'));
+                 show_popover_html('#country_card_canvas', 'per_popover_3', 'Text about Quinoa weight/price comparison', '', 'left');
                });
+         },
+         () => {
+             desactivate_country_card();
+             show_quinoa_weight = false;
+             hide_popover('per_popover_3');
+             zoom_to_coords(...peru_europe_boundaries);
          },
 
 
@@ -146,6 +156,7 @@ const stories = [
         "datasets/france_wine_clean.csv",
         "FRA",
         "rgba(203, 56, 85, 1)",
+        10,
         "<p> France has historically produced some of the finest vintages around, and its regions have lent their names to some of the world's most famous grapes. </p> <p> Although France is only the third wine exporter, behind Spain and Italy, it goes first place in terms of market values. Among their importer, Europe is leading the market with England, Germany and Belgium being respectively the second, third and fifth importer. The biggest importer of french wine is the USA, with a percentage of 16.92% in 2016. French wine consumption has been growing in Asia for the past few year. In 1998, Japan got a high peak in trade value, buying 531.21 M. Can it be the influence of the ‘French Paradox’? </p> <p> China french wine import exploded in 2011, making it the fourth importer of french wine in 2016. </p> <p> Hong-Kong and Singapore have a percentage of import of 8.96% making them respectively the sixth and eleventh importers of french wine.</p>",
         "static/img/wine.jpeg"
     ),
@@ -155,6 +166,7 @@ const stories = [
         "datasets/peru_quinoa_clean.csv",
         "PER",
         "rgba(147, 159, 92, 1)",
+        10,
         "<p> Some text </p>",
         "static/img/quinoa.jpg"
     ),
@@ -164,6 +176,7 @@ const stories = [
         "datasets/indonesia_palm_clean.csv",
         "IDN",
         "rgba(63, 191, 63, 1)",
+        8,
         "<p> Some text </p>",
         "static/img/palm.jpeg"
     ),
