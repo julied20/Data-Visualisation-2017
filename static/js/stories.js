@@ -24,13 +24,15 @@ class StoryAnimation {
 }
 
 class Story {
-    constructor(country_name, product_name, csv_path, ISO3, color, big_traders_number, intro_text, img_url) {
+    constructor(country_name, product_name, csv_path, ISO3, color,
+                big_traders_number, more_data_bool, intro_text, img_url) {
         this.country_name = country_name;
         this.product_name = product_name;
         this.csv_path = csv_path;
         this.ISO3 = ISO3;
         this.color = color;
-        this.big_traders_number = big_traders_number
+        this.big_traders_number = big_traders_number;
+        this.more_data_bool = more_data_bool;
         this.intro_text = intro_text;
         this.img_url = img_url;
     }
@@ -157,6 +159,7 @@ const stories = [
         "FRA",
         "rgba(203, 56, 85, 1)",
         10,
+        false,
         "<p> France has historically produced some of the finest vintages around, and its regions have lent their names to some of the world's most famous grapes. </p> <p> Although France is only the third wine exporter, behind Spain and Italy, it goes first place in terms of market values. Among their importer, Europe is leading the market with England, Germany and Belgium being respectively the second, third and fifth importer. The biggest importer of french wine is the USA, with a percentage of 16.92% in 2016. French wine consumption has been growing in Asia for the past few year. In 1998, Japan got a high peak in trade value, buying 531.21 M. Can it be the influence of the ‘French Paradox’? </p> <p> China french wine import exploded in 2011, making it the fourth importer of french wine in 2016. </p> <p> Hong-Kong and Singapore have a percentage of import of 8.96% making them respectively the sixth and eleventh importers of french wine.</p>",
         "static/img/wine.jpeg"
     ),
@@ -167,6 +170,7 @@ const stories = [
         "PER",
         "rgba(147, 159, 92, 1)",
         10,
+        false,
         "<p> Some text </p>",
         "static/img/quinoa.jpg"
     ),
@@ -177,8 +181,49 @@ const stories = [
         "IDN",
         "rgba(63, 191, 63, 1)",
         8,
+        false,
         "<p> Some text </p>",
         "static/img/palm.jpeg"
+    ),
+    new Story(
+        "Bolivia",
+        "Quinoa",
+        "datasets/bolivia_quinoa_clean.csv",
+        "BOL",
+        "rgba(147, 159, 92, 1)",
+        10, true, "", ""
+        ),
+    new Story(
+        "Belgium",
+        "Beer",
+        "datasets/belgium_beer_clean.csv",
+        "BEL",
+        "rgba(255, 206, 86, 1)",
+        10, true, "", ""
+    ),
+    new Story(
+        "France",
+        "Cheese",
+        "datasets/france_cheese_clean.csv",
+        "FRA",
+        "rgba(14, 119, 225, 1)",
+        10, true, "", ""
+    ),
+    new Story(
+        "Switzerland",
+        "Chocolate",
+        "datasets/switzerland_chocolate_clean.csv",
+        "CHE",
+        "rgba(112, 74, 44, 1)",
+        7, true, "", ""
+    ),
+    new Story(
+        "China",
+        "Tea",
+        "datasets/china_tea_clean.csv",
+        "CHN",
+        "rgba(63, 191, 63, 1)",
+        7, true, "", ""
     ),
 ];
 

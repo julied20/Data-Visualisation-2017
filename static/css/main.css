@@ -59,6 +59,12 @@
     width: 100%;
 }
 
+#explore_nav_dropdown_menu {
+    position: absolute;
+    left: auto;
+    margin: .125rem -3rem 0;
+}
+
 @-webkit-keyframes spin {
   0% { -webkit-transform: rotate(0deg); }
   100% { -webkit-transform: rotate(360deg); }

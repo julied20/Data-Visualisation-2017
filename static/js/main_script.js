@@ -9,34 +9,75 @@ nav_stories_ul = d3.select('#navbar_stories_UL');
 nav_exploration_ul = d3.select('#navbar_exploration_UL');
 
 stories.forEach((story, index) => {
-    nav_stories_ul
-    .append('li')
-        .attr('class', 'nav-item')
-    .append('a')
-        .attr('class', 'nav-link')
-        .attr('href', '#')
-        .attr('id', 'story_nav_' + index)
-        .on('click', function() {
-            story_mode = true;
-            const split_id = this.id.split('_')
-            change_story(parseInt(split_id[split_id.length - 1]));
-        })
-        .text(story.country_name);
-
-        nav_exploration_ul
+    if (!story.more_data_bool) {
+        nav_stories_ul
         .append('li')
             .attr('class', 'nav-item')
         .append('a')
             .attr('class', 'nav-link')
             .attr('href', '#')
-            .attr('id', 'explore_nav_' + index)
+            .attr('id', 'story_nav_' + index)
             .on('click', function() {
-                story_mode = false;
+                story_mode = true;
                 const split_id = this.id.split('_')
                 change_story(parseInt(split_id[split_id.length - 1]));
             })
             .text(story.country_name);
+
+        nav_exploration_ul
+            .append('li')
+                .attr('class', 'nav-item')
+            .append('a')
+                .attr('class', 'nav-link')
+                .attr('href', '#')
+                .attr('id', 'explore_nav_' + index)
+                .on('click', function() {
+                    story_mode = false;
+                    const split_id = this.id.split('_')
+                    change_story(parseInt(split_id[split_id.length - 1]));
+                })
+                .text(story.country_name);
+        }
 });
+
+nav_exploration_ul
+    .append('li')
+        .attr('class', 'nav-item dropdown')
+    .append('a')
+        .attr('class', 'nav-link dropdown-toggle')
+        .attr('href', '#')
+        .attr('id', 'explore_nav_dropdown_base')
+        .attr('role', 'button')
+        .attr('data-toggle', 'dropdown')
+        .attr('aria-haspopup', 'true')
+        .attr('aria-expanded', 'false')
+        .on('click', function() {
+            nav_dropdown_menu.attr('display', 'block')
+        })
+        .text('More data')
+    .append('div')
+        .attr('class', 'dropdown-menu')
+        .attr('id', 'explore_nav_dropdown_menu');
+
+nav_dropdown_menu = d3.select('#explore_nav_dropdown_menu');
+
+stories.forEach((story, index) => {
+    if (story.more_data_bool) {
+        nav_dropdown_menu
+            .append('a')
+            .attr('class', 'dropdown-item')
+            .attr('id', 'more_data_' + index)
+            .attr('data-toggle', 'dropdown')
+            .on('click', function() {
+                story_mode = false;
+                const split_id = this.id.split('_');
+                change_story(parseInt(split_id[split_id.length - 1]));
+                nav_dropdown_menu.attr('display', 'none')
+            })
+            .text(story.country_name)
+        }
+});
+
 
 
 // Set first list elem as active
@@ -140,10 +181,12 @@ function change_story(new_story) {
     nav_stories_ul.selectAll('li').attr('class', 'nav-item');
     nav_exploration_ul.selectAll('li').attr('class', 'nav-item');
     // Add active for corresponding story in navbar
-    if(story_mode) {
-        d3.select(nav_stories_ul.select('#story_nav_' + current_story).node().parentNode).attr('class', 'nav-item active');
-    } else {
-        d3.select(nav_exploration_ul.select('#explore_nav_' + current_story).node().parentNode).attr('class', 'nav-item active');
+    if (!stories[current_story].more_data_bool) {
+        if(story_mode) {
+            d3.select(nav_stories_ul.select('#story_nav_' + current_story).node().parentNode).attr('class', 'nav-item active');
+        } else {
+            d3.select(nav_exploration_ul.select('#explore_nav_' + current_story).node().parentNode).attr('class', 'nav-item active');
+        }
     }
 
     // Show intro modal
@@ -163,8 +206,16 @@ function update_intro_modal() {
     modal_txt.html(stories[current_story].intro_text);
     modal_img.attr('src' , stories[current_story].img_url);
 
-    const intro_modal_button = d3.select('#intro_modal_button');
-    intro_modal_button.on('click', () => start_story_animation());
+    const intro_modal_button_story = d3.select('#intro_modal_button_story');
+    intro_modal_button_story.on('click', () => start_story_animation());
+
+    const intro_modal_button_explore = d3.select('#intro_modal_button_explore');
+    intro_modal_button_explore.on('click', () => start_exploration());
+}
+
+function start_exploration() {
+    story_mode = false;
+    change_story(current_story);
 }
 
 function start_story_animation() {
@@ -178,6 +229,7 @@ function start_story_animation() {
 }
 
 function end_of_story() {
+    // TODO To fix
     if (current_story < stories.length - 1) {
         // Make all control buttons invisible except next_story_button
         d3.selectAll('.control_button').attr('class', 'control_button invisible');
@@ -254,10 +306,11 @@ function update_paths(p) {
         } else {
             color = d3.color(country_color_scale(country.trade_value)).darker(0.3);
         }
-
-        d3.select(this)
-            .style("fill", color)
-            .style('cursor', 'pointer');
+        if (!story_mode) {
+            d3.select(this)
+                .style("fill", color)
+                .style('cursor', 'pointer');
+        }
     })
     .on("mouseout", function(country) {
         let color;
