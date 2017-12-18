@@ -229,8 +229,8 @@ function start_story_animation() {
 }
 
 function end_of_story() {
-    // TODO To fix
-    if (current_story < stories.length - 1) {
+    // If there are enough stories, and next story is not a "More data" entry
+    if (current_story < stories.length - 1 && !stories[current_story + 1].more_data_bool) {
         // Make all control buttons invisible except next_story_button
         d3.selectAll('.control_button').attr('class', 'control_button invisible');
         d3.select('#next_story_button').attr('class', 'control_button');
