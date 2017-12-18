@@ -44,13 +44,16 @@ class Story {
 
 let point_id_zoom = 1;
 
-const france_europe_boundaries = [[57, -15], [40, 18]];
 const france_world_boundaries = [[-25, 150], [68, -125]];
+const france_europe_boundaries = [[57, -15], [40, 18]];
 const france_asia_boundaries = [[58, 0], [-6, 141]];
 
 const peru_world_boundaries = [[-50, 180], [68, -125]];
-const peru_us_boundaries = [[63, -165], [-20, 0]];
 const peru_europe_boundaries = [[-22, -90], [58, 31]];
+const peru_us_boundaries = [[63, -165], [-20, 0]];
+
+const indonesia_world_boundaries = [[62, -108], [-11, 149]];
+const indonesia_europe_boundaries = [[61, -30], [-6, 125]];
 
 
 const stories_animations = [
@@ -144,8 +147,43 @@ const stories_animations = [
 
     ]),
     new StoryAnimation([
-        () => { zoom_to_location('#topleft_Europe, #bottomright_Europe', 3000, 0) },
-        () => { zoom_to_location('#exporter, #USA, #CAN, #DEU', 3000, 0) },
+        () => { zoom_to_coords(...indonesia_world_boundaries); },
+        () => {
+            zoom_to_coords(...indonesia_europe_boundaries);
+            roll_years(300, null, 2008, true, function() {
+                show_popover('FRA', 'indo_popover_1', 'Text about Europe imports (Italia / Netherland).', 'Europe palm oil import', 'left');
+                show_popover('IND', 'indo_popover_2', 'Text about Indian imports.', 'India palm oil import', 'left');
+            });
+        },
+        () => {
+            hide_popover('indo_popover_1');
+            hide_popover('indo_popover_2');
+            activate_country_card();
+            update_country_card(get_country('NLD'));
+            show_popover('NLD', 'indo_popover_3', 'Text about Dutch imports, #1 trader 1989-99', 'Dutch palm oil import', 'right');
+
+        },
+        () => {
+            hide_popover('indo_popover_3');
+            update_country_card(get_country('ITA'));
+            show_popover('ITA', 'indo_popover_4', 'Text about Italian imports, nutella, article?', 'Italian palm oil import', 'right');
+        },
+        () => {
+            hide_popover('indo_popover_4');
+            update_country_card(get_country('IND'));
+            show_popover('IND', 'indo_popover_5', 'Text about Indian imports', 'Indian palm oil import', 'left');
+        },
+        () => {
+            hide_popover('indo_popover_5');
+            desactivate_country_card();
+            zoom_to_coords(...indonesia_world_boundaries);
+            roll_years(300, 2008, null, true, function () {
+                show_popover('MAR', 'indo_popover_6', 'Text about Global palm oil imports. Orangutans. All that', 'Global palm oil import', 'left');
+                setTimeout(() => {
+                    show_popover_html('#explore_data_button', 'indo_popover_7', 'Go explore the data!', title='', placement='left');
+                }, 800);
+            });
+        },
     ]),
 ];
 
