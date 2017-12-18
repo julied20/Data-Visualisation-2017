@@ -135,15 +135,17 @@ const stories_animations = [
              desactivate_country_card();
              hide_popover('per_popover_2');
              zoom_to_coords(...peru_world_boundaries);
-             roll_years(500, 2014, null, true, function() {
-                 setTimeout(() => {
-                     activate_price_card();
-                     update_price_card();
-                     show_popover_html('#price_card_canvas', 'per_popover_3',
-                                '<p>The data shows that as prices rose <b>between 2004 and 2013</b>, both producers and consumers in the region benefited financially from the trade.</p> <p> Quinoa farmers, who are among the <b>poorest people in Peru</b>, saw a 46% increase in their welfareover this period, measured by the value of all goods and services consumed by the household.</p> <p> Price rises didn’t negatively affect local consumers either; they benefited thanks to the boost to the economy from higher prices.</p> <a href="https://www.theguardian.com/sustainable-business/2016/jul/17/quinoa-threat-food-security-improving-peruvian-farmers-lives-superfood" target="_blank">[The Guardian]</a>', '', 'right');
-                     show_popover_html('#next_story_button', 'per_popover_4', 'Go see the next story about Indonesian palm oil!', title='', placement='left');
-                 }, 800);
-               });
+             roll_years(500, 2014, null);
+         },
+         () => {
+             activate_price_card();
+             update_price_card();
+             show_popover_html('#price_card_canvas', 'per_popover_3',
+                        '<p>The data shows that as prices rose <b>between 2004 and 2013</b>, both producers and consumers in the region benefited financially from the trade.</p> <p> Quinoa farmers, who are among the <b>poorest people in Peru</b>, saw a 46% increase in their welfareover this period, measured by the value of all goods and services consumed by the household.</p> <p> Price rises didn’t negatively affect local consumers either; they benefited thanks to the boost to the economy from higher prices.</p> <a href="https://www.theguardian.com/sustainable-business/2016/jul/17/quinoa-threat-food-security-improving-peruvian-farmers-lives-superfood" target="_blank">[The Guardian]</a>', '', 'right');
+
+             setTimeout(() => {
+                 show_popover_html('#next_story_button', 'per_popover_4', 'Go see the next story about Indonesian palm oil!', title='', placement='left');
+             }, 800);
          },
     ]),
     new StoryAnimation([
@@ -177,12 +179,13 @@ const stories_animations = [
             hide_popover('indo_popover_5');
             desactivate_country_card();
             zoom_to_coords(...indonesia_world_boundaries);
-            roll_years(300, 2008, null, true, function () {
+            roll_years(300, 2008, null);
+        },
+        () => {
                 show_popover('MAR', 'indo_popover_6', 'Text about Global palm oil imports. Orangutans. All that', 'Global palm oil import', 'left');
                 setTimeout(() => {
                     show_popover_html('#explore_data_button', 'indo_popover_7', 'Go explore the data!', title='', placement='left');
                 }, 800);
-            });
         },
     ]),
 ];
