@@ -40,10 +40,11 @@ stories.forEach((story, index) => {
         }
 });
 
-nav_exploration_ul
+const nav_more_li = nav_exploration_ul
     .append('li')
         .attr('class', 'nav-item dropdown')
-    .append('a')
+
+nav_more_li.append('a')
         .attr('class', 'nav-link dropdown-toggle')
         .attr('href', '#')
         .attr('id', 'explore_nav_dropdown_base')
@@ -55,7 +56,8 @@ nav_exploration_ul
             nav_dropdown_menu.attr('display', 'block')
         })
         .text('More data')
-    .append('div')
+
+nav_more_li.append('div')
         .attr('class', 'dropdown-menu')
         .attr('id', 'explore_nav_dropdown_menu');
 
