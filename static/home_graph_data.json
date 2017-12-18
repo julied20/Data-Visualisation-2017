@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    {"id": "Home", "group": 10},
+    {"id": "Visualisation", "group": 10},
+    {"id": "Process Book", "group": 10},
+    {"id": "Screencast", "group": 10}
+  ],
+ "links": [
+   {"source": "Home", "target": "Visualisation", "value": 200},
+   {"source": "Home", "target": "Process Book", "value": 200},
+   {"source": "Home", "target": "Screencast", "value": 200}
+  ]
+}
