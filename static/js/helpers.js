@@ -30,6 +30,7 @@ function show_popover_html(html_selector, popover_id, content, title='', placeme
         .attr('data-toggle', 'popover')
         .attr('data-container', 'body')
         .attr('title', title)
+        .attr('data-html', true)
         .attr('data-placement', placement)
         .attr('data-content', content);
 
@@ -50,6 +51,7 @@ function show_popover(ISO, popover_id, content, title='', placement='top') {
         .attr('data-toggle', 'popover')
         .attr('data-container', 'body')
         .attr('title', title)
+        .attr('data-html', true)
         .attr('data-placement', placement)
         .attr('data-content', content);
 

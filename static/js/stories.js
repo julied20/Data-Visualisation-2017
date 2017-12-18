@@ -59,11 +59,14 @@ const stories_animations = [
     new StoryAnimation([
         () => { zoom_to_coords(...france_world_boundaries); },
         () => { zoom_to_coords(...france_europe_boundaries); },
-        () => { show_popover('FRA', 'fr_popover_1', 'Europe is the continent were people drink the most wine. French wine is clearly being exported all around Europe. Among its importers, England was the 2nd largest one, but got caught up by the USA in 2015', 'Europe import', 'bottom'); },
+        () => {
+
+            show_popover('FRA', 'fr_popover_1', '<p><b>Europe</b> is the continent were people drink the most wine.</p> <p> French wine is clearly being exported all around Europe. Among its importers, England was the 2nd largest one, but got caught up by the USA in 2015</p>' , 'Europe import', 'bottom');
+        },
         () => {
             hide_popover('fr_popover_1');
             roll_years(300, null, null, true, function () {
-                show_popover('FRA', 'fr_popover_2', 'A we can see, the import of French wine in Europe is quite stable from 1994 to 2016', 'Europe french wine import', 'bottom');
+                show_popover('FRA', 'fr_popover_2', '<p>A we can see, the import of French wine in Europe is quite stable <b>from 1994 to 2016</b></p>', 'Europe french wine import', 'bottom');
             });
         },
         () => {
@@ -77,7 +80,7 @@ const stories_animations = [
             roll_years(300, null, 1998, true, function () {
                 activate_country_card();
                 update_country_card(get_country('JPN'));
-                show_popover('JPN', 'fr_popover_3', 'The wine import from Japan said to have peaked in 1998. The fact is that in 1998, too much wine was imported and some was carried over to the next year. That caused a slight decline in the consumption figures.', 'Japan french wine import', 'left');
+                show_popover('JPN', 'fr_popover_3', '<p>The wine import from Japan said to have peaked in 1998.</p> <p>The fact is that in 1998, too much wine was imported and some was carried over to the next year. That caused a slight decline in the consumption figures.</p> <a href="https://www.japantimes.co.jp/life/2004/06/06/people/shinya-tasaki/#.Wjeb8bQ-cWp" target="_blank">[Japan Times]</a>', 'Japan french wine import', 'left');
             });
         },
         () => {
@@ -98,7 +101,7 @@ const stories_animations = [
             desactivate_country_card();
             hide_popover('fr_popover_5');
             zoom_to_coords(...france_world_boundaries);
-            show_popover('USA', 'fr_popover_6', 'Throughout all these years, USA is among the biggest french wine importers.', 'USA wine import', 'bottom');
+            show_popover('USA', 'fr_popover_6', '<p>Throughout all these years, USA is among the biggest french wine importers.</p>', 'USA wine import', 'bottom');
             roll_years(300, 2011, null);
         },
         () => {
@@ -116,7 +119,7 @@ const stories_animations = [
             zoom_to_coords(...peru_us_boundaries);
             activate_country_card();
             update_country_card(get_country('USA'));
-            show_popover('USA', 'per_popover_1', 'Text about USA.', 'USA quinoa import', 'top');
+            show_popover('USA', 'per_popover_1', '<p> In <b>2012</b>, was the biggest importer of Peruvian Quinoa, with an import share of alomst 70% </p>', 'USA quinoa import', 'top');
         },
         () => {
             desactivate_country_card()
@@ -125,7 +128,7 @@ const stories_animations = [
             roll_years(500, null, 2014, true, function() {
                 activate_country_card()
                 update_country_card(get_country('NLD'));
-                show_popover('NLD', 'per_popover_2', 'Text about Netherlands.', 'Netherlands quinoa import', 'right');
+                show_popover('NLD', 'per_popover_2', '<p> By 2014, the Quinoa became popular all over the wolrd and it did not miss Europe.</p> <p> Among the top European importers, <p>The Netherlands come in third position with a total share import of <b>6.50%<b>', 'Netherlands quinoa import', 'right');
             });
          },
          () => {
@@ -136,7 +139,8 @@ const stories_animations = [
                  setTimeout(() => {
                      activate_price_card();
                      update_price_card();
-                     show_popover_html('#price_card_canvas', 'per_popover_3', 'Text about Quinoa price over time', '', 'right');
+                     show_popover_html('#price_card_canvas', 'per_popover_3',
+                                '<p>The data shows that as prices rose <b>between 2004 and 2013</b>, both producers and consumers in the region benefited financially from the trade.</p> <p> Quinoa farmers, who are among the <b>poorest people in Peru</b>, saw a 46% increase in their welfareover this period, measured by the value of all goods and services consumed by the household.</p> <p> Price rises didn’t negatively affect local consumers either; they benefited thanks to the boost to the economy from higher prices.</p> <a href="https://www.theguardian.com/sustainable-business/2016/jul/17/quinoa-threat-food-security-improving-peruvian-farmers-lives-superfood" target="_blank">[The Guardian]</a>', '', 'right');
                      show_popover_html('#next_story_button', 'per_popover_4', 'Go see the next story about Indonesian palm oil!', title='', placement='left');
                  }, 800);
                });
@@ -156,13 +160,13 @@ const stories_animations = [
             hide_popover('indo_popover_2');
             activate_country_card();
             update_country_card(get_country('NLD'));
-            show_popover('NLD', 'indo_popover_3', 'Text about Dutch imports, #1 trader 1989-99', 'Dutch palm oil import', 'right');
+            show_popover('NLD', 'indo_popover_3', '<p>Indonesia is the world’s biggest palm oil exporter, a lot of that palm oil reaches Europe through the Port of Rotterdam.</p> <p> The Netherlands is <b>the first palm oil importer from 1989 to 1999</p>', 'Dutch palm oil import', 'right');
 
         },
         () => {
             hide_popover('indo_popover_3');
             update_country_card(get_country('ITA'));
-            show_popover('ITA', 'indo_popover_4', 'Text about Italian imports, nutella, article?', 'Italian palm oil import', 'right');
+            show_popover('ITA', 'indo_popover_4', '<p> Mozzarella, ciabatta, Parma ham, etc. When considering Italy’s culinary landscape, palm oil is unlikely to feature high on the list – if at all. Yet the Mediterranean country is <b>the EU’s second largest importer of the oil</b>, which some estimate is found in 90% of biscuits and baked goods in Italian supermarkets.</p>  <a href="https://www.theguardian.com/sustainable-business/2015/dec/09/italy-italian-food-palm-oil-supermarkets-boycott-deforestation-forests-health-environment-china-alliances" target="_blank">[The Guardian]</a>', 'Italian palm oil import', 'right');
         },
         () => {
             hide_popover('indo_popover_4');
@@ -205,7 +209,7 @@ const stories = [
         "rgba(147, 159, 92, 1)",
         10,
         false,
-        "<p> Some text </p>",
+        '<p> Quinoa has not stopped it from taking over salads in kitchens, cafés and supermarkets.</p> <p> The grain used to be the preserve of Andean peasants, but is now hailed for its high protein content by opinion-formers from Oprah Winfrey to the United Nations. Some even celebrated 2013 as the International Year of Quinoa.</p> <p>Before Western consumers developed a taste for quinoa, it was mostly produced by poor farmers in the Andes—in the harsh mountain conditions, not much else would grow.</p> <p>Bolivia was the main exporter; in Peru producers were largely producing it to eat themselves, consuming around three quarters of what they produced in 2004.</p> <p> But as the rich world discovered the grain, demand outstripped supply. At the peak of the boom, quinoa was going for $6 or $7 a kilogram, more than triple the pre-fad rate. </p> <a href="https://www.economist.com/blogs/economist-explains/2016/05/economist-explains-17" target="_blank">[The Economist]</a>',
         "static/img/quinoa.jpg"
     ),
     new Story(
@@ -216,7 +220,7 @@ const stories = [
         "rgba(63, 191, 63, 1)",
         8,
         false,
-        "<p> Some text </p>",
+        '<p> Palm oil is one of the world\'s most produced and consumed oils. This cheap, production-efficient and highly stable oil is used in a wide variety of food, cosmetic and hygiene products, and can be used as source for bio-fuel or biodiesel. Most palm oil is produced in Asia, Africa and South America because the trees require warm temperatures, sunshine and plenty of rain in order to maximize production. </p> <a href="https://www.indonesia-investments.com/business/commodities/palm-oil/item166?" target="_blank">[Indonesia Investments]</a>',
         "static/img/palm.jpeg"
     ),
     new Story(
