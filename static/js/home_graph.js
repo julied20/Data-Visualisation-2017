@@ -42,7 +42,7 @@ d3.json("static/home_graph_data.json", function(error, graph) {
 
     let node = nodes
         .selectAll('circle')
-    let label = nodes.selectAll('label')
+    let label = nodes.selectAll('text')
 
 
 
@@ -64,8 +64,8 @@ d3.json("static/home_graph_data.json", function(error, graph) {
             .attr("cx", function(d) { return d.x; })
             .attr("cy", function(d) { return d.y; });
         label
-            .attr("cx", function(d) { return d.x; })
-            .attr("cy", function(d) { return d.y; });
+            .attr("dx", function(d) { return d.x; })
+            .attr("dy", function(d) { return d.y; });
         }
 });
 
