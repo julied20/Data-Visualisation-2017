@@ -52,9 +52,6 @@ nav_more_li.append('a')
         .attr('data-toggle', 'dropdown')
         .attr('aria-haspopup', 'true')
         .attr('aria-expanded', 'false')
-        .on('click', function() {
-            nav_dropdown_menu.attr('display', 'block')
-        })
         .text('More data')
 
 nav_more_li.append('div')
