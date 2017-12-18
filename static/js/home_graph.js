@@ -23,7 +23,11 @@ d3.json("static/home_graph_data.json", function(error, graph) {
         .attr("class", "nodes")
         .selectAll()
         .data(graph.nodes)
-        .enter().append('g')
+        .enter()
+        .append('a')
+        .style('cursor', 'pointer')
+            .attr('href', function(d) { return d.link })
+        .append('g')
 
 
     nodes.append('circle')
