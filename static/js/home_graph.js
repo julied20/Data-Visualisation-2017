@@ -56,6 +56,31 @@ d3.json("static/home_graph_data.json", function(error, graph) {
         .attr('y', 0)
         .text(function(d) { return d.id });
 
+    nodes.append("text")
+        .attr('class', 'icon')
+        .style('font-size', function (d) {
+             if (d.id == "Visualisation") {
+                 return 80;
+             } else {
+                 return 40;
+             }
+        })
+        .attr('x', function (d) {
+            if (d.id == "Visualisation") {
+                return '-33';
+            } else {
+                return '-16';
+            }
+        })
+        .attr('y', function (d) {
+            if (d.id == "Visualisation") {
+                return '26';
+            } else {
+                return '12';
+            }
+        })
+        .html(function(d) { return d.icon })
+
     let node = nodes
         .selectAll('circle')
     let label = nodes.selectAll('text')
