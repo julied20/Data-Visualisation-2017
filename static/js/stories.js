@@ -206,7 +206,7 @@ const stories = [
         10,
         false,
         "<p> Some text </p>",
-        "static/img/quinoa.jpg"
+        "static/img/quinoa.jpeg"
     ),
     new Story(
         "Indonesia",
