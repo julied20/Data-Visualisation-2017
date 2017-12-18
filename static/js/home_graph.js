@@ -1,8 +1,8 @@
-let svg = d3.select("svg"),
-    width = +svg.attr("width"),
-    height = +svg.attr("height");
+let svg = d3.select("svg");
 
-let color = d3.scaleOrdinal(d3.schemeCategory20);
+const box = svg.node().getBoundingClientRect();
+const width = box.width;
+const height = box.height;
 
 let simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
@@ -38,7 +38,7 @@ d3.json("static/home_graph_data.json", function(error, graph) {
                   return 35;
               }
           })
-          .attr("fill", function(d) { return color(d.group); })
+          .attr("fill", "rgba(203, 56, 85, 1)")
           .call(d3.drag()
               .on("start", dragstarted)
               .on("drag", dragged)
@@ -79,6 +79,7 @@ d3.json("static/home_graph_data.json", function(error, graph) {
                 return '12';
             }
         })
+        .attr('fill', 'white')
         .html(function(d) { return d.icon })
 
     let node = nodes
