@@ -6,7 +6,7 @@ let color = d3.scaleOrdinal(d3.schemeCategory20);
 
 let simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody().strength(-10000).distanceMax(500).distanceMin(100))
+    .force("charge", d3.forceManyBody().strength(-15000).distanceMax(500).distanceMin(100))
     .force("center", d3.forceCenter(width / 2, height / 2));
 
 d3.json("static/home_graph_data.json", function(error, graph) {
@@ -31,7 +31,13 @@ d3.json("static/home_graph_data.json", function(error, graph) {
 
 
     nodes.append('circle')
-          .attr("r", 20)
+          .attr("r", function(d) {
+              if (d.id == "Visualisation") {
+                  return 60;
+              } else {
+                  return 35;
+              }
+          })
           .attr("fill", function(d) { return color(d.group); })
           .call(d3.drag()
               .on("start", dragstarted)
@@ -40,8 +46,14 @@ d3.json("static/home_graph_data.json", function(error, graph) {
 
     nodes.append("text")
         .attr('class', 'label')
-        .attr("dx", 12)
-        .attr("dy", ".35em")
+        .attr('x', function(d){
+             if (d.id == "Visualisation") {
+                 return 75;
+             } else {
+                 return 50;
+             }
+        })
+        .attr('y', 0)
         .text(function(d) { return d.id });
 
     let node = nodes
