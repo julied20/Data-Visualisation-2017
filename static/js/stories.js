@@ -61,12 +61,12 @@ const stories_animations = [
         () => { zoom_to_coords(...france_europe_boundaries); },
         () => {
 
-            show_popover('FRA', 'fr_popover_1', '<p><b>Europe</b> is the continent were people drink the most wine.</p> <p> French wine is clearly being exported all around Europe. Among its importers, England was the 2nd largest one, but got caught up by the USA in 2015</p>' , 'Europe import', 'bottom');
+            show_popover('FRA', 'fr_popover_1', '<p><b>Europe</b> is the continent where people drink the most wine.</p> <p> French wine is clearly being exported all around Europe. Among its importers, England was the 2nd largest one, but got caught up by the USA in 2015.</p>' , 'Europe import', 'bottom');
         },
         () => {
             hide_popover('fr_popover_1');
             roll_years(300, null, null, true, function () {
-                show_popover('FRA', 'fr_popover_2', '<p>A we can see, the import of French wine in Europe is quite stable <b>from 1994 to 2016</b></p>', 'Europe french wine import', 'bottom');
+                show_popover('FRA', 'fr_popover_2', '<p>A we can see, the import of French wine in Europe is quite stable <b>from 1994 to 2016</b>.</p>', 'Europe french wine import', 'bottom');
             });
         },
         () => {
@@ -162,7 +162,7 @@ const stories_animations = [
             hide_popover('indo_popover_2');
             activate_country_card();
             update_country_card(get_country('NLD'));
-            show_popover('NLD', 'indo_popover_3', '<p>Indonesia is the world’s biggest palm oil exporter, a lot of that palm oil reaches Europe through the Port of Rotterdam.</p> <p> The Netherlands is <b>the first palm oil importer from 1989 to 1999</p>', 'Dutch palm oil import', 'right');
+            show_popover('NLD', 'indo_popover_3', '<p>Indonesia is the world’s biggest palm oil exporter, a lot of that palm oil reaches Europe through the Port of Rotterdam.</p> <p> The Netherlands is <b>the first palm oil importer from 1989 to 1999</b>.</p>', 'Dutch palm oil import', 'right');
 
         },
         () => {
@@ -203,7 +203,7 @@ const stories = [
         "rgba(203, 56, 85, 1)",
         10,
         false,
-        "<p> France has historically produced some of the finest vintages around, and its regions have lent their names to some of the world's most famous grapes. </p> <p> Although France is only the third wine exporter, behind Spain and Italy, it goes first place in terms of market values. Among their importer, Europe is leading the market with England, Germany and Belgium being respectively the second, third and fifth importer. The biggest importer of french wine is the USA, with a percentage of 16.92% in 2016. French wine consumption has been growing in Asia for the past few year. In 1998, Japan got a high peak in trade value, buying 531.21 M. Can it be the influence of the ‘French Paradox’? </p> <p> China french wine import exploded in 2011, making it the fourth importer of french wine in 2016. </p> <p> Hong-Kong and Singapore have a percentage of import of 8.96% making them respectively the sixth and eleventh importers of french wine.</p>",
+        "<p> France has historically produced some of the finest vintages around, and its regions have lent their names to some of the world's most famous grapes. </p> <p> Although France is only the third wine exporter, behind Spain and Italy, it goes first place in terms of market values. Among their importers, Europe is leading the market with England, Germany and Belgium being respectively the second, third and fifth importer. The biggest importer of french wine is the USA, with a percentage of 16.92% in 2016. French wine consumption has been growing in Asia for the past few years. In 1998, Japan got a high peak in trade value, buying 531.21 M. Can it be the influence of the ‘French Paradox’? </p> <p> China french wine imports exploded in 2011, making it the fourth importer of french wines in 2016. </p> <p> Hong-Kong and Singapore have a percentage of import of 8.96% making them respectively the sixth and eleventh importers of french wines.</p>",
         "static/img/wine.jpeg"
     ),
     new Story(
@@ -214,7 +214,7 @@ const stories = [
         "rgba(147, 159, 92, 1)",
         10,
         false,
-        '<p> Quinoa has not stopped it from taking over salads in kitchens, cafés and supermarkets.</p> <p> The grain used to be the preserve of Andean peasants, but is now hailed for its high protein content by opinion-formers from Oprah Winfrey to the United Nations. Some even celebrated 2013 as the International Year of Quinoa.</p> <p>Before Western consumers developed a taste for quinoa, it was mostly produced by poor farmers in the Andes—in the harsh mountain conditions, not much else would grow.</p> <p>Bolivia was the main exporter; in Peru producers were largely producing it to eat themselves, consuming around three quarters of what they produced in 2004.</p> <p> But as the rich world discovered the grain, demand outstripped supply. At the peak of the boom, quinoa was going for $6 or $7 a kilogram, more than triple the pre-fad rate. </p> <a href="https://www.economist.com/blogs/economist-explains/2016/05/economist-explains-17" target="_blank">[The Economist]</a>',
+        '<p> Quinoa has not stopped it from taking over salads in kitchens, cafés and supermarkets.</p> <p> The grain used to be the preserve of Andean peasants, but is now hailed for its high protein content by opinion-formers from Oprah Winfrey to the United Nations. Some even celebrated 2013 as the International Year of Quinoa.</p> <p>Before Western consumers developed a taste for quinoa, it was mostly produced by poor farmers in the Andes—in the harsh mountain conditions, where not much else would grow.</p> <p>Bolivia was the main exporter; in Peru producers were largely producing it to eat themselves, consuming around three quarters of what they produced in 2004.</p> <p> But as the rich world discovered the grain, demand outstripped supply. At the peak of the boom, quinoa was going for $6 or $7 a kilogram, more than triple the pre-fad rate. </p> <a href="https://www.economist.com/blogs/economist-explains/2016/05/economist-explains-17" target="_blank">[The Economist]</a>',
         "static/img/quinoa.jpeg"
     ),
     new Story(
