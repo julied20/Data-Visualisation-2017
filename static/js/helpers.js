@@ -25,7 +25,7 @@ function show_popover_html(html_selector, popover_id, content, title='', placeme
     const html_elem = d3.select(html_selector);
 
     html_elem
-        .attr('id', popover_id)
+        .classed(popover_id, true)
         .classed('text-center', true)
         .attr('data-toggle', 'popover')
         .attr('data-container', 'body')
@@ -34,7 +34,7 @@ function show_popover_html(html_selector, popover_id, content, title='', placeme
         .attr('data-placement', placement)
         .attr('data-content', content);
 
-    $('#' + popover_id).popover('show').popover('disable');
+    $('.' + popover_id).popover('show').popover('disable');
 }
 
 
@@ -47,7 +47,7 @@ function show_popover(ISO, popover_id, content, title='', placement='top') {
         .attr('r', '5')
         .attr('opacity', 0)
         .attr('transform', 'translate(' + point[0] + ',' + point[1] +')')
-        .attr('id', popover_id)
+        .classed(popover_id, true)
         .attr('data-toggle', 'popover')
         .attr('data-container', 'body')
         .attr('title', title)
@@ -55,11 +55,11 @@ function show_popover(ISO, popover_id, content, title='', placement='top') {
         .attr('data-placement', placement)
         .attr('data-content', content);
 
-    $('#' + popover_id).popover('show').popover('disable');
+    $('.' + popover_id).popover('show').popover('disable');
 }
 
 function hide_popover(popover_id) {
-    $('#'+popover_id).popover('hide')
+    $('.'+popover_id).popover('hide')
 }
 
 function get_country_name(ISO) {
