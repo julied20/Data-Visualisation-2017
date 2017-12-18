@@ -157,8 +157,9 @@ function change_story(new_story) {
     // Remove all popovers
     $('.popover').popover('dispose');
 
-    // Desactivate country_card
+    // Desactivate country_card & price_card
     desactivate_country_card();
+    desactivate_price_card();
 
     current_story = new_story;
     story_data = stories_data[current_story];

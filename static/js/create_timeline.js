@@ -80,25 +80,10 @@ function get_colors() {
 }
 
 function update_timeline() {
-    let years = get_country_data("WLD").years;
-    let trades = get_country_data("WLD").trades;
-
-    let zipped = [];
-
-    for(let i = 0; i < years.length; ++i) {
-      zipped.push({
-          year: years[i],
-          trade: trades[i]
-      });
-    }
-
-    zipped.sort(function(left, right) {
-      return left.year === right.year ? 0 : (left.year < right.year ? -1 : 1);
-    });
-
-    years = zipped.map(function(d) { return d.year });
-    trades = zipped.map(function(d) { return d.trade });
-
+    const country_data = get_country_data("WLD");
+    let years = country_data.years;
+    let trades = country_data.trades;
+    let weights = country_data.weights;
 
     [background_color, border_color] = get_colors();
 

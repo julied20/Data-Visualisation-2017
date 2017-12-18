@@ -155,50 +155,19 @@ function update_country_card(country=null) {
         }
     }
 
-    if (show_quinoa_weight) {
-        // Loads the weights for the quinoa story
-        let weights_data = stories_data[current_story]
-            .filter(x => x.PartnerISO == "WLD");
-
-        let weights = weights_data.map(function(d) { return d.Weight });
-
-        country_card_chart.data = {
-            labels: years,
-            datasets: [{
-                label: 'Value of trades ($)',
-                data: trades,
-                backgroundColor: background_color,
-                borderColor: border_color,
-                borderWidth: 1,
-                pointStyle: 'circle',//point_style,
-                pointBorderColor: point_border_colors,
-                pointBackgroundColor: point_background_colors
-            },{
-                label: 'Value of weights (kg)',
-                data: weights,
-                backgroundColor: border_color,
-                borderColor: border_color,
-                borderWidth: 1,
-                pointStyle: 'circle',//point_style,
-                pointBorderColor: point_border_colors,
-                pointBackgroundColor: point_background_colors
-            }]
-        };
-    } else {
-        country_card_chart.data = {
-            labels: years,
-            datasets: [{
-                label: 'Value of trades ($)',
-                data: trades,
-                backgroundColor: background_color,
-                borderColor: border_color,
-                borderWidth: 1,
-                pointStyle: 'circle',//point_style,
-                pointBorderColor: point_border_colors,
-                pointBackgroundColor: point_background_colors
-            }]
-        };
-    }
+    country_card_chart.data = {
+        labels: years,
+        datasets: [{
+            label: 'Value of trades ($)',
+            data: trades,
+            backgroundColor: background_color,
+            borderColor: border_color,
+            borderWidth: 1,
+            pointStyle: 'circle',//point_style,
+            pointBorderColor: point_border_colors,
+            pointBackgroundColor: point_background_colors
+        }]
+    };
 
     country_card_chart.update();
 }

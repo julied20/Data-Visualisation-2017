@@ -119,6 +119,7 @@ function get_country_data(countryISO3) {
     let data = {
         years: country_data.map(function(d) { return d.Year }),
         trades: country_data.map(function(d) { return d.Value }),
+        weights: country_data.map(function(d) { return d.Weight }),
     };
 
     return data

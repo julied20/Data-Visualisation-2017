@@ -1,8 +1,6 @@
 let current_story = 0;
 let stories_data = [];
 
-let show_quinoa_weight = false;
-
 class StoryAnimation {
     constructor(steps) {
         this.current_step = 0;
@@ -101,12 +99,16 @@ const stories_animations = [
             hide_popover('fr_popover_5');
             zoom_to_coords(...france_world_boundaries);
             show_popover('USA', 'fr_popover_6', 'Throughout all these years, USA is among the biggest french wine importers.', 'USA wine import', 'bottom');
-            roll_years(300, 2011, null, true, function() {
-                setTimeout(() => {
-                    show_popover_html('#next_story_button', 'fr_popover_6', 'Go see the next story about Peruvian Quinoa!', title='', placement='left');
-                }, 800);
-            });
+            roll_years(300, 2011, null);
         },
+        () => {
+            hide_popover('fr_popover_6');
+            activate_price_card();
+            update_price_card();
+            setTimeout(() => {
+                show_popover_html('#next_story_button', 'fr_popover_6', 'Go see the next story about Peruvian Quinoa!', title='', placement='left');
+            }, 800);
+        }
     ]),
     new StoryAnimation([
         () => { zoom_to_coords(...peru_world_boundaries); },
@@ -120,7 +122,7 @@ const stories_animations = [
             desactivate_country_card()
             hide_popover('per_popover_1');
             zoom_to_coords(...peru_europe_boundaries);
-            roll_years(300, null, 2014, true, function() {
+            roll_years(500, null, 2014, true, function() {
                 activate_country_card()
                 update_country_card(get_country('NLD'));
                 show_popover('NLD', 'per_popover_2', 'Text about Netherlands.', 'Netherlands quinoa import', 'right');
@@ -130,21 +132,15 @@ const stories_animations = [
              desactivate_country_card();
              hide_popover('per_popover_2');
              zoom_to_coords(...peru_world_boundaries);
-             roll_years(300, null, null, true, function() {
-                 show_quinoa_weight = true;
-                 activate_country_card();
-                 update_country_card(get_country('USA'));
-                 show_popover_html('#country_card_canvas', 'per_popover_3', 'Text about Quinoa weight/price comparison', '', 'left');
+             roll_years(500, 2014, null, true, function() {
+                 setTimeout(() => {
+                     activate_price_card();
+                     update_price_card();
+                     show_popover_html('#price_card_canvas', 'per_popover_3', 'Text about Quinoa price over time', '', 'right');
+                     show_popover_html('#next_story_button', 'per_popover_4', 'Go see the next story about Indonesian palm oil!', title='', placement='left');
+                 }, 800);
                });
          },
-         () => {
-             desactivate_country_card();
-             show_quinoa_weight = false;
-             hide_popover('per_popover_3');
-             zoom_to_coords(...peru_europe_boundaries);
-         },
-
-
     ]),
     new StoryAnimation([
         () => { zoom_to_coords(...indonesia_world_boundaries); },

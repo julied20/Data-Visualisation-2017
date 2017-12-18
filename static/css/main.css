@@ -47,6 +47,14 @@
     opacity: .9;
 }
 
+#price_card {
+    width: 20rem;
+    position: absolute;
+    top: 10%;
+    z-index: 500;
+    opacity: .9;
+}
+
 #country_card_year {
     font-weight: bold;
 }
