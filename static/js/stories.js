@@ -89,13 +89,13 @@ const stories_animations = [
             roll_years(300, 1998, 2011, true, function () {
                 activate_country_card();
                 update_country_card(get_country('CHN'));
-                show_popover('CHN', 'fr_popover_4', 'Text about China.', 'China wine import', 'left');
+                show_popover('CHN', 'fr_popover_4', '<p>A number of factors have contributed to the increase in wine consumption and hence wine imports in recent years. The average wine consumer in China tends to be college educated, and in 2011, <b>nearly six million people graduated from universities and colleges, up from just one million in 2001.</b></p> <p>The average wine consumer also comprises a relatively wealthy part of a growing middle and upper income class. Education and income growth coupled with an overall change in consumer behaviour, growing health awareness and an increasing demand for a modern lifestyle suggest a persistent change in Chinese wine demand over the last decade.</p> <a href="http://onlinelibrary.wiley.com/doi/10.1111/1467-8489.12029/full" target="_blank">[The evolution of foreign wine demand in China]</a>', 'China wine import', 'left');
             });
         },
         () => {
             update_country_card(get_country('HKG'));
             hide_popover('fr_popover_4');
-            show_popover('HKG', 'fr_popover_5', 'Text about HK.', 'Hong Kong wine import', 'left');
+            show_popover('HKG', 'fr_popover_5', '<p>Hong Kong has a significant pool of experienced fine wine merchants with good wine knowledge and international wine trade experience. Amid the growing demand for wine in Asia, the Hong Kong government removed all duty-related customs and administrative controls for wine in February 2008 to facilitate the development of Hong Kong as a wine trading and distribution centre for the region, particularly the Chinese mainland.  <a href="http://hong-kong-economy-research.hktdc.com/business-news/article/Hong-Kong-Industry-Profiles/Wine-Industry-in-Hong-Kong/hkip/en/1/1X000000/1X07WNW7.htm" target="_blank">[Hong Kong Economy Research]</a></p>', 'Hong Kong wine import', 'left');
         },
         () => {
             desactivate_country_card();
@@ -153,8 +153,8 @@ const stories_animations = [
         () => {
             zoom_to_coords(...indonesia_europe_boundaries);
             roll_years(300, null, 2008, true, function() {
-                show_popover('FRA', 'indo_popover_1', 'Text about Europe imports (Italia / Netherland).', 'Europe palm oil import', 'left');
-                show_popover('IND', 'indo_popover_2', 'Text about Indian imports.', 'India palm oil import', 'left');
+                show_popover('FRA', 'indo_popover_1', '<p>Europe is a core consumer goods manufacturing and retail market for certified sustainable palm oil (CSPO). USDA data for the EU-27 countries shows imports of 6.7 million metric tonnes and consumption of 6.5 million metric tonnes in 2015, making it the second largest market for imports after India, and the fourth largest for domestic consumption after India, Indonesia, and China. </p> <a href="https://www.sustainablepalmoil.org/europe/" target="_blank">[Sustainable Palm Oil]</a>', 'Europe palm oil import', 'left');
+                show_popover('IND', 'indo_popover_2', '<p>India is the biggest pal oil importer</p>', 'India palm oil import', 'left');
             });
         },
         () => {
@@ -173,7 +173,7 @@ const stories_animations = [
         () => {
             hide_popover('indo_popover_4');
             update_country_card(get_country('IND'));
-            show_popover('IND', 'indo_popover_5', 'Text about Indian imports', 'Indian palm oil import', 'left');
+            show_popover('IND', 'indo_popover_5', '<p>India’s imports are traditionally <b>dominated by crude oils</b> which are then refined for the domestic market. But moves by Indonesia to put higher taxes on exports of crude palm oil than refined products - an effort to promote domestic refining industries - made imports of refined products cheaper for India.</p> <a href="https://www.reuters.com/article/india-palmoil-imports/indias-refined-palm-oil-imports-to-fall-as-duty-change-makes-crude-palm-cheaper-idINKCN1AY0LA" target="_blank">[Reuters]</a>', 'Indian palm oil import', 'left');
         },
         () => {
             hide_popover('indo_popover_5');
@@ -182,7 +182,9 @@ const stories_animations = [
             roll_years(300, 2008, null);
         },
         () => {
-                show_popover('MAR', 'indo_popover_6', 'Text about Global palm oil imports. Orangutans. All that', 'Global palm oil import', 'left');
+                activate_price_card();
+                update_price_card();
+                show_popover('MAR', 'indo_popover_6', '<p><b>Palm oil plantations "threaten Indonesia\'s orangutans"</b> Orangutans are believed to be increasingly under threat from palm oil plantations in Indonesia. A recent survey found that between 2008 and 2009, more than 750 orangutans were killed by Indonesian villagers working near or on palm oil plantations.</p> <a href="http://www.bbc.com/news/av/science-environment-16336645/palm-oil-plantations-threaten-indonesia-s-orangutans" target="_blank">[BBC News]</a>', 'Global palm oil import', 'bottom');
                 setTimeout(() => {
                     show_popover_html('#explore_data_button', 'indo_popover_7', 'Go explore the data!', title='', placement='left');
                 }, 800);
@@ -223,7 +225,7 @@ const stories = [
         "rgba(63, 191, 63, 1)",
         8,
         false,
-        '<p> Palm oil is one of the world\'s most produced and consumed oils. This cheap, production-efficient and highly stable oil is used in a wide variety of food, cosmetic and hygiene products, and can be used as source for bio-fuel or biodiesel. Most palm oil is produced in Asia, Africa and South America because the trees require warm temperatures, sunshine and plenty of rain in order to maximize production. </p> <a href="https://www.indonesia-investments.com/business/commodities/palm-oil/item166?" target="_blank">[Indonesia Investments]</a>',
+        '<p> Palm oil is one of the world\'s most produced and consumed oils. This cheap, production-efficient and highly stable oil is used in a wide variety of food, cosmetic and hygiene products, and can be used as source for bio-fuel or biodiesel. Most palm oil is produced in Asia, Africa and South America because the trees require warm temperatures, sunshine and plenty of rain in order to maximize production. </p> <p>You can find it nearly everywhere, from pizza dough to detergents to ice cream, and even in biodiesel and instant noodles. In fact, 50 percent of packaged food items in American supermarkets contain it. </p> <p> But the steadily increasing demand for palm oil, not just in the United States but also around the world, threatens the future of wild orangutans. In Borneo, where the vast majority of orangutans live, their population has declined by 80 percent over the last 75 years </p> <a href="https://www.indonesia-investments.com/business/commodities/palm-oil/item166?" target="_blank">[Indonesia Investments]</a> <a href="https://www.nytimes.com/2017/11/09/learning/lesson-plans/endangered-orangutans-and-the-palm-oil-industry-an-environmental-science-case-study.html" target="_blank">[NY Times]</a>',
         "static/img/palm.jpeg"
     ),
     new Story(
