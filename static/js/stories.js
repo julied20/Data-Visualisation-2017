@@ -210,7 +210,7 @@ const stories = [
         10,
         false,
         '<p> Quinoa has not stopped it from taking over salads in kitchens, cafés and supermarkets.</p> <p> The grain used to be the preserve of Andean peasants, but is now hailed for its high protein content by opinion-formers from Oprah Winfrey to the United Nations. Some even celebrated 2013 as the International Year of Quinoa.</p> <p>Before Western consumers developed a taste for quinoa, it was mostly produced by poor farmers in the Andes—in the harsh mountain conditions, not much else would grow.</p> <p>Bolivia was the main exporter; in Peru producers were largely producing it to eat themselves, consuming around three quarters of what they produced in 2004.</p> <p> But as the rich world discovered the grain, demand outstripped supply. At the peak of the boom, quinoa was going for $6 or $7 a kilogram, more than triple the pre-fad rate. </p> <a href="https://www.economist.com/blogs/economist-explains/2016/05/economist-explains-17" target="_blank">[The Economist]</a>',
-        "static/img/quinoa.jpg"
+        "static/img/quinoa.jpeg"
     ),
     new Story(
         "Indonesia",
