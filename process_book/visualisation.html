@@ -97,7 +97,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<h1 class="intro-lead">First Visualisation</h1>
+						<h1 class="intro-lead">Enhanced Visualisation</h1>
 						<p class="">By Sylvain Beaud, Julie Djeffal & Timothée Lottaz</p>
 					</div>
 				</div>
@@ -110,115 +110,63 @@
 					<div class="col-md-10 col-md-offset-1">
 						<div class="row">
 							<div class="col-md-3 col-md-push-9 animate-box">
-								<h3>Trouver Quelque chose à mettre là</h3>
-								<p>
-									Par exemple une citation
-								</p>
 								<ul class="fh5co-list-check">
-									<li>Et là pourquoi pas</li>
-									<li>Un retour à la page</li>
-									<li>principale</li>
-									<li>anchor au point suivant?</li>
+									<li><a href="index.html">Go back to the overview</a></li>
+									<li><a href="index.html#first_datastories">Go to the next section</a></li>
 								</ul>
 							</div>
 							<div class="col-md-9 col-md-pull-3">
-								<h1 class="animate-box"> First Visualisation </h1>
+								<h1 class="animate-box">User Interface</h1>
 								<p class="animate-box">
-									We created a first version of our map using
-						      <a href="http://datamaps.github.io/">Datamaps</a>.
+                                    We added some user interface elements to enable
+                                    the navigation between the stories we decided
+                                    to show. We introduced an information pane on
+                                    the right of the screen to display a summary
+                                    of the main data. We also changed the display
+                                    of the main traders on the map according the
+                                    decision stated above.
 								</p>
-								<img class="animate-box" id = 'datamap' src="images/datamap_version.jpg" alt="DataMap">
-								<h1 class="animate-box">Second map version</h1>
+								<img class="animate-box map_images" id = 'user_interface' src="images/stories_version1.jpg" alt="Info_panel_1">
+								<h1 class="animate-box">Interactivity</h1>
 								<p class="animate-box">
-									After some discussions with the professor, we decided to abandon the
-					        Datamaps library to use Cytoscape on top of a standard topojson map.
-					        So we decided to implement each part separately and merge them together
-					        later.
+
 							  </p>
-								<h2 class="animate-box">Implementation of Cytoscape</h2>
+								<h3 class="animate-box">The Timeline</h3>
 								<p class="animate-box">
-									We decided to use Cytoscape to create the graph representing the trades
-					        interactions. There were a few issues to solve at this point, first we
-					        had to find a way to bound the map to the graph to enable zooming and
-					        panning. Then, we had to make a choice about the obvious tradoff
-					        between the amount of information and edges to display and the
-					        readability of the graph. We decided, for the time being, to fix an
-					        arbitrary threshold to discriminate between the main importers of a
-					        given product and the rest of the countries.
+									The next step was the implementation of a timeline showing
+                                    the total of exports by year related to a given
+                                    story. We added some interactions so that the user
+                                    can select a specific year and the associated data
+                                    will be displayed on the map. At this point, we
+                                    decided to get ride off the information pane and
+                                    to replace it by a tooltip as explained in the
+                                    next section.
 								</p>
-								<img class="animate-box" id = 'cytoscape' src="images/cytoscape.jpg" alt="Cytoscape">
-							</div>
+                                <img class="animate-box map_images" src="images/timeline_1.jpg" alt="Timeline">
+                                <h3 class="animate-box">The Tooltip</h3>
+                                <p class="animate-box">
+                                    For the project prototype step, we added a tooltip
+                                    which shows the content of the information pane
+                                    for each country. We focused our attention on
+                                    improving the esthetic aspect of our visualisation
+                                    by making the map more colorful, adding a loader,
+                                    changing the tooltip so that the proportion of each
+                                    country relatively to the world total exports is
+                                    displayed.
+                                </p>
+                                <img class="animate-box map_images" src="images/current_map_2.jpg" alt="Timeline1">
+                            </div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-
-		<div id="fh5co-services">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-10 col-md-offset-1">
-						<div class="row">
-							<h2 class="section-lead text-center">Features</h2>
-							<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service">
-								<div class="fh5co-icon to-animate"><i class="icon-present"></i></div>
-								<div class="fh5co-desc">
-									<h3>100% Free</h3>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-								</div>
-							</div>
-							<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service">
-								<div class="fh5co-icon to-animate"><i class="icon-eye"></i></div>
-								<div class="fh5co-desc">
-									<h3>Retina Ready</h3>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-								</div>
-							</div>
-							<div class="clearfix visible-sm-block visible-xs-block"></div>
-							<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service">
-								<div class="fh5co-icon to-animate"><i class="icon-crop"></i></div>
-								<div class="fh5co-desc">
-									<h3>Fully Responsive</h3>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-								</div>
-							</div>
-
-							<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service">
-								<div class="fh5co-icon to-animate"><i class="icon-speedometer"></i></div>
-								<div class="fh5co-desc">
-									<h3>Lightweight</h3>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-								</div>
-							</div>
-							<div class="clearfix visible-sm-block visible-xs-block"></div>
-							<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service">
-								<div class="fh5co-icon to-animate"><i class="icon-heart"></i></div>
-								<div class="fh5co-desc">
-									<h3>Made with Love</h3>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-								</div>
-							</div>
-							<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service">
-								<div class="fh5co-icon to-animate"><i class="icon-umbrella"></i></div>
-								<div class="fh5co-desc">
-									<h3>Eco Friendly</h3>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-								</div>
-							</div>
-							<div class="clearfix visible-sm-block visible-xs-block"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-	</div>
 
 	<footer id="fh5co-footer">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1 text-center">
-					<p>&copy; Clean Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a></p>
+					<p>&copy; Clean Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a></p>
 				</div>
 			</div>
 		</div>
