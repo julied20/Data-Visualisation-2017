@@ -20,3 +20,33 @@ const projection = d3.geoMercator()
 // Path generator to convert JSON to SVG paths
 const path = d3.geoPath()
     .projection(projection);
+
+const gradient = svg.append("defs")
+    .append("linearGradient")
+    .attr("id", "gradient")
+    .attr("x1", "0%")
+    .attr("y1", "0%")
+    .attr("x2", "100%")
+    .attr("y2", "100%")
+    .attr("spreadMethod", "pad");
+
+gradient.append("stop")
+    .attr('offset', '0%')
+    .attr('stop-color', '#f2f2f2');
+
+gradient.append("stop")
+    .attr('offset', '100%')
+    .attr('stop-color', '#5e5e5e');
+
+svg.append('rect')
+    .attr('id', 'legend')
+    .attr('width', 200)
+    .attr('height', 20)
+    .style("fill", "url(#gradient)")
+svg.append('text')
+    .attr('position', 'relative')
+    .attr('x', '70%')
+    .attr('y', '84%')
+    .attr('z-index', '500')
+    .attr("dy", "5em")
+    .text('Importance of trades')
