@@ -1,14 +1,14 @@
 // Create the country card panel on the side, to show import graph and current
 // year information
 
-let country_card = d3.select('#country_card');
-let card_title = d3.select('#country_card_title');
-let card_subtitle = d3.select('#country_card_subtitle');
-let card_year = d3.select('#country_card_year');
-let card_trade_value = d3.select('#country_card_trade_value');
-let card_trade_percent = d3.select('#country_card_trade_percent');
-let card_trade_rank = d3.select('#country_card_trade_rank');
-let card_close_cross = d3.select('#country_card_close');
+const country_card = d3.select('#country_card');
+const card_title = d3.select('#country_card_title');
+const card_subtitle = d3.select('#country_card_subtitle');
+const card_year = d3.select('#country_card_year');
+const card_trade_value = d3.select('#country_card_trade_value');
+const card_trade_percent = d3.select('#country_card_trade_percent');
+const card_trade_rank = d3.select('#country_card_trade_rank');
+const card_close_cross = d3.select('#country_card_close');
 
 // Cross to close the card
 card_close_cross.on('click', function() {
@@ -25,10 +25,10 @@ let selected_country;
 let country_card_activated = false;
 
 // Canvas for import graphs
-let ctx_import_graph = document.getElementById("country_card_canvas").getContext('2d');
+const ctx_import_graph = document.getElementById("country_card_canvas").getContext('2d');
 
 // Line chart for import graphs
-let country_card_chart = new Chart(ctx_import_graph, {
+const country_card_chart = new Chart(ctx_import_graph, {
     type: 'line',
     data: {},
     options:{

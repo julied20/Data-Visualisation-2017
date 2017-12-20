@@ -1,6 +1,6 @@
 
-let ctx = document.getElementById("timeline").getContext('2d');
-let timeline_chart = new Chart(ctx, {
+const ctx_timeline = document.getElementById("timeline").getContext('2d');
+const timeline_chart = new Chart(ctx_timeline, {
     type: 'bar',
     data: {},
     options:{
@@ -28,30 +28,35 @@ let timeline_chart = new Chart(ctx, {
             onClick: null
         },
         maintainAspectRatio: false,
-        onClick: function(e){
-          if(!story_mode){
-            let element = this.getElementAtEvent(e);
-            if (element[0] != undefined) {
-                let index = element[0]._index;
-                change_year(years[index]);
+        // Clickable bars to change year
+        onClick: function(e) {
+            // Disable controls if in story mode
+            if (!story_mode) {
+                let element = this.getElementAtEvent(e);
+                if (element[0] != undefined) {
+                    let index = element[0]._index;
+                    change_year(years[index]);
+                }
             }
-          }
         },
-        onHover: function(e){
-          if(!story_mode){
-            let element = this.getElementAtEvent(e);
-            if (element[0] != undefined) {
-                d3.select('#timeline')
-                    .style('cursor', 'pointer')
-            } else {
-                d3.select('#timeline')
-                    .style('cursor', 'default')
+        // Hack to show a pointer cursor on clickable chart elements
+        onHover: function(e) {
+            // Disable controls if in story mode
+            if(!story_mode) {
+                let element = this.getElementAtEvent(e);
+                if (element[0] != undefined) {
+                    d3.select('#timeline')
+                        .style('cursor', 'pointer')
+                } else {
+                    d3.select('#timeline')
+                        .style('cursor', 'default')
+                }
             }
-          }
         },
     }
 });
 
+// Update the timeline data after a change_year.
 function timeline_year_changed(year) {
     if (timeline_chart.data.datasets.length >= 1) {
         const year_index = year - years[0];
@@ -70,6 +75,7 @@ function timeline_year_changed(year) {
     }
 }
 
+// Returns the background and border color of current sorty
 function get_colors() {
     let background_color = d3.color(stories[current_story].color);
     let border_color = d3.color(stories[current_story].color);
@@ -79,6 +85,7 @@ function get_colors() {
     return [background_color, border_color]
 }
 
+// Update the timeline with new data, for example after a story change
 function update_timeline() {
     const country_data = get_country_data("WLD");
     let years = country_data.years;
@@ -87,15 +94,16 @@ function update_timeline() {
 
     [background_color, border_color] = get_colors();
 
-
     let background_colors = [];
-
+    // First year selected by default
     background_colors.push(border_color);
 
-    for(let i = 1; i < years.length; ++i) {
+    // The other years are not selected
+    for (let i = 1; i < years.length; ++i) {
         background_colors.push(background_color);
     }
 
+    // Push constructed data to the chart
     timeline_chart.data = {
         labels: years,
         datasets: [{
@@ -108,5 +116,6 @@ function update_timeline() {
         }],
     };
 
+    // Refresh the chart
     timeline_chart.update();
 }
