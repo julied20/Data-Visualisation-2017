@@ -55,33 +55,6 @@ d3.json("static/home_graph_data.json", function(error, graph) {
             .attr('height', (d) => { return d.size * 1.2 + "px" })
             .attr('xlink:href', (d) => {return 'static/img/icons/' + d.icon})
 
-
-    // nodes.append("text")
-    //     .attr('class', 'icon')
-    //     .style('font-size', function (d) {
-    //          if (d.id == "Visualisation") {
-    //              return '80px';
-    //          } else {
-    //              return '40px';
-    //          }
-    //     })
-    //     .attr('x', function (d) {
-    //         if (d.id == "Visualisation") {
-    //             return '-33';
-    //         } else {
-    //             return '-16';
-    //         }
-    //     })
-    //     .attr('y', function (d) {
-    //         if (d.id == "Visualisation") {
-    //             return '26';
-    //         } else {
-    //             return '12';
-    //         }
-    //     })
-    //     .attr('fill', 'white')
-    //     .html(function(d) { return d.icon })
-
     let node = nodes.selectAll('circle')
     let label = nodes.selectAll('text')
     let icons = nodes.selectAll('image')
