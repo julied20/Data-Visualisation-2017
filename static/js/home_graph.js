@@ -60,9 +60,9 @@ d3.json("static/home_graph_data.json", function(error, graph) {
         .attr('class', 'icon')
         .style('font-size', function (d) {
              if (d.id == "Visualisation") {
-                 return 80;
+                 return '80px';
              } else {
-                 return 40;
+                 return '40px';
              }
         })
         .attr('x', function (d) {
