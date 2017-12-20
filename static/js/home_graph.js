@@ -28,15 +28,15 @@ d3.json("static/home_graph_data.json", function(error, graph) {
         .style('cursor', 'pointer')
             .attr('href', function(d) { return d.link })
         .append('g')
+        .call(d3.drag()
+            .on("start", dragstarted)
+            .on("drag", dragged)
+            .on("end", dragended));
 
 
     nodes.append('circle')
           .attr("r", (d) => { return d.size })
           .attr("fill", "rgba(203, 56, 85, 1)")
-          .call(d3.drag()
-              .on("start", dragstarted)
-              .on("drag", dragged)
-              .on("end", dragended));
 
     nodes.append("text")
         .attr('class', 'label')
@@ -54,10 +54,7 @@ d3.json("static/home_graph_data.json", function(error, graph) {
             .attr('width', (d) => { return d.size * 1.2 + "px" })
             .attr('height', (d) => { return d.size * 1.2 + "px" })
             .attr('xlink:href', (d) => {return 'static/img/icons/' + d.icon})
-            .call(d3.drag()
-                .on("start", dragstarted)
-                .on("drag", dragged)
-                .on("end", dragended));
+
 
     // nodes.append("text")
     //     .attr('class', 'icon')
