@@ -57,8 +57,14 @@ const indonesia_europe_boundaries = [[61, -30], [-6, 125]];
 const stories_animations = [
     // France
     new StoryAnimation([
-        () => { zoom_to_coords(...france_world_boundaries); },
-        () => { zoom_to_coords(...france_europe_boundaries); },
+        () => {
+            zoom_to_coords(...france_world_boundaries);
+            show_popover('BRA', 'fr_popover_0', '<p>Each country is colored depending on the value of the imported product. The brighter it is, the lesser it imports</p>')
+        },
+        () => {
+            hide_popover('fr_popover_0');
+            zoom_to_coords(...france_europe_boundaries);
+        },
         () => {
 
             show_popover('FRA', 'fr_popover_1', '<p><b>Europe</b> is the continent where people drink the most wine.</p> <p> French wine is clearly being exported all around Europe. Among its importers, England was the 2nd largest one, but got caught up by the USA in 2015.</p>' , 'Europe import', 'bottom');
