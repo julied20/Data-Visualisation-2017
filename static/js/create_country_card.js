@@ -1,3 +1,6 @@
+// Create the country card panel on the side, to show import graph and current
+// year information
+
 let country_card = d3.select('#country_card');
 let card_title = d3.select('#country_card_title');
 let card_subtitle = d3.select('#country_card_subtitle');
@@ -7,18 +10,25 @@ let card_trade_percent = d3.select('#country_card_trade_percent');
 let card_trade_rank = d3.select('#country_card_trade_rank');
 let card_close_cross = d3.select('#country_card_close');
 
+// Cross to close the card
 card_close_cross.on('click', function() {
+    // Disable controls if in story mode
     if (!story_mode) {
         desactivate_country_card();
     }
 });
 
+// Holds last selected country
 let selected_country;
+
+// true if card is shown
 let country_card_activated = false;
 
+// Canvas for import graphs
+let ctx_import_graph = document.getElementById("country_card_canvas").getContext('2d');
 
-let ctx_country_card = document.getElementById("country_card_canvas").getContext('2d');
-let country_card_chart = new Chart(ctx_country_card, {
+// Line chart for import graphs
+let country_card_chart = new Chart(ctx_import_graph, {
     type: 'line',
     data: {},
     options:{
@@ -32,7 +42,9 @@ let country_card_chart = new Chart(ctx_country_card, {
                 }
             }]
         },
+        // Clickable points to change year
         onClick: function(e){
+            // Disable controls if in story mode
             if(!story_mode) {
               let element = this.getElementAtEvent(e);
               if (element[0] != undefined) {
@@ -41,6 +53,7 @@ let country_card_chart = new Chart(ctx_country_card, {
               }
             }
         },
+        // Hack to show a pointer cursor on clickable chart elements
         onHover: function(e){
             let element = this.getElementAtEvent(e);
             if (element[0] != undefined) {
@@ -55,11 +68,13 @@ let country_card_chart = new Chart(ctx_country_card, {
     }
 });
 
+// Show the country card
 function activate_country_card() {
     country_card.attr('class', 'card');
     country_card_activated = true;
 }
 
+// Hide the country card
 function desactivate_country_card() {
     country_card.attr('class', 'invisible');
     country_card_activated = false;
@@ -68,8 +83,9 @@ function desactivate_country_card() {
     }
 }
 
+// Update the country card, after a change of year or the selection of a country
 function update_country_card(country=null) {
-    // Do not need to update if the country card is disactivated
+    // Do not need to update if the country card is hidden
     if (country_card_activated == false) {
         return;
     }
@@ -77,17 +93,21 @@ function update_country_card(country=null) {
     // If no country provided, use previously selected country
     if (country == null) {
         country = selected_country;
-    // If country provided, use this as selected country
-    } else {
+    }
+    // If country provided, use it as selected country
+    else {
+        // First unselect previously selected country
         if (selected_country != null) {
             selected_country.is_selected = false;
             update_paths(selected_country.svg_path.data([selected_country]));
         }
+        // Then select new country
         country.is_selected = true;
         update_paths(country.svg_path.data([country]));
         selected_country = country;
     }
 
+    // Update html fields with the new informations
     const story = stories[current_story];
     card_title.text(country.name);
     card_subtitle.text(story.product_name + " imports - " + story.country_name);
@@ -98,6 +118,8 @@ function update_country_card(country=null) {
 
     let rank = get_country_rank(country.ISO3);
 
+    /* Rank is not defined for some countries, for instance if they have
+    no trade */
     if(rank == -1) {
         card_trade_rank.text("NA");
     } else {
@@ -109,6 +131,9 @@ function update_country_card(country=null) {
     let years = country_data.years;
     let trades = country_data.trades;
 
+    /* Get years for World import since these imports always exist.
+    It allows to always have all years on the x-axis.
+    */
     const story_year = get_country_data("WLD").years;
     let graph_data = [];
 
@@ -117,6 +142,7 @@ function update_country_card(country=null) {
         trades_per_year['year'] = story_year[i];
         const year_index = years.indexOf(story_year[i]);
 
+        // Put zero for trade if years does not contain year <i>
         if (year_index == -1) {
             trades_per_year['trade'] = 0;
             graph_data.push(trades_per_year)
@@ -155,6 +181,7 @@ function update_country_card(country=null) {
         }
     }
 
+    // Push constructed data into the graph
     country_card_chart.data = {
         labels: years,
         datasets: [{
@@ -169,5 +196,6 @@ function update_country_card(country=null) {
         }]
     };
 
+    // Refresh graph
     country_card_chart.update();
 }
