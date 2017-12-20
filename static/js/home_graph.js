@@ -54,6 +54,10 @@ d3.json("static/home_graph_data.json", function(error, graph) {
             .attr('width', (d) => { return d.size * 1.2 + "px" })
             .attr('height', (d) => { return d.size * 1.2 + "px" })
             .attr('xlink:href', (d) => {return 'static/img/icons/' + d.icon})
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended));
 
     // nodes.append("text")
     //     .attr('class', 'icon')
