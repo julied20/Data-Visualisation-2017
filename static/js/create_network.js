@@ -1,7 +1,9 @@
+// Create the cytoscape network (trade arrows)
+
+/* Compute threshold above which a country is considered big trader. The sum of
+all the big traders trade covers <value_coverage> of all the trades */
 function compute_big_trader_threshold(data) {
 
-    // Find threshold for values, so that cumulative values cover a given
-    // percentage of the data
     const value_coverage = 0.8
     const total_value = data.filter(x => x.PartnerISO == "WLD")[0].Value
 
@@ -22,11 +24,12 @@ function compute_big_trader_threshold(data) {
     }
 }
 
+// Convenience function to get a country by ISO
 function get_country(ISO) {
     return countries.find(x => find_by_ISO(x, ISO));
 }
 
-// Returns the country for a given ISO
+// Returns country if it matches to corresponding ISO
 function find_by_ISO(country, ISO) {
     if (country.ISO3 == ISO) {
       return country
@@ -42,6 +45,7 @@ function get_trades_total() {
     return total_trades;
 }
 
+// Return the minimum and maximum trade among the big traders
 function min_max_bigtraders() {
     min = Number.MAX_SAFE_INTEGER;
     max = 0;
@@ -63,33 +67,38 @@ function min_max_bigtraders() {
 }
 
 // Computes the weight of the edge proportionally to the value of the trade and
-// and the zoom_level
+// the zoom_level
 function get_arrow_weight(ISO, zoom_level) {
     let country = countries.find(x => find_by_ISO(x, ISO));
-    let weight = (1/zoom_level) * arrow_weight_scale(country.trade_value);
+    let weight = (1 / zoom_level) * arrow_weight_scale(country.trade_value);
     return weight;
 }
 
 // Compute the distance for the control-point of the bezier curve
 function get_control_point_distance(source_geo, target_geo) {
+    // Distance between source and target
     let dist = Math.sqrt(
         Math.pow(source_geo.x - target_geo.x,2) +
         Math.pow(source_geo.y - target_geo.y,2));
 
-    return 1/3 * Math.pow(dist,2/3) * 0.02 * (source_geo.x - target_geo.x);;
-
+    /* Magic numbers that make a nice curve, taking account the distance with
+    a 2 / 3 power (scales nicely), some constants, and the signed x-distance
+    between source and target so that all arrows curve to the north*/
+    return 1 / 3 * Math.pow(dist, 2 / 3) * 0.02 * (source_geo.x - target_geo.x);
 }
 
 // Big traders list
 let bigtraders = [];
 
+// Cytoscape object for network
 let cy = cytoscape({
       container: document.getElementById('network_div'),
       style: [
         {
           selector: 'node',
           style: {
-      //      'label': 'data(id)',
+            /* Almost invisible nodes works better than invisible nodes, for an
+            obscure reason*/
             'width': 0.01,
             'height' : 0.01
           }
@@ -97,14 +106,12 @@ let cy = cytoscape({
         {
           selector: 'edge',
           style: {
-    //        'label' : 'data(id)',
             'curve-style': 'unbundled-bezier',
             'control-point-distances': e => get_control_point_distance(
                 e.source().position(),e.target().position()),
             'control-point-weights': '0.5',
             'edge-distances': 'node-position',
             'target-arrow-shape': 'triangle',
-
             'target-arrow-color': e => stories[current_story].color,
             'arrow-scale': 1.2,
             'opacity' : 0.9
@@ -126,12 +133,11 @@ let cy = cytoscape({
           name: 'preset'
         },
 
-
-        // Manually tweaked value to align the points on the countries
         zoom: 1,
         pan: { x: 0, y: 0 },
 
-        // interaction options:
+        /* No user interaction, since the zoom and pan is mapped to the 
+        d3 events */
         zoomingEnabled: true,
         userZoomingEnabled: false,
         panningEnabled: true,
