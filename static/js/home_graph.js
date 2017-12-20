@@ -31,13 +31,7 @@ d3.json("static/home_graph_data.json", function(error, graph) {
 
 
     nodes.append('circle')
-          .attr("r", function(d) {
-              if (d.id == "Visualisation") {
-                  return 60;
-              } else {
-                  return 35;
-              }
-          })
+          .attr("r", (d) => { return d.size })
           .attr("fill", "rgba(203, 56, 85, 1)")
           .call(d3.drag()
               .on("start", dragstarted)
@@ -56,35 +50,40 @@ d3.json("static/home_graph_data.json", function(error, graph) {
         .attr('y', 0)
         .text(function(d) { return d.id });
 
-    nodes.append("text")
-        .attr('class', 'icon')
-        .style('font-size', function (d) {
-             if (d.id == "Visualisation") {
-                 return '80px';
-             } else {
-                 return '40px';
-             }
-        })
-        .attr('x', function (d) {
-            if (d.id == "Visualisation") {
-                return '-33';
-            } else {
-                return '-16';
-            }
-        })
-        .attr('y', function (d) {
-            if (d.id == "Visualisation") {
-                return '26';
-            } else {
-                return '12';
-            }
-        })
-        .attr('fill', 'white')
-        .html(function(d) { return d.icon })
+        nodes.append('image')
+            .attr('width', (d) => { return d.size * 1.2 + "px" })
+            .attr('height', (d) => { return d.size * 1.2 + "px" })
+            .attr('xlink:href', (d) => {return 'static/img/icons/' + d.icon})
 
-    let node = nodes
-        .selectAll('circle')
+    // nodes.append("text")
+    //     .attr('class', 'icon')
+    //     .style('font-size', function (d) {
+    //          if (d.id == "Visualisation") {
+    //              return '80px';
+    //          } else {
+    //              return '40px';
+    //          }
+    //     })
+    //     .attr('x', function (d) {
+    //         if (d.id == "Visualisation") {
+    //             return '-33';
+    //         } else {
+    //             return '-16';
+    //         }
+    //     })
+    //     .attr('y', function (d) {
+    //         if (d.id == "Visualisation") {
+    //             return '26';
+    //         } else {
+    //             return '12';
+    //         }
+    //     })
+    //     .attr('fill', 'white')
+    //     .html(function(d) { return d.icon })
+
+    let node = nodes.selectAll('circle')
     let label = nodes.selectAll('text')
+    let icons = nodes.selectAll('image')
 
 
 
@@ -108,6 +107,10 @@ d3.json("static/home_graph_data.json", function(error, graph) {
         label
             .attr("dx", function(d) { return d.x; })
             .attr("dy", function(d) { return d.y; });
+
+        icons
+            .attr("x", function(d) { return d.x - d.size * 0.59; })
+            .attr("y", function(d) { return d.y - d.size * 0.59; });
         }
 });
 

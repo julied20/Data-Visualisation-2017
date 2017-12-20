@@ -1,9 +1,9 @@
 {
   "nodes": [
-    {"id": "Visualisation", "link": "core.html", "icon": "&#xf0ac;"},
-    {"id": "Code", "link": "https://github.com/julied20/Data-Visualisation-2017", "icon": "&#xf09b;"},
-    {"id": "Process Book", "link": "process_book/index.html", "icon": "&#xf15c;"},
-    {"id": "Screencast", "link": "", "icon": "&#xf167;"}
+    {"id": "Visualisation", "link": "core.html", "icon": "globe.png", "size": 60},
+    {"id": "Code", "link": "https://github.com/julied20/Data-Visualisation-2017", "icon": "github.png", "size": 35},
+    {"id": "Process Book", "link": "process_book/index.html", "icon": "file-alt.png", "size": 35},
+    {"id": "Screencast", "link": "", "icon": "youtube.png", "size": 35}
   ],
  "links": [
    {"source": "Visualisation", "target": "Code", "value": 200},
