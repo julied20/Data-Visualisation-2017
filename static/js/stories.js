@@ -59,10 +59,14 @@ const stories_animations = [
     new StoryAnimation([
         () => {
             zoom_to_coords(...france_world_boundaries);
-            show_popover('BRA', 'fr_popover_0', '<p>Each country is colored depending on the value of the imported product. The brighter it is, the lesser it imports</p>')
+            show_popover('BRA', 'interface_1', '<p>Each country is colored depending on the value of the imported product. The brighter it is, the lesser it imports</p>')
+            setTimeout(() => {
+                show_popover_html('#next_step_button', 'interface_2', 'Click on the arrow to continue the story', title='', placement='left');
+            }, 1200);
         },
         () => {
-            hide_popover('fr_popover_0');
+            hide_popover('interface_1');
+            hide_popover('interface_2');
             zoom_to_coords(...france_europe_boundaries);
         },
         () => {
