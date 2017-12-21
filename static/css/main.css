@@ -70,18 +70,11 @@
 #explore_nav_dropdown_menu {
     position: absolute;
     left: auto;
-    margin: .125rem -3rem 0;
+    margin: .125rem -6rem 0;
 }
 
 #intro_modal_button_explore {
     margin: auto
-}
-
-#legend {
-    position: relative;
-    x: 70%;
-    y: 95%;
-    z-index: 500;
 }
 
 @-webkit-keyframes spin {

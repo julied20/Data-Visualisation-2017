@@ -22,7 +22,7 @@ stories.forEach((story, index) => {
                 const split_id = this.id.split('_')
                 change_story(parseInt(split_id[split_id.length - 1]));
             })
-            .text(story.product_name);
+            .html('<b>' + story.product_name + '</b> <br> <i>' + story.country_name + '</i>');
 
         nav_exploration_ul
             .append('li')
@@ -36,7 +36,7 @@ stories.forEach((story, index) => {
                     const split_id = this.id.split('_')
                     change_story(parseInt(split_id[split_id.length - 1]));
                 })
-                .text(story.product_name);
+                .html('<b>' + story.product_name + '</b> <br> <i>' + story.country_name + '</i>');
         }
 });
 
@@ -73,7 +73,7 @@ stories.forEach((story, index) => {
                 change_story(parseInt(split_id[split_id.length - 1]));
                 nav_dropdown_menu.attr('display', 'none')
             })
-            .text(story.product_name)
+            .html('<b>' + story.product_name + '</b>  <i>' + story.country_name + '</i>')
         }
 });
 
