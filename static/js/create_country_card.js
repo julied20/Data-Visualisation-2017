@@ -15,6 +15,7 @@ card_close_cross.on('click', function() {
     // Disable controls if in story mode
     if (!story_mode) {
         desactivate_country_card();
+        update_paths(paths);
     }
 });
 
