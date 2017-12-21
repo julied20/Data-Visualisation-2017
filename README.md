@@ -1,6 +1,7 @@
 # Data-Visualisation-2017
 
-You can find the Visualisation, the process book and the screencast here: 
+You can find the Visualisation, the process book and the screencast here:
+
 https://julied20.github.io/Data-Visualisation-2017/
 
 If the links do not work (Safari may have issues), here they are:
