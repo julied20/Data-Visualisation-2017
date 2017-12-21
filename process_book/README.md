@@ -1,5 +1,7 @@
 # Process Book
 
+Old caveat of the process book
+
 ## Project Proposal
 
 ### Overview
@@ -23,7 +25,7 @@ We started by creating some jupyter notebooks to explore, pre-process and clean 
 - Keeping only relevant features
 - Concatenating the datasets to be able to access multiple years.
 
-Then, we created a first version of our map using Datamaps (http://datamaps.github.io/). 
+Then, we created a first version of our map using Datamaps (http://datamaps.github.io/).
 
 <div align = 'center'>
 <img src="images/datamap_version.jpg" width="450" />
