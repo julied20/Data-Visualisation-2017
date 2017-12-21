@@ -3,7 +3,7 @@
     {"id": "Visualisation", "link": "viz.html", "icon": "globe.png", "size": 60},
     {"id": "Code", "link": "https://github.com/julied20/Data-Visualisation-2017", "icon": "github.png", "size": 35},
     {"id": "Process Book", "link": "process_book/index.html", "icon": "file-alt.png", "size": 35},
-    {"id": "Screencast", "link": "", "icon": "youtube.png", "size": 35}
+    {"id": "Screencast", "link": "https://youtu.be/RXe8R1G2hUY", "icon": "youtube.png", "size": 35}
   ],
  "links": [
    {"source": "Visualisation", "target": "Code", "value": 200},
