@@ -51,7 +51,7 @@ function update_price_card() {
     }
 
     const story = stories[current_story];
-    price_card_title.text("Evolution of " + story.product_name + " price per kg");
+    price_card_title.text("Evolution of " + story.product_name + " price/kg");
     price_card_subtitle.text("Price of a kg of " + story.product_name);
 
     let world_data = get_country_data("WLD");
