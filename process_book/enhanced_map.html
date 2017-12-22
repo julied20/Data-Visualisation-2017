@@ -117,7 +117,14 @@
 
                 <h1 class="animate-box">Merging the map and the graph</h1>
 								<p class="animate-box">
-
+									Merging the network of trades with the map was quite a hard task.
+									Since the network of trades (cytoscape) and the map are two different
+									components on top of each other, it was impossible to allow the user
+									to interact with both, without a big hack. We initially wanted to
+									display informations on the countries *and* on the trade arrows.
+									We finally took the choice of keeping it simple, and disable all
+									interactions with the arrows. This way, even the “small importers”
+									can be inspected at will.
 							  </p>
 
 								<h3 class="animate-box">The Timeline</h3>
@@ -142,16 +149,27 @@
 								</p>
               	<img class="animate-box map_images" src="images/current_map_2.jpg" alt="Tooltip">
 
-                <h3 class="animate-box">The Coutry Card</h3>
+                <h3 class="animate-box">The Country Card</h3>
                 <p class="animate-box">
-                  
+									Then, we decided that the easiest way for the user to access the main
+									information related to a country was to add a proper country card
+									which would replace the tooltip. This card shows up when the user
+									clicks on a country and display useful information such as the exact
+									total value of the trades or the country rank for a given year.
+									The graph shown in the country card can also be used to navigate
+									through the years.
 								</p>
 
                 <h3 class="animate-box">The Controls</h3>
                 <p class="animate-box">
-
+									Initially, we wanted the map to be fixed at the world level, to always
+									have an overview of the trades. But we had a problem with the big traders
+									located near the exporter: those arrows are short and large, which
+									makes the whole region a mess. We thus introduced map controls:
+									zooming and panning. It was difficult because we had to map Cytoscape’s
+									zooming function to D3, but when it worked the whole viz was a lot more
+									interactive, and cooler to use!
 								</p>
-
               </div>
 						</div>
 					</div>
