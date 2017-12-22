@@ -106,17 +106,16 @@
 							</div>
 							<div class="col-md-9 col-md-pull-3">
 								<h2 class="animate-box">First user interface</h2>
-								<p class="animate-box">
+								<p class="animate-box text-justify">
 									We added some user interface elements to enable the navigation between
 									the stories we decided to show. We introduced an information pane on
                   the right of the screen to display a summary of the main data.
-									We also changed the display of the main traders on the map according the
-                  decision stated above.
+									We also changed the display of the main traders on the map.
 								</p>
 								<img class="animate-box map_images" id = 'user_interface' src="images/stories_version1.jpg" alt="Info_panel_1">
 
                 <h1 class="animate-box">Merging the map and the graph</h1>
-								<p class="animate-box">
+								<p class="animate-box text-justify">
 									Merging the network of trades with the map was quite a hard task.
 									Since the network of trades (cytoscape) and the map are two different
 									components on top of each other, it was impossible to allow the user
@@ -129,18 +128,19 @@
 								<img class="animate-box map_images" id = 'cytoscape' src="images/cytoscape.jpg" alt="Cytoscape">
 
 								<h3 class="animate-box">The Timeline</h3>
-								<p class="animate-box">
+								<p class="animate-box text-justify">
 									The next step was the implementation of a timeline showing
 									the total of exports by year related to a given story. We added
 									some interactions so that the user can select a specific year and
 									the associated data will be displayed on the map. At this point, we
-                  decided to get ride off the information pane and to replace it by
+                  decided to get rid off the information pane and to replace it by
 									a tooltip as explained in the next section.
 								</p>
                 <img class="animate-box map_images" src="images/timeline_1.jpg" alt="Timeline">
 
                 <h3 class="animate-box">The Tooltip</h3>
-                <p class="animate-box">
+
+                <p class="animate-box text-justify">
 									We wanted informations about "small traders" to also be
 									available. We thus created a tooltip that appears when the mouse
 									is over a country, to inspect it and get simple trade informations.
@@ -153,11 +153,11 @@
               	<img class="animate-box map_images" src="images/current_map_2.jpg" alt="Tooltip">
 
                 <h3 class="animate-box">The Country card</h3>
-                <p class="animate-box">
+                <p class="animate-box text-justify">
 									Then, we decided that the easiest way for the user to access the main
 									information related to a country was to add a proper country card
 									which would replace the tooltip. This card shows up when the user
-									clicks on a country and display useful information such as the exact
+									clicks on a country and displays useful information such as the exact
 									total value of the trades or the country rank for a given year.
 									The graph shown in the country card can also be used to navigate
 									through the years.
@@ -165,14 +165,14 @@
 								<img class="animate-box map_images" src="images/country_card.jpg" alt="Country Card">
 
                 <h3 class="animate-box">The Controls</h3>
-                <p class="animate-box">
+                <p class="animate-box text-justify">
 									Initially, we wanted the map to be fixed at the world level, to always
 									have an overview of the trades. But we had a problem with the big traders
 									located near the exporter: those arrows are short and large, which
 									makes the whole region a mess. We thus introduced map controls:
 									zooming and panning. It was difficult because we had to map Cytoscape’s
-									zooming function to D3, but when it worked the whole viz was a lot more
-									interactive, and cooler to use!
+									zooming function to D3, but when it worked the whole visualisation was a lot more
+									interactive, and cooler to use !
 								</p>
               </div>
 						</div>
