@@ -106,14 +106,14 @@
 							</div>
 							<div class="col-md-9 col-md-pull-3">
 								<h1 class="animate-box"> Data acquisition and cleaning</h1>
-								<p class="animate-box">
+								<p class="animate-box text-justify">
 									We started by creating some jupyter notebooks to explore, pre-process
 									and clean the data we downloaded from the
 									<a href="https://comtrade.un.org/">UN Comtrade Database</a>.
 									For the time being, we choose specific products to be presented
 									in our stories, so we downloaded the data by hand but an API is
 									also available.
-									The data that can be extrated from the
+									The majority of the data that can be extracted from the
 									<a href="https://comtrade.un.org/">UN Comtrade Database</a> are
 									relatively clean. Most of the pre-processing steps can be summed up by:
 								</p>
@@ -124,7 +124,7 @@
 								</ul>
 
                 <h1 class="animate-box">First prototype</h1>
-								<p class="animate-box">
+								<p class="animate-box text-justify">
 									We created a first version of our map using
 						      <a href="http://datamaps.github.io/">Datamaps</a>.
 									Having this first prototype enabled us to assess the relevance of
@@ -134,7 +134,7 @@
 								</p>
 								<img class="animate-box map_images" id = 'datamap' src="images/datamap_version.jpg" alt="DataMap">
 
-								<h2 class="animate-box">First real map</h2>
+								<h2 class="animate-box text-justify">First real map</h2>
                 <p>
 									As soon as we got a clearer plan for the continuation of the project.
 									We switched to customized svg and obtained this simple map.
@@ -142,12 +142,12 @@
 								<img class="animate-box map_images" id = 'first_map' src="images/first_map.jpg" alt="First Map">
 
                 <h2 class="animate-box">First network</h2>
-								<p class="animate-box">
+								<p class="animate-box text-justify">
 									We decided to use Cytoscape to create the graph representing the trades
 					        interactions. There were a few issues to solve at this point, first we
 					        had to map the layout of the graph to the real geographical coordinates
 									of the country. Then, we had to make a choice about the obvious tradoff
-					        between the amount of information and edges to display and the
+					        between the amount of informations and edges to display and the
 					        readability of the graph. We decided, for the time being, to fix an
 					        arbitrary threshold to discriminate between the main importers of a
 					        given product and the rest of the countries. At last but not least,
