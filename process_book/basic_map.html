@@ -107,13 +107,30 @@
 							<div class="col-md-9 col-md-pull-3">
 								<h1 class="animate-box"> Data acquisition and cleaning</h1>
 								<p class="animate-box">
-
+									We started by creating some jupyter notebooks to explore, pre-process
+									and clean the data we downloaded from the
+									<a href="https://comtrade.un.org/">UN Comtrade Database</a>.
+									For the time being, we choose specific products to be presented
+									in our stories, so we downloaded the data by hand but an API is
+									also available.
+									The data that can be extrated from the
+									<a href="https://comtrade.un.org/">UN Comtrade Database</a> are
+									relatively clean. Most of the pre-processing steps can be summed up by:
 								</p>
+								<ul class="animate-box">
+									<li>Selecting data of interest</li>
+									<li>Keeping only relevant features</li>
+									<li>Concatenating the datasets to be able to access multiple years.</li>
+								</ul>
 
-                <h1 class="animate-box">First Prototype</h1>
+                <h1 class="animate-box">First prototype</h1>
 								<p class="animate-box">
 									We created a first version of our map using
 						      <a href="http://datamaps.github.io/">Datamaps</a>.
+									Having this first prototype enabled us to assess the relevance of
+									the preprocessing steps, we had done so far. This first map gave
+									us a concrete base to work on and a better idea of the elements and features
+									which needed to be included later.
 								</p>
 								<img class="animate-box map_images" id = 'datamap' src="images/datamap_version.jpg" alt="DataMap">
 
@@ -122,18 +139,18 @@
 
                 </p>
 
-                <h2 class="animate-box">First Network</h2>
+                <h2 class="animate-box">First network</h2>
 								<p class="animate-box">
 									We decided to use Cytoscape to create the graph representing the trades
 					        interactions. There were a few issues to solve at this point, first we
-					        had to find a way to bound the map to the graph to enable zooming and
-					        panning. Then, we had to make a choice about the obvious tradoff
+					        had to map the layout of the graph to the real geographical coordinates
+									of the country. Then, we had to make a choice about the obvious tradoff
 					        between the amount of information and edges to display and the
 					        readability of the graph. We decided, for the time being, to fix an
 					        arbitrary threshold to discriminate between the main importers of a
-					        given product and the rest of the countries.
+					        given product and the rest of the countries. At last but not least,
+									we needed to find a way to bound the map to the graph.
 								</p>
-								<img class="animate-box map_images" id = 'cytoscape' src="images/cytoscape.jpg" alt="Cytoscape">
 							</div>
 						</div>
 					</div>
